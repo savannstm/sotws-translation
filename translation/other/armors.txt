@@ -1,0 +1,141 @@
+Bare Chest
+This makes a very bold statement.
+Imitation Gold Watch
+Worthless piece of plastic with\#a yellow coat of paint.
+Burlap Rags
+Burlap is the new denim. Sad it has a hole in it.
+Clean Bandages
+Bandages, keeping "it" together since 2600 B.C.\#Reduces bleeding.
+Iron Box
+Small box with a fragile teal band.
+Grease
+If you sweep your hair back, it might pass as\#intentional. Small boost to evasion.
+Coolass Hat
+Towering monolith of a hat for blocking\#out the sun.
+Black Coat
+A fine, black coat fashioned out of tanned\#trashbags.
+Custom Bullet
+A custom made .476 bullet.
+Plaid Rags
+Luxury rags in the burburroo pattern.\#For the precocious beggar.
+Dusty Cravat
+Authentic dusting cloth that doubles as\#outmoded neckwear.
+Red Polyester Cravat
+A fine cravat in the mail coach style.\#Made from local polyester. Increases HP.
+Peasant's Hat
+The most humble of the big hat familly.
+Human Fat
+Hair gel, not for the faint of heart.\#Increases maximum SP.
+Leadfoil Rags
+Turn this fucking world to rust!\#Reduces fire damage.
+Tinfoil Bandages
+Makes it harder for THEM to find you.\#Reduce bleeding slightly.
+Champion's Belt
+EWC tag team champion belt of '82.\#Slight increase in SP and skill cost reduction.
+Salty Bathrobe
+A grim vestment, highly resistant to damage.\#Reduces attack, mobility and doubles SP costs.
+Old Poncho
+Barely counts as clothing, but good enough to keep\#you warm at night. Slightly increases max SP.
+Carpet Square
+A piece of carpeting with a massive hole in it.\#Lightweight, but makes skills cost more.
+Bronze Watch
+Busted wristwear. Will provide a bit of SP regen,\#but also lowers attack slightly.
+Impeccable Golden Brolex
+Worth a small African country. Are you willing to\#put it on your wrist?
+Fishman Poncho
+The garb of a fishman from below Garbage Island.\#Provides decent protection, but makes you wet.
+Mud Charm
+An old dream-catcher, smeared with mud.\#Provides higher max health and HP regeneration.
+Denim Jeans
+Pants built to last. Comfortable and lightweight.
+Faded Shawl
+Scrappy patch of cloth. Good for wiping sweat\#from your forehead.
+Painter's Gear
+A bucket of white paint and a brush to use it.\#All that an artist could ever ask for.
+Joy Mask
+The bloodied mask of a Joy dealer. Provides decent\#protection, but raises skill costs.
+Salt Chunks
+Chunks of pure salt, and maybe a little dandruff.\#Provides protection.
+Crystal Bathrobe
+The most impenetrable piece of bathroom garb\#known to man. Limits mobility, but grants SP regen.
+Miner's Helmet
+A hat to keep your skull safe. Defensive, but the\#light attracts attention.
+King-Brand Necklace
+A 14-karat gold necklace made by King.\#Makes you feel Cool.
+Bad Boy Hair Gel
+Hair gel for troublemakers, now with 40%\#more grease. Makes you burn easily.
+Sapphire Coat
+A truly stylish coat. Allows wearer to move twice\#in one turn, but cuts HP and SP in half.
+Bad Beater
+The signature undershirt of the Bad Angels.\#Lowers defense, but boosts attack.
+Businessy Fedora
+You can practically feel the stock market pulsing\#within this hat. Increases maximum SP.
+Spare Tie
+A professional never leaves home without one.\#Reduces cost of skills by 10%.
+Leather Pants
+Tight pants that highlight your best features.\#Boosts all stats, but inflicts a permanent taunt.
+Skin Wraps
+Patch your wounds with another man's skin.\#Provides poison resistance, but makes you nasty.
+Doctor's Coat
+The abandoned coat of a medical practioner.\#Increases maximum health.
+Gizmo's Glasses
+A precious heirloom of the Gizmo family.\#Provides exceptional accuracy.
+Neon Painter's Gear
+Neon green paint designed to irritate the eyes.\#Boosts max HP, but increases target rate.
+Rando Rags
+Rando-branded fabric. Sturdy and hard to rip.
+Rando Helmet
+The helmet of a Rando soldier. Good luck cracking\#through this one.
+Rando Pads
+More formally known as "pauldrons." Keeps those\#shoulders out of harm's way.
+Homely Coat
+A warm coat that smells like a roaring fireplace.\#Prevents wet and nasty.
+All-Seeing Fez
+Hat that expands your mind. Doubles max SP,\#but cuts all other stats.
+Old Rosary Belt
+Chain of timeworn rosary beads. Regenerates SP\#and increases max SP, but prevents stancing.
+Rainbow Painter's Gear
+Imagination in liquid form. Doubles attack and\#defense, but ensures wearer will always move last.
+Infinity Jersey
+It speaks to you. Warmly.\#SP increases minorly over time.
+Blood of Sin
+Sanguine drop from the Ninth Circle.\#Provides exceptional resistance to fire.
+Mask of the Angel
+Mask depicting a white angel. Provides substantial\#HP and SP bonuses, but cuts offense and speed.
+Mask of the Man
+Mask depicting a gray human. Increases defense\#substantially, but cuts HP and SP.
+Mask of the Demon
+Mask depicting a black demon. Increases offense\#and speed substantially, but cuts defense.
+Skull Necklace
+Crow skulls strung in a line. Protects the wearer\#from severe trauma, but makes your bones brittle.
+Medal of Honor
+A badge indicative of the highest possible\#achievement. Wear it with pride.
+Zein Ka Poncho
+The signature uniform of the Devil's Knot.\#This one has been stretched to fit its owner.
+Mustache Oil
+Grease to keep that 'stache sleek.\#Increases fire vulnerability.
+Crowned Tooth
+Relic of a painful and unfortunate\#trip to the dentist.
+Infinity Jersey XL
+Knockoff sportswear stretched to its theoretical\#limit. Fuels your undying fury.
+Weighted Belt
+A hefty strap to keep you grounded. Resist fallen and\#off balance, but become incredibly slow.
+Salt Diamond
+The world's only ten-carat sodium gemstone.\#Provides exceptional special defense.
+Neu Crew Poncho
+The uniform of the Neu Crew. Formerly, at least.
+Brass Pauldron
+Custom shoulder pad made of brass.\#The spike is just for show.
+Shurik's Specs
+Shurik's glasses.\#The prescription is wildly outdated.
+Salty Censer
+A well-kept incense burner. Its smoke supposedly\#has healing properties. May be carcinogenic.
+Polyethylene Cravat
+Plastic bags stylishly refurbished into neckwear.\#Increases speed.
+Rando Patch
+Patch of cloth from a Rando soldier uniform.\#Slight boost in experience gain. Stats down.
+One Franchise, infinite kings.
+Rando Mask
+It stinks of sweat and regret. Increased resistance\#to physical damage, decreased agility.
+Cruel Sack
+The prized trashbag of Bob Versace. Applies Stink.\#You feel disgusting - defense down, agility down.

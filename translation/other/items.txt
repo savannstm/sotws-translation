@@ -1,0 +1,320 @@
+Mystery Jerky
+Dried meat of common Olathian animals.\#Recovers 300 HP.
+Domestic Jerky
+Dried meat of domestic animals.\#Recovers 700 HP.
+Horse Jerky
+Dried meat of a horse.\#Recovers 1000 HP.
+Diet Cocola Cola
+If you throw this can at someone it won't\#hurt, it's a soft drink! Recovers 50% of SP.
+Cocola Cola
+If you throw this can at someone it won't\#hurt, it's a soft drink! Recovers 75% of SP.
+Creamy Cocola
+If you throw this can at someone it won't\#hurt, it's a soft drink! Recovers all SP.
+Real Sugar Cocola Cola
+Iced Coffee
+Restores all HP and SP.
+Perfume
+The sweet scent revives an ally.
+Fancy Perfume
+The sweet scent revives an ally fully.
+Bird Feed
+A mix of damp seeds and dead grub.\#Restores HP and some SP.
+Bottle of Soup
+Recovers 500 HP.
+Bottle of Water
+A drink so refreshing - it can bring back the dead.\#Restores both HP and SP.
+Potato Liquor
+Capable of getting you drunk.\#Recovers 200 HP.
+Bottle of Dirty Water
+Contaminated water. Try throwing it at your\#enemies. Can reduce their speed in combat.
+Rotten Fruit
+Mold, now with twenty percent fruit!\#May hurt your tummy bad. (Bulk Food)
+Mud Pie
+Give a hungry man bread, he will thank you. Teach\#him to eat mud, he will never go hungry. (Bulk Food)
+Empty Bottle
+An empty glass bottle.
+Palladium Tile
+A very stylish palladium tile of an extraterrestrial\#origin. The back reads: "Made in USSR".
+Infinity Jersey
+A knockoff jersey made infamous by being worn by\#anyone wanting to seem hard through association.
+Skateboard
+Plank with wheels.
+School Basement Key
+It is marked with a letter. The rust\#makes it unreadable.
+Eerie Record
+A record comprised of old men groaning.
+Nightmare Bile
+A plastic cup filled with bile.\#Brings back a fallen ally into a waking nightmare.
+Silver Angel
+Statuette of archangel Jegudiel. It's hollow.\#(Barter Item)
+Rando Ration
+A high quality meal.\#Restores all HP and SP.
+Condition Killer
+Ammonia, in the form of moisturising body cream.\#Removes most bad status effects, but tenses up.
+Nice Berries
+They are just nice. (Bulk Food)
+Trauma Kit
+"Surgeon in a bag". Alleviates: broken bones,\#brain damage, heart attacks, burns, and rupturing!
+Fermented Mystery
+An enigma in a jar. (Barter Item)
+Toilet Seat
+Harkens back to a time of luxury.\#(Barter Item)
+Dollar
+A beat up dollar bill, held together by duct tape.\#(Barter Item)
+Manual I
+Spotting common symptoms of Garbage Insanity.*\#*Garbage Insanity not limited to listed symptoms.
+Polyethylene Bag
+It rustles at the sight of you.\#Keep away from strong gusts of wind.
+Rubber Projectile
+Rubber-based projectile weapon.\#Can also be used to play basketball.
+Inflatable Head
+It's still warm.
+Teen Magazine
+Teen magazine, top seller\#ages: seven through twelve.
+Family Photos
+A set of beautiful memories.
+Gummy Worm
+Antique confectionery. Kids' all time favourite.\#Recovers 160 HP. Don't cry now.
+Specific Key
+A very specific key.
+Exclusive Gummy
+Limited edition gummy worm.\#Recovers 160 HP. Don't cry now.
+Firebomb
+A firebomb, can cause burning.
+Joy
+This drug makes you feel nothing.\#Use it in a pinch.
+Green Paste
+A strange mossy paste... Recovers some SP\#if drank. Will upset your stomach.
+Bottle of Water...?
+A drink so refreshing, it can bring back the dead...\#...this IS water, right?
+Lucrative Tea
+An unsafe blend of tea.\#Maxes out TP, but makes you wary.
+A bottle of something that resembles water.\#Likely the only drinkable thing left on the island.
+Spiked Soda
+Diet Cocola Cola spiked with cheap alcohol.\#Recovers 50% of SP and gets you drunk.
+Muddy Cloth
+A mud-coated piece of fabric. So crusty it is no\#longer able to be worn. Appears to be a jersey.
+Cigarette Butt
+The muddy remnants of a once-pristine cigarette.\#Its smell makes you nostalgic.
+Nugget
+Try rubbing it on yourself in battle.\#Makes you stink.
+Party Pack
+Drinks for everyone! Restores 200 HP to all party\#members. Capable of getting you drunk.
+Onion Vodka
+High chance of getting you drunk.\#Recovers 300 HP.
+Olathian Whiskey
+Guaranteed to get you wasted.\#Recovers 500 HP.
+Tissue
+The ultimate for drying your tears...\#When you have an issue.
+Squirrel Jerky
+Dried squirrel meat.\#Recovers 300 HP.
+Cigarette
+Flavor so smooth, it heals poison!\#(This ad is sponsored by Martlo Cigarettes)
+Pink Pill
+Qualitas occulta.
+Impeccable Gold Brolex
+Worth a small African country.\#(Barter Item)
+Imitation Gold Watch
+Worthless piece of plastic with\#a yellow coat of paint.
+Cockroach Chalk
+Draw to kill.
+Stew in a Bag
+Greasy meat stew. It squirms.\#Recovers 250 HP.
+Manual II
+Authorized by the American High Court of\#Epidemiologists and Esteemed Clairvoyants.
+Cotton Candy
+Sugar in the form of fluff.\#Recovers 200 HP and 20 SP.
+Man Made Salts
+Accidentaly developed during the 'Peak Potassium'\#crisis. Removes burning, oiled and buffs s. def.
+Anaconda Virtue
+The cold, lifeless corpse of the\#"hottest" snake in The Franchise.
+Stefan Kindchild
+Snuffed out at his prime.\#Deceptively light to carry.
+Jessie Mack
+Genetic origins for most Olathian children.\#Sufferer of advanced cranial-bananism.
+Moe's Special Blend
+Rumoured to be rich in protein and tomato sauce.\#Recovers 380 HP. 30 SP.
+Tomato Sauce Packet
+Chew on it and the tomato flavoured\#dust inside will be your reward. (Bulk Food)
+Antique Ham
+More legend than actual food.\#Full party HP and SP restore.
+Crutch
+Primitive weapon of a barbarous age.
+Baby Crow
+This baby crow only has the brain span\#to remember what you tell it once.
+Storeroom Key
+A literal skeleton key. Unlocks the\#Rando Army storeroom.
+Rando Bobblehead
+A bobblehead toy made in Rando's image.\#It's in mint condition. (Barter Item)
+Ripe Fruit
+Piece of fruit indigenous to Garbage Island.\#By some miracle, it is fresh. Heals 200 HP.
+Forbidden Magazine
+"Deeply Depraved: True Degeneracy Edition"\#Banned in eighty-seven countries. (Barter Item)
+Crow Jerky
+Jerky made from the meat of a crow. It's tough,\#chewy, and generally flavorless. Heals 100 HP.
+Weird Cassette Tape
+A cassette tape that contains an otherworldly song.\#Valuable to the fishmen. (Barter Item)
+Baby Fishman
+An infant fishman.\#It nows lives rent-free inside your pockets.
+Fried Fish
+Gone too soon... Restores 500 HP.
+Monkey Wrench
+A handy tool for any job, both constructive and\#destructive. Mechanic's best friend.
+Exotic Toilet Paper
+The perfect commodity for cleaning your bum.\#Perhaps Joel can read what is written on it.
+Velvet Scroll
+A scroll emblazoned with a technique of the Velvet\#arts. Alex may learn something from reading it.
+Sean Shawn
+A young Rando soldier driven insane by isolation.\#Acquired a taste for human flesh prior to death.
+Versace Bag Balloon
+Balloon made from an inflated polyethylene bag.\#A trademark creation of the Versace family.
+Green Glob
+A glob of viscous green slime. It emanates an odor\#almost reminiscent of raw fish.
+Small Key
+A small key to some door in the town hall.
+Large Key
+A large key to some door in the town hall.
+Propaganda Poster
+A poster advocating for a local politican.\#Something is written on the back.
+Mannequin Torso
+The decrepit torso of a long-gone mannequin. A\#green substance leaks from its holes. (Barter Item)
+Jerryrigged Doll
+The torso of a mannequin combined with the\#head of a blowup doll. Oh my. (Barter Item)
+Half-Eaten Jerky
+A piece of mystery jerky with a big bite taken\#out of it. Recovers 150 HP.
+Stank Perfume
+The rancid odor will revive an ally, at a cost.
+Moldy Pizza
+A pizza that has been reclaimed by nature. Heals\#the entire party fully, but with some side effects.
+Rusty Spade
+A shovel coated in many layers of rust. One can\#only imagine how many graves it was used to dig.
+Dried Herb
+Brittle snack for desert-farers. Restores 150 HP and\#relieves weirdness.
+Healthy Herb
+A leafy green that lifts your spirits with\#every bite. Heals 350 HP and cures poison.
+Cactus Fruit
+A sweet treat that hurts to eat. Recovers 50 SP\#in exchange for 50 HP.
+Squirmy Cheese
+A hunk of cheese with a crunchy surprise inside.\#Heals 500 HP, but has a high chance to nauseate.
+Exotic Pipe
+A cornpipe loaded with strange herbs and spices.\#Heals poison for three uses, but applies weirdness.
+Muck Rum
+Chemical runoff mixed with a prick of ginger.\#Restores 250 HP, but fucks you up bad.
+Gold Tooth
+Painted with gold to hide its rotten core.\#Largely useless.
+Book of Tactics
+An old novel that Joel likes to read in his\#spare time. Several pages are missing.
+Bloodstained Cleaver
+If you listen closely, you can hear the screams\#of its former victims. (Barter Item)
+Fetid Lung
+Human lung marinated in decades' worth of highly\#toxic gases. Smells unpleasant. (Barter Item)
+Salt Cake
+Sodium-based confection. Big enough to share\#with the whole party. Removes burning and oiled up.
+Mustache Trimmer
+The sworn enemy of facial hairs everywhere.\#So rusty it barely even cuts anymore.
+Minty Gum
+A piece of minty chewing gum. Restores 100 SP\#per chew, but its flavor will fade after five uses.
+Satan's Sauce
+Devilishly hot sauce. Increases attack, but sets you\#ablaze. Three drops left in the bottle.
+Rare Fang
+A razor-sharp fang coated with poison. Belonged to a\#species of snake that is now extinct. (Barter Item)
+Bottle of Oil
+A vat of the slickest oil around. Move twice\#in one turn; just don't get burned.
+Rooty Carrot
+Fresh from the sacred earth.\#Restores 50 HP and helps your eyes. (Bulk Food)
+Instant Coffee Tin
+A can of instant coffee. If only you had\#some water to use it with...
+Bottle of Coffee
+A jolt for the system. Recovers 75% of HP and\#SP and removes sleep.
+Cup of Water
+Two and a half swigs of crisp goodness. Splash on\#a party member to remedy fright and burning.
+Malicious Stereo
+A busted car stereo that still makes noise.\#Sometimes talks in unknown tongues. (Barter Item)
+Blood Wine
+A life-stealing drink. Cuts maximum HP by 100\#to fully restore HP and SP. Good for three uses.
+Petroleum Firebomb
+A crudely made bomb filled with crude.\#Can cause burning.
+Premium Cigar
+A powerful cigar that must be treated with respect.\#Heals most ailments, but makes you winded.
+Ice Pack
+A bag of ice to sooth your aching head. Alleviates\#stun, rage, and pissed.
+Mack Key
+An old silver key. Can be used to unlock\#the Mack Shack.
+Spray Can
+A can of white spray paint. Well-used.
+Crow Egg
+Spawn of an Olathian crow, yet to hatch.\#Restores 200 HP.
+Scrambled Crow Egg
+A crow egg that's seen better days.\#Restores 500 HP, but nauseates.
+Silver Bullet
+That which can kill the unkillable. Does not fit any\#known firearm. (Barter Item)
+Meat Nugget
+A debatably edible hunk of viscera. Can nauseate\#and make you feel nasty. (Bulk Food)
+Scummy Valve
+Old valve slathered in slime and other gunk.\#An engraving on the side reads "S.R."
+Bloody Valve
+Old valve covered in blood and soft tissue.\#An engraving on the side reads "U.S."
+Cat Postcard
+A postcard with an adorable cat drawn on the front.\#Just looking at it makes your heart melt.
+Diet Rando Ration
+A slight-less high quality meal.\#Restores 75% of HP and SP.
+Vagabond's Globe
+Antique factory defect. No countries, paths, or\#borders: a true wanderer's treasure. (Barter Item)
+Century Sprats
+Old Soviet delicacy. More oil than fish; full HP\#restore, raises agility and HP. Lowers defenses.
+Bottle of Blood
+A drink for vampires. For humans, a decent weapon.\#Throw to nauseate most foes.
+Tactics: Scheming
+A missing page from a Book of Tactics.\#Joel should be able to glean something from it.
+Tactics: Deception
+Tactics: Misdirection
+Manual Scrap
+Page torn from a book that mysteriously\#disappeared from shelves across Olathe.
+Cosmonaut Food Tube
+Sustanence for space men. The labels are all in\#Russian, so eat with caution. (Bulk Food)
+Loitering Ticket
+"By the powers vested in me, by God and Nixon,\#I hereby fine you 10 magazines." - Copper Silver
+Suite Key
+Key for a suite in the Sweet Breeze Hotel.\#The room number is not listed.
+Salt Souffle
+The only dish comprised of 100% pure sodium.\#Heals 350 HP and removes oiled up, burning.
+Balloon Snake
+Serpentus helius. Friendlier than most snakes.
+Meat Shake
+A delicious treat made from meat.
+Salty Jerky
+The salt overpowers any flavor the meat once had.\#Restores 400 HP, but makes you feel nasty.
+Downer Cake
+Bizarre cuisine of Downertown origin. It's crunchy.\#Restores 80 SP. Ups Sp. Def. May nauseate.
+Raddish Gin
+Weak alcohol. Low chance of getting you drunk.\#Recovers 100 HP.
+Kennedy's Binos
+Double-wide spyglass used to see what the naked\#eye cannot. The lenses are cracked.
+Filthy Razor
+Instrument of war against facial hair.\#It's disgusting, but still sharp enough to cut.
+Rando Parcel
+An envelope containing multiple letters.\#Sealed with official Rando Army red wax.
+Fishy Jerky
+Dried meat of a fishman. Something about the taste\#makes you uncomfortable. Heals 250 HP.
+Rando Coin
+The official currency of the Rando Army.\#Not recognized by any other group or individual.
+Warm Bag
+The trashbag formerly humped by Larry Davis.\#It reeks of decomposition.
+Broken AK
+A Kalashnikov assault rifle.\#Old, mishandled, and inoperable.
+Antique Rifle
+A WWII era bolt-action rifle.\#The chamber is empty.
+Jeremy's Shotgun
+A double-barrel shotgun formerly owned by Jeremy\#Denkins. Worn-out from years of repeated use.
+Dull Pickaxe
+A well-used mining implement.\#Can be thrown in battle. Causes bleeding.
+Mysterious Key
+A key to an unspecified door.
+Aromatherapy Guide
+A booklet promoting the use and benefits of\#aromatherapy. The pages are salty.
+Antique Vase
+Ancient pottery of Marauder design.\#Looks like it could carry a lot of water.
+Vase of Spring Water
+Ancient pottery filled with spring water.\#So refreshing, it can revive the dead.
+Baby Fishman in Vase
+An infant fishman.\#It nows lives rent-free inside a vase of water.

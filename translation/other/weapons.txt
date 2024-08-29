@@ -1,0 +1,38 @@
+The Bolt Action Pistol
+The most powerful handgun in Olathe.
+Rusty Trowel
+The apocalypse just got lame.
+Iron Ring
+A knuckle duster worn down to a single ring.
+Brass Knuckle
+Brutal jewelry.
+Combat Knife
+Standard-issue Rando Army combat dagger.\#Doubles TP rate for normal attacks.
+Diamond Ring
+An old ring from a long-standing relationship.\#Enhances attack, max SP.
+Bloodstained Dagger
+Geen's trusty dagger. Has served him well for years.\#A bit of fresh blood resides on the tip.
+Sharpened Glass Fragment
+A particularly deadly shard of glass. Potent as a\#weapon, but hurts to wield.
+Knuckle Duster
+A full set of stylish spiked knuckles.\#Perfect for weddings and shakedowns.
+Calloused Knuckles
+A pair of hands plagued by callouses and arthritis.\#They make for a decent weapon, however.
+Charred Ring
+Scorched metal. Helps protect against fire.
+Wretched Leather Glove
+Accursed piece of handwear. Majorly boosts attack,\#but reduces HP and defenses to nothing.
+Exotic Shiv
+A finely crafted piece of cutlery. Gives knife\#attacks a chance to inflict bleeding.
+Doctor's Gloves
+A pair of pink latex gloves, primed for surgery.\#Increases maximum health.
+Ancient Ring
+Bejeweled ring that has been lost for ages.\#A faint power resonates from within.
+Perpetual Ring
+Dazzling emerald ring restored to its full glory.\#Provides great power when worn.
+Rando Gloves
+Tough gloves that go gentle on your hands.
+Splintered Bat
+The primordial weapon of man.\#You can never go wrong with a club.
+Butler's Gloves
+A pair of pristine white gloves. They're itchy.
