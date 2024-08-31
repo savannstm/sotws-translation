@@ -1,4 +1,4 @@
-# Русский перевод LISA: The Pointless Scholar of the Wilbur Sin
+# Русский перевод LISA: The Pointless - Scholar of the Wilbur Sin (В ПРОГРЕССЕ)
 
 ## Как скомпилировать в оригинальные файлы игры?
 
