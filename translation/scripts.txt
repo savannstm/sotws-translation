@@ -1,0 +1,758 @@
+Buy<#>
+Sell<#>
+Cancel<#>
+Possession<#>
+Current Exp<#>
+To Next %s<#>
+Save to which file?<#>
+Load which file?<#>
+File<#>
+%s's Party<#>
+%s emerged!<#>
+%s got the upper hand!<#>
+%s was surprised!<#>
+%s has started to escape!<#>
+You can't escape!<#>
+%s was victorious!<#>
+%s was defeated.<#>
+%s EXP received!<#>
+%s\\Mags found!<#>
+%s found!<#>
+%s is now %s %s!<#>
+%s learned!<#>
+%s uses %s!<#>
+An excellent hit!!<#>
+A painful blow!!<#>
+%s took %s damage!<#>
+%s recovered %s %s!<#>
+%s gained %s %s!<#>
+%s lost %s %s!<#>
+%s was drained of %s %s!<#>
+%s took no damage!<#>
+Miss! %s took no damage!<#>
+Drained %s %s from %s!<#>
+Missed! %s took no damage!<#>
+%s evaded the attack!<#>
+%s nullified the power!<#>
+%s reflected the power!<#>
+%s counterattacked!<#>
+%s protected %s!<#>
+%s's %s went up!<#>
+%s's %s went down!<#>
+%s's %s returned to normal.<#>
+There was no effect on %s!<#>
+Player's starting position is not set.<#>
+Common event calls exceeded the limit.<#>
+ A<#>
+ B<#>
+ C<#>
+ D<#>
+ E<#>
+ F<#>
+ G<#>
+ H<#>
+ I<#>
+ J<#>
+ K<#>
+ L<#>
+ M<#>
+ N<#>
+ O<#>
+ P<#>
+ Q<#>
+ R<#>
+ S<#>
+ T<#>
+ U<#>
+ V<#>
+ W<#>
+ X<#>
+ Y<#>
+ Z<#>
+Ａ<#>
+Ｂ<#>
+Ｃ<#>
+Ｄ<#>
+Ｅ<#>
+Ｆ<#>
+Ｇ<#>
+Ｈ<#>
+Ｉ<#>
+Ｊ<#>
+Ｋ<#>
+Ｌ<#>
+Ｍ<#>
+Ｎ<#>
+Ｏ<#>
+Ｐ<#>
+Ｑ<#>
+Ｒ<#>
+Ｓ<#>
+Ｔ<#>
+Ｕ<#>
+Ｖ<#>
+Ｗ<#>
+Ｘ<#>
+Ｙ<#>
+Ｚ<#>
+Balloon<#>
+Shadow<#>
+Wasteland<#>
+DirtField<#>
+Desert<#>
+Lava1<#>
+Lava2<#>
+Snowfield<#>
+Clouds<#>
+PoisonSwamp<#>
+Forest1<#>
+Cliff<#>
+Lava<#>
+Grassland<#>
+Ship<#>
+C<#>
+I<#>
+あ<#>
+A<#>
+B<#>
+D<#>
+E<#>
+a<#>
+b<#>
+c<#>
+e<#>
+F<#>
+G<#>
+H<#>
+J<#>
+f<#>
+g<#>
+h<#>
+i<#>
+j<#>
+K<#>
+L<#>
+M<#>
+N<#>
+O<#>
+k<#>
+l<#>
+m<#>
+n<#>
+o<#>
+P<#>
+Q<#>
+R<#>
+S<#>
+T<#>
+p<#>
+q<#>
+r<#>
+s<#>
+t<#>
+U<#>
+V<#>
+W<#>
+X<#>
+Y<#>
+u<#>
+v<#>
+w<#>
+x<#>
+y<#>
+Z<#>
+z<#>
+Page<#>
+OK<#>
+Á<#>
+É<#>
+Í<#>
+Ó<#>
+Ú<#>
+á<#>
+é<#>
+í<#>
+ó<#>
+ú<#>
+À<#>
+È<#>
+Ì<#>
+Ò<#>
+Ù<#>
+à<#>
+è<#>
+ì<#>
+ò<#>
+ù<#>
+Â<#>
+Ê<#>
+Î<#>
+Ô<#>
+Û<#>
+â<#>
+ê<#>
+î<#>
+ô<#>
+û<#>
+Ä<#>
+Ë<#>
+Ï<#>
+Ö<#>
+Ü<#>
+ä<#>
+ë<#>
+ï<#>
+ö<#>
+ü<#>
+Ā<#>
+Ē<#>
+Ī<#>
+Ō<#>
+Ū<#>
+ā<#>
+ē<#>
+ī<#>
+ō<#>
+ū<#>
+Ã<#>
+Å<#>
+Æ<#>
+Ç<#>
+Ð<#>
+ã<#>
+å<#>
+æ<#>
+ç<#>
+ð<#>
+Ñ<#>
+Õ<#>
+Ø<#>
+Š<#>
+Ŵ<#>
+ñ<#>
+õ<#>
+ø<#>
+š<#>
+ŵ<#>
+Ý<#>
+Ŷ<#>
+Ÿ<#>
+Ž<#>
+Þ<#>
+ý<#>
+ÿ<#>
+ŷ<#>
+ž<#>
+þ<#>
+Ĳ<#>
+Œ<#>
+ĳ<#>
+œ<#>
+ß<#>
+い<#>
+う<#>
+え<#>
+お<#>
+が<#>
+ぎ<#>
+ぐ<#>
+げ<#>
+ご<#>
+か<#>
+き<#>
+く<#>
+け<#>
+こ<#>
+ざ<#>
+じ<#>
+ず<#>
+ぜ<#>
+ぞ<#>
+さ<#>
+し<#>
+す<#>
+せ<#>
+そ<#>
+だ<#>
+ぢ<#>
+づ<#>
+で<#>
+ど<#>
+た<#>
+ち<#>
+つ<#>
+て<#>
+と<#>
+ば<#>
+び<#>
+ぶ<#>
+べ<#>
+ぼ<#>
+な<#>
+に<#>
+ぬ<#>
+ね<#>
+の<#>
+ぱ<#>
+ぴ<#>
+ぷ<#>
+ぺ<#>
+ぽ<#>
+は<#>
+ひ<#>
+ふ<#>
+へ<#>
+ほ<#>
+ぁ<#>
+ぃ<#>
+ぅ<#>
+ぇ<#>
+ぉ<#>
+ま<#>
+み<#>
+む<#>
+め<#>
+も<#>
+っ<#>
+ゃ<#>
+ゅ<#>
+ょ<#>
+ゎ<#>
+や<#>
+ゆ<#>
+よ<#>
+わ<#>
+ん<#>
+～<#>
+☆<#>
+ら<#>
+り<#>
+る<#>
+れ<#>
+ろ<#>
+ゔ<#>
+を<#>
+カナ<#>
+決定<#>
+ア<#>
+イ<#>
+ウ<#>
+エ<#>
+オ<#>
+ガ<#>
+ギ<#>
+グ<#>
+ゲ<#>
+ゴ<#>
+カ<#>
+キ<#>
+ク<#>
+ケ<#>
+コ<#>
+ザ<#>
+ジ<#>
+ズ<#>
+ゼ<#>
+ゾ<#>
+サ<#>
+シ<#>
+ス<#>
+セ<#>
+ソ<#>
+ダ<#>
+ヂ<#>
+ヅ<#>
+デ<#>
+ド<#>
+タ<#>
+チ<#>
+ツ<#>
+テ<#>
+ト<#>
+バ<#>
+ビ<#>
+ブ<#>
+ベ<#>
+ボ<#>
+ナ<#>
+ニ<#>
+ヌ<#>
+ネ<#>
+ノ<#>
+パ<#>
+ピ<#>
+プ<#>
+ペ<#>
+ポ<#>
+ハ<#>
+ヒ<#>
+フ<#>
+ヘ<#>
+ホ<#>
+ァ<#>
+ィ<#>
+ゥ<#>
+ェ<#>
+ォ<#>
+マ<#>
+ミ<#>
+ム<#>
+メ<#>
+モ<#>
+ッ<#>
+ャ<#>
+ュ<#>
+ョ<#>
+ヮ<#>
+ヤ<#>
+ユ<#>
+ヨ<#>
+ワ<#>
+ン<#>
+ラ<#>
+リ<#>
+ル<#>
+レ<#>
+ロ<#>
+ヴ<#>
+ヲ<#>
+英数<#>
+ａ<#>
+ｂ<#>
+ｃ<#>
+ｄ<#>
+ｅ<#>
+ｆ<#>
+ｇ<#>
+ｈ<#>
+ｉ<#>
+ｊ<#>
+ｋ<#>
+ｌ<#>
+ｍ<#>
+ｎ<#>
+ｏ<#>
+ｐ<#>
+ｑ<#>
+ｒ<#>
+ｓ<#>
+ｔ<#>
+ｕ<#>
+ｖ<#>
+ｗ<#>
+ｙ<#>
+＾<#>
+ｚ<#>
+｜<#>
+＄<#>
+＋<#>
+＜<#>
+＞<#>
+かな<#>
+S [%04d-%04d]<#>
+V [%04d-%04d]<#>
+Liam-LisaCoreMove<#>
+Earth5<#>
+Hammer<#>
+alex default<#>
+alex and joel<#>
+$Alex in rags<#>
+$Alex in rags jumps<#>
+Rustle<#>
+$Alex in rags drop<#>
+$Alex in rags head down<#>
+$Alex and Joel walk<#>
+$Alex and Joel jump<#>
+$Joel Miller1<#>
+$Joel Miller5<#>
+alex endless<#>
+$Alex in rags jump head down<#>
+alex inf.<#>
+$Alex Inf.<#>
+$Alex Inf. Jump<#>
+$Alex Inf. Drop<#>
+alex quiet<#>
+alex inf. quiet<#>
+alex inf. dying<#>
+$Alex Inf. 3<#>
+$Alex Inf. Jump 2<#>
+$Alex Inf. Drop 2<#>
+alex inf. crawling<#>
+$Alex Inf. 4<#>
+the kent bat<#>
+$KENT Kent Walk Bat<#>
+$KENT Kent Jump Bat<#>
+$KENT Kent Fall Bat<#>
+the kent ka<#>
+$KENT Kent Walk Ka<#>
+$KENT Kent Jump Ka<#>
+$KENT Kent Fall Ka<#>
+tibby dobs<#>
+$KENT Tibby Walk<#>
+$KENT Tibby Jump<#>
+$KENT Tibby Fall<#>
+bob normal<#>
+$BOB Bob Walk<#>
+$BOB Bob Jump<#>
+$BOB Bob Fall<#>
+none<#>
+lcmScriptToggle<#>
+lcmFollowerToggle<#>
+lcmPlatformEventsToggle<#>
+lcmSeparateDashingToggle<#>
+mapID- <#>
+ eventID- <#>
+lcmEventMovementToggle<#>
+change to dash<#>
+change to walk<#>
+lcm outfit for situation is <#>
+end phase<#>
+YEA-CoreEngine<#>
+VCR OSD Mono<#>
+Impact<#>
+Arial<#>
+Courier<#>
+×%s<#>
+YSE-BasicModule<#>
+cl<#>
+z8x8273ac<#>
+user32<#>
+MessageBox<#>
+abcdefghjkmnpqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ0123456789<#>
+#{dir}/#{filename}.#{ext}<#>
+YSE-PatchSystem<#>
+YSE - Basic Module<#>
+Salt must have at least 2 characters.<#>
+Unique phrase must have at least 1 character.<#>
+YEA-BattleEngine<#>
+All Foes<#>
+One Random Foe<#>
+%d Random Foes<#>
+All Allies<#>
+All Dead Allies<#>
+One Random Ally<#>
+%d Random Allies<#>
+-%s <#>
++%s <#>
+-%s SP<#>
++%s SP<#>
+-%s TP<#>
++%s TP<#>
+DRAIN<#>
+CRITICAL!<#>
+MISS<#>
+EVADE!<#>
+FAILED<#>
++%s<#>
+-%s<#>
+%s<#>
+WEAKPOINT<#>
+RESIST<#>
+IMMUNE<#>
+ABSORB<#>
+vgasys<#>
+Verdana<#>
+DEFAULT<#>
+CRITICAL<#>
+ADDSTATE<#>
+REMSTATE<#>
+DURSTATE<#>
+POSITIVE<#>
+NEGATIVE<#>
+BUFF<#>
+DEBUFF<#>
+YEA-BattleSystem-FTB<#>
+weakness<#>
+resistant<#>
+immune<#>
+absorbed<#>
+state<#>
+critical<#>
+buff<#>
+no zoom<#>
+down<#>
+up<#>
+YEA-BattleCommandList<#>
+YEA-CommandParty<#>
+YEA-LunaticObjects<#>
+YEA-CastAnimations<#>
+YEA-TargetManager<#>
+Custom Name<#>
+ATTACK<#>
+SKILL LIST<#>
+SUBCLASS LIST<#>
+DEFEND<#>
+ITEMS<#>
+EQUIP<#>
+Execute<#>
+Custom Text<#>
+YEA-CombatLogDisplay<#>
+YEA-CommandAutobattle<#>
+YEA-PartySystem<#>
+YEA-CommandEquip<#>
+YEA-ClassSystem<#>
+YEA-InputComboSkills<#>
+Skill2<#>
+Skill3<#>
+Input Attacks<#>
+YEA-AntiFailMessage<#>
+MK-WindowOpacity<#>
+text<#>
+Chime2<#>
+Decision2<#>
+Chime1<#>
+Cancel2<#>
+#{key}=<#>
+#{sym}=<#>
+YEA-MessageSystem<#>
+PX<#>
+ ? 0 : 1},#{$2},#{$3}\]<#>
+ATSMOSE<#>
+PLAYSOUND<#>
+Dirt<#>
+Knock<#>
+Water1<#>
+grass<#>
+Bow<#>
+slosh<#>
+squeak<#>
+squish step<#>
+bottle<#>
+dirt echo<#>
+wood echo<#>
+rope echo<#>
+bottle echo<#>
+squish echo<#>
+Damage3<#>
+Conrad huh<#>
+Change<#>
+Remove<#>
+Revert<#>
+Finish<#>
+-Empty-<#>
+-Remove-<#>
+- No Data -<#>
+Equipment<#>
+YEA-AceMenuEngine<#>
+YEA-VictoryAftermath<#>
+bleep<#>
+New Skills<#>
+Your gang<#>
+%s won the battle.<#>
+%s has leveled up!<#>
+Leftovers<#>
++%sEXP<#>
+%1.2f%%<#>
+LEVEL UP!<#>
+MAX LEVEL<#>
+"We won! What an exciting fight!"<#>
+"I didn\'t even break a sweat."<#>
+"That wasn\'t so tough."<#>
+"Let\'s fight something harder!"<#>
+"Yes! Level up!"<#>
+"I\'ve gotten stronger!"<#>
+"Try to keep up with me!"<#>
+"I\'ve grown again!"<#>
+"I\'ll be taking these."<#>
+"To the victor goes the spoils."<#>
+"The enemies dropped something!"<#>
+"Hey, what\'s this?"<#>
+YEA-JPManager<#>
+NOTEXT<#>
+ NOW<#>
+YEA-AdjustLimits<#>
+:%s<#>
+YEA-SystemOptions<#>
+Options/Quit<#>
+Custom Switch 1<#>
+OFF<#>
+ON<#>
+Help description used for custom switch 1.<#>
+Custom Switch 2<#>
+Help description used for custom switch 2.<#>
+Custom Variable 1<#>
+Help description used for custom variable 1.<#>
+Custom Variable 2<#>
+Help description used for custom variable 2.<#>
+None<#>
+Window Red<#>
+Change the red colour tone for windows.\n<#>
+Hold SHIFT to change increment by 10.<#>
+Window Green<#>
+Change the green colour tone for windows.\n<#>
+Window Blue<#>
+Change the blue colour tone for windows.\n<#>
+BGM Volume<#>
+Change the volume used for background music.\n<#>
+BGS Volume<#>
+Change the volume used for background sound.\n<#>
+SFX Volume<#>
+Change the volume used for sound effects.\n<#>
+Auto-Dash<#>
+Walk<#>
+Dash<#>
+Automatically dash without holding the run button.<#>
+Instant Text<#>
+Normal<#>
+Instant<#>
+Set message text to appear one-by-one or instantly.<#>
+Battle Animations<#>
+Hide<#>
+Show<#>
+Hide animations during battle to speed up battles?<#>
+Return to Title Screen<#>
+Go back to the title screen.<#>
+Quit Game<#>
+Quit the game.<#>
+keep skills<#>
+keep skill<#>
+s class to class 10 while preserving the actor<#>
+YEA-EnemyHPBars<#>
+YEA-AreaofEffect<#>
+DoubleX RMVXA Percentage Addon to YEA-EnemyHPBars<#>
+shopkeeper<#>
+Welcome! Take a look around!<#>
+Thank you for your purchase!<#>
+I'll make good use of this.<#>
+Do you need anything else?<#>
+Just window shopping, huh?<#>
+Are you wasting my time or what?<#>
+You don't have enough money!<#>
+I can't buy that...<#>
+You can't carry any more of that!<#>
+Thank you, come back again soon!<#>
+You can't view details of that!<#>
+We are all sold out of those!<#>
+In Inventory<#>
+How many?<#>
+In Stock<#>
+Sold Out<#>
+Book1<#>
+misslisa<#>
+Inflicts<#>
+Resists<#>
+ Damage<#>
+ Restore<#>
+ Drain<#>
+ Increase<#>
+Learn<#>
+Applies<#>
+Removes<#>
+YEA-EquipDynamicStats<#>
+state faces<#>
+progressive state<#>
+Liam-ExSaveData<#>
+Liam-BattlerSpriteTransitions<#>
+BATTLER TRANSITION FADEOUT STARTED!!!!<#>
+battlerSpriteFadeoutSE<#>
+battlerSpriteFadeoutTime<#>
+battlerSpriteFadewaitTime<#>
+battlerSpriteFadeinTime<#>
+BATTLER TRANSITION FADEWAIT STARTED!!!!<#>
+battlerSpriteFadewaitSE<#>
+BATTLER TRANSITION FADEIN STARTED!!!!<#>
+battlerSpriteFadeinSE<#>
+BATTLER TRANSITION FADEIN ENDED!!!!<#>
+@doFadeForNextBattleSpriteChange currently active????????????? <#>
+Liam-StateSkillUsabilityRefresh<#>
+new<#>

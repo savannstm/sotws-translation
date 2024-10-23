@@ -1,0 +1,158 @@
+Garbage Insanity claims countless lives yearly.<#>Мусорное безумство ежегодно уносит за собой бесчисленные жизни.
+The bright colors offend your eyes.<#>Яркие цвета режут вам глаза.
+You feel old.<#>Вы чувствуете себя старым.
+Agility decreased.<#>Ловкость понижена.
+You got an empty bottle.<#>Вы получили пустую бутылку.
+You dumped out the dirty water.<#>Вы вылили грязную воду.
+A parcel given by the Rando\#Diplomat on Garbage Island.<#>Конверт, выданный дипломатом Рандо на мусорном\#острове.
+Of no use anymore.<#>Теперь бесполезен.
+There are three separate letters\#contained within the envelope.<#>В конверте хранятся три других отдельных\#конверта.
+Read which?<#>Какой прочитать?
+Sticky Letter<#>Липкий конверт
+Heavy Letter<#>Тяжёлый конверт
+Bloody Letter<#>Кровавый конверт
+Cancel<#>Отмена
+You have completed this task.<#>Вы выполнили это задание.
+"OPERATION: LEAD A HORSE TO WATER"<#>"ОПЕРАЦИЯ: ПРИВЕСТИ ЛОШАДЬ К ВОДЕ"
+"This task, should you choose to accept it,\#will see you searching for and retrieving\#clean, drinkable water from Garbage Island.<#>"Эта задача, если же вы решите принять её, потребует от вас\#поиска и получения чистой, питьевой воды на мусорном\#острове."
+"Godspeed, brave soldier."<#>"С богом, храбрый солдат."
+"It is clear to us, as living things,\#that water is a must for survival.<#>"Нам, живым существам, очевидно, что эта вода -\#необходимость для выживания."
+"Without it, no civilization can hope to survive.<#>"Без неё, ни у одной цивилизации не будет надежды на выживание."
+"Garbage Island's water is filthy,\#utterly toxic to anyone who hasn't\#ruined their body to get used to it.<#>"Вода мусорного острова грязна, и запредельно токсична\#для всех, кто не испортил своё тело её употреблением."
+"But there was a society here before.<#>"Но даже на нём однажды было нормальное общество."
+"There HAS to be clean water here\#somewhere, and it is your job to find it.<#>"Там ДОЛЖНА где-то быть чистая вода, и ваша работа\#заключается в том, чтобы найти её."
+"When you do, retrieve a sample\#and return it to your nearest official.\#They will test it to confirm its drinkability.<#>"Когда вы сделаете это, заполучите её образец и\#передайте его ближайшему вышестоящему лицу.\#Они проведут опыты, чтобы проверить её на пригодность."
+"OPERATION: PAYDAY<#>"ОПЕРАЦИЯ: ДЕНЬ РАСПЛАТЫ"
+"This task, should you choose to accept it,\#will see you laying the foundation for a new\#and revitalized economy on Garbage Island.<#>"Эта задача, если же вы решите принять её, потребует\#от вас заложения основы новой, возрождённой экономики\#на мусорном острове."
+"While nice to look at, pornographic material\#isn't the best fit for the currency of a society.<#>"Несмотря на приятный вид, порнографические материалы -\#не лучший кандидат для валюты в нормальном обществе."
+"Understanding this, Rando has established\#a more proper form of tender: Rando Coin.<#>"Понимая это, Рандо ввёл более подходящий вид\#платёжного средства: монету Рандо."
+"The issue is that no one but soldiers\#of the Rando Army accept this money.<#>"Проблема заключается в том, что никто кроме солдат\#армии Рандо не принимает эти деньги."
+"We're going to change that,\#starting with Garbage Island.<#>"Мы собираемся изменить это, начиная с мусорного острова."
+"Enclosed in this letter\#are three Rando Coins.<#>"К этому письму приложены три монеты Рандо."
+"Your job is to give these Coins to three\#separate people on the island in order to\#officially establish the Rando economy.<#>"Ваша работа заключается в том, чтобы выдать эти монеты\#трём разным людям на острове, чтобы официально объявить\#экономику Рандо."
+"Under no circumstances are you to pocket\#this money and use it to buy extra rations.\#And no using it to bribe officers, either!<#>"Ни при каких обстоятельствах не крадите эти деньги,\#чтобы купить себе дополнительных рационов.\#И не используйте чтобы подкупать офицеров!"
+Inside the letter were three shiny objects.<#>Внутри письма находились три блестящие штуки.
+Got some Rando Coins!<#>Получено немного монет Рандо!
+Added to key items.<#>Добавлено в ключевые предметы.
+"OPERATION: TAKE OUT THE TRASH<#>"ОПЕРАЦИЯ: ВЫНОС МУСОРА"
+"This task, should you choose to accept it,\#will see you performing an assassination\#on the elusive leader of Garbage Island.<#>"Эта задача, если же вы решите её принять, потребует\#от вас убийства закулисного лидера мусорного острова."
+"Though it may appear uncivilized\#and utterly dominated by filth,\#according to our intel, Garbage\#Island DOES indeed have a ruler.<#>"Хотя остров и может показаться нецивилизованным и повсеместно\#управляемым грязью, основываясь на нашей разведке, у\#мусорного острова ВСЁ ЖЕ есть правитель.
+"From what the locals tell us, he is a recluse,\#hardly ever seen in the open, and has the\#terrifying ability to influence those who have\#the misfortune of listening to his sultry voice.<#>"Основываясь на том, что нам сказали местные, он отшельник,\#едва выходящий на публику, и имеет ужасающее качество\#влиять на тех, кому не посчастливилось услышать его знойный голос.
+"It is said that he can also turn invisible,\#make your brain explode by looking at you,\#control fire and ice, and even speak Chinese.<#>"Также говорят, что он может становиться невидимым,\#взорвать чужой мозг одним взглядом, контролировать\#огонь и воду, и даже говорить на китайском."
+"His name? Larry Davis.<#>"Его имя? Ларри Дэвис."
+"Such a man is obviously a danger to the\#society that Rando wishes to build here.<#>"Такой человек - очевидная опасность для общества,\#которое Рандо желает построить на острове."
+"It is your responsibility to find him and\#put an end to his reign of trash mysticism.<#>"Вы назначаетесь ответственным за его поиск и окончание\#его правления мусорного мистицизма."
+"The exact methods of this hit are up to your\#discretion. However, to prove that the deed\#has been done, the body of Larry Davis must\#be recovered and presented to an official.<#>"Выбор конкретных методов достижения этой цели возлагается\#на вас. Однако, чтобы доказать, что дело было сделано,\#часть тела Ларри Дэвиса должна быть отрезана и представлена\#официальному лицу.
+"Be absolutely sure that the person\#you decide to kill is indeed Larry\#Davis; there can be no mistakes.<#>"Будьте абсолютно уверены, что человек, которого вам\#предстоит убить, на самом деле является Ларри Дэвисом;\#ошибки быть не может."
+You checked on the Baby Fishman.<#>Вы проверили малыша-рыболюда.
+It's panting.<#>Он задыхается.
+Put the Baby Fishman in\#your Vase of Spring Water?<#>Положить малыша-рыволюда в вашу вазу родниковой воды?
+Yes<#>Да
+No<#>Нет
+The Baby Fishman now inhabits the Vase.<#>Малыш-рыболюд теперь обитает в вазе.
+It can no longer be drunken from.<#>Из неё больше не получится выпить.
+It looks happy.<#>Он выглядит счастливым.
+It's staring at the sky.<#>Он глядит в небо.
+It looks like it wants to play.<#>Похоже, он хочет поиграть.
+It's gurgling water.<#>Он булькает водой.
+It's sleeping.<#>Он спит.
+It looks curious.<#>Он выглядит любопытно.
+It's squirming around.<#>Он плавает вокруг.
+It's kicking its little feet.<#>Он пинается своими маленькими ногами.
+It's nibbling on your rags.<#>Он грызёт ваши тряпки.
+It pissed in your pocket.<#>Он помочился в ваш карман.
+It's nudging you sadly.<#>Он грустно вас подталкивает.
+It's worried about you.<#>Он волнуется о вас.
+It seems scared of you.<#>Он боится вас.
+It doesn't like what you're doing.<#>Ему не нравится, что вы делаете.
+It really likes Salt Crab.<#>Ему очень нравится солевой краб.
+It likes Geen.<#>Ему нравится Гин.
+It likes your new clothes.<#>Ему нравится ваша новая одежда.
+It's staring at your Fishy Jerky.<#>Он смотрит на ваше рыбное мясо.
+It's glad you're alright.<#>Он рад, что вы в порядке.
+Feed it some Domestic Jerky?<#>Покормить его домашним мясом?
+It seems to be full.<#>Похоже, он наелся.
+Lost a Domestic Jerky.<#>Потеряно домашнее мясо.
+It really, really likes it!<#>Ему очень, очень оно нравится!
+The Baby Fishman has become stronger.<#>Малыш-рыболюд стал сильнее.
+Level up!<#>Новый уровень!
+Learned Shock Current!<#>Изучен Электрический шок!
+Feed it some Mystery Jerky?<#>Покормить его неизвестным мясом?
+Lost a Mystery Jerky.<#>Потеряно неизвестное мясо.
+It seems to like it!<#>Похоже, ему нравится!
+The Baby refused to eat.<#>Малыш отказался есть.
+It wants something more filling.<#>Он хочет что-то более сытное.
+Some better Jerky should suffice.<#>Какое-нибудь мясо получше должно подойти.
+It likes it!<#>Ему нравится!
+It really likes it!<#>Ему очень нравится!
+Learned Mucus Blast!<#>Изучен Взрыв слизи!
+"Disclaimer: Results may vary.\#Contact your doctor before huffing\#any foreign gases and or substances."<#>"Предупрждение: Результаты могут отличаться.\#Проконсультируйтесь со своим врачом перед вдыханием\#каких-либо посторонник газов и/или субстанций."
+Your vase was emptied.<#>Ваша ваза опустела.
+We need to get to a safer place.<#>Нам нужно добраться до более безопасного места.
+Contact law enforcement upon first symptoms.<#>Свяжитесь с представителями власти при проявлениях симптомов.
+Joel is reading the toilet paper...<#>Джоэл читает туалетную бумагу...
+The text has revealed a new technique!<#>Текст открыл ему новую технику!
+Joel learned the Cowboy Stance!<#>Джоэл выучил Ковбойскую стойку!
+Alex is reading the scroll...<#>Алекс читает свиток...
+Alex learned the Steadfast Stance!<#>Алекс изучил Твёрдую стойку!
+"In case I forget."<#>"В случае, если забуду."
+You examine the inflatable head next to the\#decapitated mannequin torso.<#>Вы изучаете надуваемую голову рядом с обезглавленным\#торсом манекена.
+The green slime from the torso's neck hole\#is awfully sticky...<#>Зелёная слизь из отверствия в шее торса ужасно липкая...
+Attach the head to the torso?<#>Прикрепить голову к торсу?
+The head fits perfectly.<#>Голова встала идеально.
+Got a jerryrigged doll!<#>Получена оснащённая кукла!
+"Book of Tactics:\#A Guide to Strategy on the Battlefield"<#>"Книга тактики:\#Руководство по стратегии на поле боя"
+View which page?<#>Какую страницу посмотреть?
+Intimidation<#>Запугивание
+Scheming<#>Планирование
+Deception<#>Хитрость
+Misdirection<#>Дизориентация
+"CHAPTER 1: INTIMIDATION"<#>"ЧАСТЬ 1: ЗАПУГИВАНИЕ"
+"One of the most important aspects of war\#is being able to challenge your opponent\#mentally as well as physically.<#>"Один из важнейших аспектов войны заключается\#в том, чтобы уметь противостоять своим соперникам\#как ментально, так и физически."
+"To this end, intimidation is a major\#component of any fighter's toolkit.<#>"Запугивание является важным инструментом\#в наборе каждого бойца, и служит этой цели."
+"If you can get inside your enemy's head,\#convince them that you are the mightier\#combatant, then you have already won."<#>"Если вы сможете пробраться во вражескую\#голову, убедить врага, что вы более умелый\#боец, вы уже победили."
+"CHAPTER 2: SCHEMING"<#>"ЧАСТЬ 2: ПЛАНИРОВАНИЕ"
+"As the ancient adage goes,\#knowing is half the battle.<#>"Как гласит древняя пословица,\#знание - половина успеха."
+"Only a fool goes to war without a proper\#plan of action, but a true tactician is able\#to adapt to changing circumstances.<#>"Лишь дурак пойдёт сражаться без надлежащего\#плана действий, но истинный тактик способен\#адаптироваться даже к изменчивым обстоятельствам."
+"Even as the battle rages on, it is prudent\#to stop and observe the situation at hand.<#>"Даже, когда бой находится в самом разгаре, он способен\#остановиться и проанализировать сложившуюся ситуацию."
+"A moment of careful reflection may even\#reveal strategies you once thought impossible."<#>"Даже секунда тщательного размышления может обнажить\#вам стратегии, которые вы однажды считали невозможными."
+This page is missing.<#>Страница отсутствует.
+"CHAPTER 3: DECEPTION"<#>"ЧАСТЬ 3: ХИТРОСТЬ"
+"The art of trickery is one not easily\#mastered, yet so invaluable all the same.<#>"Искусство хитрости нелегко освоить, но вместе с тем\#оно самое ценное."
+"To deceive an opponent is to control them,\#to guide their actions as you see fit.<#>"Обмануть соперника равно контроллировать его,\#направлять его действия своей рукой."
+"But know that every lie contains a gram\#of truth. If the backbone of your battle is\#only deception, then do not be surprised\#when it suddenly snaps in half."<#>"Но знайте, что каждая ложь содержит в себе частицу\#правды. Если ваш бой построен лишь на хитрости,\#не удивляйтесь, когда ваша ложь разломиться напополам."
+"CHAPTER 4: MISDIRECTION"<#>"ЧАСТЬ 4: ДИЗОРИЕНТАЦИЯ"
+"In most battles, your opponent's\#focus will be entirely on you.<#>"В большинстве боёв, ваш оппонент будет сконцентрирован\#исключительно на вас."
+"As such, one of the most invaluable\#scenarios you can encounter in war\#is a situation where your enemy's\#concentration is directed somewhere else.<#>"За этим, одним из самых ценных исходов в войне считается\#тот, в котором внимание врага направлено на кого-то\#построннего."
+"A convenient way to force this\#circumstance is to fool your enemy\#into thinking that you are not their only foe.<#>"Удобным способом создать такие условия является\#обман врага мыслями о том, что вы не единственный\#его противник."
+"You may be surprised to learn just how\#far a small sleight of hand can carry you."<#>"Вы можете удивиться тому, как небольшое мастерство\#обмана может выручить вас."
+All of a sudden, Joel had an epiphany!<#>Совершенно внезапно, Джоэл был благословлён!
+Gun Toss has become Gun Spin!<#>Бросок пистолета стал Вращением пистолета!
+You have no salt.<#>У вас нет соли.
+Exchanged ten jerseys for some Horse Jerky!<#>10 футболок были обменяны на мясо лошади!
+Exchanged ten jerseys for a Fancy Perfume!<#>10 футболок были обменяны на дорогие духи!
+Exchanged ten jerseys for a Cocola Cola!<#>10 футболок были обменяны на кокола-колу!
+Use the instant coffee tin\#with your bottle of water?<#>Вылить воду из бутылки в банку гранулированного\#кофе?
+Made some cold coffee!<#>Получено холодное кофе!
+You got three empty bottles.<#>Вы получили три пустые бутылки.
+The cat on the postcard is incredibly cute.<#>Кошка на открытке невероятно милая.
+Joel is reading the torn page.<#>Джоэл читает вырванную страницу.
+Joel learned Scheme!<#>Джоэл изучил Планирование!
+Page added to the Book of Tactics.<#>Страница добавлена в книгу тактики.
+Joel learned Play Dead!<#>Джоэл изучил Притвориться мёртвым!
+Joel learned Misdirection!<#>Джоэл изучил Дезориентацию!
+Authorized by the Centers for Disease\#Control and Prevention (CDC).<#>Одобрено Центром по контролю и профилактике заболеваний\#(ЦКЗ).
+It was sweet as honey. +500 HP!<#>Вкус сладкий, словно мёд. +500 ОЗ!
+It was minty fresh. You feel Cool!<#>Вкус мятной свежести. Вы чувствуете себя круто!
+It was thick and savory. ATK. up!<#>Вкус вязкий и пикантный. Атака возрастает!
+It was rich and creamy. Gained 200 exp.!<#>Вкус богатый и мягкий. Получено 200 опыта!
+It was tangy, with a hint of citrus. AGI. up!<#>Вкус терпкий, с ноткой цитруса. Ловкость возрастает!
+It was super spicy! You are blazing!<#>Супер остро! Вы горите!
+It was rotten... You are nauseated.<#>Тухлятина... Вас тошнит.
+It was aggressively sour... You are paralyzed.<#>Черезчур остро... Вы парализованы.
+It was extremely salty... You feel nasty.<#>Черезчур солёно... Вы чувствуете себя мерзко.
+It was vile... You can't even move.<#>Отвратительно... Вы не можете даже двинуться.
+{Pete Constantine}Hmph.\| Not bad.<#>{Пит Константин}Хм.\| Неплохо.
+{Pete Constantine}I'll be taking that.<#>{Пит Константин}Я это возьму.
+You never see smiles like these anymore.<#>Таких улыбок больше не увидишь.
+{Arnold Shpitz}I'm no one in particular.<#>{Арнольд Шпиц}Никто особенный.

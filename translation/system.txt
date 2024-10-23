@@ -1,0 +1,113 @@
+Mags<#>
+Rags<#>
+Nude<#>
+Coat<#>
+Hat<#>
+Jewelry<#>
+Wraps<#>
+Flourish<#>
+Bullet<#>
+Neckwear<#>
+Ponchos<#>
+Pants<#>
+Materials<#>
+Crystals<#>
+Jerseys<#>
+Censer<#>
+Physical<#>
+Absorb<#>
+Fire<#>
+Heavy Armor<#>
+Pierce<#>
+Slice<#>
+Airborne<#>
+Crushing<#>
+Holy<#>
+Dark<#>
+Gentle<#>
+Rough<#>
+Loving<#>
+Animal<#>
+Basic<#>
+Unknown<#>
+Electric<#>
+Slash<#>
+Bloodletting<#>
+Bite<#>
+Techniques<#>Техники
+Killer Moves<#>
+Hints<#>Подсказки
+Topics<#>Темы
+Dozing<#>
+Seduction<#>
+Punjabi Poke<#>
+Songs<#>
+Peckings<#>
+Advisory<#>
+Blades<#>
+Dance<#>
+Magic<#>Магия
+Draw<#>
+Kat<#>
+Critters<#>
+Gunplay<#>Стрельба
+Stances<#>Стойки
+Trashy Tricks<#>Мусорные трюки
+Smooth Moves<#>Плавные движения
+Investments<#>Инвестиции
+Artistry<#>
+Skulduggery<#>
+Moves<#>Движения
+Batting<#>
+Horseplay<#>
+Neu Style<#>
+Desperation<#>
+MaxHP<#>Макс. ОЗ
+MaxSP<#>Макс. ОН
+ATK<#>АТК
+DEF<#>ЗЩТ
+S.ATK<#>СП. АТК
+S.DEF<#>СП. ЗЩТ
+AGI<#>ЛОВ
+LUCK<#>УДЧ
+Weapon<#>Оружие
+Head<#>Голова
+Body<#>Тело
+Accessory<#>Аксессуар
+Fight<#>Атака
+Escape<#>Побег
+Attack<#>Атака
+Guard<#>Защита
+Items<#>Предметы
+Skills<#>Навыки
+Equipment<#>Экипировка
+Status<#>Статус
+Formation<#>Построение
+Save<#>Сохранить
+Quit<#>Выйти
+Weapons<#>Оружие
+Armour<#>Броня
+Key Items<#>Ключевые предметы
+Change<#>Изменить
+Optimize<#>Оптимизировать
+Clear<#>Очистить
+New Game<#>Новая игра
+Continue<#>Продолжить
+To Title<#>В меню
+Cancel<#>Отмена
+Level<#>Уровень
+LV<#>УР
+Health Points<#>Очки здоровья
+HP<#>ОЗ
+Skill Points<#>Очки навыков
+SP<#>ОН
+Tech Points<#>Очки техники
+TP<#>ОТ
+Pistol<#>Пистолет
+Trowel<#>Лопатка
+Ring<#>Кольцо
+Bottle<#>Бутылка
+Knife<#>Нож
+Hands<#>Руки
+Bats<#>Биты
+LISA: The Pointless - Scholar of the Wilbur Sin<#>LISA: The Pointless - Scholar of the Wilbur Sin

@@ -1,0 +1,347 @@
+KO'ed<#>Нокаут
+has fallen!<#>упал!
+is out!<#>в ауте!
+revives!<#>приходит в себя!
+State #1 will be automatically added when\#HP reaches 0.\#\#<popup hide add>\#<popup hide rem>\#<popup hide dur><#>
+Poison<#>Отравление
+is poisoned!<#>отравлен!
+is aching real bad.<#>испытывает сильную боль.
+is freed of poison!<#>оправился от отравления!
+Blind<#>Слепота
+becomes blind!<#>ослепает!
+is blinded!<#>ослеплён!
+can't see a damn thing!<#>ни черта не видит!
+is no longer blinded!<#>снова видит!
+Silence<#>Заглушение
+doesn't feel worthwhile.<#>чувствует себя ничтожным.
+wants to do cool moves again!<#>снова хочет делать крутые штуки!
+Confusion<#>Замешательство
+became very confused...<#>сильно растерялся...
+is confused...<#>в замешательстве...
+doesn't know what to do...<#>не знает, что делать...
+is no longer confused!<#>больше не в замешательстве!
+Sleep<#>Сон
+falls into a deep slumber.<#>глубоко засыпает.
+is snoozing.<#>дремлет.
+wakes up!<#>просыпается!
+Scared<#>Страх
+is petrified with fear!<#>наполняется страхом!
+is scared stiff.<#>застыл в страхне.
+is no longer afraid!<#>больше не боится!
+Stun<#>Оглушение
+is seeing stars!<#>видит перед собой звёзды!
+is stunned!<#>оглушён!
+regains focus!<#>вновь фокусируется!
+Guard<#>Защита
+puts his guard up.<#>встаёт в защиту.
+is protecting himself.<#>защищается.
+drops their guard.<#>ослабляет бдительность.
+Alive<#>Жив
+Cover<#>Прикрытие
+is shielding his friends.<#>защищает своих друзей.
+is being heroic.<#>геройствует.
+falls back!<#>отходит!
+Rage<#>Ярость
+became enraged!<#>впадает в ярость!
+is filled with anger!<#>наполнен злобой!
+calms down.<#>успокаивается.
+Hide<#>Укрытие
+took cover!<#>укрывается!
+is out of sight.<#>вне поля зрения.
+was found!<#>был найден!
+Broken Bones<#>Сломанные кости
+got some bones shattered!<#>сломал несколько костей!
+feels the crunch!<#>слышит хруст!
+'s bones are mended!<#>восстановил кости!
+Brain Damage<#>Мозговая травма
+stroked out!<#>страдает от инсульта!
+is experiencing a cerebral vacation!<#>находится на церебральном отпуске!
+'s brain ain't swollen no more.<#>достаёт мозги из микроволновки.
+Heart Attack<#>Сердечный приступ
+is having a heart attack!<#>испытывает сердечный приступ!
+is having mysterious chest pains!<#>испытывает неизвестные боли в груди!
+'s ol' ticker is back in force!<#>снова настраивает свои часы!
+Ironbody<#>Железное тело
+became stiff as stone!<#>затвердевает, как камень!
+is buffed up!<#>усилен!
+'s muscles loosened up.<#>расслабляет мышцы.
+Counterattack<#>Контратака
+Aid<#>Помощь
+is receiving serious aid!<#>получает серьёзную помощь!
+Rupture<#>Вспарывание
+is painting the room red!<#>окрашивает стены в красный!
+just popped!<#>оказался вспорот!
+is leak free.<#>истекает кровью.
+Spooked<#>Напуган
+is startled!<#>напгуан!
+is shivering.<#>дрожит.
+regains his composure.<#>восстанавливает самообладание.
+Bellow Threshold<#>
+Geared Up<#>Снаряжён
+is ready to do some damage!<#>готов нанести урон!
+teems with power!<#>изобилует силой!
+loses the energy.<#>теряет энергию.
+Levitate<#>Левитация
+ascends.<#>возвышается.
+is looking down on you chumps.<#>смотрит на вас сверху вниз.
+has been shot DOWN!<#>был СБИТ!
+Winded<#>Одышка
+lost his breath!<#>теряет дыхание!
+is gasping for air!<#>задыхается!
+is catching his breath.<#>пытается дышать!
+regains his tempo.<#>возвращает дыхание!
+Burning<#>Горение
+is on fire!<#>в огне!
+is burning bright.<#>ярко светится.
+'s flames went out!<#>тушит себя!
+Deep Poison<#>Сильное отравление
+is poisoned badly!<#>сильно отравлён!
+feels like he's going to die.<#>думает, что сейчас умрёт.
+Wary<#>Напряжённость
+is on the edge!<#>на грани!
+is stressed!<#>на нервах!
+is stressing out!<#>срывается!
+gets a grip!<#>берёт себя в руки!
+Crying<#>Слёзы
+is tearing up.<#>разражается слезами.
+has tears in his eyes.<#>видит сквозь слёзы.
+stopped crying.<#>прекращает плакать.
+Paralysis<#>Паралич
+becomes paralyzed!<#>парализует!
+is paralyzed!<#>парализован!
+is struggling to move!<#>не может двинуться!
+'s body returns to normal!<#>возвращается в норму!
+Weird<#>Странность
+starts to feel weird...<#>чувствует себя странно...
+feels weird...<#>чувствует себя странно...
+feels relieved.<#>чувствует облегчение.
+Bleed<#>Кровотечение
+'s been cut open!<#>был вспорот!
+is bleeding out!<#>истекает кровью!
+stopped bleeding!<#>остановил кровотечение!
+Ticketed<#>Метка
+feels ashamed of himself.<#>стыдится самого себя.
+Drunk<#>Опьянение
+got absolutely hammered.<#>размазан в стельку.
+is drunk off his ass.<#>чертовски пьян.
+sobered up.<#>протрезвел.
+Stink<#>Вонь
+stinks to high hell.<#>чертовский воняет.
+smells like a dumpster fire.<#>воняет сожжённым мусором.
+freshened up.<#>освежился.
+Pissed<#>Гнев
+sees red!<#>разгневан!
+is a lunatic! Watch out!<#>безумствует! Осторожно!
+calmed down.<#>успокоился.
+Taunt<#>Насмешка
+steals the spotlight!<#>переключает внимание на себя!
+is attracting attention!<#>привлекает внимание!
+lost everyone's attention.<#>потерял интерес к себе.
+Withdrawal<#>Ломка
+is craving Joy.<#>жаждет Джоя.
+fought off his craving.<#>поборол ломку.
+Joyed<#>Радость
+is over Joyed.<#>переполнен радостью.
+feels nothing.<#>ничего не чувствует.
+is no longer happy...<#>больше не счастлив...
+Fallen<#>Падение
+falls on his ass!<#>падает на задницу!
+is trying to get up.<#>пытается встать.
+is back to their feet!<#>снова на ногах!
+Cool<#>Крутость
+is cool as a cucumber!<#>крут, как варёные яйца!
+is fresh.<#>свеж.
+became lame again.<#>снова неудачник.
+Super Cool<#>Супер-крутость
+is cooler than cool!<#>круче чем крутость!
+is fresh as fuck.<#>пиздец как свеж.
+Defend<#>Защита
+is protecting himself!<#>защищается!
+is protected.<#>защищён.
+drops his guard.<#>ослабляет бдительность.
+Extorted<#>Шантаж
+is being extorted!<#>подвергается шантажу!
+stood up for it's beliefs.<#>остался верен своим принципам.
+Oiled Up<#>Масляность
+is covered in oil!<#>покрыт маслом!
+is slippery.<#>маслянный.
+cleaned themselves off.<#>очистил себя от масла.
+Party Mode<#>Вечеринка
+can't stop grooving!<#>не может перестать зависать!
+is partying hard!<#>жёстко веселиться!
+lost the desire to party...<#>потерял желание веселиться...
+Depression<#>Расстроенность
+is depressed.<#>расстроен.
+Fluid<#>Жидкость
+assumes a relaxed stance!<#>принимает расслабленую стойку!
+flows like water.<#>бежит, словно вода.
+has lost his groove.<#>потерял чакру.
+Uncertain<#>Неуверенность
+doesn't know what's going on!<#>не знает, что происходит!
+isn't sure what to believe.<#>не знает, чему верить.
+quelled their apprehension.<#>развеял в себе неясность.
+Enlightened<#>Просветление
+opens his third eye.<#>открывает третий глаз.
+knows all.<#>знает всё.
+3rd Degree Burns<#>Ожоги третьей степени
+was burned bad!<#>сильно обгорел!
+was crispified!<#>был сожжён!
+'s skin was healed!<#>восстановил кожу!
+Dead<#>Мёртв
+is dead!<#>мёртв!
+is dead.<#>мёртв.
+Armed<#>Вооружён
+is packing!<#>вооружается!
+was disarmed.<#>был безоружен.
+Disarmed<#>Безоружен
+has lost his weapon.<#>потерял своё оружие.
+Infinitized<#>Бесконечность
+is in a haze!<#>в тумане!
+entered a violent trance!<#>в трансе жестокости!
+Solid<#>Твёрдость
+assumes a firm stance!<#>принимает твёрдую стойку!
+is immovable!<#>несдвигаем!
+lost his footing.<#>потерял равновесие.
+Nasty<#>Мерзость
+is oooh so filthy!<#>уффф, очень грязный!
+soaks in the filth.<#>возиться в грязи.
+can't scrub it off.<#>не может отмыться.
+no longer feels dirty.<#>больше не грязный.
+Flustered<#>Возбуждение
+becomes flustered!<#>возбуждён!
+is flustered!<#>возбуждён!
+is experiencing a sexual quandary.<#>испытывает сексуальное влечение.
+is no longer flustered!<#>больше не возбуждён.
+Tense<#>Напряжение
+'s eyes dart around.<#>бегает глазами по окружению.
+lost concentration.<#>потерял концентрацию.
+Off Balance<#>Потеря равновесия
+is wobbly.<#>шатается.
+has regained balance.<#>восстановил равновесие.
+Dodged<#>Уклонение
+got the fuck outta there!<#>съебался к чертям!
+is out of the way.<#>избежал удара.
+rejoins the fray!<#>снова вступает в бой!
+Dangerous<#>Опасность
+will kill.<#>будет убивать.
+lost their lethality.<#>потерял убийственность.
+Gross Out<#>Отвращение
+is disgusted.<#>находится в омерзении.
+Bullied<#>Задирание
+is being picked on!<#>становится целью задирания!
+is a target of abuse.<#>- цель задирания.
+was left alone.<#>был оставлен в покое.
+Hidden Prio<#>
+Hidden DePrio<#>
+Secondary Threshold<#>
+Tertiary Threshold<#>
+Presence<#>Присутствие
+'s got a dominating aura.<#>обладает тяжёлой аурой.
+is sinister.<#>навевает жуть.
+looms menacingly.<#>выглядит угрожающе.
+lost relevance.<#>потерял присутствие.
+Twisted<#>Перекос
+contorts.<#>перекошен.
+is coiled like a snake.<#>скручен, как змея.
+loosens up.<#>восстанавливает форму.
+Swelter<#>
+KO'ed fake<#>
+Brave<#>Храбрость
+embraces courage!<#>наполняется храбростью!
+is unwavering.<#>непоколебим.
+'s spirit was broken!<#>потерял дух!
+Mindful<#>Понимание
+knows just what to do!<#>знает, что нужно делать!
+came up with a plan!<#>придумал план!
+is on top of things.<#>смотрит насковзь.
+'s plan fell through.<#>забраковал свой план.
+Nauseated<#>Тошнота
+is feeling sick.<#>чувствует тошноту.
+is queasy.<#>испытывает тошноту.
+feels better again.<#>чувствует себя лучше.
+Flying<#>Полёт
+is sky high.<#>высоко в небесах.
+is soaring.<#>парит.
+was grounded.<#>приземлился.
+Fried<#>Фри
+'s Baby Fishman was cooked!<#>видит, как малыша-рыболюда жарят!
+'s Baby Fishman is recovering.<#>видит, что малыш-рыболюд восстанавливается.
+'s Baby Fishman is back in action!<#>видит, что малыш-рыболюд возвращается в бой!
+Wet<#>Намокание
+was drenched!<#>промок!
+is soaking.<#>мокрый.
+dried off.<#>высох.
+Electrifed<#>Электричество
+is juiced up!<#>заряжается!
+crackles with power.<#>трещит энергией.
+lost their charge.<#>потерял заряд.
+Steadfast<#>Стойкость
+is unbreakable!<#>непоколебим!
+won't budge.<#>несдвигаем.
+lost his resolve!<#>потерял стойкость!
+Cowboy<#>Ковбой
+is ready to duel!<#>готов к дуэли!
+is ready to fire.<#>готов стрелять.
+lost his mojo.<#>передумал.
+Exhausted<#>Истощение
+is worn out!<#>истощился!
+is worn out.<#>истощён.
+feels weak.<#>чувствует слабость.
+regained his strength.<#>вернул себе силы.
+Hidden Hit Rate<#>
+Blazing<#>Пламя
+is fired up!<#>в огне!
+is feeling the burn!<#>чувствует жжение!
+cooled off.<#>охладился.
+Limber<#>Гибкость
+feels light as a feather!<#>лёгок, как пушинка!
+is quick and nimble.<#>быстр и проворен.
+stiffened up.<#>остановился.
+Pretending<#>Притворство
+has "fallen."<#>"ноукаутирован".
+is playing dead.<#>притворяется мёртвым.
+is back in the game!<#>снова в игре!
+Stacheless<#>
+Loaded<#>Снаряжён
+is packing heat!<#>держит ствол!
+'s gun is primed and loaded.<#>зарядил и взвёл пушку.
+empties his chamber!<#>выпускает магазин!
+Launched<#>Запуск
+was hurled skyward!<#>был запущен в небо!
+is freefalling.<#>падает.
+came back to Earth!<#>вернулся на Землю!
+Covered<#>Прикрытие
+is being shielded.<#>был защищён!
+is protected from harm.<#>защищён от вреда.
+is vulnerable once more!<#>снова уявзим!
+Trapped<#>В ловушке
+fell into a trap!<#>попал прямо в ловушку!
+is struggling.<#>борется.
+freed himself from the trap!<#>освободился из ловушки!
+Empowered<#>Усиление
+channels hidden power!<#>пользуется скрытой силой!
+is unstoppable.<#>неостановим.
+was disarmed!<#>был обезоружен!
+is back in action!<#>вернулся в бой!
+Furious<#>Свирепость
+is going off the rails!<#>сходит с рельс!
+is filled with wrath!<#>разъярён!
+simmered down.<#>остыл.
+Fortified<#>Укрепление
+is rock-steady.<#>твёрд как камень.
+drops his defenses.<#>ослабляет защиту.
+Rearm Lock<#>
+Fierce<#>Пыл
+is ready to throw down!<#>готов броситься в бой!
+is on a warpath!<#>вышел на тропу войны!
+loses his fighting spirit.<#>потерял боевой дух.
+Ephemeral<#>Эфемерность
+is intangible.<#>неосязаем.
+returns to the mortal realm!<#>вернулся в царство живых!
+Hungover<#>Похмелье
+has a huge headache...<#>испытывает лютую головную боль...
+is hungover.<#>с похмелья.
+'s headache went away.<#>справился с головной болью.
+Itchy<#>Зуд
+'s body feels strange.<#>испытывает странный зуд.
+itches all over.<#>зудится повсюду.
