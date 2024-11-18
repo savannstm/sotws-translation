@@ -1,23 +1,23 @@
 Bare Chest<#>Голая грудь
 This makes a very bold statement.<#>Очень смелое заявление.
 Imitation Gold Watch<#>Реплика золотых часов
-Worthless piece of plastic with\#a yellow coat of paint.<#>
-Burlap Rags<#>
-Burlap is the new denim. Sad it has a hole in it.<#>
-Clean Bandages<#>
+Worthless piece of plastic with\#a yellow coat of paint.<#>Бесполезный кусок пластика, покрытый\#жёлтой краской.
+Burlap Rags<#>Джутовые лохмотья
+Burlap is the new denim. Sad it has a hole in it.<#>Джут - новый деним. Грустно, что в них образовалась\#дыра.
+Clean Bandages<#>Чистые повязки
 Bandages, keeping "it" together since 2600 B.C.\#Reduces bleeding.<#>
-Iron Box<#>
-Small box with a fragile teal band.<#>
-Grease<#>
-If you sweep your hair back, it might pass as\#intentional. Small boost to evasion.<#>
-Coolass Hat<#>
-Towering monolith of a hat for blocking\#out the sun.<#>
-Black Coat<#>
-A fine, black coat fashioned out of tanned\#trashbags.<#>
-Custom Bullet<#>
-A custom made .476 bullet.<#>
-Plaid Rags<#>
-Luxury rags in the burburroo pattern.\#For the precocious beggar.<#>
+Iron Box<#>Железная коробка
+Small box with a fragile teal band.<#>Маленькая коробка с хрупким бирюзовым ободком.
+Grease<#>Масло
+If you sweep your hair back, it might pass as\#intentional. Small boost to evasion.<#>Если зачесать им волосы, может это даже будет выглядеть\#естественно. Даёт лёгкий бонус к уклонению.
+Coolass Hat<#>Крутая шляпа
+Towering monolith of a hat for blocking\#out the sun.<#>Возвышающийся шляпный монолит, блокирующий\#солнце.
+Black Coat<#>Чёрный плащ
+A fine, black coat fashioned out of tanned\#trashbags.<#>Прочный, чёрный плащ, сотканный из тонированных\#мусорных пакетов.
+Custom Bullet<#>Особая пуля
+A custom made .476 bullet.<#>Особая, существующая в единственном экземпляре пуля\#.476-го калибра.
+Plaid Rags<#>Клетчатые лохмотья
+Luxury rags in the burburroo pattern.\#For the precocious beggar.<#>Роскошные лохмотья в стиле "Бурбуру".\#Для попрошайки.
 Dusty Cravat<#>
 Authentic dusting cloth that doubles as\#outmoded neckwear.<#>
 Red Polyester Cravat<#>
