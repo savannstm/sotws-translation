@@ -11,16 +11,16 @@ File<#>Файл
 %s emerged!<#>
 %s got the upper hand!<#>
 %s was surprised!<#>
-%s has started to escape!<#>
-You can't escape!<#>
+%s has started to escape!<#>%s пытаются сбежать!
+You can't escape!<#>Вы не можете сбежать!
 %s was victorious!<#>
 %s was defeated.<#>
-%s EXP received!<#>
-%s\\Mags found!<#>
-%s found!<#>
-%s is now %s %s!<#>
-%s learned!<#>
-%s uses %s!<#>
+%s EXP received!<#>%s опыта получено!
+%s\\Mags found!<#>%s журналов найдено!
+%s found!<#>%s найдено!
+%s is now %s %s!<#>%s теперь %s %s!
+%s learned!<#>%s изучен!
+%s uses %s!<#>%s использует %s!
 An excellent hit!!<#>
 A painful blow!!<#>
 %s took %s damage!<#>
@@ -69,7 +69,7 @@ ABSORB<#>
 BUFF<#>
 DEBUFF<#>
 Execute<#>
-Input Attacks<#>
+Input Attacks<#>Ввод атак
 Change<#>
 Remove<#>
 Revert<#>
@@ -82,11 +82,11 @@ New Skills<#>
 Your gang<#>
 %s won the battle.<#>
 %s has leveled up!<#>
-Leftovers<#>
-+%sEXP<#>
+Leftovers<#>Остатки
++%sEXP<#>+%s ОПЫТА
 %1.2f%%<#>
-LEVEL UP!<#>
-MAX LEVEL<#>
+LEVEL UP!<#>НОВЫЙ УРОВЕНЬ!
+MAX LEVEL<#>МАКС. УРОВЕНЬ
 "We won! What an exciting fight!"<#>
 "I didn\'t even break a sweat."<#>
 "That wasn\'t so tough."<#>
@@ -99,9 +99,9 @@ MAX LEVEL<#>
 "To the victor goes the spoils."<#>
 "The enemies dropped something!"<#>
 "Hey, what\'s this?"<#>
- NOW<#>
+ NOW<#>ТЕПЕРЬ
 :%s<#>
-Options/Quit<#>
+Options/Quit<#>Настройки/Выход
 OFF<#>
 ON<#>
 None<#>

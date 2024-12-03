@@ -4,7 +4,6 @@ attacks!<#>атакует!
 Guard<#>Защита
 Protects user and reduces damage taken.\#Restores some SP.<#>Защищает и снижает получаемый урон.\#Восстанавливает немного ОН.
 guards.<#>защищается.
-Skill #2 will be used when you select\#the Guard command.<#>
 Dual Attack<#>Двойная атака
 Hits an enemy twice!<#>Атакует дважды!
 Double Attack<#>Двойная атака
@@ -56,7 +55,7 @@ Rag Maggot Bite<#>Укус тряпичного опарыша
 Pick weapon up (No Anim)<#>
 Maggot Bites<#>Укус опарыша
 Itty bitty bites from itty bitty mouths.<#>
-chews at your flesh!<#>жуёт вашу плоть!
+chews at your flesh!<#>жуёт вашу кожу!
 <one animation>.\#<Motion Action = 4><#>
 Maggot Spit<#>Плевок опарыша
 Eeeeeeewwwwwwwwwwww.<#>
@@ -121,7 +120,7 @@ Joel Shield<#>Щит Джоэла
 Don't hurt him...<#>
 is using Joel as a shield!<#>использует Джоэла, как щит!
 Slice 'n' Dice<#>Резня
-Hand Slash<#>
+Hand Slash<#>Удар рукой
 Rip them apart.<#>
 tears you apart!<#>разрывает вас!
 Fire Punch<#>Огненный кулак
@@ -159,57 +158,56 @@ swings his tire!<#>
 Friendly Fire Stomp<#>
 Stomp a mudhole in your ass.<#>
 stomps him out!<#>
-Encourage<#>
-Spit Poison<#>
+Encourage<#>Поддержка
+Spit Poison<#>Ядовитый плевок
 Dispense the contents of your stomach on their face.<#>
-coughs up some toxic gunk!<#>
-Demon Eye<#>
+coughs up some toxic gunk!<#>кашляет какой-то токсичной дрянью!
+Demon Eye<#>Глаз демона
 Foresee their demise in your eyes...<#>
-stares into your soul!<#>
+stares into your soul!<#>глядит в вашу душу!
 Charge Up<#>
 Gather power for a devastating blast.<#>
-is gathering power...<#>
+is gathering power...<#>собирается с силами...
 Bring Down the Thunder<#>
 Bring down the wrath of the gods on their bitch asses.<#>
 summons a bolt of lightning!<#>
-Spray Water<#>
+Spray Water<#>Разливание воды
 Get under cover, 'cause it's about to rain.<#>
-sprays water all over the place!<#>
+sprays water all over the place!<#>разливает повсюду воду!
 Watery Whap<#>
 Feels like getting slapped by a fish.<#>
 gives you a whack!<#>
-Peck<#>
+Peck<#>Клевок
 A uniquely avian technique<#>
-pecks at your face!<#>
-Unnerving Laugh<#>
+pecks at your face!<#>клюёт вас в лицо!
+Unnerving Laugh<#>Жуткий смех
 Confidence in the face of danger can be one\#of the most unnerving things.<#>
-laughs at your face.<#>
-Rupturing Stab<#>
+laughs at your face.<#>смеётся вам в лицо.
+Rupturing Stab<#>Разрывающий удар
 This one cuts deep.<#>
-eviscerates you.<#>
-Anaconda Assault<#>
+eviscerates you.<#>потрошит вас.
+Anaconda Assault<#>Нападение анаконды
 Anaconda's pulling out all the stops!<#>
-delivers a venomous combo!<#>
+delivers a venomous combo!<#>производит ядовитое комбо!
 Catapult Christening<#>
 A violent toss of the opponent's helpless form.<#>
 launches your useless form!<#>
-Grab<#>
+Grab<#>Хватка
 Stops the opponent midair!<#>
-has got you!<#>
-The Punch<#>
+has got you!<#>хватает вас!
+The Punch<#>Удар
 Ends lives<#>
 will deny you!<#>
 See no hope<#>
 In the face of hopelessness there is always...<#>
 sees no hope.<#>
-Meat Signal<#>
+Meat Signal<#>Мясной сигнал
 Heals all who hear the sound.<#>
-emits a fleshy hum.<#>
+emits a fleshy hum.<#>издает мясистый гул.
 Meat Hose<#>
 A huge swing to destroy the opposition.<#>
 hoses you with meat!<#>
-<one animation>.\#<Motion Action = 5><#>
-Kill Signal<#>
+Kill Signal<#>Убийственный сигнал
 Fills hearts with lust for murder.<#>
 emits a disturbing hum.<#>
 Choirboy's Screach<#>
@@ -224,26 +222,26 @@ Twin Fireballs<#>
 Deals fire damage to one enemy.<#>
 throws a fireball!<#>
 Gasoline Spit<#>
-Feed Friend<#>
+Feed Friend<#>Покормить друга
 Restores HP to one ally.<#>
-is feeding. It's gross.<#>
+is feeding. It's gross.<#>кормит. Это отвратительно.
 Feed<#>
 Paddle<#>
 Punish the enemy.<#>
 paddles you!<#>
-Shove<#>
-is pushy.<#>
-Infinite Deathmaker<#>
-does the Infinite Deathmaker!<#>
+Shove<#>Толчок
+is pushy.<#>толкается.
+Infinite Deathmaker<#>Бесконечный Смертоносец
+does the Infinite Deathmaker!<#>использует бесконечный смертоносец!
 Party Stance<#>
 Party mode activate<#>
 parties like it's 1999.<#>
 Do Nothing<#>
-Bully<#>
+Bully<#>Задирание
 Picks a victim.<#>
-chose a victim.<#>
-Club Joust<#>
-rams you with his bat!<#>
+chose a victim.<#>нашёл жертву.
+Club Joust<#>Удар битой
+rams you with his bat!<#>бьёт вас своей битой!
 RealizationII<#>
 Realize you're in a fight.<#>
 figured it out!<#>
@@ -253,9 +251,9 @@ is handling real power!<#>
 Feel The Hurt<#>
 Hit yourself, let it hurt the more.<#>
 is feeling the hurt.<#>
-Finger Beam<#>
+Finger Beam<#>Пальцевый луч
 A concentration of energy blasted from the finger.<#>
-fires a beam!<#>
+fires a beam!<#>выстреливает луч!
 Pure of Flesh<#>
 Rub meat into your friend.<#>
 spreads the meat.<#>
@@ -269,21 +267,21 @@ Visceral Bathe<#>
 Meat toss.<#>
 showers in viscera!<#>
 Power Fist (Danger)<#>
-Double Joust<#>
+Double Joust<#>Двойной удар
 Strike one, strike two! They're out!<#>
-and Lin ram you with their bats!<#>
-Aikido Stance<#>
+and Lin ram you with their bats!<#>и Лин бьют вас своими битами!
+Aikido Stance<#>Стойка Айкидо
 Makes you hard to grasp!<#>
-adopts an Aikido stance!<#>
-Boxer's Stance<#>
+adopts an Aikido stance!<#>встаёт в стойку Айкидо!
+Boxer's Stance<#>Стойка боксёра
 Prevents easy knockouts!<#>
-adopts a boxing stance!<#>
+adopts a boxing stance!<#>встаёт в стойку боксёра!
 B-Ball Bash<#>
 What goes around comes around!<#>
-launches a basketball!<#>
-Screams of the Past<#>
+launches a basketball!<#>запускает баскетбольный мяч!
+Screams of the Past<#>Крики прошлого
 Their bodies are still, but their voices are ceaseless.<#>
-unleashes a haunting scream.<#>
+unleashes a haunting scream.<#>разражается в ужасающем крике.
 Crystal Spew<#>
 One whiff of this, and it's game over...<#>
 spews noxious fumes!<#>
@@ -296,39 +294,39 @@ swings!<#>
 Breathe In<#>
 Take a deep breath to relieve some tension.<#>
 takes a deep breath.<#>
-Drop Kick<#>
+Drop Kick<#>Удар в полёте
 A double foot press to the chest!<#>
-performs a drop kick!<#>
+performs a drop kick!<#>ударяет в полёте!
 Bellucci Buster<#>
 Chriss's signature move. You won't get up after\#this one.<#>
 does the Bellucci Buster!<#>
 Feed (Lester)<#>
 passes you some meat!<#>
-Double Finger Beam<#>
+Double Finger Beam<#>Двойной пальцевый луч
 Two muthafuckin lasers!<#>
-fires a pair of beams!<#>
-Spit<#>
+fires a pair of beams!<#>стреляет парой лучей!
+Spit<#>Плевок
 The ultimate disrespect.<#>
-spat in your face!<#>
-Stretch<#>
+spat in your face!<#>плюёт вам в лицо!
+Stretch<#>Растяжка
 Stretch that bod, get limber!<#>
-stretches real good!<#>
-Hiss<#>
+stretches real good!<#>неплохо растягивается!
+Hiss<#>Шипение
 Show them how pissed you are.<#>
-is hissing...<#>
+is hissing...<#>шипит...
 Tenderize<#>
 Pulverize their flesh.<#>
 tenderizes your body!<#>
-Blood Spit<#>
+Blood Spit<#>Плевок кровью
 The ultimate disrespect made\#even more disrespectful.<#>
-spat blood in your face!<#>
+spat blood in your face!<#>плюёт кровью вам в лицо!
 Gear Up for Bone Snap<#>
 Locked on.<#>
 gets ready.<#>
-Boomerang Toss<#>
+Boomerang Toss<#>Бросок бумеранга
 An Australian classic<#>
-tosses a boomerang!<#>
-Boomerang Combo<#>
+tosses a boomerang!<#>бросает бумеранг!
+Boomerang Combo<#>Комбо с бумерангом
 An Australian classic.<#>
 performs a boomerang combo!<#>
 Double Thumb Jab<#>
@@ -337,9 +335,9 @@ jabs at your eyes!<#>
 Thumb Stab<#>
 A piercing blow with a thumb.<#>
 stabs you with a thumb!<#>
-Infinite Hypnosis<#>
+Infinite Hypnosis<#>Бесконечный гипноз
 Stare into the spiral... embrace the cycle.<#>
-emits a strange aura...<#>
+emits a strange aura...<#>испускает странную ауру...
 Boxer's Rushdown<#>
 A modern martial art.<#>
 knocks the stuffing out of you!<#>
@@ -897,18 +895,18 @@ thrusts down!<#>
 Side Kick<#>
 An extended kick.<#>
 performs a side kick!<#>
-Flying Axe Kick<#>
-(WWD) Works your leg like a guillotine.\#Has a low chance of bleeding the enemy.<#>
-hacks through air!<#>
-Goat Kick<#>
-(DDD) A no-nonsense, double back kick.\#May launch enemy into the air. Costs 70 HP.<#>
-delivers a goat-like buck!<#>
-The Minor Iris<#>
-(WAS) The first supreme technique of the Velvet\#Style. Pierces defenses, but puts you off balance.<#>
-thrashes about like mad!<#>
-Receding Stance<#>
-A disengaging stance, that helps regain focus.\#Recovers some SP.<#>
-gives some space!<#>
+Flying Axe Kick<#>Удар летящего топора
+(WWD) Works your leg like a guillotine.\#Has a low chance of bleeding the enemy.<#>(WWD) Работайте своей ногой как гильотиной.\#Имеет низкий шанс нанести врагу кровотечение.
+hacks through air!<#>прорубает сквозь воздух!
+Goat Kick<#>Козлиный удар
+(DDD) A no-nonsense, double back kick.\#May launch enemy into the air. Costs 70 HP.<#>(DDD) Серьезный лягок обеими ногами.\#Может подбросить врага в воздух. Стоит 70 ОЗ.
+delivers a goat-like buck!<#>лягает, словно козёл!
+The Minor Iris<#>Малый Ирис
+(WAS) The first supreme technique of the Velvet\#Style. Pierces defenses, but puts you off balance.<#>(WAS) Первая продвинутая техника Вельветового\#стиля. Пробивает защиту, но вы теряете равновесие.
+thrashes about like mad!<#>мечется как сумасшедший!
+Receding Stance<#>Стойка отклонения
+A disengaging stance, that helps regain focus.\#Recovers some SP.<#>Откланяющая вас стойка, способствующая\#восстановлению фокусировки. Восстанавливает немного ОН.
+gives some space!<#>освобождает пространство!
 Refuel<#>
 Gas 'er up!<#>
 is refueling!<#>
@@ -1098,37 +1096,37 @@ coils up!<#>
 Disarming Chop<#>Обезоруживающий рубец
 chops at the wrist!<#>
 Dive<#>Нырок
-A classic evasive maneuver. Can still use items.\#Prevents most forms of damage, but staggers.<#>
-got outta there!<#>
+A classic evasive maneuver. Can still use items.\#Prevents most forms of damage, but staggers.<#>Классический манёвр уклонения. Позволяет использовать предметы.\#Защищает от большинства видов урона, но вы теряете равновесие.
+got outta there!<#>убрался подальше!
 Iron Hoof<#>Стальное копыто
-A stampede's worth of stompin' power.\#Crushing damage against fallen enemies!<#>
-crashes down bad!<#>
+A stampede's worth of stompin' power.\#Crushing damage against fallen enemies!<#>Сокрушительная сила топчущихся копыт.\#Наносит смертельный урон упавшим врагам!
+crashes down bad!<#>обрушается с безумной силой!
 Steadfast Stance<#>Твёрдая стойка
-Stand your ground. Defense up, HP regen, immunity\#to stuns. Other stances cancel the effect.<#>
-assumes an unbreakable stance!<#>
+Stand your ground. Defense up, HP regen, immunity\#to stuns. Other stances cancel the effect.<#>Стойте на своём. Повышает защиту, даёт регенерацию ОЗ и\#иммунитет к оглушению. Другие стойки отменяют эффект.
+assumes an unbreakable stance!<#>встаёт в несокрушимую стойку!
 Thunder Palm<#>Громовая ладонь
-(WWSA) Feel the power of lightning in your hand.\#Critical damage to wet foes. Chance to paralyze.<#>
-sends out a burst of watts!<#>
+(WWSA) Feel the power of lightning in your hand.\#Critical damage to wet foes. Chance to paralyze.<#>(WWSA) Почувствуйте силу молнии в своей руке.\#Критический урон мокрым врагам. Шанс парализовать.
+sends out a burst of watts!<#>посылает разряд электричества!
 Scoop<#>Лопатка
-An attack bound to frustrate.<#>
-scoops some pain!<#>
+An attack bound to frustrate.<#>Атака, которой суждено быть разочаровывающей.
+scoops some pain!<#>черпает немного боли!
 Brag<#>Выпендриться
-Predict your victory early, by striking\#a triumphant pose.<#>
-claims victory!<#>
+Predict your victory early, by striking\#a triumphant pose.<#>Предреките свою победу заранее, встав в\#триумфальную позу.
+claims victory!<#>заявляет о победе!
 Load It In<#>Зарядить
-Reassures the enemies that the gun is in fact\#loaded. Restores around 70 SP.<#>
-is reestablished as a threat!<#>
+Reassures the enemies that the gun is in fact\#loaded. Restores around 70 SP.<#>Убеждает врагов в том, что оружие, на самом деле,\#заряжено. Восстанавливает примерно 70 ОН.
+is reestablished as a threat!<#>вновь представляет угрозу!
 Harass a particular foe.\#Weirds them out and may make them worry.<#>
-is being intimidating!<#>
+is being intimidating!<#>устрашает!
 Passionate Threat<#>Убедительная угроза
-Declares for all to hear, that "you'll do it".\#May scare or worry all enemies.<#>
-sounds really dangerous!<#>
+Declares for all to hear, that "you'll do it".\#May scare or worry all enemies.<#>Объявляет всем вслух о том, что "вы сделаете это".\#Может напугать или взволновать всех врагов.
+sounds really dangerous!<#>звучит очень страшно!
 Steady Aim<#>Точное прицеливание
-Aligns the "cannon" with the vitals of your\#opponent. May scare them blind.<#>
-has them in his sights!<#>
+Aligns the "cannon" with the vitals of your\#opponent. May scare them blind.<#>Выравнивает "пушку" с органами вашего оппонента.\#Может чертовски напугать.
+has them in his sights!<#>взял врага на мушку!
 Gun Toss...?<#>Бросок пистолета...?
 A cocky gun trick?<#>Дерзкий оружейный трюк?
-Gun Spin learner.<#>
+Gun Spin learner.<#>Вращение пистолета изучено.
 Gun Toss<#>Бросок пистолета
 A cocky gun trick. Attracts attention. Removes\#Presence. Keep practicing.<#>Дерзкий оружейный трюк. Привлекает внимание. Убирает\#присутствие. Продолжай практиковаться.
 is being flashy!<#>привлекает внимание!
@@ -1141,20 +1139,20 @@ Gun Reveal<#>Показать пушку
 Show off your prized gun in a daring manner.\#May make some men feel nasty.<#>Светануть своим ценным оружием и подразнить врагов.\#Может вызвать у некоторых парней отвращение.
 reveals his holster!<#>разоблачает кобуру!
 Scheme<#>Планирование
-Hatch a master plot.\#Lowers skill costs for your entire party.<#>
-is thinking of a plan...<#>
+Hatch a master plot.\#Lowers skill costs for your entire party.<#>Сообразить мастерский план.\#Понижает стоимость навыков для всей вашей группы.
+is thinking of a plan...<#>придумывает план...
 Cowboy Stance<#>Ковбойская стойка
-Harness the ways of the Wild West. Draw your gun\#and scare them senseless. Increases bottle power.<#>
-gets ready to draw!<#>
+Harness the ways of the Wild West. Draw your gun\#and scare them senseless. Increases bottle power.<#>Освойте пути дикого запада. Обнажите своё оружие\#и досмерти напугайте врагов. Повышает силу бутылок.
+gets ready to draw!<#>готовится обнажить оружие!
 Gun Spin<#>Прокрутка пистолета
-A cockier gun trick. Taunt the enemy and look\#Cool while doing it. Removes Presence.<#>
-is being really flashy!<#>
+A cockier gun trick. Taunt the enemy and look\#Cool while doing it. Removes Presence.<#>Более дерзкий трюк с оружием. Привлекает внимание\#врага крутым видом. Убирает присутствие.
+is being really flashy!<#>сильно привлекает внимание!
 Play Dead<#>Притвориться мёртвым
-An Oscar-worthy performance, truly.\#They won't kill you if they think you're dead.<#>
-needs an ambulance!<#>
+An Oscar-worthy performance, truly.\#They won't kill you if they think you're dead.<#>Игра воистину достойная оскара.\#Они не убьют тебя, если думают, что ты мёртв.
+needs an ambulance!<#>нуждается в скорой!
 Awaken<#>Пробуждение
-Rise from your grave to\#spook the pants off all enemies.<#>
-comes back!<#>
+Rise from your grave to\#spook the pants off all enemies.<#>Восстаньте из могилы, чтобы все враги\#отложили кирпичей.
+comes back!<#>возвращается!
 Urban legends say, this style, of  Zhang Xianzhong,\#was lost after being banned off the infomercial scene.<#>
 smacks with wrist!<#>
 Trick Kick<#>Трюк-кик
@@ -1178,31 +1176,31 @@ Shag<#>Трахать
 Jiggy Jig<#>Джигги-джиг
 A basic dance. Boosts your confidence (and\#your attack).<#>
 gets down with his bad self!<#>
-Glass Breaker<#>
+Glass Breaker<#>Стеклобой
 Put your back into this one. Deals good damage,\#but can backfire. Chance to bleed.<#>
 beats them over the head!<#>
-Pumped-Up Jig<#>
+Pumped-Up Jig<#>Заряженный джиг
 An electrifying boogie. Gets your health back in\#order, but tires you out afterward.<#>
 tears up the dancefloor!<#>
-Bottle Juggle<#>
+Bottle Juggle<#>Жонглирование бутылками
 A classic party trick. Shame that you're not very\#good at it. Hits three random enemies.<#>
 juggles! Poorly.<#>
 Glass Breaker Backfire<#>
 That's what you get for playing with broken glass.<#>
-cut himself on accident!<#>
-Wasted Rave<#>
+cut himself on accident!<#>случайно порезался!
+Wasted Rave<#>Дикий рейв
 Play dirtier. Makes your whole team party hard.\#You'll feel cooler, too.<#>
 parties like it's 1999!<#>
-Mucus Blast<#>
+Mucus Blast<#>Взрыв слизи
 Send out the Baby Fishman to blast an enemy with\#sticky mucus. Gets them wet and inflicts nastiness.<#>
 directs the Baby Fishman!<#>
-Shock Current<#>
+Shock Current<#>Ударный ток
 Command the Baby Fishman to zap them! Hits\#all enemies, but fries the Baby for a few turns.<#>
 unleashes the Baby Fishman!<#>
 T. Edge Penalty<#>
 Didn't your mother tell you not to play with knives?<#>
 cuts his finger.<#>
-Golden Finger<#>
+Golden Finger<#>Золотой палец
 Let the Midas touch turn all it blasts, into gold.\#The beauty of such a move can blind an enemy.<#>
 fires the ultimate beam!<#>
 Bedazzle<#>
@@ -1222,7 +1220,7 @@ works out all the knots!<#>
 Shank<#>
 A quick stab to show them you mean business.<#>
 stabs a bitch!<#>
-Leg Stretches<#>
+Leg Stretches<#>Растяжка ног
 Stretch those calves. Recovers TP and relieves\#tension. If tension is removed, TP is fully restored.<#>
 gets in a good stretch!<#>
 White Streak<#>
@@ -1320,14 +1318,14 @@ boxes!<#>
 Special Hide<#>
 SPECIAL HIDE FOR USE IN CROWD FIGHT<#>
 hides behind the crowd.<#>
-Wallop<#>
-A flimsy punch. Builds a little TP.<#>
-Migraine<#>
-That's gotta hurt. Builds a lot of TP in exchange\#for 50 HP.<#>
-Laser Vision<#>
-Neu's signature technique: double-beamed death\#from the eyes. Has a chance to inflict burning.<#>
-Twirling Kicks<#>
-Spin to win! Hits all enemies. Can trip foes who\#are already off-balance.<#>
+Wallop<#>Удар
+A flimsy punch. Builds a little TP.<#>Слабый удар. Добавляет немного ОТ.
+Migraine<#>Мигрень
+That's gotta hurt. Builds a lot of TP in exchange\#for 50 HP.<#>Будет больно. Добавляет много ОТ взамен на\#50 ОЗ.
+Laser Vision<#>Лазерное зрение
+Neu's signature technique: double-beamed death\#from the eyes. Has a chance to inflict burning.<#>Фирменная техника Нью: двойные лучи смерти\#из глаз. Имеет шанс воспламенить противника.
+Twirling Kicks<#>Вращающиеся пинки
+Spin to win! Hits all enemies. Can trip foes who\#are already off-balance.<#>Хочешь жить - умей вертеться! Наносит урон всем\#врагам. Может уронить врагов без равновесия.
 Death Glare<#>Смертельный взгляд
 The meanest stink eye imaginable.\#Inflicts tension, can scare spooked opponents.<#>Самый яростный и отвратительный взгляд, который только\#можно представить. Напрягает и может напугать оппонентов.
 Dissipation<#>Рассеивание

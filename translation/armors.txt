@@ -18,19 +18,19 @@ Custom Bullet<#>Особая пуля
 A custom made .476 bullet.<#>Особая, существующая в единственном экземпляре пуля\#.476-го калибра.
 Plaid Rags<#>Клетчатые лохмотья
 Luxury rags in the burburroo pattern.\#For the precocious beggar.<#>Роскошные лохмотья в стиле "Бурбуру".\#Для попрошайки.
-Dusty Cravat<#>
-Authentic dusting cloth that doubles as\#outmoded neckwear.<#>
-Red Polyester Cravat<#>
-A fine cravat in the mail coach style.\#Made from local polyester. Increases HP.<#>
-Peasant's Hat<#>
-The most humble of the big hat familly.<#>
-Human Fat<#>
-Hair gel, not for the faint of heart.\#Increases maximum SP.<#>
+Dusty Cravat<#>Пыльный галстук
+Authentic dusting cloth that doubles as\#outmoded neckwear.<#>Аутентичная тряпка для пыли, также служащая\#старомодным галстуком.
+Red Polyester Cravat<#>Красный полиэстеровый галстук
+A fine cravat in the mail coach style.\#Made from local polyester. Increases HP.<#>Изящный галстук в стиле почтовой кареты.\#Изготовлен из местного полиэстера. Повышает ОЗ.
+Peasant's Hat<#>Крестьянская шляпа
+The most humble of the big hat familly.<#>Самая скромная из семейства больших шляп.
+Human Fat<#>Человеческий жир
+Hair gel, not for the faint of heart.\#Increases maximum SP.<#>Гель для волос, не для слабонервных.\#Повышает максимальные ОН.
 Leadfoil Rags<#>
 Turn this fucking world to rust!\#Reduces fire damage.<#>
 Tinfoil Bandages<#>
 Makes it harder for THEM to find you.\#Reduce bleeding slightly.<#>
-Champion's Belt<#>
+Champion's Belt<#>Чемпионский пояс
 EWC tag team champion belt of '82.\#Slight increase in SP and skill cost reduction.<#>
 Salty Bathrobe<#>
 A grim vestment, highly resistant to damage.\#Reduces attack, mobility and doubles SP costs.<#>
@@ -116,26 +116,26 @@ Mustache Oil<#>
 Grease to keep that 'stache sleek.\#Increases fire vulnerability.<#>
 Crowned Tooth<#>
 Relic of a painful and unfortunate\#trip to the dentist.<#>
-Infinity Jersey XL<#>
+Infinity Jersey XL<#>Майка бесконечности XL
 Knockoff sportswear stretched to its theoretical\#limit. Fuels your undying fury.<#>
-Weighted Belt<#>
-A hefty strap to keep you grounded. Resist fallen and\#off balance, but become incredibly slow.<#>
-Salt Diamond<#>
-The world's only ten-carat sodium gemstone.\#Provides exceptional special defense.<#>
-Neu Crew Poncho<#>
-The uniform of the Neu Crew. Formerly, at least.<#>
-Brass Pauldron<#>
-Custom shoulder pad made of brass.\#The spike is just for show.<#>
-Shurik's Specs<#>
-Shurik's glasses.\#The prescription is wildly outdated.<#>
-Salty Censer<#>
-A well-kept incense burner. Its smoke supposedly\#has healing properties. May be carcinogenic.<#>
-Polyethylene Cravat<#>
-Plastic bags stylishly refurbished into neckwear.\#Increases speed.<#>
-Rando Patch<#>
-Patch of cloth from a Rando soldier uniform.\#Slight boost in experience gain. Stats down.<#>
+Weighted Belt<#>Утяжеленный пояс
+A hefty strap to keep you grounded. Resist fallen and\#off balance, but become incredibly slow.<#>Тяжёлый ремень удерживающий вас на ногах. Сопротивление\#падению и потере равновесия, но безумное понижение скорости.
+Salt Diamond<#>Солевой алмаз
+The world's only ten-carat sodium gemstone.\#Provides exceptional special defense.<#>Единственный в мире десятикаратный натриевый драгоценный камень.\#Обеспечивает исключительную специальную защиту.
+Neu Crew Poncho<#>Пончо команды Нью
+The uniform of the Neu Crew. Formerly, at least.<#>Униформа команды Нью. Бывшая, по крайней мере.
+Brass Pauldron<#>Латунный наплечник
+Custom shoulder pad made of brass.\#The spike is just for show.<#>Кустарный наплечник, скованный из латуни.\#Шипы просто для вида.
+Shurik's Specs<#>Очки Шурика
+Shurik's glasses.\#The prescription is wildly outdated.<#>Очки Шурика.\#Диоптрии давно не подходят.
+Salty Censer<#>Солёное кадило
+A well-kept incense burner. Its smoke supposedly\#has healing properties. May be carcinogenic.<#>Ухоженное кадило. Его дым якобы имеет целебные\#свойства. Курение вызывает рак.
+Polyethylene Cravat<#>Полиэтиленовый галстук
+Plastic bags stylishly refurbished into neckwear.\#Increases speed.<#>Пластиковые пакеты, стильно переработанные в\#галстук. Повышает скорость.
+Rando Patch<#>Нашивка Рандо
+Patch of cloth from a Rando soldier uniform.\#Slight boost in experience gain. Stats down.<#>Нашивка с униформы солдата Рандо. Немного повышает\#получемый опыт. Понижает характеристики.
 One Franchise, infinite kings.<#>
-Rando Mask<#>
-It stinks of sweat and regret. Increased resistance\#to physical damage, decreased agility.<#>
-Cruel Sack<#>
-The prized trashbag of Bob Versace. Applies Stink.\#You feel disgusting - defense down, agility down.<#>
+Rando Mask<#>Маска Рандо
+It stinks of sweat and regret. Increased resistance\#to physical damage, decreased agility.<#>Она воняет потом и сожалением. Повышено\#сопротивление к физическому урону, понижена ловкость.
+Cruel Sack<#>Жестокий мешок
+The prized trashbag of Bob Versace. Applies Stink.\#You feel disgusting - defense down, agility down.<#>Ценный мусорный мешок Боба Версаче. Добавляет вонь.\#Вы чувствуете себя отвратительно - защита, ловкость снижаются.

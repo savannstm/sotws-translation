@@ -279,7 +279,7 @@ Key for a suite in the Sweet Breeze Hotel.\#The room number is not listed.<#>К�
 Salt Souffle<#>Солевое суфле
 The only dish comprised of 100% pure sodium.\#Heals 350 HP and removes oiled up, burning.<#>Единственное блюдо, состоящее из 100%-ного чистого натрия.\#Восстанавливает 350 ОЗ и снимает статусы масла и горения.
 Balloon Snake<#>Шарик-змея
-Serpentus helius. Friendlier than most snakes.<#>Serpentus helius. Дружелюбнее большинства змей. 
+Serpentus helius. Friendlier than most snakes.<#>Serpentus helius. Дружелюбнее большинства змей.
 Meat Shake<#>Мясо змеи
 A delicious treat made from meat.<#>Блюдо-деликатес, сделанное из мяса змеи.
 Salty Jerky<#>Солёное мясо

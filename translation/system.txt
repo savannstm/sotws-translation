@@ -5,7 +5,7 @@ Coat<#>
 Hat<#>
 Jewelry<#>
 Wraps<#>
-Flourish<#>
+Flourish<#>Украшение
 Bullet<#>
 Neckwear<#>
 Ponchos<#>

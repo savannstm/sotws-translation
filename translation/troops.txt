@@ -14,47 +14,47 @@ Don't make me flip out!<#>Не беси меня!
 {Pedro Rodrigez}Good luck dealing with that\#guilt for the rest of your lives!<#>{Педро Родригез}Удачи нести это бремя вины\#весь остаток ваших жизней!
 {Pedro Rodrigez}Cheaters! Dirty cheaters!<#>{Педро Родригез}Подлецы! Грязные подлецы!
 {Pedro Rodrigez}I want outta this game!<#>{Педро Родригез}Я схожу с этого поезда!
-{Dex Muldoon}This is it, cheesebags!<#>
-{Dex Muldoon}I am taking you all out!<#>
-{Dex Muldoon}WOW, you're good!<#>
-{Sean Shawn}Boy... you're a tough cookie...<#>
-{Sean Shawn}Please, taste my flesh, you are\#the superior predator...<#>
-{Roland Von Buckingham}Cellophane embrace me.<#>
-{Vinny Ramón}It's two on three this time, Lin!<#>
-{Lin Rhodes}That's not fair! We're outnumbered!<#>
-{Vinny Ramón}No we ain't! Check it!<#>
-{Vinny Ramón}Good luck poppin' this one!<#>
-{Vinny Ramón}It's two on two this time.\#Lin, follow my lead!<#>
-{Lin Rhodes}Oh no! Vinny! What should I do?<#>
-{Vinny Ramón}Hang in there!<#>
+{Dex Muldoon}This is it, cheesebags!<#>{Декс Малдун}Вот и всё, самоуверенные ублюдки!
+{Dex Muldoon}I am taking you all out!<#>{Декс Малдун}Я убью вас всех!
+{Dex Muldoon}WOW, you're good!<#>{Декс Малдун}ВАУ, ты хорош!
+{Sean Shawn}Boy... you're a tough cookie...<#>{Син Шон}Парень... ты крепкий орешек...
+{Sean Shawn}Please, taste my flesh, you are\#the superior predator...<#>{Син Шон}Прошу, вкуси мою плоть, высший\#хищник...
+{Roland Von Buckingham}Cellophane embrace me.<#>{Роланд фон Бакингем}Целлофан, обними меня.
+{Vinny Ramón}It's two on three this time, Lin!<#>{Винни Рамон}В этот раз трое на двоих, Лин!
+{Lin Rhodes}That's not fair! We're outnumbered!<#>{Лин Роудс}Нечестно! Мы в меньшинстве!
+{Vinny Ramón}No we ain't! Check it!<#>{Винни Рамон}Вовсе нет! Смотри!
+{Vinny Ramón}Good luck poppin' this one!<#>{Винни Рамон}Удачи лопнуть его!
+{Vinny Ramón}It's two on two this time.\#Lin, follow my lead!<#>{Винни Рамон}В этот раз двое на двоих.\#Лин, повторяй за мной!
+{Lin Rhodes}Oh no! Vinny! What should I do?<#>{Лин Роудс}О нет! Винни! Что мне делать?
+{Vinny Ramón}Hang in there!<#>{Винни Рамон}Держись!
 {Vinny Ramón}You'll get yours one day, cute stuff!<#>
-{Lin Rhodes}Vinny, no!<#>
-{Lin Rhodes}What is happening?<#>
-{Vinny Ramón}Lin!<#>
-{Vinny Ramón}You shitsacks are gonna get it now!<#>
-{Vinny Ramón}Get ready, Lin!\. Let's hit 'em with full force!<#>
-{Lin Rhodes}Uhh,\. o-okay!<#>
-{Vinny Ramón}Shit, not again!<#>
-{Lin Rhodes}Come on, man!<#>
+{Lin Rhodes}Vinny, no!<#>{Лин Роудс}Винни, нет!
+{Lin Rhodes}What is happening?<#>{Лин Роудс}Что происходит?
+{Vinny Ramón}Lin!<#>{Винни Рамон}Лин!
+{Vinny Ramón}You shitsacks are gonna get it now!<#>{Винни Рамон}Вы, говнари, теперь по самые помидоры\#получите!
+{Vinny Ramón}Get ready, Lin!\. Let's hit 'em with full force!<#>{Винни Рамон}Давай, Лин!\. Бьём их в полную силу!
+{Lin Rhodes}Uhh,\. o-okay!<#>{Лин Роудс}Ээ,\. л-ладно!
+{Vinny Ramón}Shit, not again!<#>{Винни Рамон}Чёрт, не снова!
+{Lin Rhodes}Come on, man!<#>{Лин Роудс}Ну же, мужик!
 {Chet Blur}No jersey, no mercy!<#>
-{Chet Blur}Come on,\. hit me with your best shot!<#>
-{Chet Blur}Man, I...<#>
-{Chet Blur}I can't do this.<#>
-{Chet Blur}Too rough, dude!<#>
-{Chet Blur}What did I just say?<#>
-{Arnold Shpitz}I'm no one in particular.<#>
-{Doyle Muscare}I'll make mincemeat out of you!<#>
-{Doyle Muscare}They'll kill you for me.<#>
-{Lord Baxter Umpire}Foul!<#>
-{Cormack Rex}Savages, can't leave an old man in peace.<#>
+{Chet Blur}Come on,\. hit me with your best shot!<#>{Чет Блюр}Ну же,\. бей меня лучшим ударом!
+{Chet Blur}Man, I...<#>{Чет Блюр}Мужик, я...
+{Chet Blur}I can't do this.<#>{Чет Блюр}Я не могу.
+{Chet Blur}Too rough, dude!<#>{Чет Блюр}Слишком жёстко, чувак!
+{Chet Blur}What did I just say?<#>{Чет Блюр}Что я только что сказал?
+{Arnold Shpitz}I'm no one in particular.<#>{Арнольд Шпиц}Никто особенный.
+{Doyle Muscare}I'll make mincemeat out of you!<#>{Дойль Мускэр}Я тебя в фарш нашинкую!
+{Doyle Muscare}They'll kill you for me.<#>{Дойль Мускэр}Они убьют тебя за меня.
+{Lord Baxter Umpire}Foul!<#>{Лорд Бакстер Умпайр}
+{Cormack Rex}Savages, can't leave an old man in peace.<#>{Кормак Рекс}Дикари, не можете оставить старика в покое.
 {Cormack Rex}Muffin!<#>
-{Alcohol Keeth}It's my first time being violent.<#>
-{Alcohol Keeth}It's time for me to live up to my family name.<#>
-{Alcohol Keeth}But I was the underdog...<#>
-{Senyor Keister}Guess I just got...\| disenfranchised.<#>
-{Jessie Mack}It's all just same ol' meat.<#>
-{Alejandro Babbage}You can't keep people away from infinity.<#>
-{Clyde Cyclone}Put me back together when you're done.<#>
+{Alcohol Keeth}It's my first time being violent.<#>{Алкоголь Кит}Я впервые применяю жестокость.
+{Alcohol Keeth}It's time for me to live up to my family name.<#>{Алкоголь Кит}Настало время мне оправдать мою фамилию.
+{Alcohol Keeth}But I was the underdog...<#>{Алкоголь Кит}Но я бы неудачником...
+{Senyor Keister}Guess I just got...\| disenfranchised.<#>{Сеньор Кейстер}Похоже, я только что оказался...\|\#дефраншизированным.
+{Jessie Mack}It's all just same ol' meat.<#>{Джесси Мак}Это всё одинаковое старое мясо.
+{Alejandro Babbage}You can't keep people away from infinity.<#>{Алехандро Бэббэдж}Вы не убережёте людей от бесконечности.
+{Clyde Cyclone}Put me back together when you're done.<#>{Клайд Циклон}Собери меня по частям когда закончишь.
 {Raymund Ripe}You wait, you live. You fight, you die.<#>
 {Raymund Ripe}You just dug your own grave.<#>
 {Raymund Ripe}Soft skin... Kitty Babe...<#>
