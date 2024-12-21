@@ -40,48 +40,48 @@ Missed! %s took no damage!<#>
 %s's %s went up!<#>
 %s's %s went down!<#>
 %s's %s returned to normal.<#>
-There was no effect on %s!<#>
-All Foes<#>
-One Random Foe<#>
-%d Random Foes<#>
-All Allies<#>
-All Dead Allies<#>
-One Random Ally<#>
-%d Random Allies<#>
+There was no effect on %s!<#>Никакого эффекта на %s!
+All Foes<#>Все враги
+One Random Foe<#>Один случайный враг
+%d Random Foes<#>%d случайных врагов
+All Allies<#>Все союзники
+All Dead Allies<#>Все мёртвые союзники
+One Random Ally<#>Один случайный союзник
+%d Random Allies<#>%d случайных союзников
 -%s <#>
 +%s <#>
--%s SP<#>
-+%s SP<#>
--%s TP<#>
-+%s TP<#>
-DRAIN<#>
-CRITICAL!<#>
-MISS<#>
-EVADE!<#>
-FAILED<#>
+-%s SP<#>-%s ОН
++%s SP<#>+%s ОН
+-%s TP<#>-%s ОТ
++%s TP<#>+%s ОТ
+DRAIN<#>ВЫСАСЫВАНИЕ
+CRITICAL!<#>КРИТ!
+MISS<#>ПРОМАХ
+EVADE!<#>УКЛОНЕНИЕ!
+FAILED<#>НЕУДАЧА
 +%s<#>
 -%s<#>
 %s<#>
-WEAKPOINT<#>
-RESIST<#>
-IMMUNE<#>
-ABSORB<#>
-BUFF<#>
-DEBUFF<#>
-Execute<#>
+WEAKPOINT<#>СЛАБОЕ МЕСТО
+RESIST<#>СОПРОТИВЛЕНИЕ
+IMMUNE<#>ИММУНИТЕТ
+ABSORB<#>ПОГЛОЩЕНИЕ
+BUFF<#>БОНУС
+DEBUFF<#>СТАТУС
+Execute<#>Исполнить
 Input Attacks<#>Ввод атак
-Change<#>
-Remove<#>
-Revert<#>
-Finish<#>
--Empty-<#>
--Remove-<#>
-- No Data -<#>
-Equipment<#>
-New Skills<#>
-Your gang<#>
-%s won the battle.<#>
-%s has leveled up!<#>
+Change<#>Изменить
+Remove<#>Убрать
+Revert<#>Вернуть
+Finish<#>Завершить
+-Empty-<#>-Пусто-
+-Remove-<#>-Удалить-
+- No Data -<#>- Нет данных -
+Equipment<#>Снаряжение
+New Skills<#>Новые навыки
+Your gang<#>Ваша группа
+%s won the battle.<#>%s выиграл битву.
+%s has leveled up!<#>%s повысил свой уровень!
 Leftovers<#>Остатки
 +%sEXP<#>+%s ОПЫТА
 %1.2f%%<#>
@@ -122,18 +122,18 @@ Auto-Dash<#>
 Walk<#>
 Dash<#>
 Automatically dash without holding the run button.<#>
-Instant Text<#>
-Normal<#>
-Instant<#>
-Set message text to appear one-by-one or instantly.<#>
-Battle Animations<#>
-Hide<#>
-Show<#>
-Hide animations during battle to speed up battles?<#>
-Return to Title Screen<#>
-Go back to the title screen.<#>
-Quit Game<#>
-Quit the game.<#>
+Instant Text<#>Мгновенный текст
+Normal<#>Выключен
+Instant<#>Включён
+Set message text to appear one-by-one or instantly.<#>Настройка отображения текста мгновенно или по буквам.
+Battle Animations<#>Анимации в бою
+Hide<#>Скрывать
+Show<#>Показывать
+Hide animations during battle to speed up battles?<#>Скрывать анимации в бою, чтобы ускорить бои?
+Return to Title Screen<#>Выйти в главное меню
+Go back to the title screen.<#>Вернуться в главное меню.
+Quit Game<#>Выйти из игры
+Quit the game.<#>Выйти из игры.
 Welcome! Take a look around!<#>
 Thank you for your purchase!<#>
 I'll make good use of this.<#>
@@ -146,12 +146,12 @@ You can't carry any more of that!<#>
 Thank you, come back again soon!<#>
 You can't view details of that!<#>
 We are all sold out of those!<#>
-In Inventory<#>
-How many?<#>
-In Stock<#>
-Sold Out<#>
-Inflicts<#>
-Resists<#>
+In Inventory<#>В инвентаре
+How many?<#>Сколько?
+In Stock<#>В наличии
+Sold Out<#>Распродано
+Inflicts<#>Наносит
+Resists<#>Сопротивление
  Damage<#>
  Restore<#>
  Drain<#>

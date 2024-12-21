@@ -56,7 +56,6 @@ Pick weapon up (No Anim)<#>
 Maggot Bites<#>Укус опарыша
 Itty bitty bites from itty bitty mouths.<#>
 chews at your flesh!<#>жуёт вашу кожу!
-<one animation>.\#<Motion Action = 4><#>
 Maggot Spit<#>Плевок опарыша
 Eeeeeeewwwwwwwwwwww.<#>
 spits some funky shit on you!<#>плюёт какое-то дерьмо на вас!
@@ -574,13 +573,11 @@ flung salt in your eyes!<#>
 Pistol Aim<#>
 Gun.<#>
 aims between your eyes.<#>
-<anti fail>.\#<Motion Action = 5><#>
 Pistol Ready<#>
 Gun?<#>
 cocks the hammer...<#>
 Pistol FIRE<#>
 GUN!<#>
-<anti fail>.\#<Motion Action = 4><#>
 No Hope<#>
 At this point, it's already over.<#>
 has given up.<#>
@@ -883,16 +880,16 @@ Burn, baby, BURN!<#>
 lines up his barrel...<#>
 Davy Fireball<#>
 shot out a burst of fire!<#>
-Silken Wrist<#>
+Silken Wrist<#>Шёлковое запястье
 Practiced wrist fling.<#>
 smacks with his wrist!<#>
-Ascending Claw<#>
+Ascending Claw<#>Восходящий коготь
 Backwards thrust.<#>
 thrusts up!<#>
-Descending Claw<#>
+Descending Claw<#>Нисходящий коготь
 Focused thrust.<#>
 thrusts down!<#>
-Side Kick<#>
+Side Kick<#>Удар ногой
 An extended kick.<#>
 performs a side kick!<#>
 Flying Axe Kick<#>Удар летящего топора
@@ -1077,17 +1074,17 @@ bites your head.<#>
 Velvet-fu<#>Вельвет-фу
 Urban legends say, this style, of Zhang Xianzhong,\#was lost after being banned off the infomercial scene.<#>Фольклор гласит, что этот стиль, стиль Чжан Сяньчжуна, был утерян\#после того, как его запретили использовать в обучающих роликах.
 Velvet Style Kung Fu!<#>Вельветовый стиль Кунг-фу!
-Full Thrust<#>
-(WWA) Get your fingers up in their business.\#Will probably set the opponent Off Balance.<#>
+Full Thrust<#>Сильный толчок
+(WWA) Get your fingers up in their business.\#Will probably set the opponent Off Balance.<#>(WWA) Вмешайтесь в чужие дела.\#Вероятно, выведет противника из равновесия.
 thrusts forward!<#>
-(WWD) Works your leg like a guillotine.\#Has a chance of bleeding the enemy.<#>
+(WWD) Works your leg like a guillotine.\#Has a chance of bleeding the enemy.<#>(WWD) Работает ногой, как гильотиной.\#Шанс вызвать кровотечение у противника.
 (DDD) A no-nonsense, double back kick.\#May launch enemy into the air. Costs 120 HP.<#>
-Goat Headbutt<#>
-(ADS) Devastating cranial collision.\#May stun, but low damage against good def.<#>
+Goat Headbutt<#>Удар козьей головы
+(ADS) Devastating cranial collision.\#May stun, but low damage against good def.<#>(ADS) Разрушительный удар головой.\#Может оглушить, но наносит низкий урон против хорошей защиты.
 rams his head!<#>
 A disengaging stance that helps regain focus.\#Recovers some SP.<#>
 (WAS) The first supreme technique of the Velvet\#Style. Pierces defenses at the cost of 200 HP.<#>
-The Major Iris<#>
+The Major Iris<#>Крупный Ирис
 (ASAS) The second supreme technique. Shreds\#enemy defenses; shreds your body in return.<#>
 tears them apart!<#>
 Twisted Stance<#>
@@ -1156,19 +1153,19 @@ comes back!<#>возвращается!
 Urban legends say, this style, of  Zhang Xianzhong,\#was lost after being banned off the infomercial scene.<#>
 smacks with wrist!<#>
 Trick Kick<#>Трюк-кик
-A feint attack, that delivers a kick to the groin.<#>
-delivers a groin kick!<#>
+A feint attack, that delivers a kick to the groin.<#>Ложная атака, заключающаяся в ударе ногой в пах.
+delivers a groin kick!<#>наносит удар ногой в пах!
 (DDD) A no-nonsense, double back kick.\#May launch enemy into the air.<#>
 Misdirection<#>Дезориентация
 Raise the alarm. Put the enemy on edge. Makes\#opponents attack wildly; no one is safe.<#>
 aims at something that isn't there!<#>
 Advancing Stance<#>Стойка продвижения
-A stance that shifts you towards the enemy.\#Recovers all TP.<#>
-closes distance!<#>
-(WAS) The first supreme technique of the Velvet\#Lotus, precise strikes shred through solid defence.<#>
+A stance that shifts you towards the enemy.\#Recovers all TP.<#>Стойка, смещающая вас к врагу.\#Восстанавливает все ОТ.
+closes distance!<#>сокращает дистанцию!
+(WAS) The first supreme technique of the Velvet\#Lotus, precise strikes shred through solid defence.<#>(WAS) Первая высшая техника Вельветового лотоса - точные удары,\#пробивающие высокую защиту.
 Fruit Toss<#>Бросок фрукта
-Hurl what used to be fruit at an unsuspecting foe.\#Very low chance to poison.<#>
-chucks some rotten fruit!<#>
+Hurl what used to be fruit at an unsuspecting foe.\#Very low chance to poison.<#>Бросьте нечто, раньше бывшее фруктом, в ничего не\#подозревающего врага. Очень низкий шанс отравить.
+chucks some rotten fruit!<#>бросает гнилой фрукт!
 Putrid Meditation<#>Вонючая медитация
 Embrace the filth. Restores some SP.<#>
 finds inner peace!<#>
@@ -1177,14 +1174,14 @@ Jiggy Jig<#>Джигги-джиг
 A basic dance. Boosts your confidence (and\#your attack).<#>
 gets down with his bad self!<#>
 Glass Breaker<#>Стеклобой
-Put your back into this one. Deals good damage,\#but can backfire. Chance to bleed.<#>
-beats them over the head!<#>
+Put your back into this one. Deals good damage,\#but can backfire. Chance to bleed.<#>Придётся поднапрячь спину. Наносит высокий урон,\#но может обернуться вам. Шанс вызвать кровотечение.
+beats them over the head!<#>бьёт по голове!
 Pumped-Up Jig<#>Заряженный джиг
-An electrifying boogie. Gets your health back in\#order, but tires you out afterward.<#>
-tears up the dancefloor!<#>
+An electrifying boogie. Gets your health back in\#order, but tires you out afterward.<#>Электризующий буги-вуги. Восстанавливает здоровье,\#но утомляет.
+tears up the dancefloor!<#>разрывает танцпол!
 Bottle Juggle<#>Жонглирование бутылками
-A classic party trick. Shame that you're not very\#good at it. Hits three random enemies.<#>
-juggles! Poorly.<#>
+A classic party trick. Shame that you're not very\#good at it. Hits three random enemies.<#>Классический трюк для вечеринок. Жаль, что вы не так\#хороши в нём. Попадает по трём случайным врагам.
+juggles! Poorly.<#>жонглирует! Плохо.
 Glass Breaker Backfire<#>
 That's what you get for playing with broken glass.<#>
 cut himself on accident!<#>случайно порезался!
@@ -1209,59 +1206,59 @@ displays his jewelry!<#>
 Trowel Ravage<#>
 Show them you're not fucking around.<#>
 gives 'em a thwacking!<#>
-Check the Time<#>
+Check the Time<#>Уточнение времени
 Look at your watch and pretend to not be a part of\#the fight. Restores SP and removes Taunt.<#>
 glances at his watch!<#>
 Spout<#>
 Use the Baby Fishman to cool yourself off. Heals\#burning, washes off gunk, and makes you wet.<#>
 deploys the Baby Fishman!<#>
-Full Stretch<#>
+Full Stretch<#>Полная растяжка
 works out all the knots!<#>
-Shank<#>
+Shank<#>Удар
 A quick stab to show them you mean business.<#>
 stabs a bitch!<#>
 Leg Stretches<#>Растяжка ног
 Stretch those calves. Recovers TP and relieves\#tension. If tension is removed, TP is fully restored.<#>
 gets in a good stretch!<#>
-White Streak<#>
+White Streak<#>Белая полоса
 A slap of paint that's sure to disorient. Sets foes\#off balance and can even make them cry.<#>
 slaps with his paintbrush!<#>
-White Splash<#>
+White Splash<#>Белый всплеск
 Dispense the whole bucket's worth onto their face.\#Gets them wet. Small chance to piss them off.<#>
 chucks a bucketload of paint!<#>
-Ankle Breaker<#>
-A fierce kick to the shins. Can be used to knock\#a foe over, if they're already wobbly.<#>
-cracks their shins!<#>
-Iron Glutes<#>
+Ankle Breaker<#>Голенолом
+A fierce kick to the shins. Can be used to knock\#a foe over, if they're already wobbly.<#>Яростный удар по голени. Может уронить врага, если\#он уже без равновесия.
+cracks their shins!<#>ломает голень!
+Iron Glutes<#>Железные ягодицы
 Unleash the power of your chiseled posterior.\#Guaranteed to crush the life out of fallen opponents.<#>
 falls with the force of a meteor!<#>
-Throat Slit<#>
+Throat Slit<#>Разрезание горла
 A devastating finisher. Does great damage against\#foes who are scared, stunned, or paralyzed.<#>
 slices open a fool!<#>
 A handy way out of a sticky situation. Makes you\#hidden, but lowers your defense.<#>
 escapes into the smoke!<#>
-Painted Red<#>
+Painted Red<#>Красный всплеск
 A series of slashes set to mutilate\#bleeding enemies further.<#>
 slashes out their veins!<#>
-Poison Dart<#>
+Poison Dart<#>Ядовитый дротик
 Dip your blade in lead paint and fling at a bastard.\#High chance to poison.<#>
 flings a poisoned dagger!<#>
-War Paint<#>
+War Paint<#>Боевая раскраска
 Let your foes know that you will bathe in their blood!\#Empowers your team, boosting attack and speed.<#>
 bellows a warcry!<#>
 Swat<#>
 A quick smack to the cheek.<#>
 gives 'em a slap!<#>
-Spew<#>
+Spew<#>Рвота
 Cough up some gunk onto an enemy. Gets them\#wet and has a chance to make them feel nasty.<#>
 spits up some weird stuff!<#>
-Aromatherapy<#>
+Aromatherapy<#>Ароматерапия
 Fill the air with the aroma of exotic salts.\#Heals many ailments and raises special defense.<#>
 sways his censer...<#>
-Ingest<#>
+Ingest<#>Поглощение
 Chomp down on some tasty salt. Restores HP\#and SP, but only if you have salt in your inventory.<#>
 gets ready to eat.<#>
-Salt Wall<#>
+Salt Wall<#>Соляная стена
 Deploy your impenetrable hide to protect your team!\#Redirects all damage to the user.<#>
 makes a stand!<#>
 Takedown<#>
@@ -1301,10 +1298,10 @@ uppercuts up!<#>
 Gut Kick<#>
 An extended gut kick.<#>
 performs a gut kick!<#>
-Flying Dropkick<#>
-(WWD) Go flying with both of your feet forward.\#Has a chance to fell the enemy. Costs 50 HP.<#>
+Flying Dropkick<#>Удар в полёте
+(WWD) Go flying with both of your feet forward.\#Has a chance to fell the enemy. Costs 50 HP.<#>(WWD) Летите, вытянув обе ноги вперед.\#Есть шанс сбить врага с ног. Стоит 50 ОЗ.
 Lead Heel<#>
-Taste of Flesh<#>
+Taste of Flesh<#>Вкус плоти
 (AAD) Use your mishapen teeth to tear them apart.\#Takes Fluid Enemies off guard. Heals 50 HP.<#>
 takes a big bite!<#>
 Knuckle Cracker<#>

@@ -1,7 +1,7 @@
 {Darry Sweets}I can play dirtier, you filth!<#>{Дэрри Свитс}Я могу играть грязнее, мусор!
 {Darry Sweets}Don't shag my riches!<#>{Дэрри Свитс}Не трахай мои богатства!
 {Augustus Estrada}I'm ashamed I ever stood up for you, Roland.<#>{Август Эстрада}Я опозорен тем, что даже вступился за тебя, Роланд.
-{Roland Von Buckingham}Gotta get hard!<#>{Роланд фон Бакингэм}Нужно поднажать!
+{Roland Von Buckingham}Gotta get hard!<#>{Роланд фон Бакингэм}Надо поднажать!
 {Roland Von Buckingham}Dagnabbit!<#>{Роланд фон Бакингэм}Господи!
 {Bob Versace}I was only doing this ironically.<#>{Боб Версаче}Я делал это лишь в шутку.
 {Bob Versace}You can take a man's bags,\.\#but you can't take his stench!<#>{Боб Версаче}Можно забрать у человека пакеты,\.\#но ты никогда не заберёшь его запах!
@@ -55,29 +55,29 @@ Don't make me flip out!<#>Не беси меня!
 {Jessie Mack}It's all just same ol' meat.<#>{Джесси Мак}Это всё одинаковое старое мясо.
 {Alejandro Babbage}You can't keep people away from infinity.<#>{Алехандро Бэббэдж}Вы не убережёте людей от бесконечности.
 {Clyde Cyclone}Put me back together when you're done.<#>{Клайд Циклон}Собери меня по частям когда закончишь.
-{Raymund Ripe}You wait, you live. You fight, you die.<#>
-{Raymund Ripe}You just dug your own grave.<#>
+{Raymund Ripe}You wait, you live. You fight, you die.<#>{Рэймунд Райп}Ты ждёшь, ты живёшь. Ты сражаешься, ты умираешь.
+{Raymund Ripe}You just dug your own grave.<#>{Рэймунд Райп}Ты только что выкопал себе могилу.
 {Raymund Ripe}Soft skin... Kitty Babe...<#>
 {Raymund Ripe}You're wonderful, Angel Eyes...<#>
-{Silvester de Maistre}You know, I used to be a warlord.\#"Balloon Pants" they called me.<#>
-{Silvester de Maistre}You don't get my title by knowing just one trick.<#>
-{Silvester de Maistre}My signature talent...<#>
-{Silvester de Maistre}...BILOCATION!<#>
-{Silvester de Maistre}I'm done.<#>
+{Silvester de Maistre}You know, I used to be a warlord.\#"Balloon Pants" they called me.<#>{Сильвестр де Майстер}Знаешь, я был военачальником.\#"Штаны-шары" меня называли.
+{Silvester de Maistre}You don't get my title by knowing just one trick.<#>{Сильвестр де Майстер}Такой титул не получишь, зная лишь один приём.
+{Silvester de Maistre}My signature talent...<#>{Сильвестр де Местр}Мой фирменный талант...
+{Silvester de Maistre}...BILOCATION!<#>{Сильвестр де Местр}...БИЛОКАЦИЯ!
+{Silvester de Maistre}I'm done.<#>{Сильвестр де Местр}Я всё.
 {Avatar of Hatred}What's kicking, getting into trouble?<#>
 {Avatar of Hatred}Pop a thrill pill, cool cat.<#>
 {Avatar of Hatred}Check out my cover. You and me, one love.<#>
 {Avatar of Hatred}You've gotta try being someone else.<#>
 {Avatar of Hatred}You can't keep running, I'll touch your nipple.<#>
 {Avatar of Hatred}Smooth moves, keep it clicking.<#>
-{Ross Hillock}Here comes the meat train!<#>
-{Ross Hillock}Can't break my streak!<#>
-{Ross Hillock}Fifth fold... so close!<#>
-{Kirf Dinkle}You killed no one, the franchise lives on!<#>
-{Kirf Dinkle}I'm not a basket case, I'm not!<#>
-{Geronimo Phantasmata}Guys, quit clowning around.\#I'll ice these chumps myself!<#>
-{Geronimo Phantasmata}Tell my brother I said hi.<#>
-{Tingles The Clown}I knew I should've been a lawyer.<#>
+{Ross Hillock}Here comes the meat train!<#>{Росс Хиллок}Вот и прибыл мясной поезд!
+{Ross Hillock}Can't break my streak!<#>{Росс Хиллок}Не могу потерять очередь!
+{Ross Hillock}Fifth fold... so close!<#>{Росс Хиллок}Пятая складка... так близко!
+{Kirf Dinkle}You killed no one, the franchise lives on!<#>{Кирф Динкл}Вы никого не убили, франшиза продолжает жить!
+{Kirf Dinkle}I'm not a basket case, I'm not!<#>{Кирф Динкл}Я не псих, нет!
+{Geronimo Phantasmata}Guys, quit clowning around.\#I'll ice these chumps myself!<#>{Джеронимо Фантазмата}Ребята, кончайте клоунаду.\#Я сам замочу этих болванов!
+{Geronimo Phantasmata}Tell my brother I said hi.<#>{Джеронимо Фантазмата}Передайте привет моему брату.
+{Tingles The Clown}I knew I should've been a lawyer.<#>{Клоун Тинглз}Я знал, что надо было стать юристом.
 {Onion Ploom}I don't get the joke...<#>
 {Spence Mack}Comin' home, Momma Mack...<#>
 {Spanks Star}This isn't as funny as it was in my head.<#>
@@ -146,46 +146,46 @@ Don't make me flip out!<#>Не беси меня!
 {Anaconda Virtue}Can't put my flame out!<#>
 {Anaconda Virtue}Are you kidding me?\#I'm not kidding me.<#>
 {Anaconda Virtue}Are you kidding you?<#>
-{Wilbur Sin}Hell is real.<#>
-{Wilbur Sin}And Hell...\| is here.<#>
-{Wilbur Sin}...<#>
-{Wilbur Sin}Finally...<#>
-{Wilbur Sin}Free...\| from this cursed sin.<#>
-{Darry Sweets}...You...\| you ate it...<#>
-{Darry Sweets}...right in front of me...<#>
-{Darry Sweets}You're gonna regret that!<#>
+{Wilbur Sin}Hell is real.<#>{Уилбур Син}Ад реален.
+{Wilbur Sin}And Hell...\| is here.<#>{Уилбур Син}И ад...\| здесь.
+{Wilbur Sin}...<#>{Уилбур Син}...
+{Wilbur Sin}Finally...<#>{Уилбур Син}Наконец-то...
+{Wilbur Sin}Free...\| from this cursed sin.<#>{Уилбур Син}Свободен...\| от этого проклятого греха.
+{Darry Sweets}...You...\| you ate it...<#>{Дэрри Свитс}...Ты...\| ты съел его...
+{Darry Sweets}...right in front of me...<#>{Дэрри Свитс}...прямо передо мной...
+{Darry Sweets}You're gonna regret that!<#>{Дэрри Свитс}Ты об этом пожалеешь!
 Not out yet!<#>
 I can play dirtier, you filth!<#>
-{Darry Sweets}All I wanted was a taste...<#>
-{Darry Sweets}Check it!<#>
-{Darry Sweets}You just don't know when to quit!<#>
-{Darry Sweets}Guess life wasn't so sweet after all...<#>
-{Will Killjoy}You don't know who you're fucking with!<#>
-{Will Killjoy}You're forcing my hand...<#>
-{Will Killjoy}Let me show you a trick\#I learned from the big R himself.<#>
-{Will Killjoy}Ah... fuck...<#>
-{Will Killjoy}...Floyd...<#>
-{Will Killjoy}...I'm so sorry.<#>
-{Foam Styro}I knew I shouldn't have\#eaten those packing peanuts.<#>
-{Cooper Kelp}If Heaven doesn't have Crispy\#Bitz then send me to Hell.<#>
-{Flynt Woodpecker}I won't allow you to maul me so easily.<#>
-{Flynt Woodpecker}Come, my beauties!<#>
-{Flynt Woodpecker}Let's teach these heathens some manners!<#>
-{Flynt Woodpecker}You didn't kill me.\.\#You just gave me my wings.<#>
-{Flynt Woodpecker}Now I can fly away to paradise.<#>
-{Roland Von Buckingham}You're not going anywhere.<#>
-{Roland Von Buckingham}This isn't your place to interfere, Augustus!<#>
-{Roland Von Buckingham}Back off!<#>
-{Augustus Estrada}Augh!<#>
-{Roland Von Buckingham}Oh...<#>
-{Roland Von Buckingham}No...\. no no no...\| Augustus...!<#>
-{Roland Von Buckingham}Gotta get harder!<#>
-{Gunther Scourge}I ain't gonna keel for you, grease head!<#>
-{Gunther Scourge}The election was rigged!<#>
-{Gunther Scourge}Rigged,\. you son of a bitch!<#>
-{Joel Miller}H-hey! Watch where you're swingin', Lucky!<#>
-{Gremory Gorgonzola}This is bullshit.<#>
-{Gremory Gorgonzola}Ungh...\| Tougher than you look...<#>
+{Darry Sweets}All I wanted was a taste...<#>{Дэрри Свитс}Всё, что я хотел, это попробовать...
+{Darry Sweets}Check it!<#>{Дэрри Свитс}Наблюдай!
+{Darry Sweets}You just don't know when to quit!<#>{Дэрри Свитс}Ты просто не знаешь, когда остановиться!
+{Darry Sweets}Guess life wasn't so sweet after all...<#>{Дэрри Свитс}Похоже, жизнь всё же не такая сладкая...
+{Will Killjoy}You don't know who you're fucking with!<#>{Уилл Киллджой}Ты блядь не знаешь, с кем связался!
+{Will Killjoy}You're forcing my hand...<#>{Уилл Киллджой}Ты вынуждаешь мою руку...
+{Will Killjoy}Let me show you a trick\#I learned from the big R himself.<#>{Уилл Киллджой}Давай покажу тебе трюк, которому\#научился у самого большой Р.
+{Will Killjoy}Ah... fuck...<#>{Уилл Киллджой}Ах... блядь...
+{Will Killjoy}...Floyd...<#>{Уилл Киллджой}...Флойд...
+{Will Killjoy}...I'm so sorry.<#>{Уилл Киллджой}Мне так жаль.
+{Foam Styro}I knew I shouldn't have\#eaten those packing peanuts.<#>{Фоам Стайро}Я знал, что не стоило\#есть тот упакованный арахис.
+{Cooper Kelp}If Heaven doesn't have Crispy\#Bitz then send me to Hell.<#>{Купер Келп}Если в раю нет Crispy Bitz,\#то отправьте меня в ад.
+{Flynt Woodpecker}I won't allow you to maul me so easily.<#>{Флинт Вудпекер}Я не позволю тебе так легко истязать\#меня.
+{Flynt Woodpecker}Come, my beauties!<#>{Флинт Вудпекер}Вперёд, мои красотки!
+{Flynt Woodpecker}Let's teach these heathens some manners!<#>{Флинт Вудпекер}Давайте научим этих дикарей манерам!
+{Flynt Woodpecker}You didn't kill me.\.\#You just gave me my wings.<#>{Флинт Вудпекер}Вы не убили меня.\.\#Вы просто раскрыли мои крылья.
+{Flynt Woodpecker}Now I can fly away to paradise.<#>{Флинт Вудпекер}Теперь я могу улететь в рай.
+{Roland Von Buckingham}You're not going anywhere.<#>{Роланд фон Бакингэм}Вы никуда не идёте.
+{Roland Von Buckingham}This isn't your place to interfere, Augustus!<#>{Роланд фон Бакингэм}Тебе не надо сюда вмешиваться, Август!
+{Roland Von Buckingham}Back off!<#>{Роланд фон Бакингэм}Проваливай!
+{Augustus Estrada}Augh!<#>{Август Эстрада}Ау!
+{Roland Von Buckingham}Oh...<#>{Роланд фон Бакингэм}Ох...
+{Roland Von Buckingham}No...\. no no no...\| Augustus...!<#>{Роланд фон Бакингэм}Нет...\. нет нет нет...\| Август...!
+{Roland Von Buckingham}Gotta get harder!<#>{Роланд фон Бакингэм}Пора поднажать!
+{Gunther Scourge}I ain't gonna keel for you, grease head!<#>{Гюнтер Скурдж}Я тебе не уступлю, жирная голова!
+{Gunther Scourge}The election was rigged!<#>{Гюнтер Скурдж}Выборы подстроили!
+{Gunther Scourge}Rigged,\. you son of a bitch!<#>{Гюнтер Скурдж}Подстроили,\. сукин ты сын!
+{Joel Miller}H-hey! Watch where you're swingin', Lucky!<#>{Джоэл Миллер}Э-эй! Следи, куда махаешь, счастливчик!
+{Gremory Gorgonzola}This is bullshit.<#>{Гремори Горгонзола}Бред.
+{Gremory Gorgonzola}Ungh...\| Tougher than you look...<#>{Гремори Горгонзола}У-уф...\| Ты крепче, чем кажешсья...
 {Flailing Centipede}I'll flay you motherfuckers!<#>
 {Gremory Gorgonzola}I've got heartburn...<#>
 {Flailing Centipede}You're gonna fuckin' pay for that!<#>
@@ -310,8 +310,8 @@ I can play dirtier, you filth!<#>
 {Tony Jones}We'll make you pay for this!\. I swear...!<#>
 {Manny Kluth}Tony, no!<#>
 {Danny DeMarco}You messed up now!\. Take this, butthead!<#>
-{Joel Miller}Alex, STOP!<#>
-{Joel Miller}Everyone, STOP!<#>
+{Joel Miller}Alex, STOP!<#>{Джоэл Миллер}Алекс, ОСТАНОВИСЬ!
+{Joel Miller}Everyone, STOP!<#>{Джоэл Миллер}Все, ОСТАНОВИТЕСЬ!
 {Glenn Cletus}Huck, I'm gettin' whooped!<#>
 {Huckleberry Cletus}Shush yer mouth and ya won't get hit!<#>
 {Glenn Cletus}That ain't fuckin' helpful!<#>
