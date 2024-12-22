@@ -58,7 +58,7 @@ Salt Chunks<#>Кусочки соли
 Chunks of pure salt, and maybe a little dandruff.\#Provides protection.<#>
 Crystal Bathrobe<#>
 The most impenetrable piece of bathroom garb\#known to man. Limits mobility, but grants SP regen.<#>
-Miner's Helmet<#>
+Miner's Helmet<#>Каска шахтёра
 A hat to keep your skull safe. Defensive, but the\#light attracts attention.<#>
 King-Brand Necklace<#>
 A 14-karat gold necklace made by King.\#Makes you feel Cool.<#>
@@ -94,7 +94,7 @@ All-Seeing Fez<#>
 Hat that expands your mind. Doubles max SP,\#but cuts all other stats.<#>
 Old Rosary Belt<#>
 Chain of timeworn rosary beads. Regenerates SP\#and increases max SP, but prevents stancing.<#>
-Rainbow Painter's Gear<#>
+Rainbow Painter's Gear<#>Разноцветная палитра художника
 Imagination in liquid form. Doubles attack and\#defense, but ensures wearer will always move last.<#>
 Infinity Jersey<#>Майка бесконечности
 It speaks to you. Warmly.\#SP increases minorly over time.<#>
@@ -138,4 +138,4 @@ One Franchise, infinite kings.<#>Одна франшиза, короли бес�
 Rando Mask<#>Маска Рандо
 It stinks of sweat and regret. Increased resistance\#to physical damage, decreased agility.<#>Она воняет потом и сожалением. Повышено\#сопротивление к физическому урону, понижена ловкость.
 Cruel Sack<#>Жестокий мешок
-The prized trashbag of Bob Versace. Applies Stink.\#You feel disgusting - defense down, agility down.<#>Ценный мусорный мешок Боба Версаче. Добавляет вонь.\#Вы чувствуете себя отвратительно - защита, ловкость снижаются.
+The prized trashbag of Bob Versace. Applies Stink.\#You feel disgusting - defense down, agility down.<#>Ценный мусорный мешок Боба Версаче. Добавляет вонь.\#Вы чувствуете себя отвратительно - защита и ловкость снижаются.

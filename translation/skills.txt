@@ -824,9 +824,9 @@ Poison Bite (Borislav)<#>
 Inspect<#>
 Making sure everything is in order.<#>
 looks over his gun...<#>
-Single Out<#>
-No one likes being pointed at.<#>
-pierces your soul!<#>
+Single Out<#>Пистолетик
+No one likes being pointed at.<#>Никому не нравится быть на мушке.
+pierces your soul!<#>стреляет вам в душу!
 Aim Down<#>
 You're in trouble now.<#>
 is lining up his shot...<#>
@@ -1077,7 +1077,7 @@ Velvet Style Kung Fu!<#>Вельветовый стиль Кунг-фу!
 Full Thrust<#>Сильный толчок
 (WWA) Get your fingers up in their business.\#Will probably set the opponent Off Balance.<#>(WWA) Вмешайтесь в чужие дела.\#Вероятно, выведет противника из равновесия.
 thrusts forward!<#>
-(WWD) Works your leg like a guillotine.\#Has a chance of bleeding the enemy.<#>(WWD) Работает ногой, как гильотиной.\#Шанс вызвать кровотечение у противника.
+(WWD) Works your leg like a guillotine.\#Has a chance of bleeding the enemy.<#>(WWD) Работайте ногой, как гильотиной.\#Шанс вызвать кровотечение у противника.
 (DDD) A no-nonsense, double back kick.\#May launch enemy into the air. Costs 120 HP.<#>
 Goat Headbutt<#>Удар козьей головы
 (ADS) Devastating cranial collision.\#May stun, but low damage against good def.<#>(ADS) Разрушительный удар головой.\#Может оглушить, но наносит низкий урон против хорошей защиты.
@@ -1186,40 +1186,40 @@ Glass Breaker Backfire<#>
 That's what you get for playing with broken glass.<#>
 cut himself on accident!<#>случайно порезался!
 Wasted Rave<#>Дикий рейв
-Play dirtier. Makes your whole team party hard.\#You'll feel cooler, too.<#>
-parties like it's 1999!<#>
+Play dirtier. Makes your whole team party hard.\#You'll feel cooler, too.<#>Играйте грязнее. Заставляет всю команду дико\#веселиться. Вы тоже почувствуете себя круто.
+parties like it's 1999!<#>веселиться, будто это 1999-ый!
 Mucus Blast<#>Взрыв слизи
-Send out the Baby Fishman to blast an enemy with\#sticky mucus. Gets them wet and inflicts nastiness.<#>
-directs the Baby Fishman!<#>
+Send out the Baby Fishman to blast an enemy with\#sticky mucus. Gets them wet and inflicts nastiness.<#>Пошлите малыша-рыболюда выстрелить по врагу\#липкой слизью. Враги намокают и им становится противно.
+directs the Baby Fishman!<#>направляет малыша-рыболюда!
 Shock Current<#>Ударный ток
-Command the Baby Fishman to zap them! Hits\#all enemies, but fries the Baby for a few turns.<#>
-unleashes the Baby Fishman!<#>
+Command the Baby Fishman to zap them! Hits\#all enemies, but fries the Baby for a few turns.<#>Прикажите малышу-рыболюду поджарить их! Наносит урон\#всем врагам, но малыш поджаривается сам на пару ходов.
+unleashes the Baby Fishman!<#>обрушивает малыша-рыболюда!
 T. Edge Penalty<#>
 Didn't your mother tell you not to play with knives?<#>
 cuts his finger.<#>
 Golden Finger<#>Золотой палец
-Let the Midas touch turn all it blasts, into gold.\#The beauty of such a move can blind an enemy.<#>
-fires the ultimate beam!<#>
+Let the Midas touch turn all it blasts, into gold.\#The beauty of such a move can blind an enemy.<#>Пусть касание Мидаса превратит всё, что попадёт под его луч,\#в золото. Красота такого движения может ослепить врага.
+fires the ultimate beam!<#>стреляет ультимативным лучём!
 Bedazzle<#>
 Show off your bling to dazzle an opponent.\#The beauty will often reduce them to tears.<#>
 displays his jewelry!<#>
-Trowel Ravage<#>
-Show them you're not fucking around.<#>
-gives 'em a thwacking!<#>
+Trowel Ravage<#>Разрушительная лопатка
+Show them you're not fucking around.<#>Покажи им, что ты хуйнёй не маешься.
+gives 'em a thwacking!<#>задаёт им трёпку!
 Check the Time<#>Уточнение времени
-Look at your watch and pretend to not be a part of\#the fight. Restores SP and removes Taunt.<#>
-glances at his watch!<#>
-Spout<#>
-Use the Baby Fishman to cool yourself off. Heals\#burning, washes off gunk, and makes you wet.<#>
-deploys the Baby Fishman!<#>
+Look at your watch and pretend to not be a part of\#the fight. Restores SP and removes Taunt.<#>Посмотри на свои часы и сделай вид, что не участвуешь\#в бою. Восстанавливает ОН и удаляет насмешку.
+glances at his watch!<#>глядит на часы!
+Spout<#>Плевок
+Use the Baby Fishman to cool yourself off. Heals\#burning, washes off gunk, and makes you wet.<#>Используйте малыша-рыболюда, чтобы охладиться. Убирает\#горение, смывает всякую дрянь, и мочит вас.
+deploys the Baby Fishman!<#>выпускает малыша-рыболюда!
 Full Stretch<#>Полная растяжка
-works out all the knots!<#>
+works out all the knots!<#>развязывает все узлы!
 Shank<#>Удар
-A quick stab to show them you mean business.<#>
-stabs a bitch!<#>
+A quick stab to show them you mean business.<#>Быстрый удар ножом, намеренный показать врагам серьёзность.
+stabs a bitch!<#>ударяет суку!
 Leg Stretches<#>Растяжка ног
-Stretch those calves. Recovers TP and relieves\#tension. If tension is removed, TP is fully restored.<#>
-gets in a good stretch!<#>
+Stretch those calves. Recovers TP and relieves\#tension. If tension is removed, TP is fully restored.<#>Растяните эти икры. Восстанавливает ОТ и удаляет напряжение.\#Если удаляет напряжение, полностью восстанавливает ОТ.
+gets in a good stretch!<#>хорошенько растягивается!
 White Streak<#>Белая полоса
 A slap of paint that's sure to disorient. Sets foes\#off balance and can even make them cry.<#>
 slaps with his paintbrush!<#>
@@ -1261,33 +1261,33 @@ gets ready to eat.<#>
 Salt Wall<#>Соляная стена
 Deploy your impenetrable hide to protect your team!\#Redirects all damage to the user.<#>
 makes a stand!<#>
-Takedown<#>
+Takedown<#>Захват
 Slam a bitch with your steely shell! Deals decent\#damage, but leaves you on the ground afterward.<#>
 rams a motherfucker!<#>
-Solidify<#>
+Solidify<#>Укрепление
 Get hard, harder! Grants the Solid status, but\#restricts your skill usage.<#>
 gets real hard!<#>
-Show No Fear<#>
+Show No Fear<#>Бесстрашие
 Show them that you won't back down. Inspires the\#rest of your team, making them brave.<#>
 isn't giving up yet!<#>
-Blessed Rain<#>
+Blessed Rain<#>Благословенный дождь
 Expel a restorative droplet onto a KO'd ally,\#bringing them back to the battle. Gets them wet.<#>
 gets them back on their feet!<#>
 Ingest 2<#>
 Nom nom nom<#>
 scarfs down some salt!<#>
-Pocket Salt<#>
+Pocket Salt<#>Карманная соль
 A nasty surprise for the eyes. Can inflict crying and\#spooked. Low chance to blind.<#>
 flings some salt in their eyes!<#>
-Cart Crash<#>
+Cart Crash<#>Удар тележкой
 Careen through a crowd on a chariot of iron.\#Hits all enemies to inflict off balance.<#>
 comes crashing through!<#>
 Glass Shard Recoil<#>
 cuts himself up!<#>
-Threatening Edge<#>
+Threatening Edge<#>Угрожающий клинок
 Display your blade in a last-ditch attempt to\#frighten the enemy. Results may vary.<#>
 attempts to be threatening.<#>
-Vicious Combo<#>
+Vicious Combo<#>Жестокое комбо
 No style. Only pure violence.<#>
 bland, straightforward brutality!<#>
 Burst Palm<#>

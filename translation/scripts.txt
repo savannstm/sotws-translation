@@ -14,7 +14,7 @@ File<#>Файл
 %s has started to escape!<#>%s пытаются сбежать!
 You can't escape!<#>Вы не можете сбежать!
 %s was victorious!<#>
-%s was defeated.<#>
+%s was defeated.<#>%s была повержена.
 %s EXP received!<#>%s опыта получено!
 %s\\Mags found!<#>%s журналов найдено!
 %s found!<#>%s найдено!
