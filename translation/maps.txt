@@ -2560,25 +2560,25 @@ I don't\#agree with\#what you're\#trying to do.<#>Я не согласен\#с �
 Turn back.<#>Поворачивайте.
 Fondle too\#many bags\#and you'll go\#blind...<#>Обласкаешь\#слишком много\#пакетов, и станешь\#слепым...
 ...like a\#rag maggot.<#>...словно тряпичный\#опарыш.
-Got to\#take it\#easy.<#>
+Got to\#take it\#easy.<#>Надо\#расслабиться.
 Is there\#something\#on my face?<#>У меня что-то\#на лице?
 These are beyond consideration.<#>На остальные смотреть больно.
 Don't\#pay me.<#>Не надо\#платить.
 This is\#community\#service.<#>Это общественная\#услуга.
-Don't think it'll\#stop coming up.<#>
-Reminds\#me of\#retail.<#>
+Don't think it'll\#stop coming up.<#>Не думай, что\#они перестанут\#поступать.
+Reminds\#me of\#retail.<#>Напоминает\#мне розничную\#торговлю.
 You smell\#worse than\#this trash pit.<#>Ты воняешь\#хуже, чем\#эта мусорная яма.
 What's\#your secret?<#>В чём твой\#секрет?
-I wear\.\#"Essence\#of Dead Fish"\.\#personally.<#>
+I wear\.\#"Essence\#of Dead Fish"\.\#personally.<#>Я,\. лично,\.\#ношу "Эссенцию\#мёртвой рыбы".
 Where'd\#Loa go?<#>Куда делся\#Лоа?
 He's supposed\#to keep track\#of the bags\#we've tossed.<#>Он должен следить\#за пакетами,\#которое мы бросаем.
 I lost count\#after twenty-\#eight thousand.<#>Я потерял счёт\#после двадцати\#восьми тысяч.
-Need somewhere\#to get rid of that?<#>
-The chamber\#behind me is almost\#full, but I'm sure you\#can find a place for it.<#>
-We found holes\#in the warehouse.<#>
-Now rubbish is\#bubbling up\#from the bowels\#of the earth...<#>
-I've never\#seen so many\#bags before.<#>
-Just how much\#garbage is buried right\#underneath our feet?<#>
+Need somewhere\#to get rid of that?<#>Хочешь где-то\#от этого избавиться?
+The chamber\#behind me is almost\#full, but I'm sure you\#can find a place for it.<#>Помещение за мной\#почти заполнено, но я\#уверен, ты найдёшь\#этому место.
+We found holes\#in the warehouse.<#>Мы нашли дыры\#на складе.
+Now rubbish is\#bubbling up\#from the bowels\#of the earth...<#>Теперь мусор\#всплывает из\#недр земли...
+I've never\#seen so many\#bags before.<#>Я никогда не\#видел столько\#мешков.
+Just how much\#garbage is buried right\#underneath our feet?<#>Сколько же мусора\#захоронено под\#нашими ногами?
 It's sealed.<#>Заперто.
 I can't\#accept.<#>Не могу\#принять.
 Got to\#stay true\#to my own\#garbage.<#>Я должен оставаться\#верным своему\#собственному\#мусору.
@@ -2587,17 +2587,17 @@ If there is such\#a thing as pure\#garbage, it must\#be inside...<#>Если т�
 But I\#need a\#break first.<#>Но сначала\#мне нужно\#передохнуть.
 Hauling\#this thing\#out was\#a chore...<#>Вытащить эту\#штуку было\#тяжело...
 I'm not\#one to say\#no to free\#garbage.<#>Я не из тех, кто\#говорит «нет»\#бесплатному\#мусору.
-Lemme\#have it.<#>
+Lemme\#have it.<#>Отдайте его\#мне.
 Some say the\#fruit's rotten.<#>Некоторые говорят,\#эти фрукты тухлые.
 I say it's aged.<#>Но я скажу что они выдержанные.
-The plywood gives\#them their taste.<#>
-Just have a\#smoke if they're\#too much for ya.<#>Просто покури, если\#для тебя они слишком.
+The plywood gives\#them their taste.<#>Фанера придаёт им вкус.
+Just have a\#smoke if they're\#too much for ya.<#>Просто покури, если\#для тебя это слишком.
 You got a cigarette!<#>Вы получили сигарету!
-Just don't\#give it to\#Roland.<#>Просто не давай\#их роланду.
+Just don't\#give it to\#Roland.<#>Только не давай\#их Роланду.
 Every once in\#a blue moon, I\#find fruit that\#hasn't rotted yet.<#>Каждое полнолуние,\#я нахожу фрукт,\#который ещё не\#успел сгнить.
 I always\#toss those\#back in.<#>Я всегда бросаю\#такие обратно.
 Can't\#stomach\#ripe foods...<#>Желудок не\#выдерживает\#свежую еду...
-If it doesn't\#melt in your\#hand, I say\#it's not worth it.<#>
+If it doesn't\#melt in your\#hand, I say\#it's not worth it.<#>Если еда не\#тает в руках,\#я бы сказал,\#оно того не стоит.
 Rando's\#trash\#isn't real\#garbage.<#>Мусор\#Рандо -\#не настоящий\#мусор.
 It's not\#even nothing.<#>Он даже хуже,\#чем ничто.
 It's less\#than nothing.<#>Он даже меньше,\#чем ничто.
@@ -2628,9 +2628,9 @@ Your party was slightly healed.<#>Ваша группа была немного 
 Look\#at you!<#>Посмотри на\#себя!
 Lappin' up\#that gunk\#like it's your\#momma's milk!<#>Хлещешь эту\#дрянь, словно\#материнское\#молоко!
 That's the\#trash spirit!<#>Вот это мусорный\#дух!
-I finally opened it...<#>
-Inside hid endless layers of\#garbage bags, each blacker.<#>
-Look inside. Can you see it?<#>
+I finally opened it...<#>Я наконец-то открыл её...
+Inside hid endless layers of\#garbage bags, each blacker.<#>Внутри скрывались бесконечные\#слои мусорных мешков, каждый\#всё чернее.
+Look inside. Can you see it?<#>Посмотри внутрь. Видишь?
 <!-- Map049.rvdata2 --><#>
 I never thought there\#could be such a blackness.<#>
 A pile of burned, synthetic fabrics.\#Something is strange about this one.<#>Куча сожжённой, синтетической\#ткани. Эта куча выглядит как-то странно.
@@ -2727,7 +2727,7 @@ Human Fat!<#>Человеческий жир!
 Hey...<#>
 They just\#finished.<#>
 <!-- Map065.rvdata2 --><#>
-I'm waiting\#for someone.<#>
+I'm waiting\#for someone.<#>Я кое-кого\#жду.
 <!-- Map066.rvdata2 --><#>
 Don't worry, I'll\#let them in.<#>
 Hey.<#>
@@ -4081,7 +4081,7 @@ You have lost a Baby Crow.<#>Вы потеряли ворона-малыша.
 <!-- Map143.rvdata2 --><#>
 Happy chicks.<#>Счастливые цыпочки.
 3 Magazines!<#>3 журнала!
-Siamese twins skeletons.<#>
+Siamese twins skeletons.<#>Сиамские скелеты.
 <!-- Map144.rvdata2 --><#>
 State Manual II!<#>
 <!-- Map145.rvdata2 --><#>
@@ -5045,14 +5045,14 @@ Received a magazine!<#>Получен журнал!
 Where are\#those guys?<#>Где эти ребята?
 In our\#camp just\#down below.<#>В нашем\#лагере\#чуть ниже.
 Don't get\#yourself hurt...<#>Не поранься...
-If those\#goons don't\#clear out soon...<#>
-I might\#have to\#try and\#make them...<#>
-We took\#care of the\#crazy guys.<#>
-This place\#ain't half bad...<#>
-Nice and\#moist, as all\#good things are.<#>
-Can never tell\#what them Randos'll\#get up to when\#ya ain't watchin'.<#>
-Might make\#this my home\#away from home.<#>
-Not that\#I have\#a home...<#>Не то чтобы\#у меня был\#дом...
+If those\#goons don't\#clear out soon...<#>Если эти\#головорезы\#скоро не уберутся...
+I might\#have to\#try and\#make them...<#>Мне, наверное\#придётся попытаться\#убрать их...
+We took\#care of the\#crazy guys.<#>Мы позаботились\#о тех поехавших\#парнях.
+This place\#ain't half bad...<#>Это место не такое\#уж и плохое...
+Nice and\#moist, as all\#good things are.<#>Приятное и сырое,\#как и всё здесь.
+Can never tell\#what them Randos'll\#get up to when\#ya ain't watchin'.<#>Никогда не знаешь,\#что это Рандовцы\#вытворят, пока не\#смотришь.
+Might make\#this my home\#away from home.<#>Может, это место\#станет моим вторым\#домом.
+Not that\#I have\#a home...<#>Не то что бы\#у меня был\#первый...
 A map of Garbage Island. It's covered with notes\#related to some kind of tunnel system.<#>Карта мусорного острова. Покрыта заметками\#касательно некой системы туннелей.
 Oh,\. thank\#fuckin' God.<#>О,\. слава\#блять богу.
 <!-- Map170.rvdata2 --><#>
@@ -5718,23 +5718,23 @@ That\#lovely\#stink...<#>Эта\#приятная\#вонь...
 Step\#inside...<#>Зайди\#внутрь...
 ...embrace\#the revulsion.<#>...прими\#отвращение.
 I'm good.<#>Я пас.
-I got out of\#the counterfeit\#business ages ago.<#>
-The man who\#lives here must\#be a patron\#saint of trash.<#>
-A true\#paragon\#of all things\#garbage.<#>
-Can Larry\#Davis even\#compare?<#>
+I got out of\#the counterfeit\#business ages ago.<#>Я давно ушёл\#поддельного\#дела.
+The man who\#lives here must\#be a patron\#saint of trash.<#>Человек, живущий\#здесь, должно быть\#святой покровитель\#мусора.
+A true\#paragon\#of all things\#garbage.<#>Настоящий\#образец\#всеобъемлющего\#мусора.
+Can Larry\#Davis even\#compare?<#>Сравнится\#ли даже Ларри\#Дэвис?
 Whoa,\#dude.<#>Вау,\#чувак.
-You\#are RANK.<#>
+You\#are RANK.<#>Ты\#ВЫСОК.
 You\#belong\#in there.<#>Ты принадлежишь\#этому месту.
 It's your\#place now.<#>Теперь это твой\#дом.
 Too much\#for you,\. eh?<#>Слишком для\#тебя,\. а?
 Don't be\#ashamed.<#>Не стыдись.
-The sheer density of\#the stench in that house\#could make even Bob\#Versace's stomach turn.<#>
-Only those\#truly in-tune\#with trash can\#withstand it...<#>
+The sheer density of\#the stench in that house\#could make even Bob\#Versace's stomach turn.<#>От такой густоты\#запаха в этом доме,\#даже у Боба Версаче\#скрутит живот.
+Only those\#truly in-tune\#with trash can\#withstand it...<#>Лишь те, кто\#воистину на\#волне мусора,\#смогут выдержать...
 You still\#are not\#ready.<#>Ты ещё\#не готов.
-You can never hope\#to enter without first\#understanding the\#meaning of trash.<#>
+You can never hope\#to enter without first\#understanding the\#meaning of trash.<#>Не надейся войти,\#сначала не поняв\#суть мусора.
 Toilet Seat!<#>Туалетный ободок!
-Books on meteorology\#and weather phenomena.<#>
-Horoscope written in chalk.<#>
+Books on meteorology\#and weather phenomena.<#>Книги по метеорологии\#и погодным явлением.
+Horoscope written in chalk.<#>Гороскоп, написанный мелом.
 <!-- Map214.rvdata2 --><#>
 Dusty notebooks and mathematical texts.<#>
 To think,\. we became\#so careless as to let\#our greatest treasure\#be stolen away...<#>
@@ -7708,20 +7708,20 @@ Learned Thunder Palm!<#>
 You probably shouldn't touch this again.<#>
 Cars are wedged into the tunnel.<#>
 <!-- Map279.rvdata2 --><#>
-Checked one of the trunks.<#>
-Found a secret stash!<#>
-The van is full of magazines.<#>
-Hey, man,\.\#hands off\#the pages!<#>
-Gonna need\#those in a\#minute now...<#>
-15 magazines!<#>
-Nothing but junk.<#>
-Just my\#fuckin' luck...<#>
-Van broke down\#right as I was\#about to leave\#this jank-ass town.<#>
-Now I'm\#stuck between\#a rock and\#a hard place.<#>
-Do I walk\#from here,\. or\#do I try to\#fix the junker?<#>
-At this point,\.\#I dunno if I\#still trust my\#own two feet.<#>
-Maybe I'll\#just sit here,\.\#wait for someone\#else to pass by.<#>
-Someone with\#a car, I mean.<#>
+Checked one of the trunks.<#>Проверен один из багажников.
+Found a secret stash!<#>Найден скрытый схрон!
+The van is full of magazines.<#>Фургон полон журналов.
+Hey, man,\.\#hands off\#the pages!<#>Эй, мужик,\.\#руки прочь\#от страниц!
+Gonna need\#those in a\#minute now...<#>Они мне\#пригодятся...
+15 magazines!<#>15 журналов!
+Nothing but junk.<#>Ничего, кроме мусора.
+Just my\#fuckin' luck...<#>Моя ебучая\#удача...
+Van broke down\#right as I was\#about to leave\#this jank-ass town.<#>Фургон сломался прямо\#тогда, когда я уже\#собирался покинуть\#этот чёртов город.
+Now I'm\#stuck between\#a rock and\#a hard place.<#>Теперь я застрял\#между молотом\#и наковальней.
+Do I walk\#from here,\. or\#do I try to\#fix the junker?<#>Идти отсюда\#пешком,\. или\#попытаться починить\#ведро?
+At this point,\.\#I dunno if I\#still trust my\#own two feet.<#>Я уже даже не\#знаю,\. доверять\#ли своим собственным\#ногам.
+Maybe I'll\#just sit here,\.\#wait for someone\#else to pass by.<#>Наверное, просто\#посижу здесь,\.\#пока кто-нибудь\#не покажется.
+Someone with\#a car, I mean.<#>Кто-нибудь с\#машиной, имею в виду.
 I gotta get\#out of this\#looney bin...<#>
 Just a rock.<#>
 You fixin'\#to head up\#Sweet Breeze Trail?<#>
@@ -9538,10 +9538,10 @@ That one is gone.<#>
 <!-- Map351.rvdata2 --><#>
 <!-- Map352.rvdata2 --><#>
 <!-- Map353.rvdata2 --><#>
-Mud angel.<#>
-Mud mixed with flesh.<#>
-It sloughs.<#>
-Fallen angel.<#>
+Mud angel.<#>Грязевой ангел.
+Mud mixed with flesh.<#>Грязь, смешанная с плотью.
+It sloughs.<#>Она отслаивается.
+Fallen angel.<#>Падший ангел.
 <!-- Map354.rvdata2 --><#>
 Mud charm!<#>
 Empty table.<#>
@@ -9630,17 +9630,17 @@ We, uh,\.\#ran out\#of bullets.\.\.\#A while ago.<#>У нас, э,\.\#закон
 That guy\#with the\#big hat...<#>Этот парень в\#шляпе...
 Is his\#gun loaded?<#>Его пушка\#заряжена?
 Where the\#hell did they\#build that\#storeroom?<#>Где они, чёрт\#возьми, построили\#это хранилище?
-Seems like things've\#gotten even more\#tense since you\#were last here.<#>
-Hard times,\#you know.<#>
-I'll reiterate,\.\#don't try to\#mess with anyone.<#>
-But, I'm\#sure they'd\#all appreciate\#a little conversation.<#>
-Everything's\#just down the\#shitter for us\#Rando men...<#>
-Ugh, I've\#got the chills.<#>
-This damn\#rain came\#outta nowhere.<#>
-Argh...\. ugh...<#>
-Floyd...<#>
-He said\#he was...\.\.\#out of ammo...<#>
-Everyone...\.\#everyone is...<#>
+Seems like things've\#gotten even more\#tense since you\#were last here.<#>Кажется, ситуация\#стала всё более\#напряжённой с\#последнего раза.
+Hard times,\#you know.<#>Тяжелые времена,\#знаешь.
+I'll reiterate,\.\#don't try to\#mess with anyone.<#>Я перефразирую -\.\#не шути с нами.
+But, I'm\#sure they'd\#all appreciate\#a little conversation.<#>Но, я уверен, никто\#не откажется от\#небольшой беседы.
+Everything's\#just down the\#shitter for us\#Rando men...<#>Всё скатилось\#в дерьмо для\#нас, Рандовцев...
+Ugh, I've\#got the chills.<#>Уф, у меня\#мурашки.
+This damn\#rain came\#outta nowhere.<#>Этот чёртов\#дождь возник\#из ниоткуда.
+Argh...\. ugh...<#>Аргх...\. ах...
+Floyd...<#>Флойд...
+He said\#he was...\.\.\#out of ammo...<#>Он сказал,\#что у него...\.\.\#кончились патроны...
+Everyone...\.\#everyone is...<#>Все...\.\#все...
 Hold it,\.\#rag men.<#>Стоять,\.\#оборванец.
 This area\#is Rando\#Army territory.<#>Эта территория -\#территория армии\#Рандо.
 Authorized\#personel only.<#>Проход только для\#членов армии.
@@ -10041,8 +10041,8 @@ Some sort of makeshift radio.<#>Какое-то кустарное радио.
 Discarded lab coat.<#>Выброшенный лабораторный халат.
 <!-- Map401.rvdata2 --><#>
 An indescribable smell rises from this pipe.<#>Неописуемый запах исходит из этой трубы.
-Take the plunge?<#>
-...What's\#the worst\#that could\#happen?<#>
+Take the plunge?<#>Решиться на этот шаг?
+...What's\#the worst\#that could\#happen?<#>...Что плохое\#может\#произойти?
 <!-- Map402.rvdata2 --><#>
 Oh, take\#me now,\.\#cruel world...<#>Ох, забери\#меня уже,\.\#жестокий мир...
 For what is a\#penniless, pageless\#little twerp to do\#at a time like this?<#>Ибо что такому\#ничтожеству без\#копейки и страницы\#делать в такое время?
@@ -10068,14 +10068,14 @@ That's what\#I wanted\#to hear!<#>Вот это я и\#хотел услышат
 Step right\#up, find\#something\#you like!<#>Подходите,\#выбирайте\#понравившееся!
 Welcome\#back, mister!<#>Добро пожаловать,\#мистер!
 Anything\#catch your eye?<#>Что-нибудь зацепило\#взгляд?
-Take a look around, mister!<#>
-Enjoy your purchase!<#>
-Anything else to your liking?<#>
+Take a look around, mister!<#>Осмотритесь, мистер!
+Enjoy your purchase!<#>Наслаждайтесь покупкой!
+Anything else to your liking?<#>Что-нибудь ещё вам по-нраву?
 No sale? That's okay, take your time!<#>
-Hey, you can't afford that!<#>
-Your pockets are full, mister!<#>
-What are you looking at?<#>
-You've cleaned those out!<#>
+Hey, you can't afford that!<#>Эй, вы не можете себе это позволить!
+Your pockets are full, mister!<#>Ваши карманы полны, мистер!
+What are you looking at?<#>На что вы смотрите?
+You've cleaned those out!<#>Вы всё расхватили!
 While you were\#away, I took the\#time to restock\#a couple things.<#>Пока вас не было,\#я потратил время\#на то, чтобы восполнить\#свои запасы.
 You can\#thank me later!<#>Поблагодарите меня\#позже!
 Imposter syndrome.<#>Синдром самозванца.
@@ -10155,9 +10155,9 @@ Oh...\.\#God...<#>О...\.\#Боже...
 <!-- Map409.rvdata2 --><#>
 <!-- Map410.rvdata2 --><#>
 <!-- Map411.rvdata2 --><#>
-Strange tube. Broken beyond repair.<#>
-Strange tube.<#>
-Strange tube. A deformed\#creature hangs within it.<#>
+Strange tube. Broken beyond repair.<#>Странная капсула. Ремонту не подлежит.
+Strange tube.<#>Странная капсула.
+Strange tube. A deformed\#creature hangs within it.<#>Странная капсула. Деформированное\#существо находится внутри.
 <!-- Map412.rvdata2 --><#>
 Research notes. They read:<#>Исследовательские записки. Они гласят:
 "...thank God for Mayor Gerald.<#>"...спасибо Господу за мэра Джеральда."
@@ -10174,8 +10174,8 @@ Research notes. They read:<#>Исследовательские записки. 
 "Superiors are understandably\#disappointed with these results.<#>"Вышестоящие лица, по понятным причинам,\#разочарованы такими результатами."
 "If no other significant results\#are produced with this prototype,\#discontinuation is likely to occur."<#>"Если этот прототип не достигнет\#других значительных результатов,\#проект скорее всего будет отменён."
 <!-- Map413.rvdata2 --><#>
-Strange tube. A deformed\#skeleton hangs within it.<#>
-Strange tube. A heavily\#deformed creature resides within it.<#>
+Strange tube. A deformed\#skeleton hangs within it.<#>Странная капсула. Деформированный\#скелет находится внутри.
+Strange tube. A heavily\#deformed creature resides within it.<#>Странная капсула. Сильно деформированное\#существо находится внутри.
 <!-- Map414.rvdata2 --><#>
 Old-fashioned computer and desk.<#>Старомодный компьютер и стол.
 Behind it, a map of Olathe is posted.<#>За ним висит карта Олейта.
