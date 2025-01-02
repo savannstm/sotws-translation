@@ -69,8 +69,8 @@ Change<#>Изменить
 Remove<#>Убрать
 Revert<#>Вернуть
 Finish<#>Завершить
--Empty-<#>-Пусто-
--Remove-<#>-Удалить-
+-Empty-<#>- Пусто -
+-Remove-<#>- Удалить -
 - No Data -<#>- Нет данных -
 Equipment<#>Снаряжение
 New Skills<#>Новые навыки
@@ -79,7 +79,6 @@ Your gang<#>Ваша группа
 %s has leveled up!<#>%s повысил свой уровень!
 Leftovers<#>Остатки
 +%sEXP<#>+%s ОПЫТА
-%1.2f%%<#>
 LEVEL UP!<#>НОВЫЙ УРОВЕНЬ!
 MAX LEVEL<#>МАКС. УРОВЕНЬ
 "We won! What an exciting fight!"<#>"Мы победили! Какой захватывающий бой!"

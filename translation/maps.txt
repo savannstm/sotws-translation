@@ -618,7 +618,7 @@ The Honey Comb\#Wranglers though...<#>Но пористые крикуны...
 ...can stay as long\#as they like. Such\#sweethearts.<#>...могут оставаться сколько\#угодно. Такие прелестные\#парни.
 I guess\#I'll take one.<#>Думаю, я возьму одну.
 This don't\#really make\#up for the\#bridge, though.<#>Но это не совсем\#окупает мост.
-Them Rando boys were\#in such a hurry they\#broke the whole bridge.<#>Эти парни Рандо\#так спешили, что\#полностью взорвали мост.
+Them Rando boys were\#in such a hurry they\#broke the whole bridge.<#>Эти Рандовцы\#так спешили, что\#полностью взорвали мост.
 Damn shame.<#>Чёртова стыдоба.
 Guess my\#vacation to\#Hollywood\#is cancelled...<#>Похоже, мой отпуск\#в Голливуд\#отменяется.
 Free Rando\#memorabilia?<#>Бесплатная память\#о Рандо?
@@ -1696,8 +1696,8 @@ Lucky... you\#make that sound\#real weird.<#>Счастливчик... ты\#э�
 No, I think that's cool.<#>Я думаю, что прозвучало классно.
 I can't help it.<#>Что поделаешь.
 No, I think\#that's cool.<#>Я думаю, прозвучало\#классно.
-So it's\#settled?<#>Так всё решено?
-Yeah, we're\#a team.<#>Да, мы команда.
+So it's\#settled?<#>Так всё\#решено?
+Yeah, we're\#a team.<#>Да, мы\#команда.
 I can't\#help it.<#>Что\#поделаешь.
 So how\#about it?<#>Так как насчёт\#этого?
 Alright.<#>Ладно.
@@ -1705,11 +1705,11 @@ We should\#stock up\#and rest.<#>Нам нужно\#закупиться и\#о�
 ...Darry?<#>...Дэрри?
 Alex...<#>Алекс...
 I just\#want ya\#to know...<#>Я просто хочу,\#чтобы ты знал...
-...what you\#said means\#a lot to me.<#>...твои слова много\#для меня значат.
-And it\#made me think.<#>И я обдумал их.
+...what you\#said means\#a lot to me.<#>...твои слова\#много для\#меня значат.
+And it\#made me think.<#>И я обдумал\#их.
 Think about...\.\.\#how things\#came to be.<#>Обдумал...\.\.\#Как всё стало\#вот таким.
-And,\. more\#importantly...<#>И,\. более важно...
-How things\#will end up.<#>Как всё завершится.
+And,\. more\#importantly...<#>И,\. более\#важно...
+How things\#will end up.<#>Как всё\#завершится.
 I dunno if\#we'll ever\#see each\#other again.<#>Я не знаю,\#увидимся ли\#мы снова.
 But,\. while\#we're here...<#>Но,\. пока мы\#ещё здесь...
 I just\#wanted to\#thank ya.<#>Я просто хочу\#поблагодарить\#тебя.
@@ -1720,7 +1720,7 @@ It's gonna\#be hard\#to adjust.<#>Будет тяжело\#адаптирова�
 But...<#>Но...
 I'm willin'\#to see it\#through.<#>Я смотрю на\#перемены\#с надеждой.
 That's\#great,\. Darry.<#>Это прекрасно,\.\#Дэрри.
-I'm\#happy\#for you.<#>Я рад за тебя.
+I'm\#happy\#for you.<#>Я рад\#за тебя.
 Happy\#trails,\. guys.<#>Счастливого пути,\.\#парни.
 I hope we\#can see each\#other again\#some day.<#>Надеюсь, мы\#когда-нибудь\#увидимся снова.
 Goodbye,\. Darry.<#>Прощай,\. Дэрри.
@@ -1737,10 +1737,10 @@ Don't 'Clarance' me.<#>Не надо тут "Клэрэнс".
 All this time\#I thought\#you had\#drowned.<#>Я всё это время\#думал, что ты\#утонул.
 Jumped the\#fishing platform\#like you could\#swim or somethin'...<#>Спрыгнул с рыбацкого\#плота, как-будто умеешь\#плавать...
 It was... an\#accident.<#>Это... был несчастный\#случай.
-I got washed\#ashore.<#>Меня смыло на берег.
+I got washed\#ashore.<#>Меня смыло\#на берег.
 Hmph.<#>Хмпф.
-Shouldn't have come\#if you knew you'd\#hate it THAT bad.<#>Не стоило приходить,
-I'd best not\#stink up the place\#for "Goldilocks"\#over here.<#>
+Shouldn't have come\#if you knew you'd\#hate it THAT bad.<#>Не стоило приходить,\#если ты знал, что тебе\#ТАК не понравится.
+I'd best not\#stink up the place\#for "Goldilocks"\#over here.<#>Мне лучше не\#засорять место\#для этой "Златовласки".
 Excuse me,\#gentlemen.<#>Простите,\#джентльмены.
 *say nothing*<#>*ничего не говорить*
 Some friend you\#turned out to be.<#>Вот такой значит\#ты друг.
@@ -1837,14 +1837,14 @@ Whatever,\#just give\#me what\#you've got.<#>К чёрту, плати\#скол
 You pay him a magazine for the room.<#>Вы заплатили ему журнал за комнату.
 I'm not\#responsible if\#you get stabbed\#while you sleep.<#>Не беру ответственность,\#если тебя зарежут во\#сне.
 I'm not responsible\#if you get stabbed\#while you sleep.<#>Не беру ответственность,\#если тебя зарежут во\#сне.
-Welcome to House Dust.<#>
-I'll take that off your hands.<#>
-Anything else?<#>
-Just gonna stand there?<#>
-Don't waste my time.<#>
-Not enough mags.<#>
-I'm not buying that.<#>
-You're carrying too much.<#>
+Welcome to House Dust.<#>Добро пожаловать в пыльный дом.
+I'll take that off your hands.<#>Возьму это у тебя.
+Anything else?<#>Что-нибудь ещё?
+Just gonna stand there?<#>Так и будешь стоять?
+Don't waste my time.<#>Не трать моё время.
+Not enough mags.<#>Не хватает журналов.
+I'm not buying that.<#>Я это не куплю.
+You're carrying too much.<#>Ты слишком много несёшь.
 It's some of the barkeep's stock.<#>Остатки ассортимента бармена.
 Earth to dumbass, there's nothing there.<#>
 Mystery jerky, perfume and a diet cola!<#>Неизвестное мясо, духи и диетическая кола!
@@ -1971,14 +1971,14 @@ You got Joy!<#>Вы получили Джой!
 Thanks...<#>Спасибо...
 Just think\#about it.<#>Просто обдумай\#это.
 This sucks...\#I had to\#turn back.<#>Отстой...\#Надо было\#вернуться.
-I've got the Joy.<#>
-Enjoy...<#>
-Want more?<#>
-Take your time.<#>
-You're a little short on mags...<#>
-Here's to your happiness.<#>
+I've got the Joy.<#>У меня есть Джой.
+Enjoy...<#>Наслаждайся...
+Want more?<#>Хочешь ещё?
+Take your time.<#>Подумай.
+You're a little short on mags...<#>У тебя немного не хватает журналов...
+Here's to your happiness.<#>Вот твоё счастье.
 Walked for\#days, but\#there was\#no end to it.<#>Бродил днями,\#но никак не нашёл\#конца.
-You bought them all... heh heh...<#>
+You bought them all... heh heh...<#>Ты выкупил всё... хе-хе...
 I don't think\#you can get any\#closer to the\#centre than this.<#>Я не думаю, что\#возможно быть\#к центру ближе,\#чем сейчас.
 <!-- Map031.rvdata2 --><#>
 Centre?<#>Центру?
@@ -1999,9 +1999,9 @@ Kung only ever\#copied King!<#>Кунг только копировал\#Кин�
 But the jerseys, never\#had an original.<#>Но у майок никогда не\#было оригинала.
 Where did my family go?<#>Куда делась моя семья?
 Everyone became infinite.<#>Все стали бесконечными.
-Not enough.<#>
-You have so many...<#>
-I don't have any more.<#>
+Not enough.<#>Недостаточно.
+You have so many...<#>У тебя так много...
+I don't have any more.<#>У меня больше нет.
 Too hot.<#>Слишком жарко.
 Rest here?<#>Отдохнуть здесь?
 *Offer jerky*<#>*Предложить мясо*
@@ -2175,13 +2175,13 @@ You botched\#it, grandpa!<#>Ты лопнул его,\#дед!
 That means I'm\#takin' you down!<#>Это значит, я\#тебя грохну!
 Off to the grinder\#with you all!<#>Всех вас в\#мясорубку!
 Why did\#you do that?<#>Зачем ты это\#сделал?
-It slipped.<#>
+It slipped.<#>Она выскользнула.
 KILL HIM!<#>УБЕЙТЕ ЕГО!
 He is the\#believer!<#>Он - верующий!
 The obscurer!<#>Мракобес!
 They don't stop\#toying with him.<#>Они не перестают\#с ним играть.
 No-fold rookies.\#This is serious!<#>Новички без\#складок. Серьёзно!
-Real slippery.<#>
+Real slippery.<#>Очень скользит.
 *Return crutch*<#>*Вернуть трость*
 *Take other crutch*<#>*Забрать вторую трость*
 *Go away*<#>*Уйти*
@@ -2217,7 +2217,7 @@ I suggested\#leaving, but I\#was left behind.<#>Я предложил\#уйти,
 ...will you\#be my friend?<#>...ты будешь\#моим другом?
 Not even my\#dad wanted me around.<#>Даже мой отец не\#хотел меня видеть.
 Wonder if he's\#even still alive...<#>Интересно, жив ли\#он ещё...
-Don't tell William,\#but the meeting\#might be too\#little too late.<#>
+Don't tell William,\#but the meeting\#might be too\#little too late.<#>Не говори Вильяму,\#но для встречи, наверное,\#уже слегка поздно.
 The Franchise is\#like a plague.<#>Франшиза - словно\#чума.
 Take your eyes off\#it for just a moment\#and a dozen more\#jerseyheads will pop up.<#>Отведи взгляд хотя бы\#на секунду, и появится\#ещё сотня маечников.
 I don't know if\#ol' John J. can\#stand up to this.<#>Я не знаю, сможет ли\#старый Джон Джей\#выдержать это.
@@ -2891,8 +2891,8 @@ Think I\#broke\#some ribs.<#>Наверное, я сломал\#пару реб�
 Pick berries?<#>Собрать ягоды?
 You got nice berries!<#>Вы получили вкусные ягоды!
 <!-- Map077.rvdata2 --><#>
-He is wearing something!<#>
-Leadfoil Rags!<#>
+He is wearing something!<#>На нём что-то надето!
+Leadfoil Rags!<#>Лохмотья из фольги!
 <!-- Map078.rvdata2 --><#>
 Quite dead.<#>
 <!-- Map079.rvdata2 --><#>
@@ -3303,9 +3303,9 @@ I'm kind\#of nervous.<#>
 What if the city is\#real and I wasted all\#this time doing nothing?<#>
 I'm lost in more\#ways than one.<#>
 <!-- Map086.rvdata2 --><#>
-You two related?<#>
-In a sense.<#>
-We are\#more lovers\#than brothers.<#>
+You two related?<#>Вы двое родственники?
+In a sense.<#>В каком-то смысле.
+We are\#more lovers\#than brothers.<#>Мы больше\#любовники,\#чем братья.
 <!-- Map087.rvdata2 --><#>
 You're talking\#to the EWC\#tag team\#champions of '82.<#>
 And I see you\#found my belt.<#>
@@ -3437,12 +3437,12 @@ Scratch marks.<#>Царапины.
 Leviathan - Thomas Hobbes<#>
 <!-- Map089.rvdata2 --><#>
 <!-- Map090.rvdata2 --><#>
-It's been looted.<#>
+It's been looted.<#>Разграблено.
 <!-- Map091.rvdata2 --><#>
 Lower right: "The Last Matador Commission"<#>
 <!-- Map092.rvdata2 --><#>
-Silver Angel Statuette!<#>
-The Use and Abuse of History - Nietzsche<#>
+Silver Angel Statuette!<#>Серебряная статуэтка ангела!
+The Use and Abuse of History - Nietzsche<#>Использование и злоупотребление историей - Ницше
 <!-- Map093.rvdata2 --><#>
 The Decline of The West - Oswald Spengler<#>
 Turn the generator on?<#>Включить генератор?
@@ -3452,10 +3452,10 @@ Specific Key used.<#>Особый ключ использован.
 Exclusive Gummy Worm!<#>Особый желейный червь!
 <!-- Map095.rvdata2 --><#>
 <!-- Map096.rvdata2 --><#>
-Enjoying world's\#last autumn?<#>
-There's no place\#quite like this.<#>
+Enjoying world's\#last autumn?<#>Наслаждаешься последней\#осенью мира?
+There's no place\#quite like this.<#>Не существует места,\#похожего на это.
 <!-- Map097.rvdata2 --><#>
-What do you want?<#>
+What do you want?<#>Чего ты хочешь?
 <!-- Map098.rvdata2 --><#>
 Nothing fancy...<#>
 ...some human\#contact is all...<#>
@@ -3714,9 +3714,9 @@ Nice going,\#Georgy.<#>Молодец,\#Джорджи.
 Uh...\.\. that guy\#up top probably\#looted it already.<#>Э-э...\.\. тот парень\#сверху, похоже,\#его уже обыскал.
 No problem,\#though.<#>Но это не\#проблема.
 Let's go shake\#him down for it!<#>Давай вытряхнем\#из него сокровище!
-...I will take you\#to a quiet place...<#>
-...tzzt...\#...srch...<#>
-Yesterday's news.<#>
+...I will take you\#to a quiet place...<#>...Я заберу тебя в\#тихое место...
+...tzzt...\#...srch...<#>...тззт...\#...срш...
+Yesterday's news.<#>Вчерашние новости.
 <!-- Map104.rvdata2 --><#>
 Please!\#Take the kid!<#>
 D-don't\#hurt me-<#>
@@ -3741,9 +3741,9 @@ Ruined child's drawings.<#>Испорченные детские рисунки.
 <!-- Map107.rvdata2 --><#>
 It caved in.<#>
 <!-- Map108.rvdata2 --><#>
-THEY DISCOVERED GODS,\#NO ONE EVER WORSHIPPED.<#>
+THEY DISCOVERED GODS,\#NO ONE EVER WORSHIPPED.<#>ОНИ ОБНАРУЖИЛИ БОГОВ, КОТОРЫМ\#НИКТО НИКОГДА НЕ ПОКЛОНЯЛСЯ.
 <!-- Map109.rvdata2 --><#>
-Someone never finished clearing this rubble.<#>
+Someone never finished clearing this rubble.<#>Кто-то так и не закончил расчищать этот мусор.
 <!-- Map110.rvdata2 --><#>
 Push the handle?<#>
 No use turning back now.<#>Уже бесполезно возвращаться.
@@ -3758,7 +3758,7 @@ Your loss.<#>Ваша потеря.
 That it?<#>
 Take it or leave it.\#A deal is a deal.<#>
 <!-- Map115.rvdata2 --><#>
-The hell\#you're going?<#>
+The hell\#you're going?<#>Куда ты чёрт\#возьми идёшь?
 <!-- Map116.rvdata2 --><#>
 This ain't your\#community transport.<#>
 Who pulls a knife\#on a dying man?<#>
@@ -3789,11 +3789,11 @@ The writing is indecipherable.<#>Надпись неразборчива.
 <!-- Map127.rvdata2 --><#>
 <!-- Map128.rvdata2 --><#>
 <!-- Map129.rvdata2 --><#>
-We can catch\#up with them.<#>
+We can catch\#up with them.<#>Мы можем\#их догнать.
 <!-- Map130.rvdata2 --><#>
-Just leave\#me here, Pete-<#>
+Just leave\#me here, Pete-<#>Просто оставь меня\#здесь, Пит-
 <!-- Map131.rvdata2 --><#>
-I'm not\#listening.<#>
+I'm not\#listening.<#>Я не\#слушаю.
 <!-- Map132.rvdata2 --><#>
 I hope we don't\#run into Cormack.<#>
 That dog gives\#me the creeps.<#>
@@ -3875,7 +3875,7 @@ Diet Cocola Cola!<#>Диетическая Кокола-кола!
 Some force beckons from beyond the wall.<#>
 <!-- Map136.rvdata2 --><#>
 You hear a faint beating.<#>
-Silence.<#>
+Silence.<#>Тишина.
 <!-- Map137.rvdata2 --><#>
 You hear a pounding heart.<#>
 Piercing silence.<#>
@@ -3913,31 +3913,31 @@ Hey! Lester's\#happy to see\#you again!<#>Привет! Лестер\#рад с�
 Here, for\#lending me a\#hand back there.<#>Вот - за то, что\#протянул мне\#руку тогда.
 Received ten tomato sauce packets!<#>Получены десять пакетиков томатного соуса!
 <!-- Map139.rvdata2 --><#>
-Welcome to Lester's kitchen!<#>
-That'll fill you up.<#>
-What next?<#>
-Don't just look, you'll get even hungrier!<#>
-Got nothin'?<#>
-No mooching!<#>
-I'm not touching that.<#>
-Your pockets are stuffed.<#>
-Later, kids!<#>
-You okay, pal?<#>
+Welcome to Lester's kitchen!<#>Добро пожаловать на кухню Лестера!
+That'll fill you up.<#>Этим наешься.
+What next?<#>Что ещё?
+Don't just look, you'll get even hungrier!<#>Будешь просто смотреть и проголодаешься!
+Got nothin'?<#>Ничего нет?
+No mooching!<#>Никакого попрошайничества!
+I'm not touching that.<#>Я не буду это трогать.
+Your pockets are stuffed.<#>Твои карманы набиты.
+Later, kids!<#>До скорого, детишки!
+You okay, pal?<#>Ты в порядке, дружище?
 You've cleaned me out!<#>
 It was\#the least\#we could do.<#>
 Appreciated\#all the same.<#>
 Now, let's\#get to business.<#>
-Come, browse\#my meats.<#>
-Just remember:\#"chew with your good teeth".<#>
-Normal people!<#>
-I'm one of you!<#>
-Here's Anaconda.<#>
+Come, browse\#my meats.<#>Давайте, изучите мои\#мясные деликатесы.
+Just remember:\#"chew with your good teeth".<#>Только запомните:\#"жевать надо крепкими зубами".
+Normal people!<#>Нормальные люди!
+I'm one of you!<#>Я один из вас!
+Here's Anaconda.<#>Вот Анаконда.
 Well I'll be.<#>
 I thought him too\#slippery to catch!<#>
-Hand over\#that snake!<#>
+Hand over\#that snake!<#>Передавай\#эту змею!
 You have lost Anaconda Virtue.<#>
-Here! To\#pest control!<#>
-You got Stew in a Bag and Potato Liqueur.<#>
+Here! To\#pest control!<#>Вот! Для борьбы\#с вредителями!
+You got Stew in a Bag and Potato Liqueur.<#>Вы получили рагу в мешке и картофельный ликёр.
 Meet Kindchild.<#>
 Oh, I'll "meat" him\#alright, he he.<#>
 You have lost Stefan Kindchild.<#>
@@ -4004,8 +4004,8 @@ Come, Wing.<#>Пошли, Винг.
 Let us partake.<#>Давайте примем участие.
 MEAT TIME,\#MEAT TIME!<#>ВРЕМЯ МЯСА,\#ВРЕМЯ МЯСА!
 Now what was that\#supposed to prove?<#>Что они пытались\#доказать?
-Earned 285 experience points.<#>Заработано 285 очков опыта.
-Found Condition Killer and a Nugget.<#>Найдены «Убийца состояний» и «Самородок».
+Earned 285 experience points.<#>Получено 285 очков опыта.
+Found Condition Killer and a Nugget.<#>Найдены "Убийца состояний" и "Самородок".
 CRACK\. HIS\. SKULL!\|\#CRACK\. HIS\. SKULL!<#>ВСКРОЙ\. ЕГО\. ЧЕРЕП!\|\#ВСКРОЙ\. ЕГО\. ЧЕРЕП!
 I guess that's\#a "no" then.<#>Похоже, что это\#отказ.
 Oh,\. Lester,\.\#what fun times\#we will ha-\^<#>Ох,\. Лестер,\.\#весёлое нам\#время пред-\^
@@ -4083,21 +4083,21 @@ Happy chicks.<#>Счастливые цыпочки.
 3 Magazines!<#>3 журнала!
 Siamese twins skeletons.<#>Сиамские скелеты.
 <!-- Map144.rvdata2 --><#>
-State Manual II!<#>
+State Manual II!<#>Руководство по состояниям II!
 <!-- Map145.rvdata2 --><#>
-You resist the\#jersey, but HE will\#transform you.<#>
-It was but a\#brief encounter, yet\#I've learned so much.<#>
+You resist the\#jersey, but HE will\#transform you.<#>Ты сопротивляешься\#майке, но ОН изменит\#тебя.
+It was but a\#brief encounter, yet\#I've learned so much.<#>Это была лишь короткая\#встреча, но я сумел многое\#узнать.
 <!-- Map146.rvdata2 --><#>
-They are all dead.<#>
+They are all dead.<#>Они все мертвы.
 <!-- Map147.rvdata2 --><#>
-Did you...\. follow\#me all the\#way out here?<#>
-Not gonna lie,\.\#I respect the hustle.<#>
-Here,\. you've\#earned it.<#>
-He gave you a charred ring!<#>
-Uh,\| thanks.<#>
-Don't mention it.<#>
-Until we meet again.<#>
-Hole full of sportswear.<#>
+Did you...\. follow\#me all the\#way out here?<#>Ты...\. следовал за\#мной всю\#дорогу сюда?
+Not gonna lie,\.\#I respect the hustle.<#>Не буду врать,\.\#уважаю трепетность.
+Here,\. you've\#earned it.<#>Вот,\. ты\#заслужил.
+He gave you a charred ring!<#>Он дал вам обугленное кольцо!
+Uh,\| thanks.<#>Э,\| спасибо.
+Don't mention it.<#>Не за что.
+Until we meet again.<#>Встретимся снова.
+Hole full of sportswear.<#>Дыра, полная спортивной одежды.
 That clever\#Kindchild's set\#up weird satellites\#all across town!<#>
 No telling\#what that\#fat bastard's\#up to now!<#>
 I bet he\#wants to melt\#our brains with\#radio waves!<#>
@@ -4109,14 +4109,14 @@ Mr. A-a-arnold?<#>
 Oh, God!\#It IS you!<#>
 You are\#my idol-<#>
 <!-- Map149.rvdata2 --><#>
-The car is busted.<#>
-License plate reads: "BAD".<#>
-Geen?<#>
-Oh,\. there\#you guys are.<#>
-Some jersey\#chump was\#running amok\#out here.<#>
-I took care\#of him, though.<#>
-Let's get\#outta here.<#>
-This place\#is skeevy\#as fuck.<#>
+The car is busted.<#>Машина сломана.
+License plate reads: "BAD".<#>На номерном знаке написано: «ПЛОХО».
+Geen?<#>Гин?
+Oh,\. there\#you guys are.<#>О,\. вот и вы,\#ребята.
+Some jersey\#chump was\#running amok\#out here.<#>Какой-то сумасшедший\#в майке безумствовал\#здесь.
+I took care\#of him, though.<#>Но я позаботился\#о нём.
+Let's get\#outta here.<#>Давайте выбираться\#отсюда.
+This place\#is skeevy\#as fuck.<#>Это место\#пиздец\#отвратительное.
 Managed to\#find a new\#outfit, but\#not much else.<#>
 All these "Game"\#players have already\#pilfered most of\#the good stuff.<#>
 Pft,\. some\#GAME this is.<#>
@@ -4136,8 +4136,8 @@ Some Rotten Fruit!<#>Протухший фрукт!
 <!-- Map150.rvdata2 --><#>
 The generator is fried.<#>Генератор сожжён.
 You got Stefan Kindchild's corpse.<#>Вы забрали труп Стефана Добряка.
-Mouldy books.<#>
-Who are you\#supposed to be?<#>
+Mouldy books.<#>Заплесневелые книги.
+Who are you\#supposed to be?<#>Кто ты вообще\#такой?
 <!-- Map151.rvdata2 --><#>
 Um, we live here.<#>
 <!-- Map152.rvdata2 --><#>
@@ -5233,11 +5233,11 @@ You're in for\#a fun time.<#>Вас точно ждёт\#веселье.
 One way\#or another.<#>Хотите вы\#или нет.
 That's\.\#THE\. stentch.<#>Это\.\#ЗАПАХ.
 Your eyes\#have been\#opened,\#haven't they?<#>Ты открыл\#глаза, не\#так ли?
-My sinuses\#are on fire.<#>
-You bet\#they are.<#>
-Welcome to\#the good life,\#my brother.<#>
-We'll treat\#you right.<#>
-Don't talk\#to me.<#>Не говори\#со мной.
+My sinuses\#are on fire.<#>Мои ноздри\#горят.
+You bet\#they are.<#>Ещё бы.
+Welcome to\#the good life,\#my brother.<#>Добро пожаловать\#в хорошую жизнь,\#брат.
+We'll treat\#you right.<#>Мы тебя как\#следует вылечим.
+Don't talk\#to me.<#>Не разговаривай\#со мной.
 He seems busy.<#>Он, похоже, занят.
 He passed out.<#>Он потерял сознание.
 Do not defile\#our paradise with\#that foul symbol.<#>Не оскверняй наш\#рай этим отвратительным\#символом.
@@ -5255,13 +5255,13 @@ The plastic\#speaks for itself.<#>Пластик говорит\#за себя.
 This is\#my cocoon.<#>Это мой кокон.
 One day I\#will emerge\#a beautiful\#trash butterfly...<#>Однажды, я\#взлечу, как\#прекрасная\#мусорная бабочка...
 Mysterious and lovely.<#>Загадочная и милая.
-It's been blocked.<#>
+It's been blocked.<#>Заблокировано.
 You have lost the Versace Bag Balloon.<#>Вы потеряли шарик из пакета Версаче.
 ...I need\#to leave.<#>...Мне нужно\#уходить отсюда.
 <!-- Map177.rvdata2 --><#>
 Now.<#>Сейчас же.
 ...Small trash is spilling out of the lock...<#>...Из замка высыпается мелкий мусор...
-It's been locked tight.<#>
+It's been locked tight.<#>Надёжно заперто.
 <!-- Map178.rvdata2 --><#>
 It reminds you of days gone.<#>
 This car seems cartoonishly large.<#>Эта машина большая, словно из мультиков.
@@ -5297,7 +5297,7 @@ Won't move. The keyhole is rather small.<#>Не открывается. Замо
 You used the Small Key.<#>Вы использовали маленький ключ.
 <!-- Map184.rvdata2 --><#>
 Propaganda poster. It's partially torn up.<#>Агитационный постер. Он частично\#порван.
-Vandalized propaganda poster.<#>Завандаленный агитационный постер.
+Vandalized propaganda poster.<#>
 A rotund posterior was drawn over the poster.<#>
 Someone's insane political ramblings. The name\#"Gerald" appears multiple times.<#>Чьи-то безумные политические бредни\#Имя "Джеральд" всплывает несколько раз.
 Nothing to eat.<#>Ничего съедобного.
@@ -5375,14 +5375,14 @@ The desk's surface is coated with a layer of dust.<#>Поверхность ст
 Something shimmers from underneath it.<#>Из-под него что-то мерцает.
 "Mayor Gerald's approval ratings sink as\#the island itself begins to descend into garbage."<#>"Рейтинг мэра Джеральда падает, поскольку\#остров начинает погружаться в мусор."
 Rusted shut.<#>Наглухо заржавело.
-"Mayor Gerald receives major criticism\#after the failed implementation of his\#pollution reduction programs."<#>
-"Mayor Gerald goes silent as protesters rally\#outside the town hall."<#>
-"Pollution rates soar across the island.\#Heaps of trash have coalesced along the\#shorelines, threatening to push onto land..."<#>
-"...these recent developments are blamed\#on the inaction of the island's mayor,\#Gerald von Buckingham."<#>
-"Mayor Gerald's new policies on pollution have been\#deemed 'highly inadequate' by climate scholars."<#>
-There's something odd\#about this particular cabinet.<#>
-Upon a closer look,\#the cabinet is purely decorational.<#>
-I need time.\.\.\#Time to think.<#>
+"Mayor Gerald receives major criticism\#after the failed implementation of his\#pollution reduction programs."<#>"Мэр Джеральд подвегся серьёзной\#критике, после неудачного внедрения\#своей программы сокращения загрязнения."
+"Mayor Gerald goes silent as protesters rally\#outside the town hall."<#>"Мэр Джеральд устраивает затишье,\#пока протестующие митингуют снаружи\#городской резиденции."
+"Pollution rates soar across the island.\#Heaps of trash have coalesced along the\#shorelines, threatening to push onto land..."<#>"Уровень загрязнения взлетает по всему\#острову. Кучи мусора сходятся на берегах,\#угрожая пробиться на сушу..."
+"...these recent developments are blamed\#on the inaction of the island's mayor,\#Gerald von Buckingham."<#>"...эти недавние события являются виной\#бездействия мэра острова, Джеральда\#фон Бакингэма."
+"Mayor Gerald's new policies on pollution have been\#deemed 'highly inadequate' by climate scholars."<#>"Новая политика мэра Джеральда касательно\#загрязнения была признана крайне неадекватной\#специалистами по климату."
+There's something odd\#about this particular cabinet.<#>В этой конкретной картотеке\#что-то выглядит неестественно.
+Upon a closer look,\#the cabinet is purely decorational.<#>При ближайшем рассмотрении,\#картотека является лишь простой декорацией.
+I need time.\.\.\#Time to think.<#>Мне нужно время.\.\.\#Время подумать.
 <!-- Map189.rvdata2 --><#>
 Think about\#everything.<#>Подумай обо\#всём.
 <!-- Map190.rvdata2 --><#>
@@ -5468,35 +5468,35 @@ Got a rusty spade!<#>
 Warning: Floor unstable! Fall at your own risk.<#>
 It's busy.<#>
 <!-- Map200.rvdata2 --><#>
-Dried herb!<#>
-Oh, a visitor?<#>
+Dried herb!<#>Высушенная трава!
+Oh, a visitor?<#>О, посетитель?
 <!-- Map201.rvdata2 --><#>
-How unusual.<#>
+How unusual.<#>Как необычно.
 <!-- Map202.rvdata2 --><#>
-Welcome,\. stranger.\.\#I am Deocletians, and you\#now stand before the\#Land with No Sun.<#>
-It's a mystical place,\#the home of our\#brothers and forefathers.<#>
-Enjoy your stay,\#but be mindful\#of our customs.<#>
-We are a proud people.<#>
-They call us\#"Marauders,"\. but we\#only take what we need.<#>
-Not that I would\#expect any of the\#lowlifes in these wastes\#to understand that.<#>
-Our legacy goes\#back further than even\#the world's end.<#>
-We've a lengthy history\#of mysticism and medicine\#here in our homeland.<#>
-And yet,\. we're\#treated like common\#thieves by so many.<#>
-Such a shame.<#>
-The Cliff of Perpetuality\#is one of the greatest\#mysteries known to man.<#>
-Those that it\#deems worthy are\#known to return from\#the depths with strange powers.<#>
-It is said that\#there exists an artifact\#in these wastes that can\#somehow appease the cliff.<#>
-But none know\#of its location.<#>
-Perhaps you will\#be responsible for\#its discovery.<#>
-Doom.\| That is\#all I can see\#ahead of us.<#>
-Ciosmorosin has\#sent our entire village\#out to die.<#>
-My heart is heavy,\#but I cannot cry.\|\#Not while there is even\#a sliver of hope left.<#>
-Outsider, if you\#see them again...<#>
-...tell them to\#abandon their quest\#and return to the village.<#>
-If they don't...<#>
-They will die.<#>
-I'll keep it in mind.<#>
-Beware,\#outsider.<#>
+Welcome,\. stranger.\.\#I am Deocletians, and you\#now stand before the\#Land with No Sun.<#>Добро пожаловать,\.\#странник. Я - Деоклетианс,\#и сейчас ты стоишь на\#пороге бессолнечных земель.
+It's a mystical place,\#the home of our\#brothers and forefathers.<#>Это мистическое место\#является домом наших\#братьев и праотцов.
+Enjoy your stay,\#but be mindful\#of our customs.<#>Наслаждайтесь пребыванием,\#но помните о наших обычаях.
+We are a proud people.<#>Мы гордые люди.
+They call us\#"Marauders,"\. but we\#only take what we need.<#>Нас называют "мародёрами",\.\#но мы берём лишь то, что\#нам необходимо.
+Not that I would\#expect any of the\#lowlifes in these wastes\#to understand that.<#>Я не сильно ожидал, что\#кто-то из отбросов в этих\#пустошах поймёт это.
+Our legacy goes\#back further than even\#the world's end.<#>Наше наследие уходит корнями\#даже дальше конца света.
+We've a lengthy history\#of mysticism and medicine\#here in our homeland.<#>Мы имеем далёкую историю\#мистицизма и медицины здесь,\#на нашей родине.
+And yet,\. we're\#treated like common\#thieves by so many.<#>И всё же,\. многие\#считают нас обычными\#ворами.
+Such a shame.<#>Какой позор.
+The Cliff of Perpetuality\#is one of the greatest\#mysteries known to man.<#>Утёс бесконечности -\#одна из величайших\#загадок, известных человеку.
+Those that it\#deems worthy are\#known to return from\#the depths with strange powers.<#>Те, кого он считает\#достойными, возвращаются\#из глубин с дивными силами.
+It is said that\#there exists an artifact\#in these wastes that can\#somehow appease the cliff.<#>Ходит слух, что в этих\#пустошах существует\#артефакт, который как-то\#может умилостивить утёс.
+But none know\#of its location.<#>Но никто не знает\#его местонахождение.
+Perhaps you will\#be responsible for\#its discovery.<#>Возможно, вам предстоит\#взять ответственность за\#его открытие.
+Doom.\| That is\#all I can see\#ahead of us.<#>Рок.\| Это всё,\#что я вижу\#перед нами.
+Ciosmorosin has\#sent our entire village\#out to die.<#>Циосморосин послал\#всю нашу деревню\#на смерть.
+My heart is heavy,\#but I cannot cry.\|\#Not while there is even\#a sliver of hope left.<#>Моё сердце ноет,\#но я не могу плакать.\|\#Не сейчас, когда есть\#хотя бы капля надежды.
+Outsider, if you\#see them again...<#>Чужак, если ты увидишь\#их снова...
+...tell them to\#abandon their quest\#and return to the village.<#>...скажи им оставить\#задачу и возвращаться\#в деревню.
+If they don't...<#>Если они не вернуться...
+They will die.<#>Они умрут.
+I'll keep it in mind.<#>Я запомню.
+Beware,\#outsider.<#>Будь осторожней,\#чужак.
 Violate our\#laws and your\#punishment\#will be swift.<#>Нарушите наши законы -\#и ваше наказание\#наступит незамедлительно.
 <!-- Map203.rvdata2 --><#>
 We aren't here\#to cause trouble.<#>Мы не хотим\#создавать проблем.
@@ -5505,90 +5505,90 @@ Do not\#be fooled,\.\#man of rags.<#>Не обманись,\.\#человек в
 We may\#appear docile,\.\#but our sheathes\#hide deadly blades.<#>Мы можем показаться\#мирными,\. но наши\#ножны скрывают\#смертельные клинки.
 We live in peace\#knowing that all who\#wrong us will be struck\#down without mercy.<#>Мы живём в мире, зная,\#что все, кто поступят\#неверно, будут беспощадно\#повержены.
 This world is not\#what it used to be.<#>Этот мир уже не тот,\#каким когда-то был.
-The flow of\#space and time\#is contorted,\.\#twisted like a snake.<#>
-Life is quick to\#be snuffed,\. replaced\#with looming demise.<#>
-But life cannot\#be completely destroyed.<#>
-When a soul is\#taken from one,\. it is\#soon moved to another.<#>
-Now, even the\#shadows themselves\#have been granted\#the gift of life.<#>
-Our goal\#is to\#discover the\#cosmic truth.<#>
-For what reason\#does the universe itself\#now spiral out of control?<#>
-The elder\#will know\#in due time.<#>
-The elder\#has spoken.<#>
-I pray for\#the safety of\#my brothers.<#>
-The\#shadows...<#>
-He's muttering to himself.<#>
-Looming monument.<#>
-Welcome to\#our village,\. stranger.<#>
-It must surely\#be a refresher to\#see a civilized place\#in this day and age.<#>
-It does seem nice,\.\#but I don't know just\#how\. "civilized"\. a place\#can be anymore.<#>
-Very true, friend.\.\#Very true.<#>
-We are\#peaceful, however,\.\#so long as\#you are in kind.<#>
-Well, I'm no\#miscreant.\|\#Usually.<#>
-Good man,\#good man.<#>
-Do you like\#the statues?<#>
-They were carved\#here by our ancestors\#a long time ago.<#>
-I guess\#they're alright.\|\#I'm no art\#critic, though.<#>
-That is fine.\.\#Everyone views\#art differently.<#>
-Find your\#own meaning.\|\#That is what my\#grandfather used to say.<#>
-Enjoy yourself, stranger.<#>
-Almost everyone\#has left to\#chase the thief.<#>
-Though the wind\#is blowing, there is\#a silence lingering\#in my heart.<#>
-I hope this is\#not the end for us.<#>
-He is staring vacantly.<#>
+The flow of\#space and time\#is contorted,\.\#twisted like a snake.<#>Течение пространства\#и времени искажено,\.\#свёрнуто как змея.
+Life is quick to\#be snuffed,\. replaced\#with looming demise.<#>Жизнь быстро\#обрывается,\. заменяясь\#надвигающейся кончиной.
+But life cannot\#be completely destroyed.<#>Но жить не может\#быть уничтожена окончательно.
+When a soul is\#taken from one,\. it is\#soon moved to another.<#>Когда душу забирают\#у одного,\. она вскоре\#переходит другому.
+Now, even the\#shadows themselves\#have been granted\#the gift of life.<#>Теперь, даже сами\#тени получили дар\#жизни.
+Our goal\#is to\#discover the\#cosmic truth.<#>Наша цель -\#открыть\#внеземную\#истину.
+For what reason\#does the universe itself\#now spiral out of control?<#>По какой причине вселенная\#теперь бесконтрольно сжимается\#в спираль?
+The elder\#will know\#in due time.<#>Старейшина\#узнает это\#спустя время.
+The elder\#has spoken.<#>Старейшина\#говорил.
+I pray for\#the safety of\#my brothers.<#>Я молюсь за\#безопасность\#своих братьев.
+The\#shadows...<#>Тени...
+He's muttering to himself.<#>Он что-то бормочет себе под нос.
+Looming monument.<#>Нависающий монумент.
+Welcome to\#our village,\. stranger.<#>Добро пожаловать в\#нашу деревню,\. странник.
+It must surely\#be a refresher to\#see a civilized place\#in this day and age.<#>Должно быть, тебя\#облегчает вид\#цивилизованного места\#в такое время.
+It does seem nice,\.\#but I don't know just\#how\. "civilized"\. a place\#can be anymore.<#>Оно выглядит приятно,\.\#но я даже не знаю,\.\#настолько "цивилизованным"\.\#сейчас может быть место.
+Very true, friend.\.\#Very true.<#>Истина, друг.\.\#Истина.
+We are\#peaceful, however,\.\#so long as\#you are in kind.<#>Мы мирны, однако,\.\#до тех пор пока ты\#добр к нам.
+Well, I'm no\#miscreant.\|\#Usually.<#>Ну, я не\#злодей.\|\#Как правило.
+Good man,\#good man.<#>Хороший человек,\#хороший человек.
+Do you like\#the statues?<#>Тебе нравятся\#статуи?
+They were carved\#here by our ancestors\#a long time ago.<#>Они были вырезаны\#нашими предками\#в давние времена.
+I guess\#they're alright.\|\#I'm no art\#critic, though.<#>Думаю, они\#неплохи.\|\#Но я не критик.
+That is fine.\.\#Everyone views\#art differently.<#>Всё нормально.\.\#Каждый смотрит\#на искусство по-своему.
+Find your\#own meaning.\|\#That is what my\#grandfather used to say.<#>Найди своё\#собственное мнение.\|\#Так говорил мой\#прадед.
+Enjoy yourself, stranger.<#>Наслаждайся жизнью, странник.
+Almost everyone\#has left to\#chase the thief.<#>Почти все ушли\#преследовать\#вора.
+Though the wind\#is blowing, there is\#a silence lingering\#in my heart.<#>Хотя ветер и\#бушует, в моём\#сердце прибывает\#тишина.
+I hope this is\#not the end for us.<#>Я надеюсь, что это\#не наш конец.
+He is staring vacantly.<#>Он смотрит пустым взглядом.
 Stumpy statue.<#>
 Slightly-less-stumpy statue.<#>
-This is the\#Cliff of Perpetuity.<#>
-The chasm rejects\#all who are not\#worthy to enter.<#>
+This is the\#Cliff of Perpetuity.<#>Это - утёс\#бесконечности.
+The chasm rejects\#all who are not\#worthy to enter.<#>Пропасть отвергает\#всех, кто недостоин\#войти.
 <!-- Map204.rvdata2 --><#>
-Go on.\.\#Test your worth.<#>
-Don't worry,\.\#you probably\#won't die.<#>
-I give it\#like a sixty\#percent chance.<#>
-The chasm awaits.<#>
-No one knows\#what exactly the pit\#seeks in men.<#>
-Not even the\#wise elders have been\#able to discern its ways.<#>
-Such a fickle thing.<#>
-\{Rejection!<#>
-You have been rejected\#by the Cliff of Perpetuity!<#>
-It seems you\#are not yet worthy\#of its embrace.<#>
-That's alright.\. Not\#many have ever\#actually passed the test.<#>
-Perhaps try again later.<#>
-You have been\#once again rejected\#by the Cliff of Perpetuity!<#>
-Not your lucky\#day today, is it?<#>
-Alas.<#>
-\{Acceptance?!<#>
-You have...\|\#you have been\#accepted by the\#Cliff of Perpetuity!<#>
-I know not how\#nor why,\. but the Cliff\#has chosen you to\#bear its power!<#>
-This is a\#historic moment!<#>
-Perhaps it is\#finally time for\#me to test\#my worth...<#>
-The power of the Cliff\#resonates with the Ancient Ring.<#>
-The rust has cleared away,\.\#revealing the Perpetual Ring!<#>
-You have passed the Cliff's challenge.\#It will no longer receive you.<#>
-A fellow man\#of rags, I see!<#>
-Been wearing\#them for long?<#>
+Go on.\.\#Test your worth.<#>Давай.\.\#Узнай, достоин ли.
+Don't worry,\.\#you probably\#won't die.<#>Не беспокойся.\.\#Ты, скорее всего,\#не умрёшь.
+I give it\#like a sixty\#percent chance.<#>Ставлю где-то\#шестьдесят на\#сорок.
+The chasm awaits.<#>Пропасть ждёт.
+No one knows\#what exactly the pit\#seeks in men.<#>Никто точно не знает,\#чего именно бездна\#ищет в людях.
+Not even the\#wise elders have been\#able to discern its ways.<#>Даже мудрые старейшины\#не смогли описать пути\#её.
+Such a fickle thing.<#>Какая неоднозначная вещь.
+\{Rejection!<#>\{Отвергнут!
+You have been rejected\#by the Cliff of Perpetuity!<#>Ты был отвергнут\#утёсом бесконечности!
+It seems you\#are not yet worthy\#of its embrace.<#>Похоже, ты ещё\#недостоин её\#принятия.
+That's alright.\. Not\#many have ever\#actually passed the test.<#>Всё нормально.\. Немногие\#сумели пройти испытание за\#всё время.
+Perhaps try again later.<#>Постарайся попытаться позже.
+You have been\#once again rejected\#by the Cliff of Perpetuity!<#>Ты вновь был\#отвергнут утёсом\#бесконечности!
+Not your lucky\#day today, is it?<#>Сегодня не твой\#счастливый день, да?
+Alas.<#>Увы.
+\{Acceptance?!<#>\{Принятие?!
+You have...\|\#you have been\#accepted by the\#Cliff of Perpetuity!<#>Ты был...\|\#ты был принят\#утёсом бесконечности!
+I know not how\#nor why,\. but the Cliff\#has chosen you to\#bear its power!<#>Я не знаю почему\#и как,\. но утёс\#выбрал тебя носителем\#своей силы!
+This is a\#historic moment!<#>Это исторический\#момент!
+Perhaps it is\#finally time for\#me to test\#my worth...<#>Возможно, наконец\#пришло время мне\#проверить свою\#достойность...
+The power of the Cliff\#resonates with the Ancient Ring.<#>Сила утёса находит\#отклик в древнем кольце.
+The rust has cleared away,\.\#revealing the Perpetual Ring!<#>Ржавчина сошла,\.\#явив вечное кольцо!
+You have passed the Cliff's challenge.\#It will no longer receive you.<#>Ты прошёл испытание утёса.\#Он более не примет тебя.
+A fellow man\#of rags, I see!<#>Родной оборванец,\#я погляжу!
+Been wearing\#them for long?<#>Долго носишь\#лохмотья?
 <!-- Map205.rvdata2 --><#>
-No.\| They\#weren't my\#first choice,\#believe me.<#>
-They're pretty\#comfy,\. though.<#>
-Seems like they've\#grown on you!\. Maybe\#in more ways than one!<#>
-Kikiki!<#>
-Rags are the\#ultimate form of clothing.<#>
-To see anyone\#wearing anything else...\|\#well,\. it makes me sick!<#>
-They must be\#completely delusional!<#>
-Is something\#happening right now?<#>
-As great as they\#are,\. I can't see very\#well with the rags on.<#>
-Smothered by rags.<#>
-Old mural, heavily eroded by time.<#>
-The view from\#here is pretty killer.<#>
-You can see way\#off into the distance.\|\#All of that...\. sand.<#>
-Maybe the\#view isn't\#so great\#after all.<#>
-The Elder says\#there's some kind of\#city across the wastes.<#>
-To think that\#something like that\#can exist in this\#fragmented world...<#>
-It must be paradise.<#>
-Once again, our peace\#is shattered by the ill\#intentions of an outsider.<#>
-And just when\#we were beginning to\#trust them, as well.<#>
-Choose your next\#steps carefully, rag man.<#>
-Our patience runs thin.<#>
-The Elder\#will determine\#our next\#course of action.<#>
-His wisdom has not,\.\#and will not,\. fail us.<#>
+No.\| They\#weren't my\#first choice,\#believe me.<#>Нет.\| Они\#не были\#моим выбором,\#поверь.
+They're pretty\#comfy,\. though.<#>Хотя,\. они\#довольно удобные.
+Seems like they've\#grown on you!\. Maybe\#in more ways than one!<#>Кажется, они приросли\#к тебе!\. Может, даже\#на тебе и выросли!
+Kikiki!<#>Кикики!
+Rags are the\#ultimate form of clothing.<#>Лохмотья - высшая\#форма одежды.
+To see anyone\#wearing anything else...\|\#well,\. it makes me sick!<#>Чтобы видеть, как\#кто-то другой носит\#их...\| ну,\. меня аж тошнит!
+They must be\#completely delusional!<#>Они, должно быть,\#полностью бредят!
+Is something\#happening right now?<#>Что-то происходит?
+As great as they\#are,\. I can't see very\#well with the rags on.<#>Несмотря на их\#величие,\. в лохмотьях\#плохо видно.
+Smothered by rags.<#>Задушен лохмотьями.
+Old mural, heavily eroded by time.<#>Старая фреска, сильно разрушенная временем.
+The view from\#here is pretty killer.<#>Вид отсюда просто\#потрясающий.
+You can see way\#off into the distance.\|\#All of that...\. sand.<#>Виднеется глубокая\#даль.\| Вся...\. песчаная.
+Maybe the\#view isn't\#so great\#after all.<#>Может, вид\#и не такой\#уж потрясающий.
+The Elder says\#there's some kind of\#city across the wastes.<#>Старейшина говорит,\#что в пустошах есть\#некий город.
+To think that\#something like that\#can exist in this\#fragmented world...<#>Только подумать,\#что что-то подобное\#существует в этом\#разъединённом мире...
+It must be paradise.<#>Должно быть, это рай.
+Once again, our peace\#is shattered by the ill\#intentions of an outsider.<#>И снова наш мир\#разрушен злыми\#намерениями чужака.
+And just when\#we were beginning to\#trust them, as well.<#>И как раз тогда,\#когда мы начали\#ему доверять.
+Choose your next\#steps carefully, rag man.<#>Смотри под ноги,\#оборванец.
+Our patience runs thin.<#>Наше терпение на исходе.
+The Elder\#will determine\#our next\#course of action.<#>Старейшина определит\#наш дальнейший план\#действий.
+His wisdom has not,\.\#and will not,\. fail us.<#>Его мудрость ни разу\#не подвела,\. и никогда в\#будущем,\. не подведёт нас.
 A false\#dichotomy\#between two\#stray prophets...<#>
 Counterfeit truths for\#counterfeit people.<#>
 No such\#nonsense here.<#>
@@ -5624,12 +5624,12 @@ Its form was angelic,\.\#its wings spread wide\#and its skin the\#color of blood
 What was it?\|\#The truth.<#>
 The truth that\#lies hidden in the\#crack between realities.<#>
 Perhaps you,\. too,\.\#will see it some day.<#>
-Pilfer the corpse?<#>
+Pilfer the corpse?<#>Обворовать труп?
 Got a Joy Mask.<#>Получена маска радости.
 <!-- Map206.rvdata2 --><#>
 8 Magazines!<#>8 журналов!
 What the hey?<#>Чё за?
-Joel?\. What's up?<#>
+Joel?\. What's up?<#>Джоэл?\. Что случилось?
 <!-- Map207.rvdata2 --><#>
 Hat got snagged\#on somethin' weird.<#>
 All good now.\| Let's\#keep on goin-\^<#>
@@ -5653,7 +5653,7 @@ Let's just get\#outta here.<#>
 A dried herb!<#>
 Oh, a new face.\|\#Welcome, welcome.<#>Ох, новое лицо.\|\#Добро пожаловать.
 <!-- Map208.rvdata2 --><#>
-I am Raphael,\.\#and this is my\#humble bazaar.<#>
+I am Raphael,\.\#and this is my\#humble bazaar.<#>Я Рафаэль,\.\#и это мой\#скромный базар.
 <!-- Map209.rvdata2 --><#>
 I hope you\#find something of\#interest among my wares.<#>
 Though, I should\#probably warn you.<#>
@@ -5679,7 +5679,7 @@ You seemed to have spaced out...<#>
 You have bought all I had.<#>
 "Olathe Weather Institute: Outpost Gamma"<#>
 <!-- Map210.rvdata2 --><#>
-"Authorized Personnel Only"<#>
+"Authorized Personnel Only"<#>"Только для персонала"
 <!-- Map211.rvdata2 --><#>
 "Beware of Scorpions"<#>
 Well-dressed bones.<#>
@@ -5693,7 +5693,7 @@ Crushed bones.<#>
 "Until whatever the hell this is stops,\#I'm holding down the fort here.<#>
 "Just leave me. Get out of here while you can.<#>
 "Contact HQ by any means necessary."<#>
-Who cares\#about coins?<#>
+Who cares\#about coins?<#>Кому нужны\#монеты?
 The house\#is what we\#came for.<#>Мы пришли\#за этим домом.
 <!-- Map213.rvdata2 --><#>
 It's so\#much\#cooler\#up close...<#>Он куда\#круче\#вблизи...
@@ -5740,72 +5740,72 @@ Dusty notebooks and mathematical texts.<#>
 To think,\. we became\#so careless as to let\#our greatest treasure\#be stolen away...<#>
 This transgression will\#not go unpunished.<#>
 <!-- Map215.rvdata2 --><#>
-The outsiders\#brought this\#wrath upon themselves.<#>
-When blood\#is inevitably\#spilled,\. it will\#be on their hands.<#>
-That outsider...\|\#the man wearing\#the yellow tie...<#>
-He is to blame\#for this wrongdoing.<#>
-We'll find him,\.\#and we'll take back\#what is rightfully ours.<#>
-Young man...<#>
-What is it\#that you seek?<#>
-A better place.<#>
-A better place\#to live, or a\#better place to thrive?<#>
-What do you mean?<#>
-A man can\#make anywhere his\#home, with enough time.<#>
-Men can live\#anywhere, as you\#have no doubt seen.<#>
-But to thrive,\#one must search.<#>
-For how long\#have you searched\#for that place?<#>
-Ever since the\#world went to hell.<#>
-Mmm...<#>
-Life rewards those\#who are patient.<#>
-You will find\#that "better place"\#in time, that I am\#certain of.<#>
-He gave you a medicinal herb.<#>
-You have my\#best wishes.<#>
-Go now.<#>
-Your utopia is\#still out there.<#>
-All you have\#to do is find it.<#>
+The outsiders\#brought this\#wrath upon themselves.<#>Чужаки навлекли\#на себя этот гнев.
+When blood\#is inevitably\#spilled,\. it will\#be on their hands.<#>Когда кровь\#неизбежно прольётся,\.\#она прольётся на их\#руках.
+That outsider...\|\#the man wearing\#the yellow tie...<#>Этот чужак...\|\#Мужчина в жёлтом\#галстуке...
+He is to blame\#for this wrongdoing.<#>Он виноват в этом\#проступке.
+We'll find him,\.\#and we'll take back\#what is rightfully ours.<#>Мы найдём его,\.\#и мы заберём то, что\#является по праву нашим.
+Young man...<#>Молодой человек...
+What is it\#that you seek?<#>Чего же вы\#ищите?
+A better place.<#>Лучшего места.
+A better place\#to live, or a\#better place to thrive?<#>Лучшего места для\#житья, или лучшего\#для процветания?
+What do you mean?<#>Что вы имеете в виду?
+A man can\#make anywhere his\#home, with enough time.<#>Человек может сделать\#что угодно домом, будь у\#него достаточно времени.
+Men can live\#anywhere, as you\#have no doubt seen.<#>Люди могут жить\#везде, как вы несомненно\#могли увидеть.
+But to thrive,\#one must search.<#>Но процветания, человек\#должен искать.
+For how long\#have you searched\#for that place?<#>Как долго ты\#ищешь это\#место?
+Ever since the\#world went to hell.<#>Ищу с того момента,\#как мир скатился в ад.
+Mmm...<#>Ммм...
+Life rewards those\#who are patient.<#>Жизнь награждает\#терпеливых.
+You will find\#that "better place"\#in time, that I am\#certain of.<#>Ты найдёшь это\#"лучшее место" спустя\#время, в этом я уверен.
+He gave you a medicinal herb.<#>Он дал вам целебную траву.
+You have my\#best wishes.<#>Желаю вам\#наилучшего.
+Go now.<#>Теперь идите.
+Your utopia is\#still out there.<#>Ваша утопия где-то\#существует.
+All you have\#to do is find it.<#>Вам нужно лишь\#найти её.
 He is hollow.<#>
-So, do you\#understand now\#what must be done?<#>
-Yes, wise elder.<#>
-Affirmative.<#>
-Retreive the pill,\.\#and ensure its safe\#return to the sanctum.<#>
-Failure is not\#a possibility.\| If the\#artifact is lost...<#>
-You may as\#well take your\#own lives.<#>
-We understand,\#Ciosmorosin.<#>
-We will not\#fail you, for the\#sake of our people.<#>
-Good...<#>
-Now,\. abscond.<#>
-Leave it to us.<#>
-Don't disturb the\#great elder, outsider.\|\#His concentration must\#not be broken.<#>
-Ciosmorosin is\#one of the wisest\#humans to ever grace\#this foul Earth.<#>
-We bring him\#mystical objects,\. and\#in return, he endows\#us with cosmic knowledge.<#>
-Do you understand now?\|\#The importance of the\#elder's unwavering spirit?<#>
-No...\| outsiders will\#never be able to\#comprehend his ways.<#>
-Leave the village.\|\#You don't belong here.<#>
-Would\#you look\#at that...<#>
-Someone's finally\#found our little\#patch of Hell again...<#>
-Nothing,\.\#that's what.<#>
-Nothing's\#happened here\#for decades.<#>
-Time's just\#gone on,\. and\#on,\. and on.<#>
-Decades?<#>
-It hasn't\#been THAT\#long since\#we visited.<#>
-Dunno what\#planet you're\#living on.<#>
-Has to be\#almost thirty\#years since I've\#seen your mug.<#>
-And what\#about those\#guys the\#Elder sent out?<#>
-Yeah,\. what\#about them?<#>
-They\#still haven't\#come back.<#>
-We waited\#for years,\. very,\#very patiently.<#>
-But there\#was no\#sign of 'em.<#>
-Long, long\#time since\#anyone's been\#around here.<#>
-Not even the Elder, in\#all his infinite wisdom,\#could stop himself\#from crumbling to dust.<#>
-Take my\#advice, kid.<#>
-Leave\#this place.<#>
-Nothing left\#here but dust\#and old bones.<#>
-Do what\#we could never\#manage to,\.\.\#and move on.<#>
-Leave.<#>
-For your\#own good.<#>
-The Elder's head.<#>
-The machine is busted.<#>
-Someone's coffee mug.<#>
+So, do you\#understand now\#what must be done?<#>Так, теперь вы\#понимаете, что\#нужно сделать?
+Yes, wise elder.<#>Да, мудрый старейшина.
+Affirmative.<#>Подтверждаю.
+Retreive the pill,\.\#and ensure its safe\#return to the sanctum.<#>Верните таблетку,\.\#и возвратите в святилище\#в безопасности.
+Failure is not\#a possibility.\| If the\#artifact is lost...<#>Провал стоит исключить.\|\#Если артефакт будет\#потерян...
+You may as\#well take your\#own lives.<#>Вам лучше покончить\#с собой.
+We understand,\#Ciosmorosin.<#>Мы понимаем,\#Циосморосин.
+We will not\#fail you, for the\#sake of our people.<#>Мы не подведём\#вас, ради блага\#нашего народа.
+Good...<#>Хорошо...
+Now,\. abscond.<#>Теперь,\. скройтесь.
+Leave it to us.<#>Мы разберёмся.
+Don't disturb the\#great elder, outsider.\|\#His concentration must\#not be broken.<#>Не мешай великому\#старейшине, чужак.\|\#Его концентрация не должна\#быть нарушена.
+Ciosmorosin is\#one of the wisest\#humans to ever grace\#this foul Earth.<#>Циосморосин - один из\#мудрейших людей, когда-либо\#благословлявших эту скверную\#землю.
+We bring him\#mystical objects,\. and\#in return, he endows\#us with cosmic knowledge.<#>Мы приносим ему\#мистические предметы,\.\#и взамен, он наделяет нас\#внеземными знаниямию.
+Do you understand now?\|\#The importance of the\#elder's unwavering spirit?<#>Теперь вы понимаете?\|\#Важность непоколебимого\#духа старейшины?
+No...\| outsiders will\#never be able to\#comprehend his ways.<#>Нет...\| чужаки никогда\#не поймут путей его.
+Leave the village.\|\#You don't belong here.<#>Покидайте деревню.\|\#Вам здесь не рады.
+Would\#you look\#at that...<#>Посмотрите-ка...
+Someone's finally\#found our little\#patch of Hell again...<#>Кто-то наконец\#нашёл наш маленький\#ад...
+Nothing,\.\#that's what.<#>Ничего,\.\#вот и всё.
+Nothing's\#happened here\#for decades.<#>Ничего не\#происходило здесь\#десятилетиями.
+Time's just\#gone on,\. and\#on,\. and on.<#>Время просто идёт,\.\#и идёт,\. и идёт.
+Decades?<#>Десятилетиями?
+It hasn't\#been THAT\#long since\#we visited.<#>Мы были здесь\#не настолько\#давно.
+Dunno what\#planet you're\#living on.<#>Не знаю, на\#какой планете\#ты живёшь.
+Has to be\#almost thirty\#years since I've\#seen your mug.<#>Почти тридцать\#лет прошло с\#того момента, как\#я видел твою кружку.
+And what\#about those\#guys the\#Elder sent out?<#>А что насчёт\#тех ребят,\#которых послал\#старейшина?
+Yeah,\. what\#about them?<#>А в чём дело?
+They\#still haven't\#come back.<#>Они до сих \#пор не\#вернулись.
+We waited\#for years,\. very,\#very patiently.<#>Мы ждали\#годами,\. очень\#и очень терпеливо.
+But there\#was no\#sign of 'em.<#>Но не получили\#ни знака.
+Long, long\#time since\#anyone's been\#around here.<#>Давным-давно\#никто\#не был\#здесь.
+Not even the Elder, in\#all his infinite wisdom,\#could stop himself\#from crumbling to dust.<#>Даже сам старейшина,\#со всей своей безграничной\#мудростью, не смог избежать\#становления пылью.
+Take my\#advice, kid.<#>Послушай моего\#совета, дитя.
+Leave\#this place.<#>Покидай это\#место.
+Nothing left\#here but dust\#and old bones.<#>Здесь нет ничего,\#кроме пыли и старых\#костей.
+Do what\#we could never\#manage to,\.\.\#and move on.<#>Сделай то, что\#мы так никогда\#и не сумели,\.\.\#и двигайся.
+Leave.<#>Уходи.
+For your\#own good.<#>Ради собственного\#блага.
+The Elder's head.<#>Голова старейшины.
+The machine is busted.<#>Машина сломана.
+Someone's coffee mug.<#>Чья-то кофейная кружка.
 <!-- Map216.rvdata2 --><#>
 "8:52 PM, 31/12/99<#>
 "Previously observed phenomena\#have escalated in intensity.<#>
@@ -9380,8 +9380,8 @@ Your head burns.<#>
 Max SP increased. Max HP decreased.<#>
 <!-- Map338.rvdata2 --><#>
 <!-- Map339.rvdata2 --><#>
-"Here lies Rover Vespucci"<#>
-"The first, and last, victim of The Game"<#>
+"Here lies Rover Vespucci"<#>"Здесь лежит Ровер Веспуччи."
+"The first, and last, victim of The Game"<#>"Первая и последняя жертва Игры."
 Ssssss...<#>
 H-hi...<#>
 No one\#comes in\#here anymore.<#>
