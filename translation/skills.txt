@@ -902,7 +902,7 @@ The Minor Iris<#>Малый Ирис
 (WAS) The first supreme technique of the Velvet\#Style. Pierces defenses, but puts you off balance.<#>(WAS) Первая продвинутая техника Вельветового\#стиля. Пробивает защиту, но вы теряете равновесие.
 thrashes about like mad!<#>мечется как сумасшедший!
 Receding Stance<#>Стойка отклонения
-A disengaging stance, that helps regain focus.\#Recovers some SP.<#>Откланяющая вас стойка, способствующая\#восстановлению фокусировки. Восстанавливает немного ОН.
+A disengaging stance, that helps regain focus.\#Recovers some SP.<#>Откланительная стойка, способствующая восстановлению\#фокусировки. Восстанавливает немного ОН.
 gives some space!<#>освобождает пространство!
 Refuel<#>
 Gas 'er up!<#>
@@ -1076,22 +1076,22 @@ Urban legends say, this style, of Zhang Xianzhong,\#was lost after being banned 
 Velvet Style Kung Fu!<#>Вельветовый стиль Кунг-фу!
 Full Thrust<#>Сильный толчок
 (WWA) Get your fingers up in their business.\#Will probably set the opponent Off Balance.<#>(WWA) Вмешайтесь в чужие дела.\#Вероятно, выведет противника из равновесия.
-thrusts forward!<#>
+thrusts forward!<#>совершает рывок вперёд!
 (WWD) Works your leg like a guillotine.\#Has a chance of bleeding the enemy.<#>(WWD) Работайте ногой, как гильотиной.\#Шанс вызвать кровотечение у противника.
-(DDD) A no-nonsense, double back kick.\#May launch enemy into the air. Costs 120 HP.<#>
+(DDD) A no-nonsense, double back kick.\#May launch enemy into the air. Costs 120 HP.<#>(DDD) Совершенно серьёзный двойной удар ногами.\#Может запустить врага в воздух. Стоит 120 ОЗ.
 Goat Headbutt<#>Удар козьей головы
 (ADS) Devastating cranial collision.\#May stun, but low damage against good def.<#>(ADS) Разрушительный удар головой.\#Может оглушить, но наносит низкий урон против хорошей защиты.
-rams his head!<#>
-A disengaging stance that helps regain focus.\#Recovers some SP.<#>
-(WAS) The first supreme technique of the Velvet\#Style. Pierces defenses at the cost of 200 HP.<#>
+rams his head!<#>таранит головой!
+A disengaging stance that helps regain focus.\#Recovers some SP.<#>Откланительная стойка, способствующая восстановлению\#фокусировки. Восстанавливает немного ОН.
+(WAS) The first supreme technique of the Velvet\#Style. Pierces defenses at the cost of 200 HP.<#>(WAS) Первая высшая техника вельветового стиля.\#Пробивает защиту стоимостью 200 ОЗ.
 The Major Iris<#>Крупный Ирис
-(ASAS) The second supreme technique. Shreds\#enemy defenses; shreds your body in return.<#>
-tears them apart!<#>
-Twisted Stance<#>
-Can your joints handle it? Recovers 70 SP.\#Costs 150 HP, or 50 HP if already twisted.<#>
-coils up!<#>
+(ASAS) The second supreme technique. Shreds\#enemy defenses; shreds your body in return.<#>(ASAS) Вторая высшая техника. Разрывает вражескую\#защиту; и в свою очередь разрывает ваше тело. 
+tears them apart!<#>разрывает их на куски!
+Twisted Stance<#>Закрученная стойка
+Can your joints handle it? Recovers 70 SP.\#Costs 150 HP, or 50 HP if already twisted.<#>Выдержат ли ваши суставы? Восстанавливает 70 ОН.\#Стоит 150 ОЗ, или 50 ОЗ, если вы уже закручены.
+coils up!<#>скручивается!
 Disarming Chop<#>Обезоруживающий рубец
-chops at the wrist!<#>
+chops at the wrist!<#>удярет по запястью!
 Dive<#>Нырок
 A classic evasive maneuver. Can still use items.\#Prevents most forms of damage, but staggers.<#>Классический манёвр уклонения. Позволяет использовать предметы.\#Защищает от большинства видов урона, но вы теряете равновесие.
 got outta there!<#>убрался подальше!
@@ -1130,8 +1130,8 @@ is being flashy!<#>привлекает внимание!
 Roll Out<#>Перекат
 A dive and a roll.\#Prevents most forms of damage.<#>Нырок и перекат.\#Защищает от большинства видов урона.
 Mind Games<#>Игры разума
-Spooks for easy scares. Joel gets Presence,\#loses Taunt. If it removes Taunt- full SP restore.<#>
-made eye contact!<#>
+Spooks for easy scares. Joel gets Presence,\#loses Taunt. If it removes Taunt- full SP restore.<#>Легко пугающая страшилка. Джоэл получает присутствие, теряет\#насмешку. Если удаляет насмешку - полностью восстанавливает ОН.
+made eye contact!<#>установил зрительный контакт!
 Gun Reveal<#>Показать пушку
 Show off your prized gun in a daring manner.\#May make some men feel nasty.<#>Светануть своим ценным оружием и подразнить врагов.\#Может вызвать у некоторых парней отвращение.
 reveals his holster!<#>разоблачает кобуру!
