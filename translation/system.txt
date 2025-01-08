@@ -1,67 +1,16 @@
 Mags<#>Журналы
-Rags<#>
-Nude<#>
-Coat<#>
-Hat<#>
-Jewelry<#>
-Wraps<#>
 Flourish<#>Украшение
-Bullet<#>
-Neckwear<#>
-Ponchos<#>
-Pants<#>
-Materials<#>
-Crystals<#>
-Jerseys<#>
-Censer<#>
-Physical<#>
-Absorb<#>
-Fire<#>
-Heavy Armor<#>
-Pierce<#>
-Slice<#>
-Airborne<#>
-Crushing<#>
-Holy<#>
-Dark<#>
-Gentle<#>
-Rough<#>
-Loving<#>
-Animal<#>
-Basic<#>
-Unknown<#>
-Electric<#>
-Slash<#>
-Bloodletting<#>
-Bite<#>
 Techniques<#>Техники
-Killer Moves<#>
 Hints<#>Подсказки
 Topics<#>Темы
-Dozing<#>
-Seduction<#>
-Punjabi Poke<#>
-Songs<#>
-Peckings<#>
-Advisory<#>
-Blades<#>
-Dance<#>
 Magic<#>Магия
-Draw<#>
-Kat<#>
-Critters<#>
 Gunplay<#>Стрельба
 Stances<#>Стойки
 Trashy Tricks<#>Мусорные трюки
 Smooth Moves<#>Плавные движения
 Investments<#>Инвестиции
-Artistry<#>
-Skulduggery<#>
 Moves<#>Движения
-Batting<#>
-Horseplay<#>
-Neu Style<#>
-Desperation<#>
+Artistry<#>Артистичность
 MaxHP<#>Макс. ОЗ
 MaxSP<#>Макс. ОН
 ATK<#>АТК

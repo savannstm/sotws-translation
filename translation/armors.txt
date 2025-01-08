@@ -5,7 +5,7 @@ Worthless piece of plastic with\#a yellow coat of paint.<#>Бесполезны�
 Burlap Rags<#>Джутовые лохмотья
 Burlap is the new denim. Sad it has a hole in it.<#>Джут - новый деним. Грустно, что в них образовалась\#дыра.
 Clean Bandages<#>Чистые повязки
-Bandages, keeping "it" together since 2600 B.C.\#Reduces bleeding.<#>
+Bandages, keeping "it" together since 2600 B.C.\#Reduces bleeding.<#>Повязки, сдерживающие "их" вместе с 2600 века до н. э.\#Понижают шанс кровотечения.
 Iron Box<#>Железная коробка
 Small box with a fragile teal band.<#>Маленькая коробка с хрупким бирюзовым ободком.
 Grease<#>Масло
@@ -33,92 +33,92 @@ Makes it harder for THEM to find you.\#Reduce bleeding slightly.<#>Так ИМ �
 Champion's Belt<#>Чемпионский пояс
 EWC tag team champion belt of '82.\#Slight increase in SP and skill cost reduction.<#>
 Salty Bathrobe<#>Солёный халат
-A grim vestment, highly resistant to damage.\#Reduces attack, mobility and doubles SP costs.<#>
+A grim vestment, highly resistant to damage.\#Reduces attack, mobility and doubles SP costs.<#>Мрачное облачение, очень устойчивое к повреждениям.\#Снижает атаку, мобильность, и удваивает стоимость навыков.
 Old Poncho<#>Старое пончо
-Barely counts as clothing, but good enough to keep\#you warm at night. Slightly increases max SP.<#>
+Barely counts as clothing, but good enough to keep\#you warm at night. Slightly increases max SP.<#>С трудом напоминает одежду, но обеспечивает достаточное\#тепло по ночам. Немного повышает макс. ОН.
 Carpet Square<#>Квадратный ковер
-A piece of carpeting with a massive hole in it.\#Lightweight, but makes skills cost more.<#>
+A piece of carpeting with a massive hole in it.\#Lightweight, but makes skills cost more.<#>Кусок ковролина с огромной дырой.\#Лёгкий, но повышает стоимость навыков.
 Bronze Watch<#>Бронзовые часы
-Busted wristwear. Will provide a bit of SP regen,\#but also lowers attack slightly.<#>
+Busted wristwear. Will provide a bit of SP regen,\#but also lowers attack slightly.<#>Разбитые наручные часы. Дадут небольшую регенерацию ОН,\#но также немного понизят атаку.
 Impeccable Golden Brolex<#>Безупречные золотые бролексы
-Worth a small African country. Are you willing to\#put it on your wrist?<#>
+Worth a small African country. Are you willing to\#put it on your wrist?<#>За них можно купить небольшую африканскую страну.\#Хотите ли вы одеть их?
 Fishman Poncho<#>Пончо рыболюда
-The garb of a fishman from below Garbage Island.\#Provides decent protection, but makes you wet.<#>
+The garb of a fishman from below Garbage Island.\#Provides decent protection, but makes you wet.<#>Одежда рыболюда из-под мусорного острова.\#Обеспечивает хорошую защиту, но мочит вас.
 Mud Charm<#>Грязевой амулет
-An old dream-catcher, smeared with mud.\#Provides higher max health and HP regeneration.<#>
+An old dream-catcher, smeared with mud.\#Provides higher max health and HP regeneration.<#>Старый ловец снов, вымазанный грязью.\#Обеспечивает повышенные макс. ОЗ и регенерацию ОЗ.
 Denim Jeans<#>Денимовые джинсы
-Pants built to last. Comfortable and lightweight.<#>
+Pants built to last. Comfortable and lightweight.<#>Сшитые на века. Комфортные и лёгкие.
 Faded Shawl<#>Выцветшая шаль
-Scrappy patch of cloth. Good for wiping sweat\#from your forehead.<#>
+Scrappy patch of cloth. Good for wiping sweat\#from your forehead.<#>Лоскут ткани. Хорошо подходит для вытирания пота\#со лба.
 Painter's Gear<#>Инструменты художника
-A bucket of white paint and a brush to use it.\#All that an artist could ever ask for.<#>
+A bucket of white paint and a brush to use it.\#All that an artist could ever ask for.<#>Ведро белой краски и кисть для рисования.\#Всё, о чём может просить художника.
 Joy Mask<#>Маска радости
-The bloodied mask of a Joy dealer. Provides decent\#protection, but raises skill costs.<#>
+The bloodied mask of a Joy dealer. Provides decent\#protection, but raises skill costs.<#>Кровавая маска дилера Джоя. Обеспечивает\#хорошую защиту, но повышает стоимость навыков.
 Salt Chunks<#>Кусочки соли
-Chunks of pure salt, and maybe a little dandruff.\#Provides protection.<#>
-Crystal Bathrobe<#>
-The most impenetrable piece of bathroom garb\#known to man. Limits mobility, but grants SP regen.<#>
+Chunks of pure salt, and maybe a little dandruff.\#Provides protection.<#>Кусочки чистой соли, возможно смешанные с перхотью.\#Защищают.
+Crystal Bathrobe<#>Кристаллический халат
+The most impenetrable piece of bathroom garb\#known to man. Limits mobility, but grants SP regen.<#>Самый непробиваемый вид банной одежды, известный\#человеку. Понижает мобильность, но регенирирует ОН.
 Miner's Helmet<#>Каска шахтёра
-A hat to keep your skull safe. Defensive, but the\#light attracts attention.<#>
-King-Brand Necklace<#>
-A 14-karat gold necklace made by King.\#Makes you feel Cool.<#>
-Bad Boy Hair Gel<#>
-Hair gel for troublemakers, now with 40%\#more grease. Makes you burn easily.<#>
+A hat to keep your skull safe. Defensive, but the\#light attracts attention.<#>Каска, обеспечивающая безопасность черепа. Защищает, но\#лампа привлекает внимание.
+King-Brand Necklace<#>Фирменное ожерелье короля
+A 14-karat gold necklace made by King.\#Makes you feel Cool.<#>14-каратное золотое ожерелье, сделанное королём.\#Вы чувствуете себя круто.
+Bad Boy Hair Gel<#>Гель для волос "Плохой Парень"
+Hair gel for troublemakers, now with 40%\#more grease. Makes you burn easily.<#>Гель для волос для плохишей, теперь с 40% жира в составе.\#Легко воспламеняется.
 Sapphire Coat<#>Сапфировое пальто
 A truly stylish coat. Allows wearer to move twice\#in one turn, but cuts HP and SP in half.<#>
-Bad Beater<#>
-The signature undershirt of the Bad Angels.\#Lowers defense, but boosts attack.<#>
+Bad Beater<#>Плохиш-боец
+The signature undershirt of the Bad Angels.\#Lowers defense, but boosts attack.<#>Сигнатурная безрукавка Плохих Ангелов.\#Понижает защиту, но повышает атаку.
 Businessy Fedora<#>Деловая федора
-You can practically feel the stock market pulsing\#within this hat. Increases maximum SP.<#>
+You can practically feel the stock market pulsing\#within this hat. Increases maximum SP.<#>Вы практически чувствуете пульсацию биржевого рынка в\#этой шляпе. Повышает максимальные ОН.
 Spare Tie<#>Запасной галстук
-A professional never leaves home without one.\#Reduces cost of skills by 10%.<#>
+A professional never leaves home without one.\#Reduces cost of skills by 10%.<#>Профессионал никогда не выходит из дома без запасного.\#Понижает стоимость навыков на 10%.
 Leather Pants<#>Кожаные штаны
-Tight pants that highlight your best features.\#Boosts all stats, but inflicts a permanent taunt.<#>
-Skin Wraps<#>
-Patch your wounds with another man's skin.\#Provides poison resistance, but makes you nasty.<#>
+Tight pants that highlight your best features.\#Boosts all stats, but inflicts a permanent taunt.<#>Узкие брюки, подчёркивающие ваши лучшие черты\#Повышают все характеристики, но добавляют постоянную насмешку.
+Skin Wraps<#>Кожаные повязки
+Patch your wounds with another man's skin.\#Provides poison resistance, but makes you nasty.<#>Залатайте раны чужой кожей.\#Дают сопротивление к яду, но делают вас мерзким.
 Doctor's Coat<#>Халат доктора
-The abandoned coat of a medical practioner.\#Increases maximum health.<#>
-Gizmo's Glasses<#>
-A precious heirloom of the Gizmo family.\#Provides exceptional accuracy.<#>
-Neon Painter's Gear<#>
-Neon green paint designed to irritate the eyes.\#Boosts max HP, but increases target rate.<#>
+The abandoned coat of a medical practioner.\#Increases maximum health.<#>Забытый халат медика-практиканта.\#Повышает максимальное здоровье.
+Gizmo's Glasses<#>Очки Гизмо
+A precious heirloom of the Gizmo family.\#Provides exceptional accuracy.<#>Драгоценная реликвия семьи Гизмо.\#Обеспечивают исключительную точность.
+Neon Painter's Gear<#>Неоновые инструменты художника
+Neon green paint designed to irritate the eyes.\#Boosts max HP, but increases target rate.<#>Неоновая зелёная краска, произведённая для выжигания\#глаз. Повышают макс. ОЗ, но также повышают шанс быть атакованным.
 Rando Rags<#>Тряпьё Рандо
-Rando-branded fabric. Sturdy and hard to rip.<#>
+Rando-branded fabric. Sturdy and hard to rip.<#>Фирменная ткань Рандо. Крепкая и не рвётся.
 Rando Helmet<#>Шлем Рандо
-The helmet of a Rando soldier. Good luck cracking\#through this one.<#>
+The helmet of a Rando soldier. Good luck cracking\#through this one.<#>Шлем солдата Рандо. Удачи сломать его.
 Rando Pads<#>Наплечники Рандо
-More formally known as "pauldrons." Keeps those\#shoulders out of harm's way.<#>
-Homely Coat<#>
+More formally known as "pauldrons." Keeps those\#shoulders out of harm's way.<#>Наплечники. Не позволяют навредить плечам.
+Homely Coat<#>Домашнее пальто
 A warm coat that smells like a roaring fireplace.\#Prevents wet and nasty.<#>
-All-Seeing Fez<#>
-Hat that expands your mind. Doubles max SP,\#but cuts all other stats.<#>
-Old Rosary Belt<#>
-Chain of timeworn rosary beads. Regenerates SP\#and increases max SP, but prevents stancing.<#>
+All-Seeing Fez<#>Всевидящий Фес
+Hat that expands your mind. Doubles max SP,\#but cuts all other stats.<#>Шляпа, расширяющая грани разума. Удваивает макс. ОН,\#но снижает все другие характеристики.
+Old Rosary Belt<#>Цепочка из старых чёток
+Chain of timeworn rosary beads. Regenerates SP\#and increases max SP, but prevents stancing.<#>Цепочка из изношенных чёток. Восстанавливает ОН и повышает\#макс. ОН, но не позволяет встать в стойку.
 Rainbow Painter's Gear<#>Разноцветная палитра художника
-Imagination in liquid form. Doubles attack and\#defense, but ensures wearer will always move last.<#>
+Imagination in liquid form. Doubles attack and\#defense, but ensures wearer will always move last.<#>Воображение в жидкостной форме. Удваивает атаку и\#защиту, но носитель будет всегда двигаться последним.
 Infinity Jersey<#>Майка бесконечности
-It speaks to you. Warmly.\#SP increases minorly over time.<#>
+It speaks to you. Warmly.\#SP increases minorly over time.<#>Она говорит с вами. Тепло.\#Со временем слегка повышает ОН.
 Blood of Sin<#>Кровь греха
-Sanguine drop from the Ninth Circle.\#Provides exceptional resistance to fire.<#>
+Sanguine drop from the Ninth Circle.\#Provides exceptional resistance to fire.<#>Сангвинная капля из девятого круга.\#Предоставляет выдающееся сопротивление к огню.
 Mask of the Angel<#>Маска ангела
-Mask depicting a white angel. Provides substantial\#HP and SP bonuses, but cuts offense and speed.<#>
+Mask depicting a white angel. Provides substantial\#HP and SP bonuses, but cuts offense and speed.<#>Маска, изображающая белого ангела. Существенно повышает\#ОЗ и ОН, но снижает атаку и скорость.
 Mask of the Man<#>Маска человека
-Mask depicting a gray human. Increases defense\#substantially, but cuts HP and SP.<#>
+Mask depicting a gray human. Increases defense\#substantially, but cuts HP and SP.<#>Маска, изображающая серого человека. Существенно\#повышает защиту, но снижает ОЗ и ОН.
 Mask of the Demon<#>Маска демона
-Mask depicting a black demon. Increases offense\#and speed substantially, but cuts defense.<#>
+Mask depicting a black demon. Increases offense\#and speed substantially, but cuts defense.<#>Маска, изображающая чёрного демона. Существенно\#повышает атаку и скорость, но снижает защиту.
 Skull Necklace<#>Ожерелье с черепами
 Crow skulls strung in a line. Protects the wearer\#from severe trauma, but makes your bones brittle.<#>Черепа ворон, протянутые в струну. Защищают носителя\#от тяжёлых травм, но ослабляют ваши кости.
 Medal of Honor<#>Медаль за отвагу
-A badge indicative of the highest possible\#achievement. Wear it with pride.<#>Значок, указывающий на одну из высших возможных\#наград. Носите его с гордостью.
-Zein Ka Poncho<#>
-The signature uniform of the Devil's Knot.\#This one has been stretched to fit its owner.<#>
+A badge indicative of the highest possible\#achievement. Wear it with pride.<#>Знак, обозначающий одну из высших возможных\#наград. Носите его с гордостью.
+Zein Ka Poncho<#>Пончо Зейн Ка
+The signature uniform of the Devil's Knot.\#This one has been stretched to fit its owner.<#>Фирменная униформа дьявольского узла.\#Эта конкретная была растянута её владельцем.
 Mustache Oil<#>Масло для усов
-Grease to keep that 'stache sleek.\#Increases fire vulnerability.<#>
+Grease to keep that 'stache sleek.\#Increases fire vulnerability.<#>Смазка, чтобы усы были гладкие.\#Повышает уязвимость к огню.
 Crowned Tooth<#>Зуб с коронкой
 Relic of a painful and unfortunate\#trip to the dentist.<#>Реликт болезненного и неудачного\#похода к зубному.
 Infinity Jersey XL<#>Майка бесконечности XL
-Knockoff sportswear stretched to its theoretical\#limit. Fuels your undying fury.<#>
-Weighted Belt<#>Утяжеленный пояс
+Knockoff sportswear stretched to its theoretical\#limit. Fuels your undying fury.<#>Поддельная спортивная форма, растянутая до своего\#максимального лимита. Подпитывает вашу бессмертную ярость.
+Weighted Belt<#>Утяжелённый пояс
 A hefty strap to keep you grounded. Resist fallen and\#off balance, but become incredibly slow.<#>Тяжёлый ремень удерживающий вас на ногах. Сопротивление\#падению и потере равновесия, но безумное понижение скорости.
 Salt Diamond<#>Солевой алмаз
 The world's only ten-carat sodium gemstone.\#Provides exceptional special defense.<#>Единственный в мире десятикаратный натриевый драгоценный камень.\#Обеспечивает исключительную специальную защиту.

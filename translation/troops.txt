@@ -27,7 +27,7 @@ Don't make me flip out!<#>Не беси меня!
 {Vinny Ramón}It's two on two this time.\#Lin, follow my lead!<#>{Винни Рамон}В этот раз двое на двоих.\#Лин, повторяй за мной!
 {Lin Rhodes}Oh no! Vinny! What should I do?<#>{Лин Роудс}О нет! Винни! Что мне делать?
 {Vinny Ramón}Hang in there!<#>{Винни Рамон}Держись!
-{Vinny Ramón}You'll get yours one day, cute stuff!<#>
+{Vinny Ramón}You'll get yours one day, cute stuff!<#>{Винни Рамон}Ты однажды получишь свой, милашка!
 {Lin Rhodes}Vinny, no!<#>{Лин Роудс}Винни, нет!
 {Lin Rhodes}What is happening?<#>{Лин Роудс}Что происходит?
 {Vinny Ramón}Lin!<#>{Винни Рамон}Лин!
@@ -36,7 +36,7 @@ Don't make me flip out!<#>Не беси меня!
 {Lin Rhodes}Uhh,\. o-okay!<#>{Лин Роудс}Ээ,\. л-ладно!
 {Vinny Ramón}Shit, not again!<#>{Винни Рамон}Чёрт, не снова!
 {Lin Rhodes}Come on, man!<#>{Лин Роудс}Ну же, мужик!
-{Chet Blur}No jersey, no mercy!<#>
+{Chet Blur}No jersey, no mercy!<#>{Чет Брюк}Нет майки, нет пощады!
 {Chet Blur}Come on,\. hit me with your best shot!<#>{Чет Блюр}Ну же,\. бей меня лучшим ударом!
 {Chet Blur}Man, I...<#>{Чет Блюр}Мужик, я...
 {Chet Blur}I can't do this.<#>{Чет Блюр}Я не могу.
@@ -78,8 +78,8 @@ Don't make me flip out!<#>Не беси меня!
 {Geronimo Phantasmata}Guys, quit clowning around.\#I'll ice these chumps myself!<#>{Джеронимо Фантазмата}Ребята, кончайте клоунаду.\#Я сам замочу этих болванов!
 {Geronimo Phantasmata}Tell my brother I said hi.<#>{Джеронимо Фантазмата}Передайте привет моему брату.
 {Tingles The Clown}I knew I should've been a lawyer.<#>{Клоун Тинглз}Я знал, что надо было стать юристом.
-{Onion Ploom}I don't get the joke...<#>
-{Spence Mack}Comin' home, Momma Mack...<#>
+{Onion Ploom}I don't get the joke...<#>{Онион Плум}Я не понимаю шутку...
+{Spence Mack}Comin' home, Momma Mack...<#>{Спенс Мак}Возвращаюсь домой, мамочка Мак...
 {Spanks Star}This isn't as funny as it was in my head.<#>
 {The Unspoken One}Twenty-eight years in the slammer for this?<#>
 {Carrot Tail}Can't believe I left my balloons at home.<#>
@@ -186,44 +186,44 @@ I can play dirtier, you filth!<#>
 {Joel Miller}H-hey! Watch where you're swingin', Lucky!<#>{Джоэл Миллер}Э-эй! Следи, куда махаешь, счастливчик!
 {Gremory Gorgonzola}This is bullshit.<#>{Гремори Горгонзола}Бред.
 {Gremory Gorgonzola}Ungh...\| Tougher than you look...<#>{Гремори Горгонзола}У-уф...\| Ты крепче, чем кажешсья...
-{Flailing Centipede}I'll flay you motherfuckers!<#>
-{Gremory Gorgonzola}I've got heartburn...<#>
-{Flailing Centipede}You're gonna fuckin' pay for that!<#>
-{Flailing Centipede}You could've just gone back up the ladder.<#>
-{Flailing Centipede}Bitch.<#>
-{Gremory Gorgonzola}Guess it's up to me now...<#>
-{Chriss Bellucci}I'm so pumped!<#>
-{Chriss Bellucci}You don't know who you're messin' with!\.\#You have no idea!<#>
-{Chriss Bellucci}I actually hate this, always did.<#>
-{Lester Bean}I'll keep the meat flowin'!\#Just take these goons out!<#>
-{Mes Tez}And so,\. the curtain has fallen...\|\#Exit...\. stage left...<#>
-{Wing Sping}Mes!\. Noooooo!<#>
-{Lester Bean}Ha! Serves 'em right!<#>
-{Wing Sping}In the end,\. it was my skull that was cracked.<#>
-{Mes Tez}Wing!\| You monsters, how could you?!<#>
-{Lester Bean}Finally put a cork in that mouth of his!<#>
-{Mes Tez}Our dance is not over yet!<#>
-{Wing Sping}Crack\. their\. skulls!\| Crack\. their\. skulls!<#>
-{Lester Bean}Hmph, looks like we're done here.<#>
-{Lester Bean}Good work, boys!<#>
-{Lester Bean}Hey, watch where you're swingin'!<#>
-{Lester Bean}Whose side are you on?<#>
-{Lester Bean}Okay, that's enough!<#>
-{Lester Bean}Some help you were!<#>
-{Barry Twister}If I cut you open,\. will you bleed?<#>
-{Barry Twister}I'll gut you like a pig!<#>
-{Barry Twister}Ugh... God, my head...<#>
-{Barry Twister}This isn't worth it.\. Not anymore.<#>
-{Ron Constitution}I'll make ya wish your momma died in labor!<#>
-{Ron Constitution}That all ya got?\. That's some pussy bullshit!<#>
-{Nicky B}No, stop!<#>
+{Flailing Centipede}I'll flay you motherfuckers!<#>{Размахивающая сороконожка}Я вас собью, ублюдки!
+{Gremory Gorgonzola}I've got heartburn...<#>{Гремори Горгонзола}У меня изжога...
+{Flailing Centipede}You're gonna fuckin' pay for that!<#>{Размахивающая сороконожка}Вы блядь за это заплатите!
+{Flailing Centipede}You could've just gone back up the ladder.<#>{Размахивающая сороконожка}Вы просто могли подняться по\#лестнице обратно.
+{Flailing Centipede}Bitch.<#>{Размахивающая сороконожка}Сука.
+{Gremory Gorgonzola}Guess it's up to me now...<#>{Гремори Горгонзола}Похоже, теперь все зависит от меня...
+{Chriss Bellucci}I'm so pumped!<#>{Крисс Беллуччи}Я так взволнован!
+{Chriss Bellucci}You don't know who you're messin' with!\.\#You have no idea!<#>{Крисс Беллуччи}Ты не знаешь, с кем связался!\.\#Ты понятия не имеешь!
+{Chriss Bellucci}I actually hate this, always did.<#>{Крисс Беллуччи}Я на самом деле это ненавижу, и всегда\#ненавидел.
+{Lester Bean}I'll keep the meat flowin'!\#Just take these goons out!<#>{Лестер Бин}Я обеспечу мясо!\#Просто завалите этих тупиц!
+{Mes Tez}And so,\. the curtain has fallen...\|\#Exit...\. stage left...<#>{Мес Тез}И так,\. занавес открылся...\|\#Выходите...\. сцена слева...
+{Wing Sping}Mes!\. Noooooo!<#>{Винг Спинг}Мес!\. Нееееет!
+{Lester Bean}Ha! Serves 'em right!<#>{Лестер Бин}Ха! Так ему и надо.
+{Wing Sping}In the end,\. it was my skull that was cracked.<#>{Винг Спинг}В конце концов,\. вскрыли мой череп.
+{Mes Tez}Wing!\| You monsters, how could you?!<#>{Мес Тез}Винг!\| Вы, чудовища, как вы могли?!
+{Lester Bean}Finally put a cork in that mouth of his!<#>{Лестер Бин}Наконец заткнули ему рот!
+{Mes Tez}Our dance is not over yet!<#>{Мес Тез}Наш танец ещё не окончен!
+{Wing Sping}Crack\. their\. skulls!\| Crack\. their\. skulls!<#>{Винг Спинг}Вскрой\. им\. череп!\| Вскрой\. им\. череп!
+{Lester Bean}Hmph, looks like we're done here.<#>{Лестер Бин}Хм, похоже мы тут закончили.
+{Lester Bean}Good work, boys!<#>{Лестер Бин}Хорошая работа, парни!
+{Lester Bean}Hey, watch where you're swingin'!<#>{Лестер Бин}Эй, смотри куда бьёшь!
+{Lester Bean}Whose side are you on?<#>{Лестер Бин}На чьей вы стороне?
+{Lester Bean}Okay, that's enough!<#>{Лестер Бин}Всё, достаточно!
+{Lester Bean}Some help you were!<#>{Лестер Бин}Вот какая с вас помощь!
+{Barry Twister}If I cut you open,\. will you bleed?<#>{Барри Твистер}Если я тебя порежу,\. кровь пойдёт?
+{Barry Twister}I'll gut you like a pig!<#>{Барри Твистер}Я вспорю тебя как свинью!
+{Barry Twister}Ugh... God, my head...<#>{Барри Твистер}Ух... Господи, моя голова...
+{Barry Twister}This isn't worth it.\. Not anymore.<#>{Барри Твистер}Оно того не стоит.\. Больше не стоит.
+{Ron Constitution}I'll make ya wish your momma died in labor!<#>{Рон Конститушен}
+{Ron Constitution}That all ya got?\. That's some pussy bullshit!<#>{Рон Конститушен}Всё, что ты умеешь?\. Какая-то бабская чушь!
+{Nicky B}No, stop!<#>{Никки Б}Нет, стой!
 {Ron Constitution}You ain't sh-\.shit!\| Come on!<#>
-{Sid Bloodheart}Shit, you're actually kinda tough.<#>
-{Sid Bloodheart}Ey,\. ey!\| Stop!\. Stop!<#>
-{Pope Slaughter}Show me what you've got, boys!<#>
+{Sid Bloodheart}Shit, you're actually kinda tough.<#>{Сид Бладхарт}Чёрт, ты довольно крепкий.
+{Sid Bloodheart}Ey,\. ey!\| Stop!\. Stop!<#>{Сид Бладхарт}Эй,\. эй!\| Стоп!\. Стоп!
+{Pope Slaughter}Show me what you've got, boys!<#>{Поуп Слотер}Покажите мне, что умеете, ребята!
 {Pope Slaughter}Good hustle, but the oven's heating up now.<#>
 {Pope Slaughter}It's a party now! Woooo!<#>
-{Pope Slaughter}Not bad, not bad at all...<#>
+{Pope Slaughter}Not bad, not bad at all...<#>{Поуп Слотер}Неплохо, очень даже неплохо...
 {Palisade Dipper}Think you've got what it takes?<#>
 {Palisade Dipper}How about now?<#>
 {Palisade Dipper}The carnage has just begun!<#>
@@ -324,13 +324,13 @@ I can play dirtier, you filth!<#>
 {Huckleberry Cletus}Jesus...\| Gotta do everythin' myself!<#>
 {Huckleberry Cletus}Headin' down the trail again...<#>
 {Glenn Cletus}Finally got what ya deserved,\. ya asshole!<#>
-{Avatar of Failure}Hmph, not bad.<#>
-{Avatar of Failure}But allow me to show you what\#separates the student from the master.<#>
-{Avatar of Failure}It seems...\| I have nothing left to teach you.<#>
-{Avatar of Failure}Well done.<#>
-{???}Friends! Allow me to aid you!<#>
-{???}Stay strong and win the day!<#>
-{The Guttinator}...?<#>
+{Avatar of Failure}Hmph, not bad.<#>{Аватар ошибки}Хм, неплохо.
+{Avatar of Failure}But allow me to show you what\#separates the student from the master.<#>{Аватар ошибки}Но позволь мне показать тебе, что\#отличает ученика от учителя.
+{Avatar of Failure}It seems...\| I have nothing left to teach you.<#>{Аватар ошибки}Похоже...\| Мне больше нечему тебя научить.
+{Avatar of Failure}Well done.<#>{Аватар ошибки}Отлично сработано.
+{???}Friends! Allow me to aid you!<#>{???}Друзья! Позвольте мне вам помочь!
+{???}Stay strong and win the day!<#>{???}Оставайтесь сильными и победите!
+{The Guttinator}...?<#>{Кишконатор}...?
 {Weez Finkerton}THE MAD FINK STRIKES AGAIN!<#>
 {Weez Finkerton}HEY, SATAN!\. I'M COMING FOR YOU NEXT!<#>
 {Mikhail "Milo" Zhnebrowski}Oh...\| Ohhhhhh!<#>
@@ -427,38 +427,38 @@ I can play dirtier, you filth!<#>
 {Tibby Dobs}I can be bad!<#>
 {Tibby Dobs}I'll show you just how bad I can be!<#>
 {Tibby Dobs}Ahh, no more!<#>
-{Bepe Stormer}Watch out! The Storm's comin' through!<#>
-{Bepe Stormer}I'm 24-karats of pure power!<#>
+{Bepe Stormer}Watch out! The Storm's comin' through!<#>{Бепе Штормер}Берегись! Шторм надвигается!
+{Bepe Stormer}I'm 24-karats of pure power!<#>{Бепе Штормер}24 карата чистой мощи!
 {Bepe Stormer}I tap, I tap!<#>
 {Bepe Stormer}We're gonna paint your face across\#the pavement,\. Angel sympathizer!<#>
-{The Kent}Let's see if the bat is stronger than the jaw!<#>
-{Bepe Stormer}Uhhh...<#>
-{Bepe Stormer}Come on, Kent,\. it's just a mustache.\|\#It'll grow bac-\^<#>
-{Bepe Stormer}This storm's just started!<#>
-{Bepe Stormer}This is all Tibby's fault.<#>
-{Matty Mack}I'm here, Daddy Mack!<#>
-{Matty Mack}Right in time for harvestin'!<#>
-{Jessie Mack}It's all just...\| meat...<#>
-{Alejandro Babbage}You can't keep...\| urp...<#>
-{Alejandro Babbage}Meeaaat...<#>
-{Borislav Ragnarok}You are mighty foes indeed...<#>
-{Borislav Ragnarok}But I will not relent!<#>
-{Borislav Ragnarok}Need...\| more power!<#>
-{Borislav Ragnarok}Guuaaahhh!<#>
-{Borislav Ragnarok}You won't take my head...<#>
-{Borislav Ragnarok}I will never surrender...\| to Capitalist filth!<#>
-{Borislav Ragnarok}To even think of such a thing...\|\#it makes my heart burn with rage!<#>
-{Borislav Ragnarok}If it my destiny to die here...<#>
-{Borislav Ragnarok}...then at least...\| I can take you with me!<#>
-{Borislav Ragnarok}...<#>
-{Borislav Ragnarok}My death...\| is irrelevant.<#>
-{Borislav Ragnarok}The Soviet Union will live on forever...<#>
-{Borislav Ragnarok}...no matter what happens.<#>
-{Borislav Ragnarok}Commander...\| I am sorry.<#>
-{Borislav Ragnarok}Do svidania.<#>
-I'm no one in particular.<#>
-{Benedictus Freeman}This is fine.<#>
-{Frisko Benson}God damn...<#>
+{The Kent}Let's see if the bat is stronger than the jaw!<#>{Кент}Давай посмотрим, крепче ли бита чем челюсть!
+{Bepe Stormer}Uhhh...<#>{Бепе Штормер}Аххх...
+{Bepe Stormer}Come on, Kent,\. it's just a mustache.\|\#It'll grow bac-\^<#>{Бепе Штормер}Давай, Кент,\. это лишь усы.\|\#Они отрастут-\^
+{Bepe Stormer}This storm's just started!<#>{Бепе Штормер}Шторм только начался!
+{Bepe Stormer}This is all Tibby's fault.<#>{Бепе Штормер}Это всё вина Тибби.
+{Matty Mack}I'm here, Daddy Mack!<#>{Мэтти Мак}Я здесь, папочка Мак!
+{Matty Mack}Right in time for harvestin'!<#>{Мэтти Мак}Прямо к сбору!
+{Jessie Mack}It's all just...\| meat...<#>{Джесси Мак}Это всё лишь...\| мясо...
+{Alejandro Babbage}You can't keep...\| urp...<#>{Алехандро Бэббэдж}Ты не можешь взять...\| ик...
+{Alejandro Babbage}Meeaaat...<#>{Алехандро Бэббэдж}Мяяясоо...
+{Borislav Ragnarok}You are mighty foes indeed...<#>{Борислав Рагнарок}Вы действительно могучие противники...
+{Borislav Ragnarok}But I will not relent!<#>{Борислав Рагнарок}Но я не уступлю!
+{Borislav Ragnarok}Need...\| more power!<#>{Борислав Рагнарок}Нужно...\| больше силы!
+{Borislav Ragnarok}Guuaaahhh!<#>{Борислав Рагнарок}Гааааааххх!
+{Borislav Ragnarok}You won't take my head...<#>{Борислав Рагнарок}Вам не забрать мою голову...
+{Borislav Ragnarok}I will never surrender...\| to Capitalist filth!<#>{Борислав Рагнарок}Я никогда не сдамся...\| капиталистским отродьям!
+{Borislav Ragnarok}To even think of such a thing...\|\#it makes my heart burn with rage!<#>{Борислав Рагнарок}Одна лишь мысль об этом...\|\#Заставляет моё сердце яростно биться!
+{Borislav Ragnarok}If it my destiny to die here...<#>{Борислав Рагнарок}Если мне суждено умереть здесь...
+{Borislav Ragnarok}...then at least...\| I can take you with me!<#>{Борислав Рагнарок}...по крайней мере...\| Я заберу вас с собой!
+{Borislav Ragnarok}...<#>{Борислав Рагнарок}...
+{Borislav Ragnarok}My death...\| is irrelevant.<#>{Борислав Рагнарок}Моя смерть...\| неважна.
+{Borislav Ragnarok}The Soviet Union will live on forever...<#>{Борислав Рагнарок}Советский Союз будет жить вечно...
+{Borislav Ragnarok}...no matter what happens.<#>{Борислав Рагнарок}...что бы ни случилось.
+{Borislav Ragnarok}Commander...\| I am sorry.<#>{Борислав Рагнарок}Командир...\| Мне жаль.
+{Borislav Ragnarok}Do svidania.<#>{Борислав Рагнарок}До побачення.
+I'm no one in particular.<#>Никто особенный.
+{Benedictus Freeman}This is fine.<#>{Бенедиктус Фримен}Всё в порядке.
+{Frisko Benson}God damn...<#>{Фриско Бенсон}Чёрт возьми...
 {Silvester de Maistre}Bah, this is childs' play!<#>
 {Silvester de Maistre}Let's make this more interesting!<#>
 {Silvester de Maistre}You don't know when to quit!<#>

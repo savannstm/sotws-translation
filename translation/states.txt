@@ -2,7 +2,6 @@ KO'ed<#>Нокаут
 has fallen!<#>упал!
 is out!<#>в ауте!
 revives!<#>приходит в себя!
-State #1 will be automatically added when\#HP reaches 0.\#\#<popup hide add>\#<popup hide rem>\#<popup hide dur><#>
 Poison<#>Отравление
 is poisoned!<#>отравлен!
 is aching real bad.<#>испытывает сильную боль.

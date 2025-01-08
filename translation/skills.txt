@@ -561,12 +561,12 @@ Eye Beam<#>
 A concentration of energy blasted from the eye.<#>
 Power Fist (Borislav)<#>
 Charge Up (Borislav)<#>
-Disarming Slap<#>
-Takes the "edge" off a wily assailant.\#Disarms an armed opponent.<#>
-slaps at your wrists!<#>
-Intimidation<#>
+Disarming Slap<#>Обезоруживающий удар
+Takes the "edge" off a wily assailant.\#Disarms an armed opponent.<#>Отбирает "лезвие" у коварного агрессора.\#Обезоруживает вооружённого противника.
+slaps at your wrists!<#>бьёт по запястью!
+Intimidation<#>Запугивание
 Watch me shank bruv!<#>
-is trying to intimidate you.<#>
+is trying to intimidate you.<#>пытается вас запугать.
 Salt in the Eyes<#>
 A crying shame...<#>
 flung salt in your eyes!<#>
@@ -624,8 +624,7 @@ A big hand clamp<#>
 does a Gator Clamp!<#>
 Chop<#>
 chops!<#>
-Smoke Bomb<#>
-smoke bomb<#>
+Smoke Bomb<#>Дымовая бомба
 is shrouded in smoke!<#>
 Scratch<#>
 scratches!<#>
@@ -859,13 +858,13 @@ launches you skyward!<#>
 Return to Earth<#>
 What goes up...<#>
 brought you back down!<#>
-Spray<#>
+Spray<#>Спрей
 A real sight for sore eyes.<#>
 sprayed paint in your eyes!<#>
-Observe<#>
+Observe<#>Наблюдение
 Watch it all transpire.<#>
 is observing...<#>
-Command<#>
+Command<#>Команда
 Tell these dipshits what to do!<#>
 is barking orders!<#>
 Wake-Up Call<#>
@@ -882,16 +881,16 @@ Davy Fireball<#>
 shot out a burst of fire!<#>
 Silken Wrist<#>Шёлковое запястье
 Practiced wrist fling.<#>
-smacks with his wrist!<#>
+smacks with his wrist!<#>ударяет своим запястьем!
 Ascending Claw<#>Восходящий коготь
 Backwards thrust.<#>
-thrusts up!<#>
+thrusts up!<#>ударяет ввысь!
 Descending Claw<#>Нисходящий коготь
 Focused thrust.<#>
-thrusts down!<#>
+thrusts down!<#>ударяет вниз!
 Side Kick<#>Удар ногой
 An extended kick.<#>
-performs a side kick!<#>
+performs a side kick!<#>делает сайд-кик!
 Flying Axe Kick<#>Удар летящего топора
 (WWD) Works your leg like a guillotine.\#Has a low chance of bleeding the enemy.<#>(WWD) Работайте своей ногой как гильотиной.\#Имеет низкий шанс нанести врагу кровотечение.
 hacks through air!<#>прорубает сквозь воздух!
@@ -935,7 +934,7 @@ Breath of Life (2)<#>
 brings them back!<#>
 Load and Aim<#>
 loads his cannon and aims!<#>
-Punch<#>
+Punch<#>Удар
 When in doubt, punch it out.\#Has a chance to restore a small amount of SP.<#>
 Bludgeon<#>
 Hit 'em hard!<#>
@@ -973,7 +972,7 @@ gets pushy!<#>
 Hock Loogie<#>
 The ultimate disrespect. Whoever this hits will\#feel nasty, but they might become enraged.<#>
 spits up some phlegm!<#>
-Nutcracker<#>
+Nutcracker<#>Щелкунчик
 The tried and true ball-buster.\#Has a low chance to stun. Don't rely on it.<#>
 hits them where it hurts!<#>
 Tantrum<#>
@@ -992,7 +991,7 @@ swings...<#>
 Foul Ball Fail<#>
 Oops...<#>
 ...and strikes out!<#>
-Fortify<#>
+Fortify<#>Укрепление
 Shield that handsome face. Raises defense, resists\#statuses, prevents disarming, restricts movement.<#>
 goes on guard!<#>
 Knockout Roulette<#>
@@ -1042,7 +1041,7 @@ puts up his guard.<#>
 Deep Exhale<#>
 Take a deep, painful breath. Restores much HP,\#but makes you Winded.<#>
 is breathing heavily.<#>
-Gear Up<#>
+Gear Up<#>Приготовление
 This is your last chance. Show them you are still\#standing. Grants use of Denier Fist.<#>
 Denier Fist<#>
 Refuse to surrender. End their life.<#>
@@ -1072,7 +1071,7 @@ stopped your heart.<#>
 Devastating Chomp<#>
 bites your head.<#>
 Velvet-fu<#>Вельвет-фу
-Urban legends say, this style, of Zhang Xianzhong,\#was lost after being banned off the infomercial scene.<#>Фольклор гласит, что этот стиль, стиль Чжан Сяньчжуна, был утерян\#после того, как его запретили использовать в обучающих роликах.
+Urban legends say, this style, of Zhang Xianzhong,\#was lost after being banned off the infomercial scene.<#>Фольклор гласит, что этот стиль - стиль Чжан Сяньчжуна, был утерян\#после того, как его запретили использовать в обучающих роликах.
 Velvet Style Kung Fu!<#>Вельветовый стиль Кунг-фу!
 Full Thrust<#>Сильный толчок
 (WWA) Get your fingers up in their business.\#Will probably set the opponent Off Balance.<#>(WWA) Вмешайтесь в чужие дела.\#Вероятно, выведет противника из равновесия.
@@ -1102,7 +1101,7 @@ Steadfast Stance<#>Твёрдая стойка
 Stand your ground. Defense up, HP regen, immunity\#to stuns. Other stances cancel the effect.<#>Стойте на своём. Повышает защиту, даёт регенерацию ОЗ и\#иммунитет к оглушению. Другие стойки отменяют эффект.
 assumes an unbreakable stance!<#>встаёт в несокрушимую стойку!
 Thunder Palm<#>Громовая ладонь
-(WWSA) Feel the power of lightning in your hand.\#Critical damage to wet foes. Chance to paralyze.<#>(WWSA) Почувствуйте силу молнии в своей руке.\#Критический урон мокрым врагам. Шанс парализовать.
+(WWSA) Feel the power of lightning in your hand.\#Critical damage to wet foes. Chance to paralyze.<#>(WWSA) Почувствуйте силу молнии в своей руке.\#Критический урон по мокрым врагам. Шанс парализовать.
 sends out a burst of watts!<#>посылает разряд электричества!
 Scoop<#>Лопатка
 An attack bound to frustrate.<#>Атака, которой суждено быть разочаровывающей.
@@ -1111,10 +1110,10 @@ Brag<#>Выпендриться
 Predict your victory early, by striking\#a triumphant pose.<#>Предреките свою победу заранее, встав в\#триумфальную позу.
 claims victory!<#>заявляет о победе!
 Load It In<#>Зарядить
-Reassures the enemies that the gun is in fact\#loaded. Restores around 70 SP.<#>Убеждает врагов в том, что оружие, на самом деле,\#заряжено. Восстанавливает примерно 70 ОН.
+Reassures the enemies that the gun is in fact\#loaded. Restores around 70 SP.<#>Убедите врагов в том, что оружие, на самом деле,\#заряжено. Восстанавливает примерно 70 ОН.
 is reestablished as a threat!<#>вновь представляет угрозу!
-Harass a particular foe.\#Weirds them out and may make them worry.<#>
-is being intimidating!<#>устрашает!
+Harass a particular foe.\#Weirds them out and may make them worry.<#>Запугайте определённого врага. Заставляет противника\#чувствовать себя странно и может взволновать его.
+is being intimidating!<#>запугивает!
 Passionate Threat<#>Убедительная угроза
 Declares for all to hear, that "you'll do it".\#May scare or worry all enemies.<#>Объявляет всем вслух о том, что "вы сделаете это".\#Может напугать или взволновать всех врагов.
 sounds really dangerous!<#>звучит очень страшно!
@@ -1130,7 +1129,7 @@ is being flashy!<#>привлекает внимание!
 Roll Out<#>Перекат
 A dive and a roll.\#Prevents most forms of damage.<#>Нырок и перекат.\#Защищает от большинства видов урона.
 Mind Games<#>Игры разума
-Spooks for easy scares. Joel gets Presence,\#loses Taunt. If it removes Taunt- full SP restore.<#>Легко пугающая страшилка. Джоэл получает присутствие, теряет\#насмешку. Если удаляет насмешку - полностью восстанавливает ОН.
+Spooks for easy scares. Joel gets Presence,\#loses Taunt. If it removes Taunt- full SP restore.<#>Нагнать жуть для лёгкого запугивания. Джоэл получает присутствие, теряет\#насмешку. Если удаляет насмешку - полностью восстанавливает ОН.
 made eye contact!<#>установил зрительный контакт!
 Gun Reveal<#>Показать пушку
 Show off your prized gun in a daring manner.\#May make some men feel nasty.<#>Светануть своим ценным оружием и подразнить врагов.\#Может вызвать у некоторых парней отвращение.
@@ -1145,7 +1144,7 @@ Gun Spin<#>Прокрутка пистолета
 A cockier gun trick. Taunt the enemy and look\#Cool while doing it. Removes Presence.<#>Более дерзкий трюк с оружием. Привлекает внимание\#врага крутым видом. Убирает присутствие.
 is being really flashy!<#>сильно привлекает внимание!
 Play Dead<#>Притвориться мёртвым
-An Oscar-worthy performance, truly.\#They won't kill you if they think you're dead.<#>Игра воистину достойная оскара.\#Они не убьют тебя, если думают, что ты мёртв.
+An Oscar-worthy performance, truly.\#They won't kill you if they think you're dead.<#>Игра, воистину достойная оскара.\#Они не убьют тебя, если думают, что ты мёртв.
 needs an ambulance!<#>нуждается в скорой!
 Awaken<#>Пробуждение
 Rise from your grave to\#spook the pants off all enemies.<#>Восстаньте из могилы, чтобы все враги\#отложили кирпичей.
@@ -1167,12 +1166,12 @@ Fruit Toss<#>Бросок фрукта
 Hurl what used to be fruit at an unsuspecting foe.\#Very low chance to poison.<#>Бросьте нечто, раньше бывшее фруктом, в ничего не\#подозревающего врага. Очень низкий шанс отравить.
 chucks some rotten fruit!<#>бросает гнилой фрукт!
 Putrid Meditation<#>Вонючая медитация
-Embrace the filth. Restores some SP.<#>
-finds inner peace!<#>
+Embrace the filth. Restores some SP.<#>Примите грязь. Восстанавливает немного ОН.
+finds inner peace!<#>находит внутренний мир!
 Shag<#>Трахать
 Jiggy Jig<#>Джигги-джиг
-A basic dance. Boosts your confidence (and\#your attack).<#>
-gets down with his bad self!<#>
+A basic dance. Boosts your confidence (and\#your attack).<#>Простой танец. Повышает вашу уверенность (и\#атаку).
+gets down with his bad self!<#>выпускает свою злую сущность!
 Glass Breaker<#>Стеклобой
 Put your back into this one. Deals good damage,\#but can backfire. Chance to bleed.<#>Придётся поднапрячь спину. Наносит высокий урон,\#но может обернуться вам. Шанс вызвать кровотечение.
 beats them over the head!<#>бьёт по голове!
@@ -1196,13 +1195,13 @@ Command the Baby Fishman to zap them! Hits\#all enemies, but fries the Baby for 
 unleashes the Baby Fishman!<#>обрушивает малыша-рыболюда!
 T. Edge Penalty<#>
 Didn't your mother tell you not to play with knives?<#>
-cuts his finger.<#>
+cuts his finger.<#>порезал свой палец.
 Golden Finger<#>Золотой палец
 Let the Midas touch turn all it blasts, into gold.\#The beauty of such a move can blind an enemy.<#>Пусть касание Мидаса превратит всё, что попадёт под его луч,\#в золото. Красота такого движения может ослепить врага.
 fires the ultimate beam!<#>стреляет ультимативным лучём!
-Bedazzle<#>
-Show off your bling to dazzle an opponent.\#The beauty will often reduce them to tears.<#>
-displays his jewelry!<#>
+Bedazzle<#>Светануть
+Show off your bling to dazzle an opponent.\#The beauty will often reduce them to tears.<#>Светаните своими цацками и ослепите оппонента.\#Красота, скорее всего, разорвёт его на куски.
+displays his jewelry!<#>показывает украшения!
 Trowel Ravage<#>Разрушительная лопатка
 Show them you're not fucking around.<#>Покажи им, что ты хуйнёй не маешься.
 gives 'em a thwacking!<#>задаёт им трёпку!
@@ -1221,11 +1220,11 @@ Leg Stretches<#>Растяжка ног
 Stretch those calves. Recovers TP and relieves\#tension. If tension is removed, TP is fully restored.<#>Растяните эти икры. Восстанавливает ОТ и удаляет напряжение.\#Если удаляет напряжение, полностью восстанавливает ОТ.
 gets in a good stretch!<#>хорошенько растягивается!
 White Streak<#>Белая полоса
-A slap of paint that's sure to disorient. Sets foes\#off balance and can even make them cry.<#>
-slaps with his paintbrush!<#>
+A slap of paint that's sure to disorient. Sets foes\#off balance and can even make them cry.<#>Красочная оплеуха, которая точно дизориентирует врага.\#Сбивает врагов с ног и заставляет их плакать.
+slaps with his paintbrush!<#>проводит своей кистью!
 White Splash<#>Белый всплеск
-Dispense the whole bucket's worth onto their face.\#Gets them wet. Small chance to piss them off.<#>
-chucks a bucketload of paint!<#>
+Dispense the whole bucket's worth onto their face.\#Gets them wet. Small chance to piss them off.<#>Выплесните всё ведро краски на их лицо. Мочит врагов.\#Имеет маленький шанс взбесить.
+chucks a bucketload of paint!<#>выливает ведро краски!
 Ankle Breaker<#>Голенолом
 A fierce kick to the shins. Can be used to knock\#a foe over, if they're already wobbly.<#>Яростный удар по голени. Может уронить врага, если\#он уже без равновесия.
 cracks their shins!<#>ломает голень!
@@ -1233,10 +1232,10 @@ Iron Glutes<#>Железные ягодицы
 Unleash the power of your chiseled posterior.\#Guaranteed to crush the life out of fallen opponents.<#>
 falls with the force of a meteor!<#>
 Throat Slit<#>Разрезание горла
-A devastating finisher. Does great damage against\#foes who are scared, stunned, or paralyzed.<#>
-slices open a fool!<#>
-A handy way out of a sticky situation. Makes you\#hidden, but lowers your defense.<#>
-escapes into the smoke!<#>
+A devastating finisher. Does great damage against\#foes who are scared, stunned, or paralyzed.<#>Смертельное добивание. Наносит огромный урон\#напуганным, оглушённым и парализованным врагам.
+slices open a fool!<#>вскрывает придурку шею!
+A handy way out of a sticky situation. Makes you\#hidden, but lowers your defense.<#>Надёжный выход из скользкой ситуации. Скрывает,\#но понижает защиту.
+escapes into the smoke!<#>отступает в дым!
 Painted Red<#>Красный всплеск
 A series of slashes set to mutilate\#bleeding enemies further.<#>
 slashes out their veins!<#>
@@ -1246,7 +1245,7 @@ flings a poisoned dagger!<#>
 War Paint<#>Боевая раскраска
 Let your foes know that you will bathe in their blood!\#Empowers your team, boosting attack and speed.<#>
 bellows a warcry!<#>
-Swat<#>
+Swat<#>Шлепок
 A quick smack to the cheek.<#>
 gives 'em a slap!<#>
 Spew<#>Рвота
@@ -1281,9 +1280,9 @@ A nasty surprise for the eyes. Can inflict crying and\#spooked. Low chance to bl
 flings some salt in their eyes!<#>
 Cart Crash<#>Удар тележкой
 Careen through a crowd on a chariot of iron.\#Hits all enemies to inflict off balance.<#>
-comes crashing through!<#>
+comes crashing through!<#>пробивается напролом!
 Glass Shard Recoil<#>
-cuts himself up!<#>
+cuts himself up!<#>случайно режется!
 Threatening Edge<#>Угрожающий клинок
 Display your blade in a last-ditch attempt to\#frighten the enemy. Results may vary.<#>
 attempts to be threatening.<#>
@@ -1302,12 +1301,12 @@ Flying Dropkick<#>Удар в полёте
 (WWD) Go flying with both of your feet forward.\#Has a chance to fell the enemy. Costs 50 HP.<#>(WWD) Летите, вытянув обе ноги вперед.\#Есть шанс сбить врага с ног. Стоит 50 ОЗ.
 Lead Heel<#>
 Taste of Flesh<#>Вкус плоти
-(AAD) Use your mishapen teeth to tear them apart.\#Takes Fluid Enemies off guard. Heals 50 HP.<#>
-takes a big bite!<#>
-Knuckle Cracker<#>
+(AAD) Use your mishapen teeth to tear them apart.\#Takes Fluid Enemies off guard. Heals 50 HP.<#>(AAD) Используйте свои кривые зубы, чтобы их разорвать.\#Застаёт жидкостных врагов врасплох. Восстанавливает 50 ОЗ.
+takes a big bite!<#>сильно кусает!
+Knuckle Cracker<#>Костолом
 (AWW) A solid slug to the enemy's head. Can stun.\#Costs 70 HP and begins bleeding.<#>
 delivers a wrist-shattering blow!<#>
-Gouged Petunia<#>
+Gouged Petunia<#>Вырванная петуния
 (AWAW) Supreme fist technique. Annihilate their\#face so much they cannot see. Costs 300 HP.<#>
 An engaging stance that helps regain focus.\#Recovers a lot of SP.<#>
 gets uncomfortably close!<#>
