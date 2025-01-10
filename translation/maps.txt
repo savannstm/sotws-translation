@@ -1845,8 +1845,10 @@ Don't waste my time.<#>Не трать моё время.
 Not enough mags.<#>Не хватает журналов.
 I'm not buying that.<#>Я это не куплю.
 You're carrying too much.<#>Ты слишком много несёшь.
-It's some of the barkeep's stock.<#>Остатки ассортимента бармена.
+Enjoy yourself.<#>
 Earth to dumbass, there's nothing there.<#>
+Nothing left.<#>
+It's some of the barkeep's stock.<#>Остатки ассортимента бармена.
 Mystery jerky, perfume and a diet cola!<#>Неизвестное мясо, духи и диетическая кола!
 His throat was slit.<#>Ему перерезали горло.
 You thought\#I wouldn't\#notice?<#>Ты думал, я не\#замечу?
@@ -1856,9 +1858,9 @@ You have lost the watch.<#>Вы потеряли часы.
 You have lost the Immitation Gold Watch.<#>Вы потеряли поддельные золотые часы.
 My trowel...<#>Моя лопатка...
 You have lost the Rusty Trowel.<#>Вы потеряли ржавую лопатку.
+<!-- Map029.rvdata2 --><#>
 *Done trading, rest*<#>*Закончить торговать, отдохнуть*
 *not yet*<#>*Пока нет*
-<!-- Map029.rvdata2 --><#>
 So...<#>Итак...
 What's up with\#the gun, Joel?<#>Что за пистолет,\#Джоэл?
 Used to be\#my grandad's.<#>Дедушка им\#пользовался.
@@ -1933,9 +1935,9 @@ Now, let's\#get some sleep.<#>Теперь, давай\#немного посп�
 We've got\#a long road\#ahead of us.<#>Нас ожидает\#долгая\#дорога.
 You bet.<#>Не сомневаюсь.
 Got a Cat Postcard!<#>Получена открытка с котом!
+<!-- Map030.rvdata2 --><#>
 Chasing Joy?<#>Жаждешь Джоя?
 Have I see you\#somewhere before?<#>Я тебя уже где-то\#видел?
-<!-- Map030.rvdata2 --><#>
 Have you?\| I certainly\#haven't seen you.<#>Разве?\| Я определённо\#никогда не видел тебя.
 Actually, I think\#it's your face...<#>Вообще, я думаю, это\#из-за твоего лица...
 Oh, the mask?\#Heh heh.<#>А, ты про маску?\#Хе-хе.
@@ -1970,17 +1972,18 @@ Heck, these aren't\#cheap, you can sell\#it to barkeep if you wish.<#>Чёрт, 
 You got Joy!<#>Вы получили Джой!
 Thanks...<#>Спасибо...
 Just think\#about it.<#>Просто обдумай\#это.
-This sucks...\#I had to\#turn back.<#>Отстой...\#Надо было\#вернуться.
 I've got the Joy.<#>У меня есть Джой.
 Enjoy...<#>Наслаждайся...
 Want more?<#>Хочешь ещё?
 Take your time.<#>Подумай.
 You're a little short on mags...<#>У тебя немного не хватает журналов...
 Here's to your happiness.<#>Вот твоё счастье.
+Hello?<#>
 Walked for\#days, but\#there was\#no end to it.<#>Бродил днями,\#но никак не нашёл\#конца.
 You bought them all... heh heh...<#>Ты выкупил всё... хе-хе...
-I don't think\#you can get any\#closer to the\#centre than this.<#>Я не думаю, что\#возможно быть\#к центру ближе,\#чем сейчас.
 <!-- Map031.rvdata2 --><#>
+This sucks...\#I had to\#turn back.<#>Отстой...\#Надо было\#вернуться.
+I don't think\#you can get any\#closer to the\#centre than this.<#>Я не думаю, что\#возможно быть\#к центру ближе,\#чем сейчас.
 Centre?<#>Центру?
 The geographical\#centre of\#Olathe... duh!<#>Географическому\#центру Олейта...\#да!
 Out of order.<#>Вышло из строя.
@@ -1988,31 +1991,32 @@ Normal skeleton.<#>Обычный скелет.
 The well is dry.<#>Колодец высох.
 Box of ruined sportswear.<#>Коробка порванной спортивной формы.
 Way sign reads: "nothing".<#>Указатель гласит: "ничего".
+<!-- Map032.rvdata2 --><#>
 Keep going...<#>Продолжай идти...
 Where's that hat?<#>Где шляпник?
 He found water, but just a little too late.<#>Он нашёл воду, но слишком поздно.
-<!-- Map032.rvdata2 --><#>
+<!-- Map033.rvdata2 --><#>
 I'm wearing it!\#I'm wearing it!<#>Я её надел!\#Я её надел!
 Alright?<#>Ясно?
 Kung only ever\#copied King!<#>Кунг только копировал\#Кинга!
-<!-- Map033.rvdata2 --><#>
-But the jerseys, never\#had an original.<#>Но у маек никогда не\#было оригинала.
-Where did my family go?<#>Куда делась моя семья?
-Everyone became infinite.<#>Все стали бесконечными.
+It's yours.<#>
 Not enough.<#>Недостаточно.
 You have so many...<#>У тебя так много...
 I don't have any more.<#>У меня больше нет.
+But the jerseys, never\#had an original.<#>Но у маек никогда не\#было оригинала.
+Where did my family go?<#>Куда делась моя семья?
+Everyone became infinite.<#>Все стали бесконечными.
+<!-- Map034.rvdata2 --><#>
 Too hot.<#>Слишком жарко.
 Rest here?<#>Отдохнуть здесь?
 *Offer jerky*<#>*Предложить мясо*
 *stay still*<#>*Замереть*
-<!-- Map034.rvdata2 --><#>
 You have lost a Mystery Jerky.<#>Вы потеряли неизвестное мясо.
+<!-- Map035.rvdata2 --><#>
 The inscription is too worn to read.<#>Надпись настолько стерта, что ее невозможно прочесть.
 The inscription is unreadable.<#>Надпись неразборчива.
 It could be anything.<#>Это может быть что угодно.
 The world can be saved! FIND HER!<#>Мир можно спасти! НАЙДИТЕ ЕЁ!
-<!-- Map035.rvdata2 --><#>
 Those people...<#>Эти люди...
 They're trying\#to enter a trance.<#>Они пытаются войти\#в транс.
 ...why?<#>...почему?
@@ -2122,11 +2126,11 @@ Stay on the\#path and do not\#wander astray.\.\.\#The longer you remain...<#>И�
 ...I see.\.\.\#We'll keep\#it in mind.<#>...Ясно.\.\.\#Мы это\#запомним.
 Let's pick\#our fights\#carefully, Lucky.<#>Давай будем осторожней\#выбирать соперников,\#счастливчик.
 Best not to\#get involved in\#whatever's going\#on in this town.<#>Лучше не ввязываться\#в то, что происходит\#в этом городе.
+<!-- Map036.rvdata2 --><#>
 Help me,\#fellers!<#>Помогите мне,\#друзья!
 Don't\#listen\#to him!<#>Не слушайте\#его!
 That li'l\#cutie's been\#makin' trouble.<#>Этот милаха\#создавал\#проблемы.
 Talkin'\#nonsense\#about cities\#and shit...<#>Говорил чушь\#о городах и\#прочем дерьме...
-<!-- Map036.rvdata2 --><#>
 It's the\#truth!<#>Это правда!
 Keep on\#lyin',\. you\#naughty minx.<#>Продолжай пороть\#чушь,\. гадкий\#ублюдок.
 It ain't\#gonna get\#ya down.<#>Она тебя оттуда\#не снимет.
@@ -2305,15 +2309,15 @@ Please, that\#island was\#never my home.<#>Пожалуйста, хватит,\#
 But to be\#fair,\. this place\#doesn't seem\#much better.<#>Но если быть\#честным,\. это\#место не выглядит\#лучше.
 I swear, if\#I can't find\#a power outlet\#in this town...<#>Я клянусь, если\#я не найду рабочую\#розетку в этом городе...
 ...I guess\#I'll just have\#to keep looking...<#>...наверное, мне\#придётся искать\#дальше...
-Let's crime it up!<#>Давай совершим преступление!
 <!-- Map037.rvdata2 --><#>
+Let's crime it up!<#>Давай совершим преступление!
+<!-- Map038.rvdata2 --><#>
+<!-- Map039.rvdata2 --><#>
+<!-- Map040.rvdata2 --><#>
 This place is\#pure insanity.<#>Это место -\#чистое безумие.
 And I was\#worried the news\#would drive them mad.<#>А я волновался,\#что новости сведут\#их с ума.
-<!-- Map038.rvdata2 --><#>
 Turns out they'd\#lost their minds\#long before now.<#>Оказывается, что они\#уже давно сошли\#с ума.
-<!-- Map039.rvdata2 --><#>
 News?<#>Новости?
-<!-- Map040.rvdata2 --><#>
 Haven't you\#seen the posters?<#>Ты не видел\#постеры?
 There's a real\#girl out there.<#>Они нашли настоящую\#девушку.
 That sounds like\#a load of bologna.<#>Звучит как полнейшая\#чушь.
@@ -2440,11 +2444,11 @@ I wager\#I won't last\#long out here\#like this...<#>Ставлю, без\#не�
 This machine is emitting a strange signal.<#>Эта машина издаёт странный сигнал.
 Break it?<#>Сломать её?
 It is busted.<#>Она сломана.
+<!-- Map041.rvdata2 --><#>
 Domestic jerky!<#>Домашнее мясо!
 The cave is with\#the franchise now.<#>Эта пещера теперь\#с франшизой.
 I feel more\#intimidating.<#>Я чувствую себя более\#угрожающим.
 Showed you!<#>Показал тебе!
-<!-- Map041.rvdata2 --><#>
 I feel jacked up!<#>Я взбудоражен!
 Sneaking up on\#big snakes is bad\#for your health.<#>Подкрадываться\#к большим змеям -\#плохо для здоровья.
 You got Anaconda Virtue's corpse.<#>Вы получили труп Анаконды Добродетель.
@@ -2452,19 +2456,19 @@ Hey! You...<#>Эй! Ты...
 We're leaving.<#>Мы уходим.
 Yeah, run\#away,\. cowards!<#>Да, бегите,\.\#трусы!
 Can't touch me.<#>Не трогай меня.
+<!-- Map042.rvdata2 --><#>
 I'm my own man.\.\#I refuse to be\#a victim of\#the cycle.<#>Я контролирую\#себя.\. Я отказываюсь\#быть жертвой цикла.
 I have defied the\#ouroboros and am all\#the happier for it.<#>Я отказался от \#уробороса и\#теперь я счастлив.
+<!-- Map043.rvdata2 --><#>
 School Basement Key!<#>Ключ от школьного подвала!
-<!-- Map042.rvdata2 --><#>
 You search the drawers.<#>Вы обыскиваете шкаф.
 Two Tissues!<#>Два платка!
 Become infinite! Join the franchise!\#Wear the jersey! Spread the jersey!<#>Стань бесконечным! Вступи во франшизу!\#Носи майку! Распространяй майку!
-<!-- Map043.rvdata2 --><#>
+<!-- Map044.rvdata2 --><#>
 Condition Killer!<#>Убийца недугов!
 It has fled.<#>Он сбежал.
 Don't hurt me!\|\#You've already\#broken me heart!<#>Не бейте меня!\|\#Вы уже сломали\#мне сердце!
 Relax. We're not\#going to harm you.<#>Расслабься. Бить\#не будем.
-<!-- Map044.rvdata2 --><#>
 Oh, you're\#not who I\#expected to see.<#>О, ты не тот,\#кого я ожидал\#увидеть.
 Is something\#the matter?<#>В чём дело?
 Those bullies!\.\#They took me\#skateboard!<#>Эти бандиты!\.\#Они забрали\#мой скейтборд!
@@ -2487,10 +2491,6 @@ You interested?<#>Заинтересован?
 Sure, I guess.<#>Думаю, да.
 Great, great.<#>Отлично, отлично.
 Let's get down\#to business then.<#>Тогда давай к\#делу.
-I'll be here\#if you think\#about picking up\#something else.<#>Я буду здесь,\#если надумаешь\#забрать ещё\#чего.
-Hey hey,\#welcome back.<#>Эй-эй,\#добро пожаловать.
-Let's not waste\#any time, shall we?<#>Давай не будем\#тратить время.
-Come back\#any time, okay?<#>Возвращайся\#в любое время, хорошо?
 Check this out.<#>Зацени.
 You're gonna love that one.<#>Это тебе понравится.
 No rush, I've got all day.<#>Не спеши, у нас есть целый день.
@@ -2499,28 +2499,31 @@ I think you have enough of those.<#>Я думаю, у тебя уже доста
 It's been a pleasure.<#>Было очень приятно.
 Hey, you're staring off.<#>Эй, ты не туда смотришь.
 Don't have any more of that.<#>Больше ничего нет.
+I'll be here\#if you think\#about picking up\#something else.<#>Я буду здесь,\#если надумаешь\#забрать ещё\#чего.
+Hey hey,\#welcome back.<#>Эй-эй,\#добро пожаловать.
+Let's not waste\#any time, shall we?<#>Давай не будем\#тратить время.
+Come back\#any time, okay?<#>Возвращайся\#в любое время, хорошо?
+<!-- Map045.rvdata2 --><#>
 The hole is too small for you to fit.<#>Отверстие слишком маленькое для вас.
 Barry went\#out looking for\#cigs... he never\#came back.<#>Барри пошёл за\#сигаретами... и\#так и не вернулся.
 The Franchise is\#open for anyone,\#maybe if I wear\#this I'll be safe.<#>Франшиза открыта\#для любого, так что\#наверное если я надену\#её, я буду в безопасности.
 If you see\#Barry, tell him\#that I miss him.<#>Если ты увидишь Барри,\#скажи ему, что я скучаю.
-<!-- Map045.rvdata2 --><#>
 It was an accident.<#>Это была ошибка.
 It doesn't matter who\#first bore the jersey.<#>Неважно, кто первым\#надел майку.
 One franchise,\#infinite kings!<#>Одна франшиза,\#короли бесконечности!
 The jersey\#makes men\#into monarchs.<#>Майка превращает\#мужчин в монархов.
 All else\#are reduced\#to mush!<#>Все остальные\#сводятся в фарш!
+<!-- Map046.rvdata2 --><#>
 Mystery jerky and 3 cigarettes!<#>Неизвестное мясо и три сигареты!
 The mutant unravels its jaw.<#>Мутант опускает свою челюсть.
 You got a Baby Crow!<#>Вы получили ворона-малыша!
 There is something stuck in its jaw.<#>У него что-то застряло в челюсти.
-<!-- Map046.rvdata2 --><#>
 *Try take it*<#>*Попытаться забрать это*
 *Leave it*<#>*Оставить это*
-Hello?<#>Привет?
+<!-- Map047.rvdata2 --><#>
 Why do you\#people keep\#hounding us?<#>Почему вы\#продолжаете\#преследовать нас?
 It was a\#corporate\#decision.<#>Это общее\#решение.
 Don't think\#any of them\#could purvey\#an answer.<#>Не думаю, что\#кто-либо из\#них сможет\#дать ответ.
-<!-- Map047.rvdata2 --><#>
 Pffft.<#>Пфф.
 It's not surprising.<#>Не впечатляет.
 Scared\#of death?<#>Боишься\#смерти?
@@ -2553,10 +2556,10 @@ Alex?<#>Алекс?
 Alex. We have to\#go, now.<#>Алекс. Нам нужно\#идти, сейчас же.
 Get your\#hands off me.<#>Убери от меня\#свои руки.
 Sto--\^<#>Сто--|^
+<!-- Map048.rvdata2 --><#>
 Rando's\#nonsense\#nearly ruined\#the whole island.<#>Чушь Рандо чуть\#не погубила весь\#остров.
 I'm not\#contributing\#to that cause.<#>Я не\#участвую\#в этом деле.
 I don't\#agree with\#what you're\#trying to do.<#>Я против\#того, что ты\#пытаешься\#провернуть.
-<!-- Map048.rvdata2 --><#>
 Turn back.<#>Поворачивайте.
 Fondle too\#many bags\#and you'll go\#blind...<#>Обласкаешь\#слишком много\#пакетов, и станешь\#слепым...
 ...like a\#rag maggot.<#>...словно тряпичный\#опарыш.
@@ -2628,15 +2631,15 @@ Your party was slightly healed.<#>Ваша группа была немного 
 Look\#at you!<#>Посмотри на\#себя!
 Lappin' up\#that gunk\#like it's your\#momma's milk!<#>Хлещешь эту\#дрянь, словно\#материнское\#молоко!
 That's the\#trash spirit!<#>Вот это мусорный\#дух!
+<!-- Map049.rvdata2 --><#>
 I finally opened it...<#>Я наконец-то открыл её...
 Inside hid endless layers of\#garbage bags, each blacker.<#>Внутри скрывались бесконечные\#слои мусорных мешков, каждый\#всё чернее.
 Look inside. Can you see it?<#>Посмотри внутрь. Видишь?
-<!-- Map049.rvdata2 --><#>
 I never thought there\#could be such a blackness.<#>
+<!-- Map050.rvdata2 --><#>
 A pile of burned, synthetic fabrics.\#Something is strange about this one.<#>Куча сожжённой, синтетической\#ткани. Эта куча выглядит как-то странно.
 A pile of burned, synthetic fabrics.\#There is a hole and bundle\#of rope hidden underneath.<#>Куча сожжённой, синтетической\#ткани. Под ней скрывается дыра\#и моток верёвки.
 Notes for future activities.<#>Заметки для будущих дел.
-<!-- Map050.rvdata2 --><#>
 It reads "Someone needs to find Richie.\#The ground is getting too dense to\#continue without his assistance."<#>На них написано: "Кому-то нужно найти\#Ричи. Земля слишком твердеет, мы не\#сможем продолжать без его помощи."
 A scrap of paper was taped underneath the\#rest of the notes. It simply says "back."<#>Под остальными записками был приклеен\#клочок бумаги. На нем просто написано «назад».
 The scrap of paper has been torn off.<#>Кусочек бумаги оторван.
@@ -2658,10 +2661,10 @@ I'm doin'\#this for Roland...<#>Я делаю это ради\#Роланда.
 ...'cause they\#said they'd\#rough him\#up if I didn't.<#>...потому что они\#сказали, что порешают\#его, если я откажусь.
 Those bastards\#think they got\#all the power\#in the world.<#>Эти ублюдки\#думают, что они\#власть в этом мире.
 One day\#I'll pay 'em\#back for this.<#>Однажды я заплачу\#им за это.
+<!-- Map051.rvdata2 --><#>
 Watch where\#you're stepping!<#>Смотри, куда\#идёшь!
 Crow eggs\#are very\#delicate!<#>Вороньи яйца\#очень хрупкие!
 Crush any more\#and there will be\#consequences!<#>Раздави ещё,\#и будут\#последствия!
-<!-- Map051.rvdata2 --><#>
 The nest is crushed.<#>Гнездо раздавлено.
 Food in the bag!<#>Еда в мешке!
 You procure Bird Feed!<#>Вы достаёте птичий корм!
@@ -2703,42 +2706,42 @@ You...<#>Ты...
 You destroyed\#all the nests...<#>Ты уничтожил\#все гнёзда...
 Savage!<#>Варвар!
 You shall\#not get away\#with this villainy!<#>Ты не уйдёшь\#после такого\#злодейства!
-Fermented Mystery!<#>Ферментированное нечто!
-The door won't budge.<#>Дверь не поддаётся.
 <!-- Map052.rvdata2 --><#>
+Fermented Mystery!<#>Ферментированное нечто!
+<!-- Map053.rvdata2 --><#>
+The door won't budge.<#>Дверь не поддаётся.
 Used the School Basement Key.<#>Использован ключ от школьного подвала.
 He is staring off.<#>Он глядит вдаль.
-<!-- Map053.rvdata2 --><#>
-You checked the body.<#>Вы проверили тело.
 <!-- Map054.rvdata2 --><#>
-Meat nuggets!<#>Мясные самородки!
 <!-- Map055.rvdata2 --><#>
 <!-- Map056.rvdata2 --><#>
+You checked the body.<#>Вы проверили тело.
+Meat nuggets!<#>Мясные самородки!
 <!-- Map057.rvdata2 --><#>
 <!-- Map058.rvdata2 --><#>
 <!-- Map059.rvdata2 --><#>
 <!-- Map060.rvdata2 --><#>
-It's empty.<#>Пусто.
 <!-- Map061.rvdata2 --><#>
 <!-- Map062.rvdata2 --><#>
-Human Fat!<#>Человеческий жир!
 <!-- Map063.rvdata2 --><#>
+It's empty.<#>Пусто.
 <!-- Map064.rvdata2 --><#>
+Human Fat!<#>Человеческий жир!
+<!-- Map065.rvdata2 --><#>
+<!-- Map066.rvdata2 --><#>
 Hey...<#>Эй...
 They just\#finished.<#>Они только\#закончили.
-<!-- Map065.rvdata2 --><#>
 I'm waiting\#for someone.<#>Я кое-кого\#жду.
-<!-- Map066.rvdata2 --><#>
 Don't worry, I'll\#let them in.<#>Не волнуйся,\#впускай их.
 Hey.<#>Привет.
 Get in here.<#>Входите.
 It's showtime.<#>Настало время шоу.
 Psst... hey.<#>Псс... эй.
 Sushi knife?<#>Нож для суши?
+<!-- Map067.rvdata2 --><#>
 ... this will\#run us into\#the ground.<#>
 More competitors\#than spectators.<#>Больше соперников,\#чем наблюдателей.
 No, most of them are\#family... freebies.<#>
-<!-- Map067.rvdata2 --><#>
 Entry fees should've\#been even higher.<#>Вступительные взносы должны\#были быть ещё выше.
 ... mhm.<#>...ага.
 Needs money to operate.<#>Нужны деньги на работу.
@@ -2753,13 +2756,13 @@ This year, for the first time, held in Olathe, USA!<#>В этом году, вп
 With grandmasters from round the globe arriving to\#compete be sure to attend this tremendous event!<#>
 Local schools and independant practitioners are\#invited to accept the tournament's challenge!<#>
 With no additional requirements!*\#*Entry fees notwithstanding.<#>
+<!-- Map068.rvdata2 --><#>
 Pockets have some change in them.<#>В карманах лежит немного мелочи.
 Should call Beth.<#>Надо позвонить Бет.
-<!-- Map068.rvdata2 --><#>
+<!-- Map069.rvdata2 --><#>
 Finger beams?<#>Пальцевые лучи?
 Some of these\#fights, I tell you...<#>Некоторые из\#этих боёв, скажу тебе...
 chinese fucking\#voodoo.<#>ебучие китайские\#колдуны.
-<!-- Map069.rvdata2 --><#>
 Show me what\#you've got.<#>Покажи, что\#умеешь.
 Where is your\#gung-fu attire?<#>Где твоя форма\#кунг-фу?
 Alright then.<#>Ладно тогда.
@@ -2791,10 +2794,10 @@ Disqualified!<#>Дисквалифицирован!
 Bad show!<#>Плохое шоу!
 Alright, let us put\#an end to this martial\#embarrassment.<#>Ладно, давайте положим\#конец этому боевому\#разочарованию.
 TKO!<#>НОКАУТ!
+<!-- Map070.rvdata2 --><#>
 As long as you're\#not facing off with\#grandmaster\#Sangilak you'll be fine!<#>
 Wrong door.<#>Неправильная дверь.
 Wow... grandmaster\#Choi Tae?<#>Вау... Великий мастер\#Чой Тэ?
-<!-- Map070.rvdata2 --><#>
 Uh-huh,\#that's me.<#>А-га, это\#я.
 Can't wait for\#our match.<#>Не дождусь\#нашего матча.
 Oh?<#>А?
@@ -2814,10 +2817,10 @@ Come watch me fight.<#>Приходи посмотреть на бой.
 Don't miss it.<#>Не пропусти его.
 You owe me one.<#>Один ты мне должен.
 Sure thing.<#>Конечно.
+<!-- Map071.rvdata2 --><#>
 Joel?<#>Джоэл?
 Are you\#alright?<#>Ты в порядке?
 ...just need\#a moment.<#>...просто дай\#мне секунду.
-<!-- Map071.rvdata2 --><#>
 You don't\#look too good.<#>Ты не очень хорошо\#выглядишь.
 Geen...\|\#I'm sorry.<#>Гин...\|\#Прости.
 A Pink Pill!<#>Розовая таблетка!
@@ -2833,18 +2836,18 @@ Now you will\#face your\#most tender\#nightmare!<#>Теперь столкнис
 You got The Bullet.<#>Вы получили пулю.
 Goodbye.<#>Прощай.
 The hat of a failure.<#>Шляпа ошибки.
+<!-- Map072.rvdata2 --><#>
 That ever happened\#to you before?<#>С тобой это\#уже случалось?
 This was my first\#and only chance.<#>Это был мой\#первый и последний шанс.
 I had life figured out,\#but now it's all gone.<#>Я разобрался в жизни,\#но теперь она ушла.
-<!-- Map072.rvdata2 --><#>
 So much anguish over\#so little a thing.<#>Столько страданий из-за\#такой мелочи.
 Having your whole\#future depend on one\#event isn't very clever.<#>Поставить своё будущее\#под зависимость от одного\#события не слишком умно.
 \^Some people just aren't\#capable of making good\#choices for themselves.<#>\^Некоторые люди просто\#неспособны принять лучшие\#решения для себя же.
 Be quiet already.<#>Заткнись уже.
+<!-- Map073.rvdata2 --><#>
 Nothing can grow.<#>Ничто здесь не вырастет.
 Someone tried planting meat.<#>Кто-то попробовал посадить мясо.
 You got Jessie Mack's corpse.<#>Вы получили труп Джесси Мака.
-<!-- Map073.rvdata2 --><#>
 Grrr...<#>Гррр...
 You made\#orphans of us all.<#>Ты сделал нас\#всех сиротами.
 And the\#Franchise's\#adoptin'!<#>И Франшиза\#нас усыновляет!
@@ -2854,17 +2857,17 @@ Miggida miggida\#miggida Mack!<#>
 All that\#meat drove\#old man\#Jessie mad!<#>Всё это\#мясо свело\#старика Джесси\#с ума!
 Now he's\#kookier than\#a kookaburra!<#>
 I wish\#I could\#be that\#insane!<#>Вот бы\#и я был\#таким же\#безумным!
+<!-- Map074.rvdata2 --><#>
+<!-- Map075.rvdata2 --><#>
 THEY GOT THE TALL MACHINE\#TO TWIST THE SCHOOL RIGHT OFF!<#>
 Nothing but babbling.<#>
-<!-- Map074.rvdata2 --><#>
 ARE THE WALLS SAFE?\#YOU THINK THEY STILL ARE?<#>БЕЗОПАСНЫ ЛИ СТЕНЫ?\#ДУМАЕШЬ, ЧТО ДА?
-<!-- Map075.rvdata2 --><#>
 Tinfoil Bandages!<#>Повязки из фольги!
 THE HOUSE IS NOT WHAT IT SEEMS!\#THE LAND IS NOT HIS TO OWN!<#>ДОМ - НЕ ТО, ЧЕМ КАЖЕТСЯ!\#ЗЕМЛЯ ЕМУ НЕ ПРЕНАДЛЕЖИТ!
+<!-- Map076.rvdata2 --><#>
 Need to\#stop here,\#Lucky.<#>Надо остановиться,\#счастливчик.
 I'll rest\#a while.<#>Я немного\#отдохну.
 Use your Trauma Kit?<#>Использовать хирургический набор?
-<!-- Map076.rvdata2 --><#>
 Let's get\#you patched\#up before we\#move on.<#>Давай залатаем\#тебя перед\#выходом.
 You sure\#you wanna\#use that,\. Lucky?<#>Ты уверен, что\#хочешь использовать\#его,\. счастливчик?
 Those are\#damn rare...<#>Они чертовски\#редкие...
@@ -2888,28 +2891,28 @@ Joel Miller rejoined your party!<#>Джоэл Миллер вновь в ваш�
 Just\#checking\#up on you.<#>Просто\#проверяю\#тебя.
 Still here.<#>Все ещё здесь.
 Think I\#broke\#some ribs.<#>Думаю, я\#сломал пару\#ребёр.
+<!-- Map077.rvdata2 --><#>
 Pick berries?<#>Собрать ягоды?
 You got nice berries!<#>Вы получили вкусные ягоды!
-<!-- Map077.rvdata2 --><#>
+<!-- Map078.rvdata2 --><#>
+<!-- Map079.rvdata2 --><#>
 He is wearing something!<#>На нём что-то надето!
 Leadfoil Rags!<#>Лохмотья из фольги!
-<!-- Map078.rvdata2 --><#>
 Quite dead.<#>Довольно мёртв.
-<!-- Map079.rvdata2 --><#>
 NOT A CONSPIRACY!\#TIN NOT GONNA CUT IT!<#>
-WAKE UP!\#THE SOIL IS ALL\#WRONG NOW!<#>
 <!-- Map080.rvdata2 --><#>
-The bastard axed\#the bridge on me.<#>Этот ублюдок обрубил\#мост, пока я был там.
 <!-- Map081.rvdata2 --><#>
-I tumbled\#like a big boy.<#>
 <!-- Map082.rvdata2 --><#>
+WAKE UP!\#THE SOIL IS ALL\#WRONG NOW!<#>
+The bastard axed\#the bridge on me.<#>Этот ублюдок обрубил\#мост, пока я был там.
+I tumbled\#like a big boy.<#>
 I have lost all\#will to go on.<#>Я потерял всё желание\#двигаться дальше.
 A lovely evening\#for giving up.<#>Прекрасный вечер,\#чтобы сдаться.
 He's dead.<#>Он мёртв.
+<!-- Map083.rvdata2 --><#>
 TRADING:<#>ТОРГОВЛЯ:
 Most traders use smut\#as cold hard cash.<#>Большинство торговцев используют\#разврат как единственную наличку.
 Some weirdos opt to trade\#item for item instead of mags.<#>Некоторые чудики обмениваются\#предметами, вместо журналов.
-<!-- Map083.rvdata2 --><#>
 They are always in search of interesting\#curios, things labeled as "barter item".<#>Они всегда ищут что-то интересное -\#вещи, помеченные "обменными".
 If their offers suck, you can always\#trade your items for mags elsewhere.<#>Если их предложение - отстой, вы всегда можете\#обменять свои предметы на журналы где-нибудь\#ещё.
 Blood for blood, junk for junk!\#- Barter Terror Terry<#>Кровь за кровь, хлам за хлам!\#- Терри "Ужас торговца"
@@ -3261,19 +3264,19 @@ Off to\#join the\#Strokers?<#>Собираешься вступить\#к дол
 Your smell\#says otherwise.<#>Твой запах на то\#не указывает.
 We didn't\#have anyone\#like Davis back\#in Wyoming.<#>У в Вайоминге не было\#никого, похожего\#на Дэвиса.
 No wonder\#that old\#heap sank.<#>Неудивительно, что\#этот старый мусор\#затонул.
+<!-- Map084.rvdata2 --><#>
 Food was being grown here.<#>Здесь выращивали еду.
 Dull axe.<#>Тупой топор.
 Take some soup?<#>Взять немного супа?
-<!-- Map084.rvdata2 --><#>
 You got a bottle of Soup!<#>Вы получили бутылку супа!
 How bout\#that shack?<#>Как насчёт\#этой лачуги?
 I've been there.<#>Я был там.
 Couldn't get\#any help.<#>Не смог найти\#помощь.
 Stabbed, has scratches all over.<#>Зарезанный, весь в царапинах.
+<!-- Map085.rvdata2 --><#>
 You have found medical supplies!<#>Вы нашли медицинские припасы!
 Trauma Kit!<#>Хирургический набор!
 Worthless.<#>Бесполезно.
-<!-- Map085.rvdata2 --><#>
 Who let you\#come in?<#>Кто разрешил\#вам войти?
 My friend\#is hurt.<#>Мой друг\#ранен.
 Can you\#help us?<#>Ты можешь\#помочь нам?
@@ -3299,14 +3302,14 @@ Is there more\#of ya coming?<#>Кто-нибудь ещё\#придёт?
 You dense, boy?<#>Ты тупой, парень?
 You again?!<#>Снова ты?!
 Fuck you!<#>Пошёл нахуй!
-I'm kind\#of nervous.<#>Я немного\#нервничаю.
-What if the city is\#real and I wasted all\#this time doing nothing?<#>Что, если город\#реален, и я всё это\#время просидел впустую? 
-I'm lost in more\#ways than one.<#>Я растерян сразу\#в нескольких смыслах.
 <!-- Map086.rvdata2 --><#>
+I'm kind\#of nervous.<#>Я немного\#нервничаю.
+What if the city is\#real and I wasted all\#this time doing nothing?<#>Что, если город\#реален, и я всё это\#время просидел впустую?
+I'm lost in more\#ways than one.<#>Я растерян сразу\#в нескольких смыслах.
+<!-- Map087.rvdata2 --><#>
 You two related?<#>Вы двое родственники?
 In a sense.<#>В каком-то смысле.
 We are\#more lovers\#than brothers.<#>Мы больше\#любовники,\#чем братья.
-<!-- Map087.rvdata2 --><#>
 You're talking\#to the EWC\#tag team\#champions of '82.<#>
 And I see you\#found my belt.<#>
 Oh yeah, here-<#>
@@ -3432,31 +3435,31 @@ Quite the...\| mess\#you've made here.<#>
 It doesn't matter.<#>
 None of it does.<#>
 Goodbye,\| Jason.<#>
-Scratch marks.<#>Царапины.
 <!-- Map088.rvdata2 --><#>
-Leviathan - Thomas Hobbes<#>
+Scratch marks.<#>Царапины.
 <!-- Map089.rvdata2 --><#>
 <!-- Map090.rvdata2 --><#>
-It's been looted.<#>Разграблено.
 <!-- Map091.rvdata2 --><#>
-Lower right: "The Last Matador Commission"<#>
+Leviathan - Thomas Hobbes<#>
 <!-- Map092.rvdata2 --><#>
+It's been looted.<#>Разграблено.
+<!-- Map093.rvdata2 --><#>
+Lower right: "The Last Matador Commission"<#>
 Silver Angel Statuette!<#>Серебряная статуэтка ангела!
 The Use and Abuse of History - Nietzsche<#>Использование и злоупотребление историей - Ницше
-<!-- Map093.rvdata2 --><#>
 The Decline of The West - Oswald Spengler<#>
+<!-- Map094.rvdata2 --><#>
 Turn the generator on?<#>Включить генератор?
 It's struggling.<#>
-<!-- Map094.rvdata2 --><#>
-Specific Key used.<#>Особый ключ использован.
-Exclusive Gummy Worm!<#>Особый желейный червь!
 <!-- Map095.rvdata2 --><#>
+Specific Key used.<#>Особый ключ использован.
 <!-- Map096.rvdata2 --><#>
+Exclusive Gummy Worm!<#>Особый желейный червь!
+<!-- Map097.rvdata2 --><#>
+<!-- Map098.rvdata2 --><#>
 Enjoying world's\#last autumn?<#>Наслаждаешься последней\#осенью мира?
 There's no place\#quite like this.<#>Не существует места,\#похожего на это.
-<!-- Map097.rvdata2 --><#>
 What do you want?<#>Чего ты хочешь?
-<!-- Map098.rvdata2 --><#>
 Nothing fancy...<#>
 ...some human\#contact is all...<#>
 A man\#like you?<#>
@@ -3527,16 +3530,16 @@ Well...<#>Ну...
 Not that?<#>Не таким?
 I'm not sure.<#>Я не уверен.
 ...Let's go, Joel.<#>...Пойдём, Джоэл.
+<!-- Map099.rvdata2 --><#>
 Back in Wyoming\#we had a garbage\#island of our own.<#>Тогда, в Вайоминге,\#у нас был свой\#мусорный остров.
 But it turned into\#a garbage whirlpool.<#>Но он превратился в\#мусорный водоворот.
 So I came all\#the way here.<#>Так что я пришёл\#сюда.
-<!-- Map099.rvdata2 --><#>
 If not one\#Garbage Island\#then it'll be another.<#>Если не один мусорный\#остров, так другой.
 Trash is\#our destiny.<#>Мусор - наша\#судьба.
+<!-- Map100.rvdata2 --><#>
 Say, I\#could use\#that for bait!<#>Думаю, я мог бы\#использовать их\#в качестве приманки!
 Fish love\#the taste\#of cheap\#metal!<#>Рыбы любят\#вкус дешёвого\#металла!
 Catch anything?<#>Поймал чего?
-<!-- Map100.rvdata2 --><#>
 I'm not one to\#brag, but...<#>Не хочу хвастаться,\#но...
 ... I've caught the juiciest\#leather boot. Delish.<#>...Я поймал сочнейший\#кожаный ботинок. Вкуснятина.
 Can't wait\#to grill\#this up.<#>Не терпится\#его зажарить.
@@ -3671,14 +3674,14 @@ Unfortunately,\#I didn't have a\#balloon back then.<#>К несчастью, у 
 The only problem\#with flying like this\#is that you can't\#exactly,\. uh,\. stop.<#>Единственная проблема\#полёта заключается в том,\#что ты не совсем,\. э,\.\#можешь остановиться.
 If you're\#unlucky, you could\#end up drifting off!<#>Если не повезёт, тебя\#вообще может куда-то\#задуть!
 Hey,\.\#the wind's\#picking up...<#>Эй,\.\#ветер\#усиливается...
+<!-- Map101.rvdata2 --><#>
 The garbage gull has the gold watch.<#>Мусорная чайка держит золотые часы.
 You'd try to grab it, but it's being defensive.<#>Вы можете попытаться забрать их, но она не отдаст.
 Take it forcibly?<#>Применить силу?
-<!-- Map101.rvdata2 --><#>
+<!-- Map102.rvdata2 --><#>
 Two cigarettes!<#>Две сигареты!
 Please,\.\#I have\#a pile of\#those coins.<#>Боже,\.\#у меня этих\#монет уже\#куча.
 Don't need\#any more.<#>Мне не нужно\#больше.
-<!-- Map102.rvdata2 --><#>
 With Rando gone\#we can start\#moving back in.<#>Теперь, когда Рандо\#ушёл, мы можем\#начать возвращаться.
 What did they\#want with a\#place like\#this anyway?<#>Что они вообще\#забыли в таком\#месте?
 There are now\#about as many types\#of trash as there\#were normal things.<#>Здесь примерно\#столько же видов\#мусора, сколько было\#нормальных вещей.
@@ -3705,23 +3708,23 @@ I wanted to\#see if it would\#sink or float.<#>Хотел посмотреть,\
 Sorry.<#>Простите.
 If you still want\#it, you could ask\#someone to fish\#it out for you.<#>Если они вам нужны,\#вы можете попросить\#кого-нибудь выловить\#их вам.
 Mint Roger's\#usually out with\#his line this\#time of day.<#>Минт Роджер\#обычно стоит\#с удочкой в это\#время дня.
+<!-- Map103.rvdata2 --><#>
 Step\#back, Alex!<#>Отойди, Алекс!
 Watch the\#master work\#his magic.<#>Смотри, как\#работает\#мастер.
 Viola!<#>Вуаля!
-<!-- Map103.rvdata2 --><#>
 No safe is\#safe from the\#hands of a\#Hernandez!<#>Ни один сейф\#не устоит перед\#руками Хернандеза!
 Nice going,\#Georgy.<#>Молодец,\#Джорджи.
 Uh...\.\. that guy\#up top probably\#looted it already.<#>Э-э...\.\. тот парень\#сверху, похоже,\#его уже обыскал.
 No problem,\#though.<#>Но это не\#проблема.
 Let's go shake\#him down for it!<#>Давай вытряхнем\#из него сокровище!
+<!-- Map104.rvdata2 --><#>
 ...I will take you\#to a quiet place...<#>...Я заберу тебя в\#тихое место...
 ...tzzt...\#...srch...<#>...тззт...\#...срш...
 Yesterday's news.<#>Вчерашние новости.
-<!-- Map104.rvdata2 --><#>
+<!-- Map105.rvdata2 --><#>
 Please!\#Take the kid!<#>Пожалуйста!\#Возьмите ребёнка!
 D-don't\#hurt me-<#>Н-не бейте\#меня-
 Hush, old man,\#it's just\#these guys again.<#>Тише, старик,\#это снова\#те парни.
-<!-- Map105.rvdata2 --><#>
 Hush, old man,\#they're not\#wearing it.<#>Успокойся,\#старик, они\#их не носят.
 It's clear to\#come out.<#>Можно\#выходить.
 Clear or not,\#nowhere's safe.<#>Можно? Нигде сейчас\#не безопасно.
@@ -3734,32 +3737,32 @@ It changed us. It's\#been hell ever since.<#>Она изменила нас.\#С
 I'm sorry for\#your father.<#>Мне жаль за\#твоего отца.
 Hope this blows over soon.<#>Надеюсь, это скоро закончится.
 Those posters aren't gonna\#hang themselves.<#>Эти постеры сами себя не\#развешают.
-He has fallen.<#>Он пал.
-A ruined child's drawing.<#>Испорченный детский рисунок.
 <!-- Map106.rvdata2 --><#>
-Ruined child's drawings.<#>Испорченные детские рисунки.
+He has fallen.<#>Он пал.
 <!-- Map107.rvdata2 --><#>
-It caved in.<#>
+A ruined child's drawing.<#>Испорченный детский рисунок.
+Ruined child's drawings.<#>Испорченные детские рисунки.
 <!-- Map108.rvdata2 --><#>
-THEY DISCOVERED GODS,\#NO ONE EVER WORSHIPPED.<#>ОНИ ОБНАРУЖИЛИ БОГОВ, КОТОРЫМ\#НИКТО НИКОГДА НЕ ПОКЛОНЯЛСЯ.
 <!-- Map109.rvdata2 --><#>
-Someone never finished clearing this rubble.<#>Кто-то так и не закончил расчищать этот мусор.
 <!-- Map110.rvdata2 --><#>
+It caved in.<#>
+THEY DISCOVERED GODS,\#NO ONE EVER WORSHIPPED.<#>ОНИ ОБНАРУЖИЛИ БОГОВ, КОТОРЫМ\#НИКТО НИКОГДА НЕ ПОКЛОНЯЛСЯ.
+Someone never finished clearing this rubble.<#>Кто-то так и не закончил расчищать этот мусор.
 Push the handle?<#>
-No use turning back now.<#>Уже бесполезно возвращаться.
 <!-- Map111.rvdata2 --><#>
-Come, this\#is faster.<#>Давай, это\#быстрее.
+No use turning back now.<#>Уже бесполезно возвращаться.
 <!-- Map112.rvdata2 --><#>
-Don't trust him, Joel.<#>Не верь ему, Джоэл.
 <!-- Map113.rvdata2 --><#>
-Let's follow him.<#>Давайте за ним.
 <!-- Map114.rvdata2 --><#>
+Come, this\#is faster.<#>Давай, это\#быстрее.
+Don't trust him, Joel.<#>Не верь ему, Джоэл.
+Let's follow him.<#>Давайте за ним.
 Your loss.<#>Ваша потеря.
+<!-- Map115.rvdata2 --><#>
+<!-- Map116.rvdata2 --><#>
 That it?<#>И всё?
 Take it or leave it.\#A deal is a deal.<#>Берите, или уходите.\#Сделка есть сделка.
-<!-- Map115.rvdata2 --><#>
 The hell\#you're going?<#>Куда ты чёрт\#возьми идёшь?
-<!-- Map116.rvdata2 --><#>
 This ain't your\#community transport.<#>Это вам не общественный\#транспорт.
 Who pulls a knife\#on a dying man?<#>Кто направляет нож\#на умирающего?
 You're still not\#getting on that bus.<#>Ты всё равно не сядешь\#в этот автобус.
@@ -3772,29 +3775,29 @@ Can a boy get\#some of that\#sweet...<#>
 ...sweet...<#>
 ...sound?<#>
 Anythin' fo'\#you, Gale.<#>Чё угодно для\#тебя, Гейл.
-A way out of here.<#>Дорога отсюда
 <!-- Map117.rvdata2 --><#>
+A way out of here.<#>Дорога отсюда.
 <!-- Map118.rvdata2 --><#>
 <!-- Map119.rvdata2 --><#>
-Sealed.<#>Запечатано.
 <!-- Map120.rvdata2 --><#>
 <!-- Map121.rvdata2 --><#>
 <!-- Map122.rvdata2 --><#>
-Press the button?<#>Нажать кнопку?
+Sealed.<#>Запечатано.
 <!-- Map123.rvdata2 --><#>
 <!-- Map124.rvdata2 --><#>
-The writing is indecipherable.<#>Надпись неразборчива.
+Press the button?<#>Нажать кнопку?
 <!-- Map125.rvdata2 --><#>
 <!-- Map126.rvdata2 --><#>
+The writing is indecipherable.<#>Надпись неразборчива.
 <!-- Map127.rvdata2 --><#>
 <!-- Map128.rvdata2 --><#>
 <!-- Map129.rvdata2 --><#>
-We can catch\#up with them.<#>Мы можем\#их догнать.
 <!-- Map130.rvdata2 --><#>
-Just leave\#me here, Pete-<#>Просто оставь меня\#здесь, Пит-
 <!-- Map131.rvdata2 --><#>
-I'm not\#listening.<#>Я не\#слушаю.
 <!-- Map132.rvdata2 --><#>
+We can catch\#up with them.<#>Мы можем\#их догнать.
+Just leave\#me here, Pete-<#>Просто оставь меня\#здесь, Пит-
+I'm not\#listening.<#>Я не\#слушаю.
 I hope we don't\#run into Cormack.<#>Я надеюсь, мы не\#столкнёмся с Кормаком.
 That dog gives\#me the creeps.<#>У меня мурашки\#от этой собаки.
 Just need to\#catch my breath.<#>Просто нужна\#передышка.
@@ -3802,10 +3805,10 @@ Or those things\#will get me for\#good this time.<#>Или эти твари\#н
 If I never\#eat mud again, it\#will be too soon.<#>Если я не буду\#есть грязь, это\#случится очень скоро.
 LEARN TO SUCK EGGS\#OR YOU WON'T SURVIVE!<#>УЧИСЬ СОСАТЬ ЯЙЦА, ИЛИ\#НЕ ВЫЖИВЕШЬ!
 TALL SHADOWS-\#ALL THAT THE WHITE FLASH LEFT.<#>ВЫСОКИЕ ТЕНИ - ЭТО ВСЁ,\#ЧТО ОСТАВИЛА НАМ БЕЛАЯ ВСПЫШКА.
+<!-- Map133.rvdata2 --><#>
 Whatever it is,\#I'm very busy.<#>Чего бы ты ни хотел,\#я очень занят.
 I can't miss\#this call.<#>Не могу пропустить\#этот звонок.
 So just don't.<#>Так что не надо.
-<!-- Map133.rvdata2 --><#>
 Listen, Friend.\#Trust me...<#>Послушай, друг.\#Поверь мне...
 ... I don't\#want to talk.<#>...Я не хочу\#говорить.
 Really!<#>Правда!
@@ -3864,26 +3867,26 @@ Fitting.<#>
 Makes more\#sense this way.<#>
 Get mud pies?<#>
 You got six Mud Pies!<#>
+<!-- Map134.rvdata2 --><#>
 Get contents?<#>Забрать содержимое?
 You got two Mud Pies!<#>Вы получили два грязевых пирога!
 Champion's Belt!<#>Пояс чемпиона!
-<!-- Map134.rvdata2 --><#>
+<!-- Map135.rvdata2 --><#>
 You got four Mud Pies!<#>Вы получили четыре грязевых пирога!
 Drawing of a familly.<#>Рисунок семьи.
-<!-- Map135.rvdata2 --><#>
-Diet Cocola Cola!<#>Диетическая Кокола-кола!
-Some force beckons from beyond the wall.<#>Из-за стены исходит некая сила.
 <!-- Map136.rvdata2 --><#>
+Diet Cocola Cola!<#>Диетическая Кокола-кола!
+<!-- Map137.rvdata2 --><#>
+Some force beckons from beyond the wall.<#>Из-за стены исходит некая сила.
 You hear a faint beating.<#>Вы слышите слабый пульс.
 Silence.<#>Тишина.
-<!-- Map137.rvdata2 --><#>
 You hear a pounding heart.<#>Вы слышите бьющееся сердце.
 Piercing silence.<#>Пронизывающая тишина.
 No going back.<#>Нет пути назад.
+<!-- Map138.rvdata2 --><#>
 You are changed. ATK. increased.<#>Вы изменились. АТК повышена.
 DEF. decreased.<#>ЗЩТ снижена.
 This is a\#mistake.<#>Это ошибка.
-<!-- Map138.rvdata2 --><#>
 The papers\#don't lie.<#>Бумаги\#не врут.
 The Infinity\#Franchise wishes\#you a swell day.<#>Бесконечная франшиза\#желает тебе отличного\#дня.
 Next!<#>Следующий!
@@ -3909,9 +3912,6 @@ I'm leaving.<#>Я ухожу.
 Hey! You\#can't do that!<#>Эй! Ты не\#можешь!
 I'll make this\#square, blow his jets.<#>
 Well done.<#>Отличная работа.
-Hey! Lester's\#happy to see\#you again!<#>Привет! Лестер\#рад снова тебя\#видеть!
-Here, for\#lending me a\#hand back there.<#>Вот - за то, что\#протянул мне\#руку тогда.
-Received ten tomato sauce packets!<#>Получены десять пакетиков томатного соуса!
 <!-- Map139.rvdata2 --><#>
 Welcome to Lester's kitchen!<#>Добро пожаловать на кухню Лестера!
 That'll fill you up.<#>Этим наешься.
@@ -3924,6 +3924,9 @@ Your pockets are stuffed.<#>Твои карманы набиты.
 Later, kids!<#>До скорого, детишки!
 You okay, pal?<#>Ты в порядке, дружище?
 You've cleaned me out!<#>Ты меня обчистил!
+Hey! Lester's\#happy to see\#you again!<#>Привет! Лестер\#рад снова тебя\#видеть!
+Here, for\#lending me a\#hand back there.<#>Вот - за то, что\#протянул мне\#руку тогда.
+Received ten tomato sauce packets!<#>Получены десять пакетиков томатного соуса!
 It was\#the least\#we could do.<#>Это было меньшее,\#что мы могли\#сделать.
 Appreciated\#all the same.<#>Всё равно\#ценю.
 Now, let's\#get to business.<#>Теперь, давайте\#к делу.
@@ -4010,10 +4013,10 @@ CRACK\. HIS\. SKULL!\|\#CRACK\. HIS\. SKULL!<#>ВСКРОЙ\. ЕГО\. ЧЕРЕ�
 I guess that's\#a "no" then.<#>Похоже, что это\#отказ.
 Oh,\. Lester,\.\#what fun times\#we will ha-\^<#>Ох,\. Лестер,\.\#весёлое нам\#время пред-\^
 Now what is that\#supposed to prove?<#>Что они пытались\#доказать?
+<!-- Map140.rvdata2 --><#>
 It looks peaceful.<#>Выглядит мирно.
 They say that\#at the bottom of\#these cliffs lies a\#town full of treasure.<#>Говорят, что в\#глубине этих\#скал находится\#город, полный сокровищ.
 A place abandoned\#by society,\. and\#abandoned by time.<#>Место, забытое\#человечеством,\. и\#забытое временем.
-<!-- Map140.rvdata2 --><#>
 If you look\#hard enough, you\#can almost see it...<#>Если присмотреться,\#можно увидеть...
 There's no way\#to get down there\#from here, though.<#>Так или иначе, не\#существует пути\#вниз.
 You'd have to\#jump,\. and I think\#we both know how\#that story ends.<#>Тебе придётся прыгать,\. и,\#я думаю, мы оба понимаем,\#чем это кончится.
@@ -4031,7 +4034,7 @@ For some\#reason,\.\#I think\#I'll be fine.<#>По какой-то\#причин
 Well,\.\. you\#seem pretty\#adamant\#about this.<#>Ну,\.\. похоже\#это твоё\#окончательное\#решение.
 I won't\#try to-\^<#>Я не попытаюсь-\^
 Alex, no\#offense,\. but\#have you lost\#your mind?!<#>Алекс, без обид,\.\#но ты вообще\#с ума сошёл?!
-I was fine\#with you taking\#your time to\#get to the boat...<#>Я дал тебе много\#времени, чтобы\#добраться до\#лодки... 
+I was fine\#with you taking\#your time to\#get to the boat...<#>Я дал тебе много\#времени, чтобы\#добраться до\#лодки...
 But this is\#fucking ridiculous!<#>Но это блядь\#смехотворно!
 Jumping off\#cliffs?\. What,\#you suicidal all\#of a sudden?!<#>Прыжок со\#скалы?\. Что,\#помереть вдруг\#захотелось?!
 Joel,\. are you sure\#he doesn't have some sort\#of weird brain condition from\#lying around those corpses?<#>Джоэл,\. ты уверен,\#что он не повредил\#себе мозги, лёжа\#во круг трупов?
@@ -4073,23 +4076,23 @@ Get down\#here already!<#>Спускайся\#уже!
 You rejoined your party!<#>Вы воссоединились со своей группой!
 Georgy's gonna\#ditch us if\#we lollygag\#any longer.<#>Джорджи нас оставит,\#если будем дальше\#слоняться.
 Let's move.<#>Пойдём.
-Steal baby crow?<#>Украсть ворона-малыша?
 <!-- Map141.rvdata2 --><#>
-Return other baby.<#>Вернуть другого малыша?
 <!-- Map142.rvdata2 --><#>
-You have lost a Baby Crow.<#>Вы потеряли ворона-малыша.
 <!-- Map143.rvdata2 --><#>
+Steal baby crow?<#>Украсть ворона-малыша?
+Return other baby.<#>Вернуть другого малыша?
+You have lost a Baby Crow.<#>Вы потеряли ворона-малыша.
 Happy chicks.<#>Счастливые цыпочки.
-3 Magazines!<#>3 журнала!
-Siamese twins skeletons.<#>Сиамские скелеты.
 <!-- Map144.rvdata2 --><#>
-State Manual II!<#>Руководство по состояниям II!
+3 Magazines!<#>3 журнала!
 <!-- Map145.rvdata2 --><#>
+Siamese twins skeletons.<#>Сиамские скелеты.
+State Manual II!<#>Руководство по состояниям II!
+<!-- Map146.rvdata2 --><#>
+<!-- Map147.rvdata2 --><#>
 You resist the\#jersey, but HE will\#transform you.<#>Ты сопротивляешься\#майке, но ОН изменит\#тебя.
 It was but a\#brief encounter, yet\#I've learned so much.<#>Это была лишь короткая\#встреча, но я сумел многое\#узнать.
-<!-- Map146.rvdata2 --><#>
 They are all dead.<#>Они все мертвы.
-<!-- Map147.rvdata2 --><#>
 Did you...\. follow\#me all the\#way out here?<#>Ты...\. следовал за\#мной всю\#дорогу сюда?
 Not gonna lie,\.\#I respect the hustle.<#>Не буду врать,\.\#уважаю трепетность.
 Here,\. you've\#earned it.<#>Вот,\. ты\#заслужил.
@@ -4098,17 +4101,17 @@ Uh,\| thanks.<#>Э,\| спасибо.
 Don't mention it.<#>Не за что.
 Until we meet again.<#>Встретимся снова.
 Hole full of sportswear.<#>Дыра, полная спортивной одежды.
+<!-- Map148.rvdata2 --><#>
 That clever\#Kindchild's set\#up weird satellites\#all across town!<#>Этот умный\#Добряк установил\#странные спутники\#по всему городу!
 No telling\#what that\#fat bastard's\#up to now!<#>Неизвестно, чем\#теперь этот жирный\#ублюдок промышляет!
 I bet he\#wants to melt\#our brains with\#radio waves!<#>Ставлю, он\#хочет сжечь\#наши мозги\#радиоволнами!
-<!-- Map148.rvdata2 --><#>
 Or turn\#our eyeballs\#inside-out!<#>Или вывернуть\#наши глаза\#шиворот-навыворот!
 If you see\#any of those\#satellites,\. go ahead\#and fuck 'em up!<#>Если увидишь\#один из этих\#спутников,\. не\#стесняйся взъебать их!
 Keep our\#heads from\#turning into\#popcorn!<#>Сохрани наши\#головы от\#прекращения\#в попкорн!
+<!-- Map149.rvdata2 --><#>
 Mr. A-a-arnold?<#>Мистер А-а-арнольд?
 Oh, God!\#It IS you!<#>О, боже!\#Это ТЫ!
 You are\#my idol-<#>Ты мой\#идол-
-<!-- Map149.rvdata2 --><#>
 The car is busted.<#>Машина сломана.
 License plate reads: "BAD".<#>На номерном знаке написано: «ПЛОХО».
 Geen?<#>Гин?
@@ -4130,17 +4133,17 @@ I hope so.<#>Надеюсь на это.
 All tension\#is making\#me tear up...<#>Всё это напряжение\#разрывает меня...
 I feel\#like a...<#>Я чувствую себя\#как...
 What's that\#vegetable again?<#>Какой там был\#овощ, забыл?
+<!-- Map150.rvdata2 --><#>
 It's jammed.<#>Заклинило.
 You search the dumpster.<#>Вы обыскиваете мусорку.
 Some Rotten Fruit!<#>Протухший фрукт!
-<!-- Map150.rvdata2 --><#>
 The generator is fried.<#>Генератор сожжён.
 You got Stefan Kindchild's corpse.<#>Вы забрали труп Стефана Добряка.
+<!-- Map151.rvdata2 --><#>
+<!-- Map152.rvdata2 --><#>
 Mouldy books.<#>Заплесневелые книги.
 Who are you\#supposed to be?<#>Кто ты вообще\#такой?
-<!-- Map151.rvdata2 --><#>
 Um, we live here.<#>Эм, мы живём здесь.
-<!-- Map152.rvdata2 --><#>
 We were just leaving.*leave*<#>
 Ugh! That name\#is so bland.<#>
 Um, we\#live here.<#>
@@ -4303,11 +4306,11 @@ My magnum opus...\.\#the Salt Souffle!<#>
 You guys\#are gonna\#love thi-\^<#>
 Oh, come on!<#>
 Can't go\#five minutes\#without people\#killin' each other...<#>Не могу прожить\#и пять минут, не\#увидев как люди\#убивают друг друга...
+<!-- Map153.rvdata2 --><#>
+<!-- Map154.rvdata2 --><#>
 They kept digging,\#but didn't know\#why! HA HA!<#>Они продолжали\#копать, но не знали\#зачем! ХА-ХА!
 They can't\#pierce my\#shell. HA HA!<#>Им не пробить\#мой панцирь.\#ХА-ХА!
-<!-- Map153.rvdata2 --><#>
 We found the robe.<#>Мы нашли халат.
-<!-- Map154.rvdata2 --><#>
 Big deal, HA HA!<#>Подумаешь, ХА-ХА!
 Didn't think you'd\#actually go after it though.<#>Не думал, что ты правда\#попытаешься его найти.
 Tell you what:\|\#meet me at my\#burrow with a\#bunch of salt.<#>Что я тебе скажу:\|\#найди мою берлогу\#и принеси кучу соли.
@@ -4324,14 +4327,14 @@ This might be\#the worst place\#to be mortally\#wounded in.<#>Это, навер
 Rattle. Rattle.<#>Тук. Тук.
 Corpse cart.<#>Тележка для трупов.
 The woman glistens with an opaque substance.<#>Женщина блестит непрозрачной субстанцией.
+<!-- Map155.rvdata2 --><#>
 You search the refrigerator.<#>Вы обыскиваете холодильник.
 Domestic Jerky and some Rotten Fruit!<#>Домашнее мясо и протухший фрукт!
 Putrid kitchenware.<#>Гнилая посуда.
-<!-- Map155.rvdata2 --><#>
+<!-- Map156.rvdata2 --><#>
 The Corps is\#all bark no bite.<#>Корпы лишь лают,\#но не кусаются.
 Fringe knows\#how to show\#some teeth.<#>Фриндж\#умеет\#показать зубы.
 Bepe never\#did have\#any backbone.<#>Бепе всегда\#был\#бесхребетным.
-<!-- Map156.rvdata2 --><#>
 Glad he\#finally shut\#that big\#mouth of his.<#>Рад, что\#он наконец\#заткнул свой\#громкий рот.
 Can you\#believe\#this guy?<#>Можешь\#поверить этому\#парню?
 Just wait 'till\#the guys back\#at the Alley\#hear about this.<#>Подожди, пока\#ребята в Аллее\#услышат об этом.
@@ -4388,16 +4391,16 @@ Another crushed\#beneath the\#mighty heel\#of Dobs!<#>Ещё один\#разд�
 Don't rope\#me into this.<#>Не втягивайте\#меня в это.
 I don't\#even know\#what you're\#talking about.<#>Я даже не\#знаю, о чём\#вы.
 Loser...<#>Лузер...
-Salty Bathrobe!<#>Солёный халат!
 <!-- Map157.rvdata2 --><#>
-At this rate I'll outdo\#Arnold himself.<#>Такими темпами, я превзойду\#самого Арнольда.
+Salty Bathrobe!<#>Солёный халат!
 <!-- Map158.rvdata2 --><#>
 <!-- Map159.rvdata2 --><#>
+At this rate I'll outdo\#Arnold himself.<#>Такими темпами, я превзойду\#самого Арнольда.
+<!-- Map160.rvdata2 --><#>
+<!-- Map161.rvdata2 --><#>
 It is shut from the other side.<#>Закрыто с другой стороны.
 You ever cut\#a rat open...<#>Ты когда-нибудь\#разрезал крысу...
-<!-- Map160.rvdata2 --><#>
 ... put your\#pee pee in...<#>...вставлял свою\#письку...
-<!-- Map161.rvdata2 --><#>
 ...have it live?<#>...пока она жива?
 You remind\#me of that rat.<#>Ты напоминаешь\#мне такую крысу.
 Talk to Maurice,\#he's my manager.<#>Поговори с Морисом,\#он мой менеджер.
@@ -4415,10 +4418,10 @@ I feel like\#all the fire\#has gone out\#of my life.<#>Чувствую, буд�
 Why did Zoltan\#have to leave\#me all alone?!<#>Почему Золтан\#оставил меня\#одного?!
 This stupid\#"Game" just\#isn't enough\#anymore.<#>Этой тупой\#"Игры" уже\#просто\#недостаточно.
 I need\#something else.<#>Мне нужно что-нибудь\#другое.
+<!-- Map162.rvdata2 --><#>
 This "city" everyone's\#talking about sounds\#way too perfect!<#>Этот "город", о котором\#все говорят, звучит уж\#слишком идеально!
 Can't imagine\#anything\#more boring.<#>Не могу представить\#себе что-нибудь более\#скучное.
 I just want\#"The Game" back...<#>Я просто хочу, чтобы\#"Игра" вернулась...
-<!-- Map162.rvdata2 --><#>
 As long as TV man\#says it, some people'll\#believe it: drinking\#piss cures rabies.<#>Пока об этом говорят\#по телевизору, кто-то\#в это поверит: питьё\#мочи исцеляет бешенство.
 Thank God that\#Kindchild switched\#frequencies!<#>Слава богу, что\#Добряк сменил\#канал!
 Hey, that's\#my razor!<#>Эй, это моя\#бритва!
@@ -4428,15 +4431,14 @@ Uh,\. here.\.\#I'll throw\#you a bone.<#>Э,\. вот.\.\#Накрошу теб�
 Received a pack of liquor!<#>Получена упаковка выпивки!
 Knock yourself out.<#>Наберись.
 Now,\. to\#trim this\#fuzz a little...<#>Теперь,\.\#подровняем\#этот ужас немного...
+<!-- Map163.rvdata2 --><#>
+<!-- Map164.rvdata2 --><#>
 Empty. A slight draft can be felt around it.<#>Пусто. Вокруг чувствуется лёгкий сквозняк.
 You put out your hand. The draft is\#clearly coming from behind the crate.<#>Вы протягиваете руку. Сквозняк явно идёт\#из-за ящика.
-<!-- Map163.rvdata2 --><#>
 Move the crate?<#>Подвинуть ящик?
-<!-- Map164.rvdata2 --><#>
 A secret was revealed!<#>Секретное место обнаружено!
 Pillaged.<#>Разграблено.
 Pilfered.<#>Растащено.
-Nothing left.<#>Ничего не осталось.
 Well,\. well,\. well.<#>Ну,\. и ну.\.
 The thieving\#rats have come\#back to their den.<#>Вороватые\#крысы вернулись\#в своё логово.
 It was you\#rag men who\#took my secret\#stash,\. wasn't it?<#>Это были вы,\#оборванцы, кто\#растащил мой\#схрон,\. не так ли?
@@ -4497,9 +4499,9 @@ You good,\. Alex?<#>Ты в порядке,\.\#Алекс?
 I saw\#you swipe\#a little blue pill\#off that guy's body.<#>Я видел, как\#ты забрал маленькую\#синюю таблетку\#с его тела.
 Did you\#not just hear\#what I said?<#>Ты не расслышал,\#что я тебе сейчас\#сказал?
 You should've\#just given me\#the fucking pill.<#>Тебе надо было\#просто отдать\#мне ебучую\#таблетку.
+<!-- Map165.rvdata2 --><#>
 It started\#raining like\#hell all of\#a sudden.<#>Внезапно\#начался\#мощнейший\#дождь.
 I got under\#this tree to\#stay dry, but...<#>Я сел под\#дерево, чтобы\#не промокнуть, но...
-<!-- Map165.rvdata2 --><#>
 I really\#didn't think\#this through.<#>Я правда это\#не продумал.
 Now I'm\#fucking\#moist.<#>Теперь я,\#блядь,\#промок.
 MOIST!<#>ПРОМОК!
@@ -4608,6 +4610,7 @@ I'm still\#here,\. aren't I?<#>Я всё ещё здесь,\.\#разве нет
 Got 2 Mud Pies!<#>Получено 2 грязевых пирога!
 Got some Bird Feed!<#>Получено немного птичьего корма!
 You got your Rando Coin back!<#>Вы получили монету Рандо обратно!
+Alex<#>
 The well is full of blood.<#>Колодец полон крови.
 As punishment\#for my crimes against\#the Rando Army, I was\#given an ultimatum.<#>В качестве наказания\#за мои преступления\#против армии Рандо,\#мне выдвинули ультиматум.
 Fix this\#junker,\. or\#get tossed\#in the drink.<#>Починить этот хлам,\.\#либо меня спишут\#со счетов.
@@ -4627,7 +4630,6 @@ We found\#something\#that might\#interest you.<#>Мы нашли вещь,\#ко
 Wait...\.\#is that?<#>Стоп...\.\#это...
 A wrench?<#>Ключ?
 Can...\.\. can\#I have it?<#>Можно...\.\#можно мне его забрать?
-It's yours.<#>Он твой.
 I just wanted to show you.<#>Просто хотел тебе его показать.
 Here,\#it's yours.<#>Держи,\#он твой.
 Oh, thank God.<#>О, слава Богу.
@@ -4889,9 +4891,9 @@ It broke out.<#>Он вырвался.
 "Anyone caught committing any of\#the prior offenses will face expulsion\#and possible execution, depending on\#the magnitude of their crimes.<#>"Любой, кто будет пойман на совершении\#вышеназванных нарушений, будет подвергнут\#изгнанию и возможной казни, в зависимости\#от степени тяжести преступления."
 "Report any and all activity\#to your respective officers.<#>"Сообщайте о любой подозрительной\#деятельности своим вышестоящим офицерам."
 "With love,\#Colonel Clint"<#>"С любовью,\#полковник Клинт"
+<!-- Map166.rvdata2 --><#>
 Empty seat.<#>Пустое место.
 The crate is unguarded.<#>Ящик стоит без надзора.
-<!-- Map166.rvdata2 --><#>
 Peek inside?<#>Заглянуть?
 The\#crate.<#>Ящик.
 Did you\#open it?<#>Вы открыли\#его?
@@ -4950,14 +4952,14 @@ He hates\#this island.<#>Он ненавидит\#этот остров.
 Will...<#>Уилл...
 What are\#you doing...?<#>Что ты\#делаешь...?
 Got a Rando Mask.<#>Получена маска Рандо.
+<!-- Map167.rvdata2 --><#>
 Two Rando Rations!<#>Два рациона Рандо!
 There's something at the bottom of the crate.<#>На дне ящика что-то есть.
-<!-- Map167.rvdata2 --><#>
 Got a monkey wrench!<#>Получен разводной ключ!
 Cleared out.<#>Обчищено.
+<!-- Map168.rvdata2 --><#>
 Someone else's grave.<#>Чья-то ещё могила.
 "Harry Sweets\#1945-19..."<#>"Гарри Свитс\#1945-19..."
-<!-- Map168.rvdata2 --><#>
 The rest is illegible.<#>Остальное не разобрать.
 That's my\#pappy's grave.<#>Это могила\#моего папы.
 He was a real\#fun guy, he was.<#>Он был настоящим\#весельчаком, определённо.
@@ -5027,9 +5029,9 @@ I know\#how much\#it hurts.<#>Я знаю, как\#это больно.
 One day,\#I hope that\#I can follow in\#your footsteps.<#>Однажды, я\#надеюсь, я\#смогу последовать\#по твоим пятам.
 A grave, of sorts.<#>Могила, вроде как.
 It still hurts.<#>Всё ещё больно.
+<!-- Map169.rvdata2 --><#>
 Jesus\#Christ...<#>Господи...
 Never knew\#those two\#had it in them...<#>Никогда не думал,\#что те двое подхватили\#его...
-<!-- Map169.rvdata2 --><#>
 It's a\#bloody\#slaughter...<#>Кровавая\#резня...
 We were\#workin'\#on a li'l\#project.<#>Мы здесь\#работали\#над маленьким\#проектом.
 Rando wanted\#us to make some\#tunnels underneath\#Garbage Island.<#>Рандо хотел, чтобы мы\#сделали несколько\#туннелей под мусорным\#островом.
@@ -5053,9 +5055,9 @@ Nice and\#moist, as all\#good things are.<#>Приятное и сырое,\#к�
 Can never tell\#what them Randos'll\#get up to when\#ya ain't watchin'.<#>Никогда не знаешь,\#что это Рандовцы\#вытворят, пока не\#смотришь.
 Might make\#this my home\#away from home.<#>Может, это место\#станет моим вторым\#домом.
 Not that\#I have\#a home...<#>Не то что бы\#у меня был\#первый...
+<!-- Map170.rvdata2 --><#>
 A map of Garbage Island. It's covered with notes\#related to some kind of tunnel system.<#>Карта мусорного острова. Покрыта заметками\#касательно некой системы туннелей.
 Oh,\. thank\#fuckin' God.<#>О,\. слава\#блять богу.
-<!-- Map170.rvdata2 --><#>
 They must've\#bashed each\#other's brains in\#while I was gone.<#>Они, наверное,\#отбили друг\#другу мозги,\#пока меня не было.
 And to think, I was\#ready to chuck this here\#dynamite right at 'em!<#>И представляешь,\#я был готов бросить\#весь динамит в них!
 Glad that\#wasn't necessary...<#>Рад, что не пришлось\#это сделать...
@@ -5069,21 +5071,21 @@ I hope\#Rando\#doesn't\#mind...<#>Надеюсь,\#Рандо не\#возраж
 I'd say he's\#concerned\#with other\#things now.<#>Хотя я бы сказал,\#что он сейчас\#занят другими\#вещами.
 Now,\#the one\#question\#remains...<#>Теперь, один\#вопрос остаётся...
 What am\#I gonna do\#with all\#this TNT?<#>Что я буду делать\#со всем этим\#динамитом?
-Busted TV.<#>Сломанный телевизор.
-This is my\#cave, and by\#extension,\#my home.<#>Это моя пещера,\#и по-совместительству,\#мой дом.
 <!-- Map171.rvdata2 --><#>
-You're...\.\#kinda trespassing.<#>Ты...\.\#вроде вторгаешься.
+Busted TV.<#>Сломанный телевизор.
 <!-- Map172.rvdata2 --><#>
+This is my\#cave, and by\#extension,\#my home.<#>Это моя пещера,\#и по-совместительству,\#мой дом.
+You're...\.\#kinda trespassing.<#>Ты...\.\#вроде вторгаешься.
 That's a nice\#way for me\#to tell you to\#get out of here.<#>Я тебе вежливо\#намекаю, чтобы\#ты валил отсюда.
 Shelter, at least in theory.<#>Убежище, по крайней мере в теории.
-Alien text. It's impossible\#to discern its meaning.<#>Инопланетный текст. Невозможно\#разобрать его смысл.
 <!-- Map173.rvdata2 --><#>
-It appears to be some kind of warning.<#>Похоже, это своего рода предупреждение.
 <!-- Map174.rvdata2 --><#>
+Alien text. It's impossible\#to discern its meaning.<#>Инопланетный текст. Невозможно\#разобрать его смысл.
+It appears to be some kind of warning.<#>Похоже, это своего рода предупреждение.
 More text. Perhaps it spells out a name?<#>Больше текста. Может быть, это имя?
+<!-- Map175.rvdata2 --><#>
 It's fixated on your Rando Coin.<#>Он зациклен на вашей монете Рандо.
 Chew before\#you swallow.<#>Жуй перед тем,\#как проглотить.
-<!-- Map175.rvdata2 --><#>
 You tossed the Rando Coin into its mouth.<#>Вы закинули монету Рандо ей в рот.
 It seemed to like it!<#>Ей, похоже, понравилось!
 It's having trouble breathing.<#>Она прерывисто дышит.
@@ -5169,9 +5171,9 @@ Don't\#judge\#me, man.<#>Не суди\#меня,\#мужик.
 This is\#where I was\#meant to be...<#>Здесь мне\#предназначено\#быть...
 Live your\#life on the\#surface.<#>Живи свою\#жизнь на\#поверхности.
 As I will\#live mine\#down below.<#>А я буду жить\#свою внизу.
+<!-- Map176.rvdata2 --><#>
 Rando ain't\#it, mahn.<#>Не нравится мне\#у Рандо, мужик.
 He don't\#respect da\#trashy life.<#>Он не уважает\#мусорную\#жизу.
-<!-- Map176.rvdata2 --><#>
 ...Yep.<#>...Ага.
 Dis is\#da life.<#>Эт наша жиза.
 Larry D.\#changed\#mah mind, yo.<#>Ларри Д.\#переубедил\#меня, йоу.
@@ -5256,13 +5258,13 @@ This is\#my cocoon.<#>Это мой кокон.
 One day I\#will emerge\#a beautiful\#trash butterfly...<#>Однажды, я\#взлечу, как\#прекрасная\#мусорная бабочка...
 Mysterious and lovely.<#>Загадочная и милая.
 It's been blocked.<#>Заблокировано.
+<!-- Map177.rvdata2 --><#>
 You have lost the Versace Bag Balloon.<#>Вы потеряли шарик из пакета Версаче.
 ...I need\#to leave.<#>...Мне нужно\#уходить отсюда.
-<!-- Map177.rvdata2 --><#>
 Now.<#>Сейчас же.
+<!-- Map178.rvdata2 --><#>
 ...Small trash is spilling out of the lock...<#>...Из замка высыпается мелкий мусор...
 It's been locked tight.<#>Надёжно заперто.
-<!-- Map178.rvdata2 --><#>
 It reminds you of days gone.<#>Напоминает вам о былых деньках.
 This car seems cartoonishly large.<#>Эта машина большая, словно из мультиков.
 Somehow, it feels as if you've seen it before.<#>Почему-то, вам кажется что вы её уже видели.
@@ -5270,47 +5272,47 @@ You checked the cabinet.<#>Вы проверили шкаф.
 Found some mystery jerky!<#>Найдено неизвестное мясо!
 "Vote Gerald!"<#>"Голосуй за Джеральда!"
 No...\. not again...<#>Нет...\. не снова...
-Old poster. The text is unreadable.<#>Старый постер. Текст нечитабелен.
 <!-- Map179.rvdata2 --><#>
-Torn poster. The text is illegible.<#>Разорванный постер. Текст неразборчив.
 <!-- Map180.rvdata2 --><#>
+Old poster. The text is unreadable.<#>Старый постер. Текст нечитабелен.
+Torn poster. The text is illegible.<#>Разорванный постер. Текст неразборчив.
 A relatively intact poster. It seems to be centered\#around raising voter awareness.<#>Относительно целый постер. Кажется, он сосредоточен\#на повышении осведомленности избирателей.
+<!-- Map181.rvdata2 --><#>
 Another poster. It stresses the importance\#of local government.<#>Ещё один плакат. Он подчеркивает важность\#местного самоуправления.
 Yet another poster. It advocates for voters to\#remain informed about candidates and their policies.<#>Ещё один постер. Он призывает избирателей\#следить за кандидатами и их политикой.
-<!-- Map181.rvdata2 --><#>
 Shredded poster. It says something about\#election fraud.<#>Изорванный плакат. На нём написано что-то\#про подмену выборов.
+<!-- Map182.rvdata2 --><#>
 A timetable for meetings,\#among various other papers.<#>Расписание встреч, лежащее\#среди прочих документов.
 You searched the desk drawer.<#>Вы обыскиваете выдвижной ящик стола.
-<!-- Map182.rvdata2 --><#>
 A small key!<#>Маленький ключ!
 "Note to self: as the secretary for Mayor Gerald,\#it's my responsibility to make sure we're prepared\#for everything, even the most dire circumstances."<#>"Записка самому себе: как секретарь мэра\#Джеральда, я ответственен за обеспечивание\#готовности к любым, даже самым плохим обстоятельствам."
 "Just in case something weird happens, there are\#spare keys to both the back door and to Mayor\#Gerald's personal quarters."<#>"Просто в случае, если что-то странное произойдёт,\#существуют запасные ключи как для чёрного хода,\#так и для личного кабинета мэра Джеральда."
 "Spare key for the back door is in my desk. The key\#to Gerald's office will be in my house, but I won't\#say anything more than that."<#>"Запасной ключ для чёрного хода лежит в моём\#столе. Ключ от офиса Джеральда будет у меня дома,\#но где точно, я не запишу.
 "This is important information! Don't forget it!\#- Secretary Scourge"<#>"Это важно! Не забудь!\#- Секретарь Скурдж"
+<!-- Map183.rvdata2 --><#>
 Propaganda poster. It reads "Vote Gerald for mayor!"<#>Агитационный постер. Он гласит: "Голосуй за мэра Джеральда!"
 It won't budge. The keyhole is rather large.<#>Не открывается. Замочная скважина слишком\#большая.
-<!-- Map183.rvdata2 --><#>
 You used the Large Key.<#>Вы использовали большой ключ.
 It's long since made its last call.<#>Он давно сделал свой последний звонок.
 Found a cigarette!<#>Найдена сигарета!
+<!-- Map184.rvdata2 --><#>
 Won't move. The keyhole is rather small.<#>Не открывается. Замочная скважина слишком\#маленькая.
 You used the Small Key.<#>Вы использовали маленький ключ.
-<!-- Map184.rvdata2 --><#>
 Propaganda poster. It's partially torn up.<#>Агитационный постер. Он частично\#порван.
 Vandalized propaganda poster.<#>Испорченный агитационный постер.
 A rotund posterior was drawn over the poster.<#>
 Someone's insane political ramblings. The name\#"Gerald" appears multiple times.<#>Чьи-то безумные политические бредни\#Имя "Джеральд" всплывает несколько раз.
 Nothing to eat.<#>Ничего съедобного.
 "Ever since Mayor Gerald took office, pollution\#rates across the island have skyrocketed.\#This is in spite of the mayor's promises to\#reduce said numbers."<#>"С того момента, как мэр Джеральд\#занял власть, скорость загрязнения\#острова полетела в космос. Вопреки\#обещаниям сократить значения."
+<!-- Map185.rvdata2 --><#>
 You checked under the bed.<#>Вы проверили под кроватью.
 A large key!<#>Большой ключ!
-<!-- Map185.rvdata2 --><#>
 Something is written on\#the back of this poster.<#>Что-то написано на задней\#части постера.
 Take it down?<#>Сорвать его?
 Got the poster!<#>Получен постер!
+<!-- Map186.rvdata2 --><#>
 The filing cabinet is marked with a star.<#>Картотечный шкаф отмечен звёздочкой.
 Open a drawer?<#>Открыть шкаф?
-<!-- Map186.rvdata2 --><#>
 Close the open drawer?<#>Закрыть шкаф?
 The drawer is stuck in place.<#>Шкаф застрял.
 The filing cabinet is marked with a club.<#>Картотека помечена трефой.
@@ -5318,9 +5320,9 @@ The filing cabinet is marked with a spade.<#>Картотека помечена
 The filing cabinet is marked with a heart.<#>Картотека помечена червой.
 A secret path was revealed!<#>Секретный проход открылся!
 The text is illegible.<#>Текст неразобрчив.
+<!-- Map187.rvdata2 --><#>
 We should've\#never come to\#this shithole island.<#>Нам не следовало плыть\#на этот остров.
 The people here\#are too busy sticking\#their dicks in trash to\#give us their time.<#>Люди здесь слишком\#заняты ёблей с мусором,\#чтобы уделить нам время.
-<!-- Map187.rvdata2 --><#>
 Now look at\#what's happened...<#>Теперь посмотри, что\#произошло...
 Poor T.P.<#>Бедняга Т. П.
 Can't wait to\#go back to shore.<#>Не терпится вернуться\#на берег.
@@ -5368,9 +5370,9 @@ Lest someone else\#stumble upon this place.<#>Чтобы кто ещё не\#н�
 Someone a lot\#more violent than you.<#>Кто-то куда более\#жестокий, чем ты.
 Glad you\#were the one\#to find that\#thing, instead of...<#>Рад, что именно\#ты разобрался,\#вместо...
 Well,\. a more\#unsavory character.<#>Ну,\. более отталкивающих\#персонажей.
+<!-- Map188.rvdata2 --><#>
 "Vote Gerald! Vote now!"<#>"Голосуй за Джеральда! Голосуй сейчас!"
 "Gerald for mayor!"<#>"Джеральда в мэры!"
-<!-- Map188.rvdata2 --><#>
 The desk's surface is coated with a layer of dust.<#>Поверхность стола покрыта слоем пыли.
 Something shimmers from underneath it.<#>Из-под него что-то мерцает.
 "Mayor Gerald's approval ratings sink as\#the island itself begins to descend into garbage."<#>"Рейтинг мэра Джеральда падает, поскольку\#остров начинает погружаться в мусор."
@@ -5382,10 +5384,10 @@ Rusted shut.<#>Наглухо заржавело.
 "Mayor Gerald's new policies on pollution have been\#deemed 'highly inadequate' by climate scholars."<#>"Новая политика мэра Джеральда касательно\#загрязнения была признана крайне неадекватной\#специалистами по климату."
 There's something odd\#about this particular cabinet.<#>В этой конкретной картотеке\#что-то выглядит неестественно.
 Upon a closer look,\#the cabinet is purely decorational.<#>При ближайшем рассмотрении,\#картотека является лишь простой декорацией.
-I need time.\.\.\#Time to think.<#>Мне нужно время.\.\.\#Время подумать.
 <!-- Map189.rvdata2 --><#>
-Think about\#everything.<#>Подумай обо\#всём.
 <!-- Map190.rvdata2 --><#>
+I need time.\.\.\#Time to think.<#>Мне нужно время.\.\.\#Время подумать.
+Think about\#everything.<#>Подумай обо\#всём.
 Oh,\.\. a\#visitor.<#>О,\.\.\#посетитель.
 Haven't seen hide nor\#hair of nobody 'round\#this town in a long time.<#>Не видел ничьих душ\#в этом городе уже\#долгое время.
 What brings\#you here, kid?<#>Зачем ты пришёл\#сюда, парень?
@@ -5441,38 +5443,38 @@ What'll\#happen then?<#>Что будет\#тогда?
 I suppose you'll\#cross that bridge\#when you come to it.<#>Думаю, тебе придётся\#пересечь этот мост, когда\#ты доберёшься до него.
 But you'll\#never get there\#unless you take\#that first step.<#>Но ты никогда до\#него не доберёшься,\#если не решишься\#на первый шаг.
 Empty chair.<#>Пустое кресло.
-Son, if there's one\#thing I've learned during\#my time on this Earth...<#>Сынок, если есть одна\#вещь, которую я изучил\#за жизнь на этой земле...
 <!-- Map191.rvdata2 --><#>
 <!-- Map192.rvdata2 --><#>
-...it's that there's\#always one thing you can\#do when you're in a\#sticky situation.<#>...то это осознание\#того, что всегда\#есть выход из\#сколькой ситуации.
 <!-- Map193.rvdata2 --><#>
+Son, if there's one\#thing I've learned during\#my time on this Earth...<#>Сынок, если есть одна\#вещь, которую я изучил\#за жизнь на этой земле...
+...it's that there's\#always one thing you can\#do when you're in a\#sticky situation.<#>...то это осознание\#того, что всегда\#есть выход из\#сколькой ситуации.
 What's that, pap?<#>Что это, пап?
 You can always\#get down and dirty.<#>
 Hoo!<#>Ху!
 Haa!<#>Хаа!
 Come on, son!\#Shake a leg with\#your old man!<#>Давай, сынок!\#Потанцуй со\#своим стариком!
-A tombstone. The text is illegible.<#>Надгробие. Текст неразборчив.
 <!-- Map194.rvdata2 --><#>
 <!-- Map195.rvdata2 --><#>
 <!-- Map196.rvdata2 --><#>
 <!-- Map197.rvdata2 --><#>
 <!-- Map198.rvdata2 --><#>
-The stone is partially eroded.<#>Камень частично разрушен.
 <!-- Map199.rvdata2 --><#>
+A tombstone. The text is illegible.<#>Надгробие. Текст неразборчив.
+The stone is partially eroded.<#>Камень частично разрушен.
 The stone is completely eroded.<#>Камень полностью разрушен.
 A tombstone. The name "Cherie von Buckingham"\#is the only legible part of the epitaph.<#>Надгробие. Имя "Шери фон Бакингэм" -\#единственная разборчивая часть текста.
 There used to be writing on this cross,\#but it was later scraped off.<#>Раньше на этом кресте была надпись,\#но позже ее стерли.
 An old shovel is sticking up from the dirt.<#>Из грязи торчит старая лопата.
 Take it?<#>Взять её?
+<!-- Map200.rvdata2 --><#>
 Got a rusty spade!<#>Получена ржавая лопата!
 Warning: Floor unstable! Fall at your own risk.<#>Предупреждение: Нестабильная поверхность!\#Падайте на свой страх и риск.
 It's busy.<#>
-<!-- Map200.rvdata2 --><#>
-Dried herb!<#>Высушенная трава!
-Oh, a visitor?<#>О, посетитель?
 <!-- Map201.rvdata2 --><#>
-How unusual.<#>Как необычно.
+Dried herb!<#>Высушенная трава!
 <!-- Map202.rvdata2 --><#>
+Oh, a visitor?<#>О, посетитель?
+How unusual.<#>Как необычно.
 Welcome,\. stranger.\.\#I am Deocletians, and you\#now stand before the\#Land with No Sun.<#>Добро пожаловать,\.\#странник. Я - Деоклетианс,\#и сейчас ты стоишь на\#пороге бессолнечных земель.
 It's a mystical place,\#the home of our\#brothers and forefathers.<#>Это мистическое место\#является домом наших\#братьев и праотцов.
 Enjoy your stay,\#but be mindful\#of our customs.<#>Наслаждайтесь пребыванием,\#но помните о наших обычаях.
@@ -5496,9 +5498,9 @@ Outsider, if you\#see them again...<#>Чужак, если ты увидишь\#
 If they don't...<#>Если они не вернуться...
 They will die.<#>Они умрут.
 I'll keep it in mind.<#>Я запомню.
+<!-- Map203.rvdata2 --><#>
 Beware,\#outsider.<#>Будь осторожней,\#чужак.
 Violate our\#laws and your\#punishment\#will be swift.<#>Нарушите наши законы -\#и ваше наказание\#наступит незамедлительно.
-<!-- Map203.rvdata2 --><#>
 We aren't here\#to cause trouble.<#>Мы не хотим\#создавать проблем.
 That's what\#they all say.<#>Все так говорят.
 Do not\#be fooled,\.\#man of rags.<#>Не обманись,\.\#человек в\#рванье.
@@ -5537,9 +5539,9 @@ I hope this is\#not the end for us.<#>Я надеюсь, что это\#не н�
 He is staring vacantly.<#>Он смотрит пустым взглядом.
 Stumpy statue.<#>Карликовая статуя.
 Slightly-less-stumpy statue.<#>Слегка менее карликовая статуя.
+<!-- Map204.rvdata2 --><#>
 This is the\#Cliff of Perpetuity.<#>Это - утёс\#бесконечности.
 The chasm rejects\#all who are not\#worthy to enter.<#>Пропасть отвергает\#всех, кто недостоин\#войти.
-<!-- Map204.rvdata2 --><#>
 Go on.\.\#Test your worth.<#>Давай.\.\#Узнай, достоин ли.
 Don't worry,\.\#you probably\#won't die.<#>Не беспокойся.\.\#Ты, скорее всего,\#не умрёшь.
 I give it\#like a sixty\#percent chance.<#>Ставлю где-то\#шестьдесят на\#сорок.
@@ -5563,9 +5565,9 @@ Perhaps it is\#finally time for\#me to test\#my worth...<#>Возможно, н�
 The power of the Cliff\#resonates with the Ancient Ring.<#>Сила утёса находит\#отклик в древнем кольце.
 The rust has cleared away,\.\#revealing the Perpetual Ring!<#>Ржавчина сошла,\.\#явив вечное кольцо!
 You have passed the Cliff's challenge.\#It will no longer receive you.<#>Ты прошёл испытание утёса.\#Он более не примет тебя.
+<!-- Map205.rvdata2 --><#>
 A fellow man\#of rags, I see!<#>Родной оборванец,\#я погляжу!
 Been wearing\#them for long?<#>Долго носишь\#лохмотья?
-<!-- Map205.rvdata2 --><#>
 No.\| They\#weren't my\#first choice,\#believe me.<#>Нет.\| Они\#не были\#моим выбором,\#поверь.
 They're pretty\#comfy,\. though.<#>Хотя,\. они\#довольно удобные.
 Seems like they've\#grown on you!\. Maybe\#in more ways than one!<#>Кажется, они приросли\#к тебе!\. Может, даже\#на тебе и выросли!
@@ -5624,13 +5626,13 @@ Its form was angelic,\.\#its wings spread wide\#and its skin the\#color of blood
 What was it?\|\#The truth.<#>Кем она была?\|\#Истиной.
 The truth that\#lies hidden in the\#crack between realities.<#>Истиной. скрытой\#в разломе меж\#реальностей.
 Perhaps you,\. too,\.\#will see it some day.<#>Возможно,\. ты тоже\#увидишь её однажды.
+<!-- Map206.rvdata2 --><#>
 Pilfer the corpse?<#>Обворовать труп?
 Got a Joy Mask.<#>Получена маска радости.
-<!-- Map206.rvdata2 --><#>
 8 Magazines!<#>8 журналов!
+<!-- Map207.rvdata2 --><#>
 What the hey?<#>Чё за?
 Joel?\. What's up?<#>Джоэл?\. Что случилось?
-<!-- Map207.rvdata2 --><#>
 Hat got snagged\#on somethin' weird.<#>Шляпа зацепилась\#за что-то странное.
 All good now.\| Let's\#keep on goin-\^<#>Теперь всё в порядке.\|\#Давай двигат-\^
 Look out!<#>Осторожно!
@@ -5650,11 +5652,11 @@ Huh? What\#do you mean?<#>А? Что ты\#имеешь в виду?
 While that thing\#was strokin' and\#stranglin' me, you were\#just standing around.<#>Пока эта штука\#хватала и душила\#меня, ты просто\#стоял там.
 I thought you\#were gonna help me.<#>Я думал, ты поможешь\#мне.
 Let's just get\#outta here.<#>Давай выбираться\#отсюда.
-A dried herb!<#>Высушенная трава!
-Oh, a new face.\|\#Welcome, welcome.<#>Ох, новое лицо.\|\#Добро пожаловать.
 <!-- Map208.rvdata2 --><#>
-I am Raphael,\.\#and this is my\#humble bazaar.<#>Я Рафаэль,\.\#и это мой\#скромный базар.
+A dried herb!<#>Высушенная трава!
 <!-- Map209.rvdata2 --><#>
+Oh, a new face.\|\#Welcome, welcome.<#>Ох, новое лицо.\|\#Добро пожаловать.
+I am Raphael,\.\#and this is my\#humble bazaar.<#>Я Рафаэль,\.\#и это мой\#скромный базар.
 I hope you\#find something of\#interest among my wares.<#>Надеюсь, вы найдёте\#что-нибудь интересное\#среди моих товаров.
 Though, I should\#probably warn you.<#>Но, я должен \#предупредить вас.
 Much of my stock\#is cuisine native\#to our little village.<#>Большинство из моих\#товаров - кухня нашей\#маленькой деревни.
@@ -5663,8 +5665,6 @@ Oh, don't worry.<#>О, не волнуйтесь.
 It can't be worse\#than rotten fruit and\#old, dried out meat.<#>Она не может быть\#хуже тухлых фруктов\#и старого, высушенного мяса.
 You will have to\#be the judge of that.<#>Это вам судить.
 Now, shall we\#conduct business?<#>Теперь, займёмся\#торговлей?
-Welcome back.<#>Добро пожаловать.
-In the name of\#the elder, let us\#continue our business.<#>Во имя старейшины,\#продолжим нашу\#торговлю.
 What shall it be?<#>Что же это будет?
 A wise purchase.<#>Мудрая покупка.
 Another addition to my collection.<#>Ещё дополнение к моей коллекции.
@@ -5677,14 +5677,16 @@ Your pockets are full.<#>Ваши карманы полны.
 May peace be with you.<#>Да прибудет с вами мир.
 You seemed to have spaced out...<#>
 You have bought all I had.<#>Вы купили всё, что у меня было.
-"Olathe Weather Institute: Outpost Gamma"<#>"Институт погоды Олейта: Аванпост Гамма"
+Welcome back.<#>Добро пожаловать.
+In the name of\#the elder, let us\#continue our business.<#>Во имя старейшины,\#продолжим нашу\#торговлю.
 <!-- Map210.rvdata2 --><#>
-"Authorized Personnel Only"<#>"Только для персонала"
 <!-- Map211.rvdata2 --><#>
+"Olathe Weather Institute: Outpost Gamma"<#>"Институт погоды Олейта: Аванпост Гамма"
+"Authorized Personnel Only"<#>"Только для персонала"
 "Beware of Scorpions"<#>"Берегитесь скорпионов"
+<!-- Map212.rvdata2 --><#>
 Well-dressed bones.<#>Богато одетые кости.
 Blasted bones.<#>Разбитые кости.
-<!-- Map212.rvdata2 --><#>
 Crushed bones.<#>Раздавленные кости.
 "I'm sorry, guys, but this is where I step off.<#>"Простите, парни, но здесь я схожу."
 "If anyone is still alive after all of this...<#>"Если кто-то ещё жив после всего этого..."
@@ -5693,9 +5695,9 @@ Crushed bones.<#>Раздавленные кости.
 "Until whatever the hell this is stops,\#I'm holding down the fort here.<#>"Пока этот чёртов ад не прекратиться,\#я остаюсь в своём форте."
 "Just leave me. Get out of here while you can.<#>"Просто оставьте меня. Выбирайтесь отсюда,\#пока можете."
 "Contact HQ by any means necessary."<#>"Свяжитесь со штабом любой ценой."
-Who cares\#about coins?<#>Кому нужны\#монеты?
+Who cares<!-- Map213.rvdata2 --><#>
+#about coins?<#>Кому нужны\#монеты?
 The house\#is what we\#came for.<#>Мы пришли\#за этим домом.
-<!-- Map213.rvdata2 --><#>
 It's so\#much\#cooler\#up close...<#>Он куда\#круче\#вблизи...
 If only\#I could\#smell\#this bad.<#>Если бы\#только я\#мог также\#плохо пахнуть.
 You smell\#just like it.<#>Ты так и\#пахнешь.
@@ -5733,13 +5735,13 @@ Only those\#truly in-tune\#with trash can\#withstand it...<#>Лишь те, кт
 You still\#are not\#ready.<#>Ты ещё\#не готов.
 You can never hope\#to enter without first\#understanding the\#meaning of trash.<#>Не надейся войти,\#сначала не поняв\#суть мусора.
 Toilet Seat!<#>Туалетный ободок!
+<!-- Map214.rvdata2 --><#>
 Books on meteorology\#and weather phenomena.<#>Книги по метеорологии\#и погодным явлением.
 Horoscope written in chalk.<#>Гороскоп, написанный мелом.
-<!-- Map214.rvdata2 --><#>
 Dusty notebooks and mathematical texts.<#>Пыльные тетради и математические записи.
+<!-- Map215.rvdata2 --><#>
 To think,\. we became\#so careless as to let\#our greatest treasure\#be stolen away...<#>Подумать только,\. мы\#настолько расслабились,\#что позволили украсть\#наше величайшее сокровище...
 This transgression will\#not go unpunished.<#>Это преступление не останется\#безнаказанным.
-<!-- Map215.rvdata2 --><#>
 The outsiders\#brought this\#wrath upon themselves.<#>Чужаки навлекли\#на себя этот гнев.
 When blood\#is inevitably\#spilled,\. it will\#be on their hands.<#>Когда кровь\#неизбежно прольётся,\.\#она прольётся на их\#руках.
 That outsider...\|\#the man wearing\#the yellow tie...<#>Этот чужак...\|\#Мужчина в жёлтом\#галстуке...
@@ -5804,25 +5806,25 @@ Do what\#we could never\#manage to,\.\.\#and move on.<#>Сделай то, чт�
 Leave.<#>Уходи.
 For your\#own good.<#>Ради собственного\#блага.
 The Elder's head.<#>Голова старейшины.
+<!-- Map216.rvdata2 --><#>
 The machine is busted.<#>Машина сломана.
 Someone's coffee mug.<#>Чья-то кофейная кружка.
-<!-- Map216.rvdata2 --><#>
 "8:52 PM, 31/12/99<#>"20:52, 31.12.99"
 "Previously observed phenomena\#have escalated in intensity.<#>"Ранее обнаруженный феномен\#расширился в интенсивности."
 "The entire sky has now\#begun to change color.<#>"Всё небо начало менять свой\#цвет."
 "It is currently impossible to deduce\#when, or if, the phenomena will cease.<#>"На данный момент невозможно\#предположить когда, и закончится\#ли вообще этот феномен."
 "Must report to HQ ASAP."<#>"Нужно доложить в штаб как можно\#скорее."
+<!-- Map217.rvdata2 --><#>
 Broken bones.<#>Сломанные кости.
 Esoteric texts.<#>Эзотерические записи.
-<!-- Map217.rvdata2 --><#>
 "9:31, 31/12/99"<#>"9:31, 31.12.99"
 "The magnitude of this currently-\#ongoing event is unprecedented.<#>"Масштабы этого происходящего в настоящее\#время события беспрецедентны."
 "Nothing of this scale has ever\#been observed by our team.<#>"Ничто настолько же масштабное никогда не\#обнаружалось нашей командой."
 "All attempts to contact HQ have failed.<#>"Все попытки связаться со штабом провалились."
 "HQ needs to hear about this. Immediately."<#>"Штабу нужно узнать об этом. Сейчас же."
+<!-- Map218.rvdata2 --><#>
 Dry bones.<#>Сухие кости.
 Old radio. It looks as if it was\#used to monitor something.<#>Старое радио. Выглядит, будто бы использовалось\#для наблюдений.
-<!-- Map218.rvdata2 --><#>
 "8:24 PM, 31/12/99<#>"20:24, 31.12.99"
 "Unusual patternings of light\#detected near the facility.<#>"Необочные световые узоры\#обнаружены у здания."
 "Formation of large cumulonimbus\#spotted near the northeast.<#>"Образование крупных кучево-дождевых\#облаков отмечено на северо-востоке."
@@ -5831,15 +5833,15 @@ Old radio. It looks as if it was\#used to monitor something.<#>Старое ра
 "Will report to HQ soon."<#>"Вскоре доложу в штаб."
 A message is scrawled\#on this bloodied scrap.<#>На этой окровавленной бумаге\#выцарапано сообщение.
 <!-- Map219.rvdata2 --><#>
-It reads, in shaky writing:<#>Оно гласит, расшатанными буквами:
 <!-- Map220.rvdata2 --><#>
+It reads, in shaky writing:<#>Оно гласит, расшатанными буквами:
 "Green...\| monster...\| evil smile...\|"<#>"Зелёный...\| монстр...\| злая улыбка...\|"
 "Where's the...\| doctor?"<#>"Где...\| доктор?"
 Doctor's coat!<#>Докторский халат!
-A breached subway train blocks the way.<#>Разбитый поезд метрополитена преграждает путь.
 <!-- Map221.rvdata2 --><#>
-So,\. this is\#where it ends.<#>Так вот,\. где всё\#кончается.
 <!-- Map222.rvdata2 --><#>
+A breached subway train blocks the way.<#>Разбитый поезд метрополитена преграждает путь.
+So,\. this is\#where it ends.<#>Так вот,\. где всё\#кончается.
 I've crossed\#mountains,\. rivers\#of blood,\. valleys\#of utter carnage.<#>Я пересёк горы,\.\#реки крови,\.\#поля сущей\#резни.
 And yet,\.\#here I stand,\.\#halted before a\#steel behemoth.<#>И вот,\. я стою,\.\#остановленный\#железным\#бегемотом.
 No feet may\#cross this path.\|\#I am finished.<#>Ногами не\#пересечь этот\#путь.\| Я - всё.
@@ -5847,9 +5849,9 @@ I'm sorry,\.\#Silvester.<#>Прости меня,\.\#Сильвестр.
 The good name\#of mud will\#go no farther\#than here.<#>Доброе имя грязи\#не дойдет дальше\#этого места.
 Something is protruding from\#this man's pockets.<#>Что-то выпирает из\#его карманов.
 Got some mud pies!<#>Получено несколько грязевых пирогов!
+<!-- Map223.rvdata2 --><#>
 These halfwits are\#so God damn loud...<#>Эти недоумки\#чертовски громкие...
 I came to watch\#some quality carnage,\#not get an earful.<#>Я пришел посмотреть\#на качественную бойню,\#а не на вынос мозгов.
-<!-- Map223.rvdata2 --><#>
 When the bell rings,\#their heads will roll.<#>
 Ah...\| So much\#more peaceful now,\#wouldn't you agree?<#>
 That Bellucci knows\#how to kill with style.<#>Этот Белуччи знает,\#как убивать стильно.
@@ -5888,15 +5890,15 @@ We are\#leaving.<#>Мы уходим.
 Not untill you\#taste this!<#>Перед этим\#попробуйте это!
 I'll eat\#your flesh.<#>Я съем твою плоть.
 Creepy bitch.<#>
+<!-- Map224.rvdata2 --><#>
 Ruined support beam.<#>
 Minecart, rusted to hell.<#>Вагонетка, к чёрту заржавевшая.
-<!-- Map224.rvdata2 --><#>
 Capsized.<#>Перевернулся.
 Lost light.<#>Потерянный свет.
 Abandoned shovel.<#>Брошенная лопата.
+<!-- Map225.rvdata2 --><#>
 It's brimming with salt.<#>Он полон соли.
 Some larger crystals are poking out from\#beneath the fine minerals.<#>Более крупные кристалы торчат\#из-под минералов.
-<!-- Map225.rvdata2 --><#>
 Crystallized skeleton.<#>Кристаллизованный скелет.
 Someone's arm.<#>Чья-то рука.
 Someone wasn't wearing their hardhat.<#>Кто-то не надел каску.
@@ -5905,13 +5907,13 @@ The wheels on this cart seem loose.<#>Колёса на этой тележке 
 Push it to the side?<#>Спихнуть её в сторону?
 The wheels have become stuck to the ground.<#>Колёса застряли в земле.
 Abandoned drill.<#>Брошенный бур.
+<!-- Map226.rvdata2 --><#>
 Got a hardhat!<#>Получена каска!
 Bonehead.<#>Костлявый череп.
-<!-- Map226.rvdata2 --><#>
-No salt...<#>Нет соли...
 <!-- Map227.rvdata2 --><#>
-You have no salt.\.\#This is salt lake.\|\#Why are you here?<#>У тебя нет соли.\.\#Это - солёное озеро.\|\#Почему ты здесь?
 <!-- Map228.rvdata2 --><#>
+No salt...<#>Нет соли...
+You have no salt.\.\#This is salt lake.\|\#Why are you here?<#>У тебя нет соли.\.\#Это - солёное озеро.\|\#Почему ты здесь?
 You're making\#no sense.<#>Ты несёшь\#бред.
 You are\#the one who\#has no sense.<#>Здесь только\#ты несёшь\#бред.
 We will\#be watching...<#>Мы будем\#наблюдать...
@@ -5995,8 +5997,6 @@ Oh, and...\|\#in mags,\. please.<#>А, и...\|\#журналы,\. пожалуй
 Everyone here\#keeps trying to\#buy stuff with salt.<#>Все здесь\#пытаются\#платить солью.
 I'm starting to\#get sick of it...<#>Меня уже тошнит\#от неё...
 Anyway, let's\#get down to\#business!<#>В любом случае,\#давай к делу!
-Hello again!<#>Снова привет!
-Ready to shop?<#>Готов закупиться?
 Anything tickle your fancy?<#>Есть что по душе?
 An excellent choice!<#>Прекрасный выбор!
 Another successful trade!<#>Ещё один успешный обмен!
@@ -6007,6 +6007,8 @@ You've got too much, dude!<#>У тебя уже слишком много, чу�
 Thanks for stopping by!<#>Спасибо, что остановился!
 Hey, you alright?<#>Эй, ты в порядке!
 We're clean out of that!<#>У нас всё!
+Hello again!<#>Снова привет!
+Ready to shop?<#>Готов закупиться?
 Come again soon!<#>Приходите снова!
 Oh,\. you've\#got to be\#kidding me.<#>О,\. вы должно\#быть шутите.
 We go half\#way across Olathe,\.\#sail for days on\#that shitty raft...<#>Мы прошли\#пол Олейта,\.\#плыли неделями\#на сраном плоту...
@@ -6034,9 +6036,9 @@ You're not nice.<#>Ты грубый.
 No one\#likes poor\#Grogno...<#>Никому не\#нравится\#бедный Грогно...
 Not even\#my friends\#like me.<#>Даже моим\#друзьям я\#не нравлюсь.
 Who...\| am I?<#>Кто...\| кто я?
+<!-- Map229.rvdata2 --><#>
 Stuck.<#>Застрял.
 Very stuck.<#>Очень застрял.
-<!-- Map229.rvdata2 --><#>
 So stuck.<#>Так застрял.
 Don't worry\#about me.<#>Не волнуйся\#обо мне.
 Just a\#little stuck,\. yes.<#>Просто немного\#застрял,\. да.
@@ -6062,11 +6064,11 @@ That's not\#even words.<#>Это даже\#не слова.
 Hgghgssshgggh!<#>Хггхгссшгггх!
 Ssshhgghh\#ssshhgghhs\#hhgghshsh\#shsggghhsshhgh.<#>Ссшхггхх\#ссшхггххш\#хггхшшшсг\#ггххсшгх.
 It's no use trying to understand him.<#>Бесполезно пытаться его понять.
-Board the elevator?<#>Подняться в лифт?
-Salt chunks and someone's old sock.<#>Куски соли и чей-то старый носок.
 <!-- Map230.rvdata2 --><#>
-Peculiar mask.<#>Странная маска.
+Board the elevator?<#>Подняться в лифт?
 <!-- Map231.rvdata2 --><#>
+Salt chunks and someone's old sock.<#>Куски соли и чей-то старый носок.
+Peculiar mask.<#>Странная маска.
 Strange skull.<#>Странный череп.
 Dusty domes and weathered scrolls.<#>Пыльные купола и выцветшие свитки.
 An assortment of items line the shelf.<#>На полке выставлены разнообразные товары.
@@ -6350,9 +6352,9 @@ In this world,\.\#taking a life\#is inevitable.<#>
 However,\. kill\#too many and\#matters become\#questionable.<#>
 You have\#enough blood\#on your\#hands already.<#>
 Continue this\#path and things\#might get unsteady.<#>
+<!-- Map232.rvdata2 --><#>
 He's fixated on the water.<#>
 Still not\#enough gathered.<#>
-<!-- Map232.rvdata2 --><#>
 Into the\#ocean I\#must now go.<#>В океан, я\#должен\#пойти.
 The only\#way,\. this is...<#>Единственный\#путь,\. он таков...
 You again...<#>Снова ты...
@@ -6369,9 +6371,9 @@ Hm?<#>Хм?
 Steer clear\#of that city\#up above.<#>Держись подальше\#от этого города\#наверху.
 It's not\#a good place\#for people\#like you.<#>Он не подходит\#для таких людей,\#как ты.
 I'll take\#your word\#for it.<#>Поверю на\#слово.
+<!-- Map233.rvdata2 --><#>
 Crusty recliner.<#>Крабовое кресло.
 You got the stuff?<#>Товар у тебя?
-<!-- Map233.rvdata2 --><#>
 We do. Here.<#>У меня. Вот.
 You gave away your Man-Made Salts.<#>Вы отдали искусственную соль.
 There it is!\|\#Now we can get\#to the fun part!\#HA HA!<#>Вот она!\|\#Теперь мы\#можем перейти\#к весёлой части! ХА-ХА!
@@ -6432,9 +6434,9 @@ Then get back\#to work! HA HA!<#>Тогда возвращаемся\#к раб�
 Musty lightbulb.<#>Затхлая лампочка.
 Rusty oven.<#>Ржавая печь.
 "Home is where the heart is."<#>"Дом - место, в котором лежит ваше сердце."
+<!-- Map234.rvdata2 --><#>
 Mother Sangria,\.\#grant us eons!<#>Мать Сангрия,\.\#даруй нам вечность!
 Eons of\#great joy and\#pleasure!<#>Вечность\#великой радости\#и наслаждения!
-<!-- Map234.rvdata2 --><#>
 Saaaaalt,\|\#salty, salty,\#salty-daaaaaay!<#>Сооооль,\|\#солёный, солёный,\#солёный дееееень!
 He's lost in the music.<#>Он растворился в музыке.
 Hear me,\.\#Sangria!<#>Услышь меня,\.\#Сангрия!
@@ -6447,17 +6449,17 @@ Salty-daaaay,\|\#forever,\. hey!<#>Солёный деееень,\|\#навсе�
 We shall live\#forever,\. blessed\#by salt for\#all our days!<#>Мы будем жить\#вечно,\. благословлённые\#солью на всю нашу жизнь!
 The city shall\#burn,\. but the\#salt will remain unturned!<#>Пусть город сожгут,\.\#но соль останется\#целой!
 Forever!\|\#Forever,\. heeeey!<#>Навсегда!\|\#Навсегда,\. ээээй!
-We're done here.<#>Мы здесь закончили.
 <!-- Map235.rvdata2 --><#>
-Hey, Lucky.\.\#Make some\#new friends?<#>Эй, счастливчик.\.\#Заводишь друзей?
 <!-- Map236.rvdata2 --><#>
+We're done here.<#>Мы здесь закончили.
+Hey, Lucky.\.\#Make some\#new friends?<#>Эй, счастливчик.\.\#Заводишь друзей?
 I think I did.<#>Думаю, да.
 That's good\#to hear.<#>Приятно слышать.
 Welp,\. back\#on the road\#for us.<#>Ну,\. а нам\#пора в путь.
 Rejoined your party!<#>Вы снова в своей группе!
+<!-- Map237.rvdata2 --><#>
 Salt for\#the Allfather,\.\#I must get.<#>Соль для всевышнего,\.\#я должен её получить.
 Allfather grows\#hungry,\. he does.<#>Всевышний голоден,\.\#да.
-<!-- Map237.rvdata2 --><#>
 Salt to\#fuel his\#mind,\. he needs.<#>Соль чтобы\#заправить\#разум,\. нужна ему.
 A headache,\.\#I am getting.<#>Головная боль,\.\#у меня начинается.
 Bless us,\.\#Allfather.<#>Благослови нас,\.\#всевышний отец.
@@ -6494,9 +6496,9 @@ A traveller's\#tool remains,\.\#directionless.<#>Лежит инструмент
 Offer the silent\#globe to the purveyor.<#>Предложите тихий\#глобус поставщику.
 I have\#no more\#wisdom to share.<#>У меня больше\#нет мудрости\#для тебя.
 Go now,\. bearer\#of salt,\. and\#seek that which\#you still seek.<#>Теперь иди,\.\#соленосец,\.\#и найди то,\#чего ищешь.
+<!-- Map238.rvdata2 --><#>
 It is cool.<#>
 You're the\#man I always\#wanted to be.<#>Ты - человек,\#которым я\#всегда хотел быть.
-<!-- Map238.rvdata2 --><#>
 Not ashamed\#to admit that.<#>Не стыдно\#признать это.
 There's still\#time, you know.<#>Ещё есть время,\#знаешь.
 Time to\#make that change.<#>
@@ -6639,9 +6641,9 @@ And don't\#come back.<#>
 You'll all\#get what's\#comin' to ya...<#>
 Mark my words.<#>
 Mark my\#fuckin' words!<#>
+<!-- Map239.rvdata2 --><#>
 The curse of\#red and green\#has enveloped\#all of Downtown.<#>
 Won't be long\#now before they're\#pounding at our\#front door.<#>
-<!-- Map239.rvdata2 --><#>
 Worry not,\#friend.\| They won't\#get past me.<#>Не волнуйся,\#друг.\| Через\#меня им не пройти.
 They thrive on\#fear, but they\#can't scare me.<#>Они питаются\#страхом, но меня\#они не пугают.
 Being afraid\#makes my hip\#act up, anyway.<#>В любом случае,\#из-за испуга у\#меня бедро ноет.
@@ -6652,9 +6654,9 @@ The situation\#will resolve itself\#one way or another.<#>Ситуация бу�
 Like I said...<#>Как я и сказал...
 They won't\#get past me.<#>Они не пройдут\#через меня.
 I will skewer\#one thousand men\#before I let our\#precious Game die.<#>Я пронзю тысячу\#человек, прежде\#чем позволю нашей\#любимой Игре умереть.
+<!-- Map240.rvdata2 --><#>
 I'm still\#on the hunt\#for some\#new gear.<#>Я всё ещё на\#охоте за\#новой снарягой.
 Everything I\#had before was\#swindled off me\#by some punk doctor.<#>Всё, что у меня\#было раньше, у\#меня отнял какой-то\#доктор-панк.
-<!-- Map240.rvdata2 --><#>
 Told me he'd\#take me somewhere\#nice,\. and the next\#thing I knew...<#>Сказал мне, что\#он покажет мне\#милое место,\.\#и в следующий момент...
 Gone.\| Everything\#but my pants.<#>Всё пропало.\| Всё,\#кроме штанов.
 Glad he\#left those.<#>Рад, что он их\#оставил.
@@ -6668,9 +6670,9 @@ The era\#of Infinity\#is upon us!<#>Эра Бесконечности\#гряд�
 Go now!<#>Теперь идите!
 Spread carnage\#as far as\#the eye can see!<#>Разносите резню\#всюду, куда\#можете добраться!
 This is\#our purpose!\.\#Our destiny!<#>Это наше\#назначение!\.\#Наша судьба!
+<!-- Map241.rvdata2 --><#>
 All of this\#carnage, all of\#this blood spilled...<#>После всей этой\#резни, всей\#пролитой крови...
 And yet,\. I\#am at peace.<#>Я, всё равно,\.\#в мире.
-<!-- Map241.rvdata2 --><#>
 To obtain true\#harmony,\. one must\#dominate the\#mortal coil.<#>Чтобы обрести\#истинную гармонию,\.\#человек должен\#господствовать миром смертных.
 It will try\#to fight you, to\#control your will,\.\#but it can be quelled.<#>Он будет пытаться\#сражаться с тобой,\#контролировать твою\#волю,\. но это можно побороть.
 Once the\#tension of its\#grip fades, that\#is when you know.<#>Когда сила его\#хватки ослабнет,\#тогда ты узнаешь.
@@ -6738,9 +6740,9 @@ The serpent\#devours all!<#>Змей пожирает\#всё!
 Thankfully, it seems docile.<#>К счастью, она выглядит мирной.
 Nice snake?<#>Милая змея?
 Guess not.<#>Думаю, нет.
+<!-- Map242.rvdata2 --><#>
 Junked junker.<#>Выброшенный хлам.
 The Devil's Knot\#will strangle\#all opposition!<#>Дьявольский Узел\#задушит несогласных!
-<!-- Map242.rvdata2 --><#>
 Bite the snake,\.\#and the snake\#will bite you back!<#>Укуси змею,\.\#и змея укусит\#тебя!
 I have the\#power of the sun\#in my fingertips!<#>Сила солнца\#у меня на\#кончиках пальцев!
 You think\#you're better\#than us,\. worm?<#>Ты думаешь, что\#ты лучше нас,\.\#червь?
@@ -6758,9 +6760,9 @@ Geez, man.\|\#It's just\#a game.<#>Господи, мужик.\|\#Это про�
 I wasn't even\#gonna hit you\#that hard...<#>Я даже не\#собирался\#сильно тебя бить...
 Does anyone\#else smell\#apple pie?<#>Кто-нибудь ещё\#чует запах\#яблочного пирога?
 Perfume and domestic jerky!<#>Духи и домашнее мясо!
+<!-- Map243.rvdata2 --><#>
 The water is flowing gently.<#>Вода нежно течёт.
 It's filled with viscera.<#>Она заполнена внутренностями.
-<!-- Map243.rvdata2 --><#>
 We're fightin'\#an uphill\#battle here.<#>У нас здесь\#тяжёлое\#сражение.
 Franchise grindin'\#through ranks,\.\#Knot snakes breathin'\#down our necks...<#>Франшиза прорывается\#сквозь наши ряды,\.\#змеи скручиваются\#на наших шеях...
 I feel like\#a ferret in\#a shoebox.<#>Я словно\#килька в\#банке.
@@ -6949,9 +6951,9 @@ Finally got to\#pay you back\#for all the shit\#you gave me.<#>Наконец\#�
 God, that\#was cathartic.<#>Господи, какой\#катарсис.
 If I never\#kill again, I\#will not be\#dissatisfied.<#>Если я перестану\#убивать, я больше\#не буду удовлетворён.
 Broken bottle.<#>Сломанная бутылка.
+<!-- Map244.rvdata2 --><#>
 Whew...<#>Фух...
 No one ever\#told me mopping\#up fools would\#be such hard work.<#>Никто не говорил\#мне, что выносить\#этих придурков\#будет так сложно.
-<!-- Map244.rvdata2 --><#>
 Can't quit\#now, though.\.\#Gotta score that\#second fold.<#>Но не могу\#это бросить.\.\#Нужно дойти\#до этой второй складки.
 Just a\#couple more.<#>Ещё\#немного.
 Don't go\#anywhere,\. old man.<#>Не уходи далеко,\.\#старик.
@@ -6995,9 +6997,9 @@ I can't fail.\.\#I WON'T fail.<#>Я не могу провалиться.\.\#Я 
 He's putting everything he has into it.<#>Он вкладывает все свои силы.
 I just\#wanna gut\#a motherfucker\#right now.<#>
 Fuckin' Game...\|\#Fuckin' rules...<#>Ебучая Игра...\|\#Ебучие правила...
+<!-- Map245.rvdata2 --><#>
 Those Bad Angels\#are dumb as bricks.<#>Эти Плохие Ангелы\#тупые, как камень.
 They got cocky,\. and\#now those jerseys\#are feeding them\#some humble pie.<#>Они обнаглели,\.\#и теперь эти\#маечники кормят\#их унижением.
-<!-- Map245.rvdata2 --><#>
 Goes to show\#that in "The Game,"\.\#you don't win until\#you win it all.<#>Показывает, что\#в "Игре",\. ты\#не победишь,\#пока не победишь всех.
 Not that I LIKE\#seeing them get\#stabbed,\. gutted,\. slashed,\.\#speared,\. and ground to mush.<#>Не то что бы мне нравилось\#видеть, как людей пыряют,\.\#потрошат,\. режут,\. протыкают,\.\#и размазывают.
 I just think\#it's fitting.\|\#Thematically.<#>Я просто думаю,\#это уместно.\|\#Тематически.
@@ -7042,9 +7044,9 @@ I won't\#let it be.<#>Я не позволю\#ему стать им.
 If we make\#it out of here,\.\#I'm going straight\#back to Garbage Island.<#>Если мы выберемся\#отсюда,\. я направлюсь\#прямиком на мусорный\#островю.
 I don't care\#if the desert is\#in the way, I'll\#walk the miles.<#>Меня не волнует,\#что придётся пройти\#через пустыню, я буду\#идти километрами.
 Anything to\#get away\#from here.<#>Сделаю что угодно,\#чтобы убраться\#отсюда.
+<!-- Map246.rvdata2 --><#>
 Closed gate.<#>Закрытые ворота.
 Oh,\. sorry.<#>О,\. извини.
-<!-- Map246.rvdata2 --><#>
 Here,\. let\#me get\#that for you.<#>
 Come on through.<#>Проходите.
 Can't believe\#those Bad\#boys are\#almost gone.<#>Не верю, что\#Плохие Парни\#почти исчезли.
@@ -7099,14 +7101,13 @@ Come back\#when you've\#got some\#bling on you.<#>Возвращайтесь,\#�
 Seems like\#you've picked\#up some style.<#>Похоже, вы\#побольше\#узнали о стиле.
 That's what\#we like\#to see.<#>Это меня\#радует.
 I suppose I'll\#let you in.<#>Ну, наверное,\#я впущу вас.
-Enjoy yourself.<#>Наслаждайтесь.
 The fun\#times might\#not last\#for long.<#>Весёлое время\#может быстро\#закончится.
 You still\#don't have\#the stuff.<#>У тебя ещё\#нет его.
 No King,\.\#no entry.<#>Нет короля -\.\#нет входа.
 Gate's open.\.\#What are you\#waiting for?<#>Ворота открыты.\.\#Чего ты ждёшь?
 Head inside.<#>Направляйся внутрь.
-That chef\#bastard needs\#to come on\#out here.<#>Этому ублюдку\#шефу нужно\#выйти сюда.
 <!-- Map247.rvdata2 --><#>
+That chef\#bastard needs\#to come on\#out here.<#>Этому ублюдку\#шефу нужно\#выйти сюда.
 I didn't\#climb this hill\#to get stiffed\#by a fence!<#>Я забирался на\#эту гору не для\#того, чтобы меня\#останавливал забор!
 If this\#is his idea\#of a joke,\.\#I'm not laughing.<#>Если это\#у него такие\#шутки,\. то\#мне не смешно.
 Shef's a\#wily one,\.\#I tell ya.<#>Шеф - хитрец,\.\#скажу тебе.
@@ -7122,25 +7123,25 @@ That'd be\#more than\#The Game\#ever got me.<#>Она бы дала мне\#бо
 The thrill\#of battle\#is calling\#my name.<#>Азарт\#битвы\#зовёт\#меня.
 "No Entry"<#>
 "Shef's Space"<#>"Обитель Шефа"
-Don't let\#his goofy hat\#fool you.<#>Не позволь\#его дурацкой\#шляпе обмануть тебя.
 <!-- Map248.rvdata2 --><#>
+Don't let\#his goofy hat\#fool you.<#>Не позволь\#его дурацкой\#шляпе обмануть тебя.
 That man\#is a monster.<#>Этот человек -\#монстр.
 There's a\#reason he got\#that turf all\#by himself.<#>Есть причина,\#по которой он\#забрал всю\#землю себе.
 I told them\#Shef doesn't\#play by the rules.<#>Я сказал им,\#что Шеф не\#играет по правилами.
 But they\#wouldn't listen.<#>Но они не\#послушали.
 Sooner or\#later they'll\#come to\#accept it.<#>Рано или поздно,\#они примут\#это.
-Pulled something from the meat.<#>Вы что-то вытащили из мяса.
 <!-- Map249.rvdata2 --><#>
+Pulled something from the meat.<#>Вы что-то вытащили из мяса.
 A bloody cleaver!<#>Кровавый тесак!
 Limbs jut out from the pile.<#>Из кучи торчат конечности.
 The smell is gut-wrenching.<#>Запах крайне тошнотворный.
 They have all been eviscerated.<#>Они все были выпотрошены.
 The meat pulses with green.<#>Мясо пульсирует зеленым цветом.
-15 Magazines!<#>15 журналов!
 <!-- Map250.rvdata2 --><#>
-Cocola Cola!<#>Кокола-кола!
-You're not\#supposed to\#be here...<#>Ты не должен\#быть здесь...
+15 Magazines!<#>15 журналов!
+Cocola Cola!<#>
 <!-- Map251.rvdata2 --><#>
+You're not\#supposed to\#be here...<#>Ты не должен\#быть здесь...
 Well, we'll\#get out of\#your hair,\. then.<#>Ну,\. тогда\#мы уберёмся\#с твоих глаз
 Just let\#us pass.<#>Просто дай\#нам пройти.
 The cycle of\#violence spins\#'round and 'round.<#>Цикл насилия\#вращается вновь\#и вновь.
@@ -7152,8 +7153,8 @@ The cycle\#will catch\#up with\#you, too.<#>Цикл и\#до тебя\#добе
 What we're\#planning goes\#beyond "The Game."<#>То, что мы планируем,\#выходит за грань "Игры".
 The Dynamite\#Mafia will never\#be the same.<#>Динамитная Мафия\#больше никогда не\#будет прежней.
 Found an exotic knife!<#>Найден экзотический нож!
-The fuck?\.\#Who are you?<#>Что за хуйня?\.\#Вы кто?
 <!-- Map252.rvdata2 --><#>
+The fuck?\.\#Who are you?<#>Что за хуйня?\.\#Вы кто?
 How did you\#get down here?<#>Как ты спустился\#сюда?
 I fell,\.\#mostly.<#>Я упал,\.\#по большей части.
 What are you\#doing in this\#super secret\#super hideout?!<#>Что ты делаешь\#в этом супер\#секретном\#супер убежище?!
@@ -7201,8 +7202,8 @@ Now I'm\#unprepared for\#my part in\#the plan...<#>
 Dicks.<#>
 My nerves\#are killin' me.<#>
 I just\#want to get\#this whole\#thing over with...<#>
-Whew,\. what\#a workout!<#>
 <!-- Map253.rvdata2 --><#>
+Whew,\. what\#a workout!<#>
 Javelin tossing\#does wonders\#for your core!<#>
 Oh, bullshit.\.\#I don't feel\#any stronger\#than I was before.<#>
 Figures,\. you\#could barely\#chuck a pole\#five feet!<#>
@@ -7346,8 +7347,8 @@ I'm really\#bad at sports.<#>
 Some golden\#boy I am...<#>
 Looks like\#I've...\| really\#caused a\#racket this time...<#>
 I should've\#gone into\#standup instead.<#>
-Out of gas.<#>
 <!-- Map254.rvdata2 --><#>
+Out of gas.<#>
 Going somewhere,\.\#little, little man?<#>Куда-то направляешься,\.\#маленький человек?
 I'm getting tired\#of being held up\#by random bozos\#for no reason.<#>Я уже устаю от того,\#что случайные ублюдки\#безпричинно меня\#задерживают.
 Whatever you\#want,\. go ahead\#and spell it out.<#>Чего бы ты не\#хотел,\. давай\#сразу к делу.
@@ -7368,8 +7369,8 @@ Whatever you\#say,\. old timer.<#>
 I'm the\#champ now!<#>
 Ha ha HA!<#>
 Gimme my belt!<#>
-"Welcome Back to Mack"<#>
 <!-- Map255.rvdata2 --><#>
+"Welcome Back to Mack"<#>
 The silo is firmly sealed.<#>Силос надежно запечатан.
 Farming tools.<#>Дачные инструменты.
 A watering can and some fertilizer.<#>Лейка и немного удобрений.
@@ -7395,15 +7396,15 @@ How long'll\#it be 'till those\#jerseys come\#stormin' through, too?<#>Как с
 I hope\#Daddy Mack\#can get us\#through this.<#>Надеюсь,\#папочка Мак\#поможет нам\#пережить это.
 He's always\#got a plan\#cookin' in that\#big head of his...<#>Он всегда\#готовит планы\#в своей большой\#голове...
 Jersey scarecrow.<#>Пугало в майке.
-Acquired Mystery Jerky!<#>Получено неизвестное мясо!
 <!-- Map256.rvdata2 --><#>
 <!-- Map257.rvdata2 --><#>
 <!-- Map258.rvdata2 --><#>
+Acquired Mystery Jerky!<#>Получено неизвестное мясо!
 It reeks of meat.<#>Пахнет мясом.
 Acquired Stew in a Bag!<#>Получено рагу в пакете!
-Ruined estate.<#>Разрушенная недвижимость.
 <!-- Map259.rvdata2 --><#>
 <!-- Map260.rvdata2 --><#>
+Ruined estate.<#>Разрушенная недвижимость.
 Old tractor.<#>Старый трактор.
 Old tractor. The engine is missing.<#>Старый трактор. Двигатель отсутствует.
 Old tractor. The wheels\#were changed recently.<#>Старый трактор. Колёса были недавно\#заменены.
@@ -7464,19 +7465,19 @@ You better.<#>Лучше так.
 Ain't got no\#more patience\#for troublemakers\#'round these parts.<#>У меня уже\#не осталось\#терпения на\#местных хулиганов.
 'Specially with\#these jersey\#knuckleheads\#runnin' amok.<#>Особенно\#обезумевших\#идиотов в\#майках.
 You'll be plum\#fucked if I catch\#you messin' 'round\#with our crops.<#>Тебе пиздец,\#если я увижу,\#что ты портишь\#наш урожай.
-Junker.<#>Хлам.
 <!-- Map261.rvdata2 --><#>
 <!-- Map262.rvdata2 --><#>
-It's displaying various areas of the town.<#>Она отображает различные области города.
+Junker.<#>Хлам.
 <!-- Map263.rvdata2 --><#>
 <!-- Map264.rvdata2 --><#>
 <!-- Map265.rvdata2 --><#>
 <!-- Map266.rvdata2 --><#>
 <!-- Map267.rvdata2 --><#>
+It's displaying various areas of the town.<#>Она отображает различные области города.
 Blindingly green.<#>Ослепительная зелена.
 He's sound asleep.<#>Он крепко спит.
-The townsfolk\#here are some\#interesting people.<#>Местные горожане -\#интересные люди.
 <!-- Map268.rvdata2 --><#>
+The townsfolk\#here are some\#interesting people.<#>Местные горожане -\#интересные люди.
 This "Game"\#they're playing...<#>Эта "Игра", в которую\#они играют...
 Do you suppose\#it could be\#a worthwhile\#business venture?<#>Как ты думаешь,\#может она\#годится для\#бизнес-вмешательства?
 Maybe.<#>Возможно.
@@ -7505,8 +7506,8 @@ It has\#become a\#part of me.<#>Стала частью\#меня.
 As inseparable\#as the lungs\#in my chest.<#>Неразделима\#со мной, как\#лёгкие в моей груди.
 When the\#angel of death\#comes, it will\#sing my name.<#>Когда ангел\#смерти придёт,\#он будет петь\#моё имя.
 Serenade me,\.\#o angel of death...<#>Пой мне серенады,\.\#о ангел смерти...
-Legend has\#it that there\#are worlds\#beyond our own.<#>Легенда гласит,\#что существуют\#миры за пределами\#нашего.
 <!-- Map269.rvdata2 --><#>
+Legend has\#it that there\#are worlds\#beyond our own.<#>Легенда гласит,\#что существуют\#миры за пределами\#нашего.
 Realms past the\#deepest abyss and\#through the thickest\#fogs of mystery.<#>Царства за пределами\#глубочайшей бездны,\#скрывающиеся за самыми\#толстыми туманами таинства.
 Can we\#humans even\#comprehend\#such places?<#>Могут ли\#люди вообще\#понимать такие\#места?
 Should you\#find yourself\#in a plane\#beyond the Earth...<#>Если же ты\#найдёшь себя\#в измерении\#вне Земли...
@@ -7521,8 +7522,8 @@ I guess we'll\#all be blood\#in the end.<#>Думаю, мы все\#в итог�
 You wanna\#hear a joke?<#>Хочешь\#шутку?
 My political\#science degree.<#>Я отучился\#на политика.
 It'd be funny\#if it wasn't so sad.<#>Было бы смешно, если\#бы не было так грустно.
-Before The Game,\.\#I felt like a\#useless old man\#waiting for death.<#>До Игры,\. я\#чувствовал себя\#бесполезным стариком,\#ожидающим смерти.
 <!-- Map270.rvdata2 --><#>
+Before The Game,\.\#I felt like a\#useless old man\#waiting for death.<#>До Игры,\. я\#чувствовал себя\#бесполезным стариком,\#ожидающим смерти.
 But Otto and\#all the others\#gave my life\#purpose again.<#>Но Отто\#и остальные\#снова дали\#моей жизни смысл.
 I'm not\#much for\#the brutality\#of it all, but...<#>Мне не очень\#нравится вся эта\#жестокость, но...
 The schemes?\.\#The board meetings?\.\#The toilet cleanings?<#>Планы?\.\#Заседания?\.\#Чистки туалетов?
@@ -7553,8 +7554,8 @@ Afraid I wouldn't\#know, Adrian.<#>Боюсь, не замечал,\#Адриа�
 Your ears\#work better\#than mine.<#>Ты слышишь\#лучше, чем\#я.
 Perhaps this calls\#for a little...\|\#investigation.<#>Возможно, придётся\#немного...\|\#порасследовать.
 Eh, they're\#probably fine.<#>А, с ними наверное\#всё нормально.
-If you're\#looking for\#Otto,\. he's\#not here.<#>Если ты\#ищешь\#Отто,\.\#он не здесь.
 <!-- Map271.rvdata2 --><#>
+If you're\#looking for\#Otto,\. he's\#not here.<#>Если ты\#ищешь\#Отто,\.\#он не здесь.
 No telling when\#he'll be back.<#>Неизвестно, когда\#он вернётся.
 That meeting's\#liable to\#last for ages...<#>Эта встреча\#длиться веками...
 Oh,\. and don't\#even think about\#breaking into his office.<#>О,\. и даже\#не думай вламываться\#в его офис.
@@ -7567,8 +7568,8 @@ Oh,\. alright.<#>А,\. точно.
 Checked the trash can.<#>Вы проверили мусорный бак.
 Ten rotten fruits!<#>Десять гнилых фруктов!
 Nothing else useful.<#>Больше ничего полезного.
-How long\#until the\#coffee is done?<#>Как скоро\#будет кофе?
 <!-- Map272.rvdata2 --><#>
+How long\#until the\#coffee is done?<#>Как скоро\#будет кофе?
 Hmph, impatient\#as always,\. Francis!<#>Хмпф, как всегда\#нетерпелив,\. Фрэнсис!
 No,\. it's\#just been\#half an hour\#and I'm getting-\^<#>Нет,\. просто\#прошло\#полчаса,\#и я начинаю-\^
 You'll see\#some day, my\#young ward...<#>Однажды ты увидишь,\#мой юный подопечный...
@@ -7603,15 +7604,15 @@ Nothing else inside.<#>Больше ничего внутри.
 Coffee is being brewed.<#>Кофе варится.
 Someone drank it all.<#>Кто-то всё выпил.
 There's nothing on.<#>Ничего нет.
-"Oliver Ottoman\#---\#Master of Economics"<#>"Оливер Оттоман\#---\#Магистр экономики"
 <!-- Map273.rvdata2 --><#>
+"Oliver Ottoman\#---\#Master of Economics"<#>"Оливер Оттоман\#---\#Магистр экономики"
 Someone's desk.<#>Чей-то стол.
 Some sort of iron ruler.<#>Какая-то железная линейка.
 Old government documents.<#>Старые правительственные документы.
 Textbooks on international trade.<#>Учебники по международной торговле.
 Spare Tie!<#>Запасной галстук!
-Ey, you\#seen dat\#Long Leg\#freak 'round here?<#>Эй, ты видел того\#длинноногого\#уродца здесь?
 <!-- Map274.rvdata2 --><#>
+Ey, you\#seen dat\#Long Leg\#freak 'round here?<#>Эй, ты видел того\#длинноногого\#уродца здесь?
 Can't say\#I have.<#>Не сказать.
 Bastard borrowed\#my other club\#and hasn't given\#it back yet.<#>Ублюдок взял\#мою вторую\#дубину и до\#сих пор не отдал.
 Swear,\. next\#time I see\#him I'll crack\#his ankles open.<#>Клянусь,\. в\#следующий раз\#я переломаю его\#колени.
@@ -7646,10 +7647,10 @@ Got a Businessy Fedora!<#>Получена деловая федора!
 Old newspaper clipping.<#>Вырезка из старой газеты.
 A feasibility report on the\#efficacy of reusable toilet paper.<#>Отчёт об эффективности многоразовой\#туалетной бумаги.
 Dry as a desert.<#>Сухо, как в пустыне.
-Janitor's tools.<#>Инструменты уборщика.
 <!-- Map275.rvdata2 --><#>
-Take a cup of water?<#>Взять стакан воды?
+Janitor's tools.<#>Инструменты уборщика.
 <!-- Map276.rvdata2 --><#>
+Take a cup of water?<#>Взять стакан воды?
 Got a cup of water!<#>Получен стакан воды!
 Old plastic cups.<#>Старые пластиковые стаканы.
 Sometimes,\.\#I miss the\#old days.<#>Иногда,\. я\#скучаю по\#былым денькам.
@@ -7681,13 +7682,13 @@ Mounds of paperwork.<#>Горы бумаг.
 Book of black magic.<#>Книга о чёрной магии.
 Allegedly.<#>Якобы.
 Tax returns piled high.<#>Скопленные налоговые декларации.
-Throne for the vertically-inclined.<#>Трон для вертикально наклоненных.
 <!-- Map277.rvdata2 --><#>
+Throne for the vertically-inclined.<#>Трон для вертикально наклоненных.
 A collection of letters, yet to be opened.<#>Коллекция писем, которые ещё предстоит открыть.
 Lists of names, among other papers.<#>Списки имён и другие документы.
 The papers have been smeared with blood.<#>Бумаги запачканы кровью.
-He's staring off vacantly.<#>Он смотрит вдаль пустым взглядом.
 <!-- Map278.rvdata2 --><#>
+He's staring off vacantly.<#>Он смотрит вдаль пустым взглядом.
 This the\#satellite those\#golden boys\#were talkin' about?<#>Это спутник,\#о котором\#говорили\#золотые парни?
 Looks like it.<#>Похоже на то.
 Nah,\. this\#could be\#anyone's giant\#satellite.<#>Не,\. это\#может быть\#чей угодно\#огромный спутник.
@@ -7706,8 +7707,8 @@ That's what you\#get for sticking a\#fork in an electical\#outlet, HA HA!<#>Во
 Alex's body was filled with a strange power.<#>Тело Алекса наполнилось странной силой.
 Learned Thunder Palm!<#>Изучена громовая ладонь!
 You probably shouldn't touch this again.<#>Вам, вероятно, не следует больше к нему прикасаться.
-Cars are wedged into the tunnel.<#>Автомобили застряли в туннеле.
 <!-- Map279.rvdata2 --><#>
+Cars are wedged into the tunnel.<#>Автомобили застряли в туннеле.
 Checked one of the trunks.<#>Проверен один из багажников.
 Found a secret stash!<#>Найден скрытый схрон!
 The van is full of magazines.<#>Фургон полон журналов.
@@ -7751,12 +7752,12 @@ But if you\#ever see me\#again,\. be wary.<#>
 I might not\#be the same\#man I am now.<#>
 Ah,\. I can\#smell it.<#>
 Fire...\|\#sweet fire.<#>
-20 Magazines!<#>20 журналов!
 <!-- Map280.rvdata2 --><#>
+20 Magazines!<#>20 журналов!
 This stereo is emitting a peculiar sound.<#>Эта стереосистема издает странный звук.
 Found a strange stereo!<#>Найдена странная стереосистема!
-Shattered chariot.<#>Разбитая колесница.
 <!-- Map281.rvdata2 --><#>
+Shattered chariot.<#>Разбитая колесница.
 Yo,\. old guy!<#>Здаров,\. старик!
 You and your\#crew need a ride?<#>Тебе и твоему\#отряду нужна поездка?
 No thanks,\.\#we're fine with-\^<#>Нет, спасибо,\.\#нам итак-\^
@@ -7775,8 +7776,8 @@ Wrecked hot rod.<#>Разбитый хот-род.
 Hey, where\#ya goin',\. pops?<#>
 Don't be shy!\.\#We just wanna\#help you out!<#>
 Semi-truck crushed like a can.<#>
-Those Gold Diamond\#dickheads stole my spray\#can and chucked it\#into the salt lake.<#>
 <!-- Map282.rvdata2 --><#>
+Those Gold Diamond\#dickheads stole my spray\#can and chucked it\#into the salt lake.<#>
 My last can...<#>Мой последний баллончик...
 My career's\#over...\| over!<#>Моя карьера окончена...\|\#окончена!
 What's a\#bomber without\#his bomb?<#>Какой из меня бомбер\#без моей бомбы?
@@ -7804,10 +7805,10 @@ Not while\#these Corps chumps\#are still kicking.<#>Не тогда, когда\
 Maybe I'll\#head up\#the mountain.<#>Может, я\#направлюсь\#на гору.
 I've heard\#it's nice there.<#>Я слышал, там\#мило.
 Small key!<#>Маленький ключ!
-Plane crash.<#>Авиакатастрофа.
 <!-- Map283.rvdata2 --><#>
-My dentist\#is going to\#be upset\#with me...<#>Мой зубной\#будет\#расстроен...
+Plane crash.<#>Авиакатастрофа.
 <!-- Map284.rvdata2 --><#>
+My dentist\#is going to\#be upset\#with me...<#>Мой зубной\#будет\#расстроен...
 I don't\#even like\#bowling.<#>Мне даже\#не нравится\#боулинг.
 Iced coffee and perfume!<#>Холодный кофе и духи!
 Ah ha!\.\#You fool!<#>А-ха-ха!\.\#Глупец!
@@ -7816,8 +7817,8 @@ Now,\. quake\#in fear as\#your head\#turns to mush!<#>Теперь,\. тряси
 .\..\..\.Yep.<#>.\..\..\.Ага.
 You're lookin' at\#him right here.<#>Ты смотришь прямо\#на него.
 The biggest\#idiot in all\#of Olathe.<#>Самого большого\#идиота во всём\#Олейте.
-It seems anxious.<#>Он выглядит встревоженным.
 <!-- Map285.rvdata2 --><#>
+It seems anxious.<#>Он выглядит встревоженным.
 EY!<#>ЭЙ!
 The hell\#is you\#city-slickers\#doin'?!<#>
 Can a\#man not\#take a\#Gat damn nap?!<#>
@@ -7896,9 +7897,9 @@ Ya fookin' daffy?<#>
 The ticket\#says TEN mags.<#>
 That's ya foine!<#>
 Don't think\#ya can fool\#me with this\#skeevy shite!<#>
-Tactics: Misdirection!<#>
 <!-- Map286.rvdata2 --><#>
 <!-- Map287.rvdata2 --><#>
+Tactics: Misdirection!<#>
 You have been badly poisoned.<#>Вы были сильно отравлены.
 ...Huh.\.\.\#Neat.<#>...Ага.\.\.\#Дико.
 Got a Homely Coat!<#>Получено домашнее пальто!
@@ -7928,13 +7929,13 @@ The shame of being ticketed\#weighs down on you.<#>
 Stats decreased.<#>Хар-ки понижены.
 You are well-rested.<#>
 The shame of being ticketed\#prevents you from resting here.<#>
-This corpse appears to be blocking the door.<#>
 <!-- Map288.rvdata2 --><#>
 <!-- Map289.rvdata2 --><#>
+This corpse appears to be blocking the door.<#>
 Push it aside?<#>
-That hairnet\#nanny called\#this place\#"Sweet Breeze,"\. yeah?<#>
 <!-- Map290.rvdata2 --><#>
 <!-- Map291.rvdata2 --><#>
+That hairnet\#nanny called\#this place\#"Sweet Breeze,"\. yeah?<#>
 Pretty nice view...<#>Довольно милый вид...
 This breeze\#is anything\#but sweet!<#>Этот ветерок\#уж точно не\#приятный!
 It's ruining\#my hairdo!<#>Он портит мою\#причёску!
@@ -7950,12 +7951,12 @@ Just like\#we've practiced.<#>
 Let's get 'em!<#>
 Yeah,\. let's\#do this!<#>
 Incoming!<#>
-Hey, pal!<#>
 <!-- Map292.rvdata2 --><#>
 <!-- Map293.rvdata2 --><#>
 <!-- Map294.rvdata2 --><#>
 <!-- Map295.rvdata2 --><#>
 <!-- Map296.rvdata2 --><#>
+Hey, pal!<#>
 Good to finally\#see another person\#with their head\#still screwed on right!<#>Приятно наконец\#увидеть такого же\#человека с головой\#на месте!
 What's with\#that funny face?<#>Что за странное\#лицо?
 Don't worry,\.\#I'm not\#actually with\#those Infinity guys.<#>Не волнуйся,\.\#я на самом\#деле не с этим\#бесконечниками.
@@ -7983,8 +7984,8 @@ He,\. uh,\. died.<#>Он,\. э,\. умер.
 ...You killed\#him,\| didn't you?<#>...Ты убил его,\|\#да?
 Heh.\| No,\.\#not me.<#>Хе.\| Нет,\.\#не я.
 They did.<#>Они.
-"OLATHE YOUTH PLAYGROUND"<#>"ДЕТСКАЯ ПЛОЩАДКА ОЛЕЙТА"
 <!-- Map297.rvdata2 --><#>
+"OLATHE YOUTH PLAYGROUND"<#>"ДЕТСКАЯ ПЛОЩАДКА ОЛЕЙТА"
 "The perfect place to allow young, curious\#minds to explore their wild side."<#>
 "Parents, take it easy. Let your children play\#the day away while you enjoy the more\#mature beauties that Sweet Breeze offers."<#>
 "CAUTION: Keep children away from the\#cliff face. If you or your child have fallen off\#the edge of the cliff, please contact the\#nearest Sweet Breeze Park official."<#>
@@ -8185,8 +8186,8 @@ Hope ya\#live to see\#another day...<#>
 No hard\#feelings,\. alright?<#>
 This is\#just how\#we do\#things now...<#>
 Heh...\. heh heh heh!<#>Хе...\. хе-хе-хе!
-Your head feels fuzzy.<#>
 <!-- Map298.rvdata2 --><#>
+Your head feels fuzzy.<#>
 ATK increased. AGI increased.<#>АТК повышена. СКОР повышена.
 Finally, a memory arose from\#deep within Alex's mind.<#>Наконец, воспоминание всплыло из глубин\#разума Алекса.
 Learned the Major Iris.<#>Изучен большой ирис.
@@ -8234,8 +8235,8 @@ Oo, tough luck.<#>Ох, не повезло.
 I'm sure\#you'll do\#better next time.<#>Я уверен, что\#вам повезёт\#в следующий раз.
 Pah.<#>
 Some pupil\#you were.<#>
-Those Corps\#losers kicked\#me outta their club.<#>
 <!-- Map299.rvdata2 --><#>
+Those Corps\#losers kicked\#me outta their club.<#>
 But I\#don't need 'em!<#>
 Not when\#the Franchise's\#got my back.<#>
 So what if\#I happened to\#kick a man so\#hard his neck broke?<#>
@@ -8246,8 +8247,8 @@ Too hot\#for ya?<#>
 Maybe you\#should get outta\#the kitchen,\. gramps!<#>
 This is\#a world\#of men, now...<#>
 Get out\#of here before\#someone kills\#you for real.<#>
-Toilet, exposed to the world.<#>Туалет, выставленный миру напоказ.
 <!-- Map300.rvdata2 --><#>
+Toilet, exposed to the world.<#>Туалет, выставленный миру напоказ.
 Flush the toilet?<#>Смыть воду в туалете?
 You feel like a kid again.<#>Ты снова чувствуешь себя ребенком.
 Relieving.<#>Облегчает.
@@ -8318,8 +8319,8 @@ Damn!<#>
 Oh well!<#>
 If that yoga guy\#really wanted me to\#stay,\. he would've got\#some better chairs!<#>
 HAHA!<#>
-The hell\#do you think\#YOU'RE going?<#>
 <!-- Map301.rvdata2 --><#>
+The hell\#do you think\#YOU'RE going?<#>
 Uh...\| up?<#>Э...\| вверх?
 Wrong!\. You're\#going DOWN,\.\#motherfuckers!<#>Неправильно!\. Вы\#направляетесь ВНИЗ,\.\#ублюдки!
 They say Arnold\#has been killing\#nonstop for three weeks.<#>Говорят, что Арнольд\#без остановки убивал\#уже три недели.
@@ -8341,8 +8342,8 @@ Would you believe\#me if I told you\#I lost my last can\#of green spray?<#>Ты 
 I am a failure.<#>Я такой ущербный.
 First The Game,\.\#now the Franchise...<#>Сначала Игра,\.\#теперь Франшиза...
 I just can't\#stop losing...<#>Я не могу перестать\#проигрывать...
-Another challenger.<#>Ещё соперник.
 <!-- Map302.rvdata2 --><#>
+Another challenger.<#>Ещё соперник.
 Another lamb\#to the slaughter.<#>Очередной агнец\#на убой.
 You're that\#Rando soldier\#from Garbage Island.<#>Ты тот солдат\#Рандо с мусорного\#острова.
 I saw what\#you did to\#all of those guys.<#>Я видел, что\#ты сделал со\#всеми этими парнями.
@@ -8384,20 +8385,24 @@ Dunno why so\#many of those\#chumps are stickin'\#with the city.<#>
 This mountain's\#where it's at.<#>
 See all\#those stars?<#>Видишь все\#эти звёзды?
 That's how many\#men I'll have killed\#by the end of this.<#>Это количество\#людей, которых\#я убью к концу.
-Buried gnome.<#>Закопанный гном.
 <!-- Map303.rvdata2 --><#>
 <!-- Map304.rvdata2 --><#>
+"2"<#>
+Buried gnome.<#>Закопанный гном.
+"4"<#>
+"3"<#>
+"1"<#>
 It's been locked.<#>
 Failed garden.<#>
 Skeleton.<#>Скелет.
-Cash register.\. The key pad\#is suspiciously well-worn.<#>
 <!-- Map305.rvdata2 --><#>
+Cash register.\. The key pad\#is suspiciously well-worn.<#>
 Try a combination?<#>Попробовать комбинацию?
 A path opened underneath the register!<#>Открылся проход под стойкой!
 Well-kept gnome.<#>Ухоженный гном.
-I just wanted\#to check out that\#campsite up ahead.<#>
 <!-- Map306.rvdata2 --><#>
 <!-- Map307.rvdata2 --><#>
+I just wanted\#to check out that\#campsite up ahead.<#>
 But apparently\#wearing a jersey\#is enough cause to\#justify an ass-beating!<#>Но видимо, ношение\#майки - достаточная\#причина для взбучки!
 I feel discriminated.<#>Я чувствую себя\#ущемлённым.
 So much\#for those\#complementary\#smores...<#>
@@ -8421,8 +8426,8 @@ We won't just\#let some nutty\#punks run in and\#ruin that for us.<#>
 "Simply sign up with the nearest camp\#counselor and enjoy a week's worth of\#natural fun and outdoor living.<#>
 "Sleep in log cabins, roast marshmallows,\#hunt game, and participate in life-or-death\#hikes up the side of the mountain; it's a\#camper's dream come true!<#>
 "NOTICE: Must sign a waver of liability\#before participating in life-or-death hikes."<#>
-Ah, mortals.<#>
 <!-- Map308.rvdata2 --><#>
+Ah, mortals.<#>
 Have you\#come to\#be healed?<#>Вы пришли\#за лечением?
 Let's see here...<#>Давай посмотрим...
 Wonderful!\. You\#have enough\#to cover the\#operational costs!<#>Чудесно!\. У вас\#достаточно средств\#для покрытия стоимости\#операции!
@@ -8431,7 +8436,6 @@ Sorry,\. but I'm\#afraid I can't\#quite offer my\#services to you.<#>Прост�
 Come back when you're\#a little...\| well,\. when you\#have you one hundred mags.<#>Возвращайтесь, когда\#немного...\| ну,\. когда\#у вас будет сотня журналов.
 Shall we\#begin, then?<#>Ну, тогда\#начнём?
 Who requires healing?<#>Кто нуждается в лечении?
-Alex<#>Алекс
 Joel<#>Джоэл
 Cancel<#>Отмена
 Hm...\|\#Mr. Churchland,\.\#is it?<#>Хм...\|\#Мистер Чёрчлэнд,\.\#верно?
