@@ -1979,10 +1979,10 @@ Take your time.<#>Подумай.
 You're a little short on mags...<#>У тебя немного не хватает журналов...
 Here's to your happiness.<#>Вот твоё счастье.
 Hello?<#>
-Walked for\#days, but\#there was\#no end to it.<#>Бродил днями,\#но никак не нашёл\#конца.
 You bought them all... heh heh...<#>Ты выкупил всё... хе-хе...
 <!-- Map031.rvdata2 --><#>
 This sucks...\#I had to\#turn back.<#>Отстой...\#Надо было\#вернуться.
+Walked for\#days, but\#there was\#no end to it.<#>Бродил днями,\#но никак не нашёл\#конца.
 I don't think\#you can get any\#closer to the\#centre than this.<#>Я не думаю, что\#возможно быть\#к центру ближе,\#чем сейчас.
 Centre?<#>Центру?
 The geographical\#centre of\#Olathe... duh!<#>Географическому\#центру Олейта...\#да!
@@ -5466,8 +5466,8 @@ A tombstone. The name "Cherie von Buckingham"\#is the only legible part of the e
 There used to be writing on this cross,\#but it was later scraped off.<#>Раньше на этом кресте была надпись,\#но позже ее стерли.
 An old shovel is sticking up from the dirt.<#>Из грязи торчит старая лопата.
 Take it?<#>Взять её?
-<!-- Map200.rvdata2 --><#>
 Got a rusty spade!<#>Получена ржавая лопата!
+<!-- Map200.rvdata2 --><#>
 Warning: Floor unstable! Fall at your own risk.<#>Предупреждение: Нестабильная поверхность!\#Падайте на свой страх и риск.
 It's busy.<#>
 <!-- Map201.rvdata2 --><#>
@@ -5695,8 +5695,8 @@ Crushed bones.<#>Раздавленные кости.
 "Until whatever the hell this is stops,\#I'm holding down the fort here.<#>"Пока этот чёртов ад не прекратиться,\#я остаюсь в своём форте."
 "Just leave me. Get out of here while you can.<#>"Просто оставьте меня. Выбирайтесь отсюда,\#пока можете."
 "Contact HQ by any means necessary."<#>"Свяжитесь со штабом любой ценой."
-Who cares<!-- Map213.rvdata2 --><#>
-#about coins?<#>Кому нужны\#монеты?
+<!-- Map213.rvdata2 --><#>
+Who cares#about coins?<#>Кому нужны\#монеты?
 The house\#is what we\#came for.<#>Мы пришли\#за этим домом.
 It's so\#much\#cooler\#up close...<#>Он куда\#круче\#вблизи...
 If only\#I could\#smell\#this bad.<#>Если бы\#только я\#мог также\#плохо пахнуть.
@@ -5831,9 +5831,9 @@ Old radio. It looks as if it was\#used to monitor something.<#>Старое ра
 "Wind speed has picked up dramatically.<#>"Скорость ветра существенно повысилась."
 "Currently on watch for further phenomena.<#>"В текущий момент слежу за дальнейшим развитием."
 "Will report to HQ soon."<#>"Вскоре доложу в штаб."
-A message is scrawled\#on this bloodied scrap.<#>На этой окровавленной бумаге\#выцарапано сообщение.
 <!-- Map219.rvdata2 --><#>
 <!-- Map220.rvdata2 --><#>
+A message is scrawled\#on this bloodied scrap.<#>На этой окровавленной бумаге\#выцарапано сообщение.
 It reads, in shaky writing:<#>Оно гласит, расшатанными буквами:
 "Green...\| monster...\| evil smile...\|"<#>"Зелёный...\| монстр...\| злая улыбка...\|"
 "Where's the...\| doctor?"<#>"Где...\| доктор?"
