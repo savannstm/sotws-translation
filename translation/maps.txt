@@ -4098,13 +4098,13 @@ Uh,\| thanks.<#>Э,\| спасибо.
 Don't mention it.<#>Не за что.
 Until we meet again.<#>Встретимся снова.
 Hole full of sportswear.<#>Дыра, полная спортивной одежды.
-That clever\#Kindchild's set\#up weird satellites\#all across town!<#>
-No telling\#what that\#fat bastard's\#up to now!<#>
-I bet he\#wants to melt\#our brains with\#radio waves!<#>
+That clever\#Kindchild's set\#up weird satellites\#all across town!<#>Этот умный\#Добряк установил\#странные спутники\#по всему городу!
+No telling\#what that\#fat bastard's\#up to now!<#>Неизвестно, чем\#теперь этот жирный\#ублюдок промышляет!
+I bet he\#wants to melt\#our brains with\#radio waves!<#>Ставлю, он\#хочет сжечь\#наши мозги\#радиоволнами!
 <!-- Map148.rvdata2 --><#>
-Or turn\#our eyeballs\#inside-out!<#>
-If you see\#any of those\#satellites,\. go ahead\#and fuck 'em up!<#>
-Keep our\#heads from\#turning into\#popcorn!<#>
+Or turn\#our eyeballs\#inside-out!<#>Или вывернуть\#наши глаза\#шиворот-навыворот!
+If you see\#any of those\#satellites,\. go ahead\#and fuck 'em up!<#>Если увидишь\#один из этих\#спутников,\. не\#стесняйся взъебать их!
+Keep our\#heads from\#turning into\#popcorn!<#>Сохрани наши\#головы от\#прекращения\#в попкорн!
 Mr. A-a-arnold?<#>Мистер А-а-арнольд?
 Oh, God!\#It IS you!<#>О, боже!\#Это ТЫ!
 You are\#my idol-<#>Ты мой\#идол-
@@ -4155,14 +4155,14 @@ Go on, take\#a seat.<#>
 Ah! Fellow\#normal people!<#>
 Come, sit.<#>
 Lester's got\#enough meat\#for everybody!<#>
-Lester! My boy!<#>
+Lester! My boy!<#>Лестер! Мой мужик!
 That you, Salty?<#>Это ты, солевой?
-You bet\#your ass,\. HA HA!<#>
-Heh, now\#it's a party!<#>
-Wanna help\#me salt\#the meat?<#>
-Do you\#even need\#to ask?\. HA HA!<#>
-Let's see where\#this goes, Joel.<#>
-Won't object\#to hospitality.<#>
+You bet\#your ass,\. HA HA!<#>Жопу ставлю,\.\#ХА-ХА!
+Heh, now\#it's a party!<#>Хе, теперь -\#это группа!
+Wanna help\#me salt\#the meat?<#>Поможешь мне\#посолить мясо?
+Do you\#even need\#to ask?\. HA HA!<#>Ты ещё\#спрашиваешь?\.\#ХА-ХА!
+Let's see where\#this goes, Joel.<#>Посмотрим, куда\#всё двигается, Джоэл.
+Won't object\#to hospitality.<#>Не возражаю против\#гостеприимства.
 Hey,\. what gives?<#>
 Ain't got\#a seat\#for me?<#>
 Uh, well...<#>
@@ -4195,18 +4195,18 @@ FINE!<#>
 I guess, I'll\#be the responsible\#adult around here.<#>
 Office Ottoman, roll\#call these bitches.<#>
 Sure...<#>
-Zein Ka:\#Robust Serpent.<#>
-Sss.<#>
-So, how's your\#glaucoma.<#>
-Ssso ssso.<#>
-Shef:\#with the funny curse.<#>
-Heh, why didn't you\#help Lester out?<#>
-I'm not that\#kind of shef.<#>
-Hilarious!<#>
+Zein Ka:\#Robust Serpent.<#>Зейн Ка:\#Гибкий Змей.
+Sss.<#>Ссс.
+So, how's your\#glaucoma.<#>Ну, как твоя\#глаукома?
+Ssso ssso.<#>Сссо сссо.
+Shef:\#with the funny curse.<#>Шеф:\#смешно ругается.
+Heh, why didn't you\#help Lester out?<#>Хе, почему ты не\#помог Лестеру?
+I'm not that\#kind of shef.<#>Я не такой\#шеф.
+Hilarious!<#>Смешно!
 Silvester de Maistre:\#Balloon Pants with\#two deadly talents.<#>
 Second time he drifts\#away from 'The Game'.<#>
-Fringe Boy-<#>
-The BEST, bitch.<#>Лучший, сучки.
+Fringe Boy-<#>Фриндж Бой-
+The BEST, bitch.<#>ЛУЧШИЙ, сучки.
 John Johnson:<#>Джон Джонсон:
 A.K.A. 'Three Finger Lover';<#>Также "Любитель трёх пальцев";
 A.K.A. 'Painzilla';<#>Также "Болезилла";
@@ -4511,7 +4511,7 @@ For the Army.<#>В армию.
 Well, you\#couldn't have\#picked a worse\#time for that.<#>Ну, ты не\#мог выбрать\#для этого\#время хуже.
 But whatever.<#>Но какая разница.
 Go talk\#to our\#diplomat.<#>Поговори с\#нашим\#дипломатом.
-He's in\#the cave\#just below.<#>Он в пещере\#прямо ниже.
+He's in\#the cave\#just below.<#>Он в пещере\#внизу.
 He'll\#get you\#"signed\#up."<#>Он тебя\#"запишет".
 If you came looking\#for big guns and\#cool armor, you\#won't find it here.<#>Если ты ищешь\#большие пушки\#и крутую броню,\#здесь ты их не найдёшь.
 But hey,\#don't feel\#too bad.<#>Но эй, не\#расстраивайся.
@@ -5891,185 +5891,185 @@ Creepy bitch.<#>
 Ruined support beam.<#>
 Minecart, rusted to hell.<#>Вагонетка, к чёрту заржавевшая.
 <!-- Map224.rvdata2 --><#>
-Capsized.<#>
-Lost light.<#>
-Abandoned shovel.<#>
-It's brimming with salt.<#>
-Some larger crystals are poking out from\#beneath the fine minerals.<#>
+Capsized.<#>Перевернулся.
+Lost light.<#>Потерянный свет.
+Abandoned shovel.<#>Брошенная лопата.
+It's brimming with salt.<#>Он полон соли.
+Some larger crystals are poking out from\#beneath the fine minerals.<#>Более крупные кристалы торчат\#из-под минералов.
 <!-- Map225.rvdata2 --><#>
 Crystallized skeleton.<#>Кристаллизованный скелет.
 Someone's arm.<#>Чья-то рука.
-Someone wasn't wearing their hardhat.<#>
-Just another day at the mines...\|\#or so he thought.<#>
-The wheels on this cart seem loose.<#>
-Push it to the side?<#>
-The wheels have become stuck to the ground.<#>
-Abandoned drill.<#>
-Got a hardhat!<#>
-Bonehead.<#>
+Someone wasn't wearing their hardhat.<#>Кто-то не надел каску.
+Just another day at the mines...\|\#or so he thought.<#>Очередной день в шахтах...\|\#он наверное подумал.
+The wheels on this cart seem loose.<#>Колёса на этой тележке разошлись.
+Push it to the side?<#>Спихнуть её в сторону?
+The wheels have become stuck to the ground.<#>Колёса застряли в земле.
+Abandoned drill.<#>Брошенный бур.
+Got a hardhat!<#>Получена каска!
+Bonehead.<#>Костлявый череп.
 <!-- Map226.rvdata2 --><#>
 No salt...<#>Нет соли...
 <!-- Map227.rvdata2 --><#>
 You have no salt.\.\#This is salt lake.\|\#Why are you here?<#>У тебя нет соли.\.\#Это - солёное озеро.\|\#Почему ты здесь?
 <!-- Map228.rvdata2 --><#>
-You're making\#no sense.<#>
-You are\#the one who\#has no sense.<#>
+You're making\#no sense.<#>Ты несёшь\#бред.
+You are\#the one who\#has no sense.<#>Здесь только\#ты несёшь\#бред.
 We will\#be watching...<#>Мы будем\#наблюдать...
 Still watching.<#>До сих пор наблюдаем.
 Gathering salt, I am.<#>Собираю соль, я.
 Tasty salt,\.\#for the Allfather.<#>Попробуй соль,\.\#ради всевышнего.
-Grant him\#wisdom,\. it will.<#>
-This I know...\.\#for certain...<#>
+Grant him\#wisdom,\. it will.<#>Даруй ему\#мудрость,\. соль.
+This I know...\.\#for certain...<#>Это я знаю...\.\#наверняка...
 Not enough yet.<#>Недостаточно.
 More I\#still need.<#>Больше мне\#нужно.
-Salt, the\#Allfather\#must have.<#>
-Those above\#know not what\#slumbers beneath.<#>
-We are\#all here blessed.\|\#Blessed by salt.<#>
-You could\#never understand.<#>
-You've got\#that right.<#>
-Through salt\#we are transcended.<#>
-Salt of mind,\.\#salt of body,\.\#salt of soul.<#>
-When the great\#stones fall,\. it\#will be our\#turn to rule.<#>
-They will\#fall soon.<#>
-Can you\#hear it?<#>
-The end\#times approach.<#>
-He is still.<#>
-I am Sodium Wing,\.\#friend of bird.<#>
-Caw,\. caw.<#>
-If only\#wings of salt\#could fly....<#>
-The ground\#is so cold.<#>
-The sky...\|\#it calls\#my name.<#>
-But I cannot answer.<#>
-Caw.\| And,\.\#once more...\|\#caw.<#>
-They are floating.<#>
-Who?<#>
-Them.<#>
-They are\#floating away.<#>
-They don't\#want to be\#with us anymore.<#>
-How sad.<#>
-Ayyyy, bubby!<#>
-You good?<#>
-You happy?\.\#Real happy?<#>
-.\..\..\.I really can't-\^<#>
-You my\#good bubby!<#>
-Ayyy!<#>
-What's up,\#muh bubby,\. eh?<#>
-I'm not\#your "bubby,"\.\#sorry to say.<#>
-Ah whuh...?<#>
-Bubby!<#>
-Sigh...<#>
-Ayyy, bubby!<#>
-You good!\.\#You very good!<#>
-Love you!<#>
-You so cool!<#>
-Cool as a\#cucumber!<#>
-Love my bubby!<#>
-Got you\#a present!<#>
-Huh?\.\#For me?<#>
-Yeah!\. Here!<#>
-He gave you some salt.<#>
-Uhhh...\|\#thanks?<#>
-You welcome!<#>
-You go, bubby!<#>
-Go, go, go!<#>
-Ayyyy!<#>
-This place\#ain't too\#bad,\. actually.<#>
-People here\#are kinda\#strange,\. but...\|\#I don't mind.<#>
-They even\#had a chair\#just like my\#old one.<#>
-I have\#to thank you,\.\#for helping\#me realize this.<#>
-For helping me\#realize that there's\#still hope for\#me out here.<#>
-Finally...\|\#after forty years,\#I can finally\#be at peace.<#>
-Spray can!<#>
-Well, well!\.\#There's a face\#I didn't think\#I'd see again!<#>
-It's been\#a while,\.\#hasn't it?<#>
-Definitely.\| Can't\#say I thought\#I'd ever meet\#you guys again either.<#>
-Heh,\. I guess\#we should both\#be happy that\#we were wrong!<#>
-And hey,\.\#you're in luck!<#>
-We actually\#have some\#stock for\#you this time.<#>
-Everything and\#anything you could\#want,\. all at\#Rando quality!<#>
-...That's the\#slogan anyway.<#>
-We don't fly\#the Army's flag\#anymore.<#>
-Still,\. have\#a look at\#what we've got!<#>
-There's bound\#to be something\#you can use.<#>
-Oh, and...\|\#in mags,\. please.<#>
-Everyone here\#keeps trying to\#buy stuff with salt.<#>
-I'm starting to\#get sick of it...<#>
-Anyway, let's\#get down to\#business!<#>
-Hello again!<#>
-Ready to shop?<#>
-Anything tickle your fancy?<#>
-An excellent choice!<#>
-Another successful trade!<#>
-I'll be here all day.<#>
-Hey, don't cheap out on me!<#>
-You can keep that.<#>
-You've got too much, dude!<#>
-Thanks for stopping by!<#>
-Hey, you alright?<#>
-We're clean out of that!<#>
-Come again soon!<#>
-Oh,\. you've\#got to be\#kidding me.<#>
-We go half\#way across Olathe,\.\#sail for days on\#that shitty raft...<#>
-...and we STILL\#can't get away\#from you trashmen!<#>
-Just our luck!<#>
-Nah,\. I'm\#just fuckin'\#with ya.<#>
-Good to\#see you\#again, old guy.<#>
-You know,\. a week back,\.\#I never thought I'd end up\#ditching Rando to become\#an honest merchant.<#>
-And yet\#here we are.<#>
-Just goes\#to show how\#easily things\#change nowadays.<#>
-If you ever\#need anything,\.\#we'll probably be\#here for a while.<#>
-Just remember\#that nothin's for free.<#>
-...Heh.<#>
-Who is who?<#>
-Who is you?<#>
-Me?\| I'm Grogno.<#>
-Who's that?<#>
-You scare me.<#>
-You scare ME.<#>
-It's quiet,\#isn't it?<#>
-I said\#it's quiet,\#isn't it?<#>
-You're not quiet.<#>
-That's not nice.<#>
-You're not nice.<#>
-No one\#likes poor\#Grogno...<#>
-Not even\#my friends\#like me.<#>
-Who...\| am I?<#>
-Stuck.<#>
-Very stuck.<#>
+Salt, the\#Allfather\#must have.<#>Соль, должен\#обрести\#всевышний.
+Those above\#know not what\#slumbers beneath.<#>Те, кто наверху\#не знаю, что\#дремлет внизу.
+We are\#all here blessed.\|\#Blessed by salt.<#>Мы все здесь\#благословлены.\|\#Благословлены солью.
+You could\#never understand.<#>Тебе не\#понять.
+You've got\#that right.<#>Ты правильно\#понял.
+Through salt\#we are transcended.<#>Сквозь соль, мы\#возвышаемся.
+Salt of mind,\.\#salt of body,\.\#salt of soul.<#>Соль разума,\.\#соль тела,\.\#соль души.
+When the great\#stones fall,\. it\#will be our\#turn to rule.<#>Когда великие\#камни падут,\.\#придёт наше\#время править.
+They will\#fall soon.<#>Они вскоре\#упадут.
+Can you\#hear it?<#>Ты слышишь?
+The end\#times approach.<#>Конец времён\#приближается.
+He is still.<#>Он застыл.
+I am Sodium Wing,\.\#friend of bird.<#>Я - натриевое крыло,\.\#друг птиц.
+Caw,\. caw.<#>Кар,\. кар.
+If only\#wings of salt\#could fly....<#>Если бы только\#крылья соли\#могли летать...
+The ground\#is so cold.<#>Земля такая\#холодная.
+The sky...\|\#it calls\#my name.<#>Небо...\|\#Зовёт меня\#по имени.
+But I cannot answer.<#>Но я не могу ответить.
+Caw.\| And,\.\#once more...\|\#caw.<#>Кар.\| И,\.\#вновь...\|\#Кар.
+They are floating.<#>Они парят.
+Who?<#>Кто?
+Them.<#>Они.
+They are\#floating away.<#>Они\#улетают.
+They don't\#want to be\#with us anymore.<#>Они больше\#не хотят быть\#с нами.
+How sad.<#>Как грустно.
+Ayyyy, bubby!<#>Эййй, малыш!
+You good?<#>Ты в порядке?
+You happy?\.\#Real happy?<#>Ты счастлив?\.\#Воистину счастлив?
+.\..\..\.I really can't-\^<#>.\..\..\.Я не совсем-\^
+You my\#good bubby!<#>Ты мой хороший\#палыш!
+Ayyy!<#>Эййй!
+What's up,\#muh bubby,\. eh?<#>Что с моим\#малышом,\. а?
+I'm not\#your "bubby,"\.\#sorry to say.<#>Я не твой\#"малыш",\.\#спешу огорчить.
+Ah whuh...?<#>А, да...?
+Bubby!<#>Малыш!
+Sigh...<#>Эх...
+Ayyy, bubby!<#>Эййй, малыш!
+You good!\.\#You very good!<#>Ты хороший!\.\#Ты очень хороший!
+Love you!<#>Люблю тебя!
+You so cool!<#>Ты такой крутой!
+Cool as a\#cucumber!<#>Крутой, как\#яйца!
+Love my bubby!<#>Люблю моего малыша!
+Got you\#a present!<#>Принёс тебе\#подарок!
+Huh?\.\#For me?<#>А?\.\#Мне?
+Yeah!\. Here!<#>Да!\. Вот!
+He gave you some salt.<#>Он дал вам немного соли.
+Uhhh...\|\#thanks?<#>Ээээ...\|\#Спасибо?
+You welcome!<#>Не за что!
+You go, bubby!<#>Это тебе, малыш!
+Go, go, go!<#>Тебе, тебе, тебе!
+Ayyyy!<#>Эййй!
+This place\#ain't too\#bad,\. actually.<#>Это место\#не такое и\#плохое,\. вообще-то.
+People here\#are kinda\#strange,\. but...\|\#I don't mind.<#>Люди здесь\#довольно\#странные,\. но...\|\#Я не возражаю.
+They even\#had a chair\#just like my\#old one.<#>У них даже\#был стул, такой\#же как мой\#старый.
+I have\#to thank you,\.\#for helping\#me realize this.<#>Мне нужно\#поблагодарить тебя,\.\#за помощь понять.
+For helping me\#realize that there's\#still hope for\#me out here.<#>Помощь понять,\#что для меня\#ещё осталась\#надежда.
+Finally...\|\#after forty years,\#I can finally\#be at peace.<#>Наконец...\|\#спустя сорок\#лет, я наконец\#смогу быть в мире.
+Spray can!<#>Баллончик!
+Well, well!\.\#There's a face\#I didn't think\#I'd see again!<#>Ну и ну!\.\#Либо, которое\#я не надеялся\#увидеть!
+It's been\#a while,\.\#hasn't it?<#>Долго не\#виделись,\.\#да?
+Definitely.\| Can't\#say I thought\#I'd ever meet\#you guys again either.<#>Верно.\| Даже\#не думал, что\#когда-нибудь снова\#увижу вас, парни.
+Heh,\. I guess\#we should both\#be happy that\#we were wrong!<#>Хе,\. я думаю,\#стоит порадоваться,\#что мы были неправы!
+And hey,\.\#you're in luck!<#>И эй,\. тебе\#везёт!
+We actually\#have some\#stock for\#you this time.<#>В этот раз\#у нас остался\#некоторый\#товар для тебя.
+Everything and\#anything you could\#want,\. all at\#Rando quality!<#>Всё и что угодно, о чём\#ты можешь мечтать,\.\#рандовского качества!
+...That's the\#slogan anyway.<#>...Это\#наш слоган.
+We don't fly\#the Army's flag\#anymore.<#>Мы больше\#не носим флаг\#армии.
+Still,\. have\#a look at\#what we've got!<#>Всё равно,\.\#посмотри что\#у нас есть!
+There's bound\#to be something\#you can use.<#>Найдётся то,\#что тебе\#пригодится.
+Oh, and...\|\#in mags,\. please.<#>А, и...\|\#журналы,\. пожалуйста.
+Everyone here\#keeps trying to\#buy stuff with salt.<#>Все здесь\#пытаются\#платить солью.
+I'm starting to\#get sick of it...<#>Меня уже тошнит\#от неё...
+Anyway, let's\#get down to\#business!<#>В любом случае,\#давай к делу!
+Hello again!<#>Снова привет!
+Ready to shop?<#>Готов закупиться?
+Anything tickle your fancy?<#>Есть что по душе?
+An excellent choice!<#>Прекрасный выбор!
+Another successful trade!<#>Ещё один успешный обмен!
+I'll be here all day.<#>Я здесь весь день.
+Hey, don't cheap out on me!<#>Эй, не дешеви!
+You can keep that.<#>Можешь оставить себе.
+You've got too much, dude!<#>У тебя уже слишком много, чувак!
+Thanks for stopping by!<#>Спасибо, что остановился!
+Hey, you alright?<#>Эй, ты в порядке!
+We're clean out of that!<#>У нас всё!
+Come again soon!<#>Приходите снова!
+Oh,\. you've\#got to be\#kidding me.<#>О,\. вы должно\#быть шутите.
+We go half\#way across Olathe,\.\#sail for days on\#that shitty raft...<#>Мы прошли\#пол Олейта,\.\#плыли неделями\#на сраном плоту...
+...and we STILL\#can't get away\#from you trashmen!<#>...и мы ВСЁ РАВНО\#не можем сбежать\#от вас, бомжей!
+Just our luck!<#>Какая удача!
+Nah,\. I'm\#just fuckin'\#with ya.<#>Ладно,\. я\#просто\#выёбываюсь.
+Good to\#see you\#again, old guy.<#>Приятно снова\#тебя видеть,\#старик.
+You know,\. a week back,\.\#I never thought I'd end up\#ditching Rando to become\#an honest merchant.<#>Знаешь,\. неделю назад,\.\#я даже не думал, что брошу\#Рандо ради становления\#честным торговцем.
+And yet\#here we are.<#>И вот мы\#здесь.
+Just goes\#to show how\#easily things\#change nowadays.<#>Это показывает,\#как легко всё\#изменить в\#это время.
+If you ever\#need anything,\.\#we'll probably be\#here for a while.<#>Если тебе\#нужно будет\#что-нибудь,\.\#мы здесь будем.
+Just remember\#that nothin's for free.<#>Просто запомни, что\#всё не бесплатно.
+...Heh.<#>...Хе.
+Who is who?<#>Кто есть кто?
+Who is you?<#>Кто есть ты?
+Me?\| I'm Grogno.<#>Я?\| Я Грогно.
+Who's that?<#>Кто это?
+You scare me.<#>Ты меня пугаешь.
+You scare ME.<#>Ты МЕНЯ пугаешь.
+It's quiet,\#isn't it?<#>Тихо,\#разве нет?
+I said\#it's quiet,\#isn't it?<#>Я сказал\#тут тихо,\#разве нет?
+You're not quiet.<#>Ты не тихий.
+That's not nice.<#>Это грубо.
+You're not nice.<#>Ты грубый.
+No one\#likes poor\#Grogno...<#>Никому не\#нравится\#бедный Грогно...
+Not even\#my friends\#like me.<#>Даже моим\#друзьям я\#не нравлюсь.
+Who...\| am I?<#>Кто...\| кто я?
+Stuck.<#>Застрял.
+Very stuck.<#>Очень застрял.
 <!-- Map229.rvdata2 --><#>
-So stuck.<#>
-Don't worry\#about me.<#>
-Just a\#little stuck,\. yes.<#>
-Twinkle,\. twinkle,\.\#little star.\| Do you\#wonder where we are?<#>
-Or did you\#forget that we\#were here?\| That's\#alright,\. if you did.<#>
-We are secret,\.\#we are hid.<#>
-You know,\#I can ALMOST\#understand you.<#>
-Almost.<#>
-Do not judge\#us,\. ragged man.\|\#We have sufffered\#through the Devil's plan.<#>
-The salt is\#evil,\. a horrid curse.\|\#So many it has\#led into a hearse.<#>
-It stole my\#eyes,\. my legs,\.\#my heart,\. oh yes.<#>
-It has put\#the entire lake\#under duress.<#>
-But the Purveyor\#has come to\#answer our prayers.<#>
-We give him\#salt to fuel\#his mind.<#>
-So one\#day he can\#break this bind.<#>
-He's in that\#cave,\. in case\#you wonder.<#>
-Step inside,\.\#go right under.<#>
-Let his mindful\#might bring you\#back into the light.<#>
-Twinkle,\. twinkle,\.\#little star.\|<#>
-Do you know\#how we strayed\#so far?<#>
-Ghhssh\#gghss\#shhsgghh\#hshshsh.<#>
-That's not\#even words.<#>
-Hgghgssshgggh!<#>
-Ssshhgghh\#ssshhgghhs\#hhgghshsh\#shsggghhsshhgh.<#>
-It's no use trying to understand him.<#>
-Board the elevator?<#>
-Salt chunks and someone's old sock.<#>
+So stuck.<#>Так застрял.
+Don't worry\#about me.<#>Не волнуйся\#обо мне.
+Just a\#little stuck,\. yes.<#>Просто немного\#застрял,\. да.
+Twinkle,\. twinkle,\.\#little star.\| Do you\#wonder where we are?<#>Мерцай,\. мерцай,\.\#маленькая звездочка.\| Тебе\#интересно, где мы?
+Or did you\#forget that we\#were here?\| That's\#alright,\. if you did.<#>Или ты забыла,\#где мы?\| Всё\#нормально,\.\#даже если забыла.
+We are secret,\.\#we are hid.<#>Мы в тайне,\.\#мы скрыты.
+You know,\#I can ALMOST\#understand you.<#>Знаешь, я\#ПОЧТИ понимаю\#тебя.
+Almost.<#>Почти.
+Do not judge\#us,\. ragged man.\|\#We have sufffered\#through the Devil's plan.<#>Не суди нас,\. человек\#в лохмотьях.\| Мы\#пострадали из-за\#дьявольского плана.
+The salt is\#evil,\. a horrid curse.\|\#So many it has\#led into a hearse.<#>Соль - злое,\.\#ужасное проклятие.\|\#Многих она увела\#в гроб.
+It stole my\#eyes,\. my legs,\.\#my heart,\. oh yes.<#>Она украла мои\#глаза,\. мои ноги,\.\#моё сердце,\. да.
+It has put\#the entire lake\#under duress.<#>Она подставила\#всё озеро под\#удар.
+But the Purveyor\#has come to\#answer our prayers.<#>Но поставщик\#ответил на наши\#молитвы.
+We give him\#salt to fuel\#his mind.<#>Мы даём ему\#соль, чтобы питать\#его разум.
+So one\#day he can\#break this bind.<#>Чтобы в один\#день, он разрушил\#эти путы.
+He's in that\#cave,\. in case\#you wonder.<#>Он в этой\#пещере,\. если\#тебе интересно.
+Step inside,\.\#go right under.<#>Зайди внутрь,\.\#прямо под крышу.
+Let his mindful\#might bring you\#back into the light.<#>Позволь его\#заботливой силе\#вновь вести тебя к свету.
+Twinkle,\. twinkle,\.\#little star.\|<#>Сияй,\. сияй,\.\#маленькая звезда.
+Do you know\#how we strayed\#so far?<#>Знаешь, как мы\#зашли так\#далеко?
+Ghhssh\#gghss\#shhsgghh\#hshshsh.<#>Гххсш\#ггхсс\#шшсггхх\#шшш.
+That's not\#even words.<#>Это даже\#не слова.
+Hgghgssshgggh!<#>Хггхгссшгггх!
+Ssshhgghh\#ssshhgghhs\#hhgghshsh\#shsggghhsshhgh.<#>Ссшхггхх\#ссшхггххш\#хггхшшшсг\#ггххсшгх.
+It's no use trying to understand him.<#>Бесполезно пытаться его понять.
+Board the elevator?<#>Подняться в лифт?
+Salt chunks and someone's old sock.<#>Куски соли и чей-то старый носок.
 <!-- Map230.rvdata2 --><#>
 Peculiar mask.<#>Странная маска.
 <!-- Map231.rvdata2 --><#>
 Strange skull.<#>Странный череп.
-Dusty domes and weathered scrolls.<#>
-An assortment of items line the shelf.<#>
+Dusty domes and weathered scrolls.<#>Пыльные купола и выцветшие свитки.
+An assortment of items line the shelf.<#>На полке выставлены разнообразные товары.
 Ancient sarcophagus.\. One can only imagine\#what forgotten king lies within.<#>Древний саркофаг.\. Можно лишь представить,\#какой забытый король лежит внутри.
 Bell chime.\| The attached note reads:\#"Ring-a-ding to trade a thing!"<#>Колокол.\| В приложенной записке говорится:\#"Звоните, чтобы обменять вещь!"
 Ring the bell?<#>Позвонить в колокол?
@@ -6077,26 +6077,26 @@ Bell chime.<#>Колокол.
 There's no telling what is in these jars.<#>Непонятно, что находится в этих банках.
 Mint condition planetarium.<#>Планетарий в идеальном состоянии.
 It's some kind of tent. Too small to fit inside.<#>Какой-то тент. Слишком маленький, чтобы залезть внутрь.
-It's some kind of display.<#>
+It's some kind of display.<#>Какой-то витраж.
 Esoteric scroll and a crystal ball.<#>Эзотерический свиток и хрустальный шар.
-Oh me,\. oh my.\|\#Who has come\#to this old sty?<#>
-Why the silence?\.\#Does your\#tongue show\#defiance?<#>Что за тишина?\.\#Ваш язык\#вас не\#слушается?
-Your name, friend,\.\#that's all I ask.\|\#Don't hide behind\#that stoney mask.<#>Ваше имя, друг,\.\#о большем не прошу.\|\#Не прячтесь за этой\#каменной маской.
-...I'm Alex.\. You are?<#>...Я Алекс.\. А вы?
-Ah, Alexander.\|\#Pretty name,\.\#should I gander.<#>А, Александр.\|\#Хорошее имя,\.\#я погляжу.
-As for me,\.\#it's tough, you see.<#>Что касается меня,\.\#всё сложно, видите ли.
-I'm a man\#of many names,\#titles, and so on.<#>Я человек множества\#имён, титулов, и так\#далее.
-To recite them\#all,\. we'd be\#up 'till dawn.<#>Чтобы перечислить\#все,\. нам нужно\#время до рассвета.
-Well, just give\#me one, then.<#>Ну, тогда перечисли\#мне одно.
-There was one I\#was always fond of.\|\#Sweet to the ears,\#smooth like a dove.<#>Есть такое, которым\#я всегда гордился.\|\#Приятное ушам,\#гладкое как мрамор.
-"Dorimere," it was.\|\#Dorimere the Purveyor,\.\#a name with layers.<#>"Доримэр", звучит оно.\|\#Доримэр Поставщик,\.\#имя с титулом.
-Purveyor of\#what, exactly?<#>Поставщик чего,\#если конкретнее?
-Items of mystique,\#found on the mountain\#or in the creek.<#>Предметов мистики,\#найденных на горе\#и в заливе.
-So long as it's\#occult, it could be\#from any old dolt.<#>
-I'm not picky,\#sticky, or tricky.<#>
+Oh me,\. oh my.\|\#Who has come\#to this old sty?<#>О,\. боже.\. Господь.\|\#Кто-то пришёл в старый\#дом хоть.
+Why the silence?\.\#Does your\#tongue show\#defiance?<#>Что вы молчите?\.\#Язык онемел?
+Your name, friend,\.\#that's all I ask.\|\#Don't hide behind\#that stoney mask.<#>Прошу ваше имя,\.\#лишь только его.\|\#Не скрывайте лицо\#за лукавым эго.
+...I'm Alex.\. You are?<#>...Я Алекс.\. Вы?
+Ah, Alexander.\|\#Pretty name,\.\#should I gander.<#>Ах, Александр.\|\#Приятное имя,\.\#как кориандр.
+As for me,\.\#it's tough, you see.<#>Что про меня,\.\#тут сложнее дела.
+I'm a man\#of many names,\#titles, and so on.<#>Я человек множества\#имён, титулов, по\#списку.
+To recite them\#all,\. we'd be\#up 'till dawn.<#>Чтобы всё перечислить,\.\#нужна аж расписка.
+Well, just give\#me one, then.<#>Ну, тогда назови\#лишь одно имя.
+There was one I\#was always fond of.\|\#Sweet to the ears,\#smooth like a dove.<#>Есть одно, чем я\#всё время гордился.\|\#И приятно звучит,\#и есть чему дивиться.
+"Dorimere," it was.\|\#Dorimere the Purveyor,\.\#a name with layers.<#>"Доримэр", звучит оно.\|\#Доримэр Лавочник,\.\#как титул гласит.
+Purveyor of\#what, exactly?<#>Какой лавончик,\#если конкретнее?
+Items of mystique,\#found on the mountain\#or in the creek.<#>Предметов мистики,\#что в горе\#и в заливе.
+So long as it's\#occult, it could be\#from any old dolt.<#>Есть есть в них\#оккульт, возьму\#с рук у бабуль.
+I'm not picky,\#sticky, or tricky.<#>Я не придирчив,\#привередлив;\#не коварен.
 So, you're like...\.\#a collector?<#>Так ты...\.\#коллекционер?
-Yes, indeed.\| To\#collect is my creed.<#>Да, несомненно.\|\#Коллекционирование - моё кредо.
-The note said\#something about trading.\|\#Do you barter?<#>На записке было написано\#о торговле.\| Ты обмениваешься?
+Yes, indeed.\| To\#collect is my creed.<#>Да, несомненно.\|\#Коллекции - моё кредо.
+The note said\#something about trading.\|\#Do you barter?<#>На записке было написано\#о торговле.\| Ты\#обмениваешься?
 Of course,\. of course.\|\#Bring me a ruby,\.\#I'll give you a horse.<#>Конечно,\. конечно.\|\#Принеси мне рубин,\.\#я приведу лошадь.
 Not literally, though.\|\#That metaphor was\#just for show.<#>Не буквально, конечно.\|\#Это была просто метафора.
 Stop by again\#if you find\#any oddities\#in your travels.<#>Заходите ещё,\#если найдёте\#необыкновенности\#в своём путешествии.
@@ -6105,71 +6105,71 @@ In return, I can\#offer you pieces\#from my stash.<#>Взамен, я могу\#
 Some bold,\. some\#brash,\. some that will\#give you a rash.<#>Есть дикие,\. есть\#резкие,\. есть те,\#от каких вы ахнете.
 It's up to you\#whether to go\#through,\. however.<#>Так или иначе,\.\#просматривать ли\#их, это ваш выбор.
 I see.\| Well,\.\#I'll let you know\#if I find anything.<#>Ясно.\| Ну,\. я\#дам тебе знать,\#если что-нибудь найду.
-One more thing\#I'd like to add.<#>
-You've no doubt\#seen the jerseys,\.\#the ones that\#drive men mad.<#>
-I'm quite intrigued\#by them, as you\#see can by my den.<#>
-A reward I will\#give if you\#bring me ten.<#>
-Ten of those\#jerseys?\. I'll see\#what I can do.<#>
-Excellent, friend.\|\#Great times together\#we shall spend.<#>
-A monster in\#the mines coughed\#this thing up.\|\#You interested?<#>
-Oh, what is\#it that you\#bring to me?<#>
-Hold it close,\#let me see!<#>
-...Ah, a lung.\|\#Hardened,\. blackened,\.\#devoid of songs\#to be sung.<#>
-I see,\. I see!\|\#In my collection\#it must be!<#>
-In return,\.\#I'll offer these.\|\#Take whichever one\#you please.<#>
-Option one:\| a\#piece of gum.<#>
-Minty fresh,\. chew\#it up to get SP.<#>
-Just be warned,\.\#the taste will flee.<#>
-Or option two:\|\#this coat of blue.<#>
-Fashionable,\.\#yes,\. but wearing\#it could cause\#distress.<#>
-Light as a\#feather, your\#feet will fly.<#>
-But to your\#SP,\. say goodbye.<#>
-The gum\#or the\#coat for that\#lung of yours.<#>
-Pick quickly,\.\#don't make\#me snore!<#>
-So, which will\#you choose?\| Do\#be quick, don't\#make me snooze!<#>
-I'll take the gum.<#>
-The coat, please.<#>
-I need more time.<#>
-You exchanged the lung for a piece of gum!<#>
-A wistful pick.\|\#Chew on that\#when you get sick!<#>
-As for the\#organ,\. I'll take\#a peek.<#>
-Hopefully it\#will not leak.<#>
-Joel could\#probably use\#that coat.\. I'd\#like that, please.<#>
-You exchanged the lung for a sapphire coat!<#>
-Now you have\#something nice to wear.<#>
-Just don't blame\#me if you despair!<#>
-This knife won't\#stop screaming at me.\|\#What's your take?<#>
-A killer's\#tool,\. have\#we now?<#>
-Don't touch\#this or you'll\#say "ow!"<#>
-A haunted\#present and\#a chilling past.<#>
-I can see\#this steel is\#made to last.<#>
-I'll tell\#you what:\.\#this makes\#the cut.<#>
-For this blade,\.\#here is what\#I care to trade.<#>
-Your first\#choice is a\#sauce most hot.<#>
-Flaming flavor\#that will make\#your tongue\#burn and rot.<#>
-On the up\#side,\. a drop\#of this will\#boost your power.<#>
-Shred your\#foes and\#make them\#cower!<#>
-For your\#second pick,\#this glove\#most thick.<#>
-Terrifying\#strength it\#will deliver.<#>
-Slaps that\#break bones\#and make\#mountains quiver.<#>
-What it\#gives in power\#it takes in\#defense,\. however.<#>
-Get hit\#once and\#you're gone\#forever.<#>
-Not really,\|\#but you don't\#want to feel\#this feeling.<#>
-Some sauce\#or this glove\#for that knife.<#>
-Choose now,\.\#choose wise,\.\#without strife!<#>
-Now, make\#your choice!\.\#Speak your mind,\#raise your voice!<#>
-Give me the sauce.<#>
-I want the glove.<#>
-Let me think.<#>
-Give me\#the sauce.<#>
-You exchanged the cleaver\#for a bottle of hot sauce!<#>
-You're the\#boss.\. There\#it is, take\#your sauce!<#>
-This cleaver\#is going in\#my cutlery\#drawer.<#>
-Not for\#cooking,\. just\#for store.<#>
-That glove\#sounds good.<#>
-You exchanged the cleaver\#for a leather glove!<#>
-Four-fingered\#death coming\#your way.<#>
-Just be careful,\.\#or else you'll\#be flayed!<#>
+One more thing\#I'd like to add.<#>Я бы хотел добавить\#кое-что ещё.
+You've no doubt\#seen the jerseys,\.\#the ones that\#drive men mad.<#>Вы несомненно\#видели майки,\.\#те, что сводят\#людей с ума.
+I'm quite intrigued\#by them, as you\#see can by my den.<#>Я крайне заинтригован\#ими, как вы можете\#увидеть по моему логову.
+A reward I will\#give if you\#bring me ten.<#>Награждены вы\#будете, если принесёте\#десять.
+Ten of those\#jerseys?\. I'll see\#what I can do.<#>Десять маек?\.\#Посмотрим, смогу\#ли.
+Excellent, friend.\|\#Great times together\#we shall spend.<#>Превосходно, друг.\|\#Да проведём мы\#прекрасное время.
+A monster in\#the mines coughed\#this thing up.\|\#You interested?<#>Монстр в шахтах\#выдал эту штуку.\|\#Ты заинтересован?
+Oh, what is\#it that you\#bring to me?<#>О, так вот\#что вы\#принесли?
+Hold it close,\#let me see!<#>Поднесите поближе,\#позвольте посмотреть!
+...Ah, a lung.\|\#Hardened,\. blackened,\.\#devoid of songs\#to be sung.<#>...Ах, лёгкое.\| Затвердевшее,\.\#почерневшее,\. лишённое\#дара пения песен.
+I see,\. I see!\|\#In my collection\#it must be!<#>Вот и оно,\. вот и оно!\|\#В моей коллекции\#найдётся место!
+In return,\.\#I'll offer these.\|\#Take whichever one\#you please.<#>Взамен,\. я\#предлагаю их.\|\#Да будет вам\#комфортно в них.
+Option one:\| a\#piece of gum.<#>Опция раз:\|\#Жвачки пласт.
+Minty fresh,\. chew\#it up to get SP.<#>Свежа как мята,\.\#восстановит вам ОН.
+Just be warned,\.\#the taste will flee.<#>Будьте лишь в курсе,\.\#вкус пропадёт пропадом.
+Or option two:\|\#this coat of blue.<#>Или опция два:\|\#пальто синего цвета.
+Fashionable,\.\#yes,\. but wearing\#it could cause\#distress.<#>Стильное,\. да,\.\#но одевши будет\#нервное.
+Light as a\#feather, your\#feet will fly.<#>Оно словно\#перо, ваши\#ноги вспарят.
+But to your\#SP,\. say goodbye.<#>Но с очками ОН,\.\#попрощаетесь вряд.
+The gum\#or the\#coat for that\#lung of yours.<#>Жвачка, либо\#пальто за это\#лёгкое.
+Pick quickly,\.\#don't make\#me snore!<#>Выбирайте\#быстро,\.\#что я не храпел!
+So, which will\#you choose?\| Do\#be quick, don't\#make me snooze!<#>Итак, что по\#нраву?\|\#Выбирайте быстрей,\#чтоб не было драмы!
+I'll take the gum.<#>Я возьму жвачку.
+The coat, please.<#>Пальто, пожалуйста.
+I need more time.<#>Мне нужно больше времени.
+You exchanged the lung for a piece of gum!<#>Вы обменяли лёгкое на кусок жвачки!
+A wistful pick.\|\#Chew on that\#when you get sick!<#>Обдуманный выбор.\|\#Пожуйте, коли будет\#тошнить сильно!
+As for the\#organ,\. I'll take\#a peek.<#>Что касается органа,\.\#я посмотрю.
+Hopefully it\#will not leak.<#>Надеюсь я лишь,\#что успею.
+Joel could\#probably use\#that coat.\. I'd\#like that, please.<#>Джоэлу наверное\#бы пригодилось\#это пальто.\. Я\#беру его, пожалуйста.
+You exchanged the lung for a sapphire coat!<#>Вы обменяли лёгкое на сапфировое пальто!
+Now you have\#something nice to wear.<#>Теперь у вас вещь\#есть, приятно носить.
+Just don't blame\#me if you despair!<#>Носить коль не сможете,\#меня не винить!
+This knife won't\#stop screaming at me.\|\#What's your take?<#>Нож не прекращает\#кричать на меня.\|\#Что думаешь?
+A killer's\#tool,\. have\#we now?<#>Инструмент\#убийцы,\. теперь\#в наших руках?
+Don't touch\#this or you'll\#say "ow!"<#>Не трожь его,\#или ненароком\#крикнешь "ах!".
+A haunted\#present and\#a chilling past.<#>Дикое настоящее,\#и прошлое словно\#страх.
+I can see\#this steel is\#made to last.<#>Я погляжу, эта\#сталь переживёт\#нас.
+I'll tell\#you what:\.\#this makes\#the cut.<#>Что я тебе\#скажу:\.\#им мы нарубим\#денег.
+For this blade,\.\#here is what\#I care to trade.<#>И ради этого\#клинка,\. отдам\#я эти вещи.
+Your first\#choice is a\#sauce most hot.<#>Твой первый\#выбор: соус\#горячейший.
+Flaming flavor\#that will make\#your tongue\#burn and rot.<#>Он вкусом\#жжёт язык,\#проводит\#умерщвленье.
+On the up\#side,\. a drop\#of this will\#boost your power.<#>С другой\#стороны,\.\#лишь капля\#дарует силу.
+Shred your\#foes and\#make them\#cower!<#>Разорви врагов\#своих, и не\#прояви милость!
+For your\#second pick,\#this glove\#most thick.<#>Для второго\#выбора,\#перчатка\#богатырская.
+Terrifying\#strength it\#will deliver.<#>Та, в какой\#ужасающая\#сила.
+Slaps that\#break bones\#and make\#mountains quiver.<#>Ломает кости,\#и даже горы\#не устоят такой\#всесильной.
+What it\#gives in power\#it takes in\#defense,\. however.<#>Что получаешь\#в силе, то она\#берёт в защите.
+Get hit\#once and\#you're gone\#forever.<#>Прими удар, и\#твои кости\#разлетелись\#как в эндшпиле.
+Not really,\|\#but you don't\#want to feel\#this feeling.<#>Это была лишь\#шутка,\| но знать\#правду вам не\#нужно.
+Some sauce\#or this glove\#for that knife.<#>Соус или перчатка\#за нож.
+Choose now,\.\#choose wise,\.\#without strife!<#>Выбирай,\. мудрец,\.\#и забудь ложь!
+Now, make\#your choice!\.\#Speak your mind,\#raise your voice!<#>Теперь, оглашай!\.\#И разум тебе\#глашатай!
+Give me the sauce.<#>Дай мне соус.
+I want the glove.<#>Мне нужна перчатка.
+Let me think.<#>Дай подумать.
+Give me\#the sauce.<#>Дай мне\#соус.
+You exchanged the cleaver\#for a bottle of hot sauce!<#>Вы обменяли тесак на\#бутылку горячего соуса!
+You're the\#boss.\. There\#it is, take\#your sauce!<#>Вы здесь\#босс.\. И\#вот он вас\#соус!
+This cleaver\#is going in\#my cutlery\#drawer.<#>Этот тесак\#отправляется\#в мой кухонный\#шкаф.
+Not for\#cooking,\. just\#for store.<#>Не чтобы готовить,\.\#а наблюдать шляхт.
+That glove\#sounds good.<#>Перчатка звучит\#неплохо.
+You exchanged the cleaver\#for a leather glove!<#>Вы обменяли тесак на\#кожаную перчатку!
+Four-fingered\#death coming\#your way.<#>Четырёхпалая\#смерть на вашем\#пути.
+Just be careful,\.\#or else you'll\#be flayed!<#>Берегите себя,\.\#иль от неё не\#уйти!
 We pulled this\#fang off a snake.\.\#Still has some\#venom on it.<#>
 A deadly tooth?\.\#Sharp, venomous,\#and nasty...\. forsooth?<#>
 My interest\#it fails\#to pique.<#>
@@ -6353,30 +6353,30 @@ Continue this\#path and things\#might get unsteady.<#>
 He's fixated on the water.<#>
 Still not\#enough gathered.<#>
 <!-- Map232.rvdata2 --><#>
-Into the\#ocean I\#must now go.<#>Я должен\#пойти в\#океан.
-The only\#way,\. this is...<#>
-You again...<#>
-I see\#you took\#my advice.<#>
-That I did.<#>
-Still don't\#know how\#to feel\#about it all.<#>
-The air\#out here...\|\#it's clean.<#>
-I'm not\#used to it.<#>
-It takes\#some adjustment,\.\#trust me.<#>
-But I think you'll come\#to see that the world\#is much more than\#that island of trash.<#>
-I pray\#you're right,\. son...<#>
-Quick word\#of advice,\. though.<#>
-Hm?<#>
-Steer clear\#of that city\#up above.<#>
-It's not\#a good place\#for people\#like you.<#>
-I'll take\#your word\#for it.<#>
-Crusty recliner.<#>
-You got the stuff?<#>
+Into the\#ocean I\#must now go.<#>В океан, я\#должен\#пойти.
+The only\#way,\. this is...<#>Единственный\#путь,\. он таков...
+You again...<#>Снова ты...
+I see\#you took\#my advice.<#>Вижу, ты\#послушал\#моего совета.
+That I did.<#>Так и сделал.
+Still don't\#know how\#to feel\#about it all.<#>Всё ещё не\#знаю, что\#обо всём этом\#думать.
+The air\#out here...\|\#it's clean.<#>Воздух здесь...\|\#Он чистый.
+I'm not\#used to it.<#>Я не привык\#к этому.
+It takes\#some adjustment,\.\#trust me.<#>Придётся немного\#адаптироваться,\.\#поверь.
+But I think you'll come\#to see that the world\#is much more than\#that island of trash.<#>Но я думаю, что\#ты увидишь, насколько\#мир больше этого\#острова мусора.
+I pray\#you're right,\. son...<#>Молюсь, чтобы ты\#был прав,\. сынок...
+Quick word\#of advice,\. though.<#>Но,\. дам\#небольшой совет.
+Hm?<#>Хм?
+Steer clear\#of that city\#up above.<#>Держись подальше\#от этого города\#наверху.
+It's not\#a good place\#for people\#like you.<#>Он не подходит\#для таких людей,\#как ты.
+I'll take\#your word\#for it.<#>Поверю на\#слово.
+Crusty recliner.<#>Крабовое кресло.
+You got the stuff?<#>Товар у тебя?
 <!-- Map233.rvdata2 --><#>
-We do. Here.<#>Мы нашли. Вот.
+We do. Here.<#>У меня. Вот.
 You gave away your Man-Made Salts.<#>Вы отдали искусственную соль.
 There it is!\|\#Now we can get\#to the fun part!\#HA HA!<#>Вот она!\|\#Теперь мы\#можем перейти\#к весёлой части! ХА-ХА!
 Just a\#second now!<#>Прямо сейчас!
-Sounds like\#it's done, HA HA!<#>Звучит, как будто\#он готов, ХА-ХА!
+Sounds like\#it's done, HA HA!<#>Похоже,\#он готов, ХА-ХА!
 Behold!\.\#A Salt Crab\#family recipe!<#>Узрите!\.\#Семейный рецепт\#семьи солевых крабов!
 Got a Salt Cake!<#>Получен солевой торт!
 Oh, thanks.<#>О, спасибо.
@@ -6468,38 +6468,38 @@ Feed salt to the Allfather?<#>Покормить солью всевышнего
 Gave some Man Made Salt.<#>Отдано немного искусственной соли.
 Very well.<#>Очень хорошо.
 Hear this wisdom\#and heed its sound:<#>Услышь эту мудрость\#и внемли её зову:
-Above the\#lair of those\#bound by gold...<#>
-In a cave\#whose walls run\#deep with blood...<#>
-There lies\#entrenched a\#tool of slaughter.<#>
-Find this\#tool and offer\#it to the\#purveyor.<#>
-That is all.<#>
-Bring more\#salt to hear\#more wisdom.<#>
-Salt for\#wisdom...<#>
-Salt for\#the mind.<#>
-Where the serpents\#perch to watch\#the others play...<#>
-You will\#soon find\#fangs bared\#at you.<#>
-Dodge its\#bite and\#pull its tooth.<#>
-While it still\#drips with venom,\.\#offer it to\#the purveyor.<#>
-Along the\#long dead road...<#>
-Within a\#cave hidden\#beside the\#broken bridge...<#>
-An ancient\#voice speaks\#its haunted tongue.<#>
-Cover your\#ears and offer\#its sound to\#the purveyor.<#>
-On the mountain\#of blood,\. a great\#hunter once lived...<#>
-In his pocket,\.\#that which can\#kill the unkillable.<#>
-Ring the bell\#and slay this\#slayer of beasts.<#>
-Take his prized\#possession and offer\#it to the purveyor.<#>
-Atop the mountain\#of blood,\. within\#the palace of carnage...<#>
-Inside the\#office of the\#one betrayed\#by his fate...<#>
-A traveller's\#tool remains,\.\#directionless.<#>
-Offer the silent\#globe to the purveyor.<#>
-I have\#no more\#wisdom to share.<#>
-Go now,\. bearer\#of salt,\. and\#seek that which\#you still seek.<#>
+Above the\#lair of those\#bound by gold...<#>Над логовом тех,\#кто связан золотом...
+In a cave\#whose walls run\#deep with blood...<#>В пещере, чьи\#стены доверху\#покрыты кровью...
+There lies\#entrenched a\#tool of slaughter.<#>Лежит, защищённое,\#оружие бойни.
+Find this\#tool and offer\#it to the\#purveyor.<#>Найди это\#оружие, и\#предложи\#поставщику.
+That is all.<#>Это всё.
+Bring more\#salt to hear\#more wisdom.<#>Принеси больше\#соли, чтобы\#услышать больше мудрости.
+Salt for\#wisdom...<#>Соль для\#мудрости...
+Salt for\#the mind.<#>Соль для\#разума.
+Where the serpents\#perch to watch\#the others play...<#>Где змеи сидят,\#наблюдая, как\#другие играют...
+You will\#soon find\#fangs bared\#at you.<#>Ты вскоре\#обнаружишь клыки,\#обнажённые на\#тебя.
+Dodge its\#bite and\#pull its tooth.<#>Уклонись от\#их укуса, и\#ухватись за них.
+While it still\#drips with venom,\.\#offer it to\#the purveyor.<#>Пока они ещё\#сочатся ядом,\.\#предложи его\#поставщику.
+Along the\#long dead road...<#>Вдоль длинной\#смертельной дороги...
+Within a\#cave hidden\#beside the\#broken bridge...<#>В пещере,\#скрытой за\#сломанным\#мостом...
+An ancient\#voice speaks\#its haunted tongue.<#>Древний голос\#гласит своим\#призрачным языком.
+Cover your\#ears and offer\#its sound to\#the purveyor.<#>Закрой свои\#уши, и предложи\#его голос поставщику.
+On the mountain\#of blood,\. a great\#hunter once lived...<#>На горе крови,\.\#однажды жил\#великий охотник...
+In his pocket,\.\#that which can\#kill the unkillable.<#>В его кармане,\.\#лежит то, что может\#убить бессмертных.
+Ring the bell\#and slay this\#slayer of beasts.<#>Ударь в колокол\#и срази того, кто\#сражал чудовищ.
+Take his prized\#possession and offer\#it to the purveyor.<#>Забери его ценную\#вещь и предложи\#её поставщику.
+Atop the mountain\#of blood,\. within\#the palace of carnage...<#>На вершине горы\#крови,\. в покоях\#резни...
+Inside the\#office of the\#one betrayed\#by his fate...<#>В офисе того,\#кого предала\#судьба...
+A traveller's\#tool remains,\.\#directionless.<#>Лежит инструмент\#путешественника,\.\#бесцельно.
+Offer the silent\#globe to the purveyor.<#>Предложите тихий\#глобус поставщику.
+I have\#no more\#wisdom to share.<#>У меня больше\#нет мудрости\#для тебя.
+Go now,\. bearer\#of salt,\. and\#seek that which\#you still seek.<#>Теперь иди,\.\#соленосец,\.\#и найди то,\#чего ищешь.
 It is cool.<#>
-You're the\#man I always\#wanted to be.<#>
+You're the\#man I always\#wanted to be.<#>Ты - человек,\#которым я\#всегда хотел быть.
 <!-- Map238.rvdata2 --><#>
 Not ashamed\#to admit that.<#>Не стыдно\#признать это.
 There's still\#time, you know.<#>Ещё есть время,\#знаешь.
-Time to\#make that change.<#>Время 
+Time to\#make that change.<#>
 Can't believe myself...<#>Я не верю самому себе...
 I think I'm\#starting to agree.<#>
 Stay safe, Alex.<#>Береги себя, Алекс.
@@ -6749,7 +6749,7 @@ You're askin' for\#an ass-beating.<#>Ты напрашиваешься\#на м�
 You'd better\#fuck off before\#I skin you\#like a snake!<#>Лучше отъебись,\#пока я не вскрыл\#тебя, как змею!
 I'm not going\#anywhere,\. tubby.<#>Я никуда не уйду,\.\#толстяк.
 You wanna\#touch me?\|\#Step right\#up then.<#>Хочешь до\#меня дотронуться?\|\#Подходи.
-Oh, that's it!\.\#I'm gonna\#smack you silly!<#>
+Oh, that's it!\.\#I'm gonna\#smack you silly!<#>О, вот и всё!\.\#Я размажу тебя,\#глупец!
 Psh,\. you\#Bad Bitches\#are all the same.<#>Пф,\. вы все\#плохие сучки\#одинаковые.
 Some good\#all that lip\#flapping did you.<#>Хорошо у тебя\#вышло похлопать\#губами.
 No wonder\#the Franchise\#has you all\#so chewed up.<#>Неудивительно,\#что Франшиза\#вас проглотила.
@@ -6844,7 +6844,7 @@ Like hell\#you are.<#>Конечно, чёрт\#возьми.
 Think you can\#come in and\#waltz around our\#turf like you own it?<#>Думаете, что можете\#просто разгуливать по\#нашей земле, будто\#она ваша?
 Hey,\. what's\#the big idea?<#>Эй,\. в чём\#суть?
 You tryna\#kill me?<#>Ты пытаешься\#убить меня?
-Sorry that I\#fought back when\#some punk swung\#a knife at me.<#>
+Sorry that I\#fought back when\#some punk swung\#a knife at me.<#>Прости, что я дал отпор,\#когда какой-то ублюдок\#замахнулся на меня ножом.
 That's how we\#play "The Game"!<#>Вот так мы играем\#в "Игру"!
 It's rough,\.\#but it's fun!<#>Она тяжела,\.\#но весела!
 You and I\#have two very\#different ideas\#of what's "fun."<#>У нас очень\#разные\#понятия\#"веселья".
@@ -6854,7 +6854,7 @@ Ha,\. I win again!<#>Ха,\. я снова побеждаю!
 Nice effort,\#pops,\. but\#I'm still\#the best.<#>Хорошая попытка,\#дедуля,\. но я\#до сих пор\#лучший.
 Scram.\.\#Thanks for\#the good fight.<#>Чёрт.\.\#Спасибо за\#хорошую битву.
 Jesus,\. I\#think you\#broke something.<#>Господи,\. я\#думаю ты что-то\#сломал.
-What kind\#of jacked up\#old timer\#are you?<#>
+What kind\#of jacked up\#old timer\#are you?<#>Что ты\#за взвинченный\#старик такой?
 Go on,\.\#find a bandage\#for you booboo.<#>Иди,\. найди\#бинт для\#ранки.
 What are\#you doing\#back here?!<#>Что ты\#делаешь\#здесь?!
 I thought\#you said you\#didn't want\#to play The Game!<#>Я думал, ты\#сказал что\#не хочешь\#играть в Игру.
@@ -6864,7 +6864,7 @@ People your\#age love to\#do a lot of\#"passing."<#>Люди в твоём\#во
 Back for\#another ass-\#kicking, gramps?<#>Напрашиваешься на\#очередную взбучку,\#дед?
 I think I've\#had enough of\#that for today.<#>Я думаю, мне\#уже достаточно.
 Ha, that's right!<#>Ха, это точно!
-...That was\#uncalled for.<#>
+...That was\#uncalled for.<#>...Этого никто\#не просил.
 Where's your\#stripes,\. geezer?<#>Где твои полосы,\.\#старикан?
 All Bad Angels\#need the classic\#black 'n' white!<#>Все Плохие Ангелы\#носят классические\#чёрно-белые!
 Well,\. I'm\#not exactly-\^<#>Ну,\. я не\#совсем-\^
@@ -6953,7 +6953,7 @@ Whew...<#>Фух...
 No one ever\#told me mopping\#up fools would\#be such hard work.<#>Никто не говорил\#мне, что выносить\#этих придурков\#будет так сложно.
 <!-- Map244.rvdata2 --><#>
 Can't quit\#now, though.\.\#Gotta score that\#second fold.<#>Но не могу\#это бросить.\.\#Нужно дойти\#до этой второй складки.
-Just a\#couple more.<#>Ещё немного.
+Just a\#couple more.<#>Ещё\#немного.
 Don't go\#anywhere,\. old man.<#>Не уходи далеко,\.\#старик.
 Once I've\#caught my breath,\#you're good\#as dead.<#>Когда я\#отдышусь,\#ты будешь\#уже мёртв.
 Just...\|\#gimme a minute.<#>Просто...\|\#Дай мне минутку.
@@ -7046,83 +7046,83 @@ Closed gate.<#>Закрытые ворота.
 Oh,\. sorry.<#>О,\. извини.
 <!-- Map246.rvdata2 --><#>
 Here,\. let\#me get\#that for you.<#>
-Come on through.<#>
-Can't believe\#those Bad\#boys are\#almost gone.<#>
-Maybe the\#Franchise is\#actually doing\#us some favors.<#>
-They do\#need some\#better fashion\#sense,\. though.<#>
-That tacky\#sportswear just\#won't cut it.<#>
-Perhaps we\#can give them\#some pointers?<#>
-I was here\#when John Johnson\#first established\#this gang.<#>
-You should\#have seen the\#state of "The\#Game" before him.<#>
-So drab!\|\#Absolutely no\#swagger to\#any of it!<#>
-JJ fixed\#that issue\#right quick.<#>
+Come on through.<#>Проходите.
+Can't believe\#those Bad\#boys are\#almost gone.<#>Не верю, что\#Плохие Парни\#почти исчезли.
+Maybe the\#Franchise is\#actually doing\#us some favors.<#>Возможно,\#Франшиза правда\#делает нам услугу.
+They do\#need some\#better fashion\#sense,\. though.<#>Хотя,\. им правда\#нужен стиль\#получше.
+That tacky\#sportswear just\#won't cut it.<#>Эта безвкусная\#спортивная одежда\#не подходит.
+Perhaps we\#can give them\#some pointers?<#>Может, мы дадим\#им пару советов?
+I was here\#when John Johnson\#first established\#this gang.<#>Я был здесь,\#когда Джон Джонсон\#создал эту банду.
+You should\#have seen the\#state of "The\#Game" before him.<#>Ты должен был\#видеть состояние\#"Игры" до него.
+So drab!\|\#Absolutely no\#swagger to\#any of it!<#>Однообразие!\|\#Абсолютно\#никакого стиля!
+JJ fixed\#that issue\#right quick.<#>Джей Джей\#быстро исправил\#эту проблему.
 As a group,\.\#our sense of\#fashion is our\#bedrock of unity.<#>
 Our sportswear\#connects us all\#like a knot\#of beating hearts!<#>
 I've grown\#fond of the\#Franchise style.<#>
-It's a\#look to\#DIE for.<#>
-Those jerseyheads\#wanna cramp our style.<#>
-But as long\#as Gold Diamond's\#on our side,\. they\#can't touch The Corps!<#>
-If they come\#'round here,\. we'll\#make 'em all\#taste the dirt.<#>
-The Game\#had no pizazz\#before John J.<#>
-Everything was\#tacky and boring.<#>
-What good is\#bloodshed without\#some flair to it?<#>
-That Gold\#Diamond really\#set things straight.<#>
-Who knew\#red,\. green,\.\#and gold went\#so well together?<#>
-The Franchise\#was onto\#something\#all along!<#>
-I feel\#fresh as\#a spring breeze.<#>
-We've got\#this Game\#in the bag.<#>
-The other\#gangs might as\#well give up.<#>
-The Corps\#stays winning.<#>
-Not even\#the Franchise\#can change that.<#>
-Gold Diamond\#put crowns on\#our heads and\#said "here be kings."<#>
-Now even\#the lowliest\#chump can\#be a monarch.<#>
-This is\#what it means\#to be with\#The Corps.<#>
-We are kings,\.\#and Downtown\#is our throne.<#>
-One Franchise,\.\#infinite kings!<#>
-We can\#all be rulers\#of our own\#destiny!<#>
-You won't\#get this freedom\#anywhere else.<#>
-Don the\#jersey and\#embrace a\#new world!<#>
-He gave you an Infinity Jersey.<#>
-Infinite kings!\|\#An unending rule!<#>
-We'd like to\#get through,\. please.<#>
-Hmm...<#>
-You've got\#the Brand.<#>
-Are you\#a new member?<#>
-Um...\| yes.<#>
-That's cool.<#>
-Here,\. let me\#raise the gate.<#>
-Have fun.<#>
-The Corps\#will treat\#you right.<#>
-Sorry, but\#this is Corps\#territory.<#>
-Only gang\#members are\#allowed passage.<#>
-Come back\#when you've\#got some\#bling on you.<#>
-Seems like\#you've picked\#up some style.<#>
-That's what\#we like\#to see.<#>
-I suppose I'll\#let you in.<#>
-Enjoy yourself.<#>
-The fun\#times might\#not last\#for long.<#>
-You still\#don't have\#the stuff.<#>
-No King,\.\#no entry.<#>
-Gate's open.\.\#What are you\#waiting for?<#>
-Head inside.<#>
-That chef\#bastard needs\#to come on\#out here.<#>
+It's a\#look to\#DIE for.<#>За такую одежду\#можно и\#УМЕРЕТЬ.
+Those jerseyheads\#wanna cramp our style.<#>Эти маечники хотят\#потеснить наш стиль.
+But as long\#as Gold Diamond's\#on our side,\. they\#can't touch The Corps!<#>Но пока Голд\#Даймонд на\#нашей стороне,\.\#им не тронуть Корпов!
+If they come\#'round here,\. we'll\#make 'em all\#taste the dirt.<#>Если они придут\#сюда,\. мы быстро\#заставим их\#глотать пыль.
+The Game\#had no pizazz\#before John J.<#>В игре не было\#никакого Шика,\#до Джона Джея.
+Everything was\#tacky and boring.<#>Всё было однообразным\#и скучным.
+What good is\#bloodshed without\#some flair to it?<#>Какая польза от\#кровопролития\#без изюминки в нём?
+That Gold\#Diamond really\#set things straight.<#>Этот Голд Даймонд\#быстро направил\#всё в правильное русло.
+Who knew\#red,\. green,\.\#and gold went\#so well together?<#>Кто знал что\#красный,\.\#зелёный и золотой\#так хорошо сочетаются?
+The Franchise\#was onto\#something\#all along!<#>Франшиза всегда\#была на верном\#пути!
+I feel\#fresh as\#a spring breeze.<#>Я свеж, как\#утренняя\#роса.
+We've got\#this Game\#in the bag.<#>Игра уже у\#нас в кармане.
+The other\#gangs might as\#well give up.<#>Другие банды\#могут сдаться.
+The Corps\#stays winning.<#>Корпы остаются\#победителями.
+Not even\#the Franchise\#can change that.<#>Даже Франшиза\#это не изменит.
+Gold Diamond\#put crowns on\#our heads and\#said "here be kings."<#>Голд Даймонд\#надел короны\#на наши головы\#и сказал, "вы короли".
+Now even\#the lowliest\#chump can\#be a monarch.<#>Теперь даже\#самый дикий\#придурок может\#быть монархом.
+This is\#what it means\#to be with\#The Corps.<#>Вот что значит\#быть с Корпами.
+We are kings,\.\#and Downtown\#is our throne.<#>Мы короли,\.\#и город -\#наш трон.
+One Franchise,\.\#infinite kings!<#>Одна Франшиза,\.\#короли бесконечности!
+We can\#all be rulers\#of our own\#destiny!<#>Мы все\#правители\#собственной\#судьбы!
+You won't\#get this freedom\#anywhere else.<#>Ты больше нигде\#не получишь эту\#свободу.
+Don the\#jersey and\#embrace a\#new world!<#>Надень\#майку и\#вступи в\#новый мир!
+He gave you an Infinity Jersey.<#>Он дал вам майку Бесконечности.
+Infinite kings!\|\#An unending rule!<#>Бесконечные короли!\|\#Нескончаемое правление!
+We'd like to\#get through,\. please.<#>Мы бы хотели\#пройти,\. пожалуйста.
+Hmm...<#>Хмм...
+You've got\#the Brand.<#>Ты в\#брендовом.
+Are you\#a new member?<#>Ты новый\#член?
+Um...\| yes.<#>Э...\| да.
+That's cool.<#>Круто.
+Here,\. let me\#raise the gate.<#>Сейчас,\. дайте\#подниму ворота.
+Have fun.<#>Веселитесь.
+The Corps\#will treat\#you right.<#>Корпы хорошо\#к вам отнесуться.
+Sorry, but\#this is Corps\#territory.<#>Простите, но это\#территория\#Корпов.
+Only gang\#members are\#allowed passage.<#>Только членам\#банды разрешено\#проходить.
+Come back\#when you've\#got some\#bling on you.<#>Возвращайтесь,\#когда у вас\#появится какой-нибудь\#стиль.
+Seems like\#you've picked\#up some style.<#>Похоже, вы\#побольше\#узнали о стиле.
+That's what\#we like\#to see.<#>Это меня\#радует.
+I suppose I'll\#let you in.<#>Ну, наверное,\#я впущу вас.
+Enjoy yourself.<#>Наслаждайтесь.
+The fun\#times might\#not last\#for long.<#>Весёлое время\#может быстро\#закончится.
+You still\#don't have\#the stuff.<#>У тебя ещё\#нет его.
+No King,\.\#no entry.<#>Нет короля -\.\#нет входа.
+Gate's open.\.\#What are you\#waiting for?<#>Ворота открыты.\.\#Чего ты ждёшь?
+Head inside.<#>Направляйся внутрь.
+That chef\#bastard needs\#to come on\#out here.<#>Этому ублюдку\#шефу нужно\#выйти сюда.
 <!-- Map247.rvdata2 --><#>
-I didn't\#climb this hill\#to get stiffed\#by a fence!<#>
-If this\#is his idea\#of a joke,\.\#I'm not laughing.<#>
-Shef's a\#wily one,\.\#I tell ya.<#>
-Took nearly\#five percent of\#our land just\#by himself.<#>
-It's every\#jersey's dream\#to get a chance\#at that fight.<#>
-Too bad\#he doesn't\#seem to share\#our sentiments.<#>
-The boy\#that takes off\#his head will be\#crowned a king.<#>
-Coward ain't\#ain't even here.<#>
-We was\#set up from\#the start.<#>
-Guess I'll\#have to find\#some other\#bitch to butcher.<#>
-All I\#want is\#one good\#fight.<#>
-That'd be\#more than\#The Game\#ever got me.<#>
-The thrill\#of battle\#is calling\#my name.<#>
+I didn't\#climb this hill\#to get stiffed\#by a fence!<#>Я забирался на\#эту гору не для\#того, чтобы меня\#останавливал забор!
+If this\#is his idea\#of a joke,\.\#I'm not laughing.<#>Если это\#у него такие\#шутки,\. то\#мне не смешно.
+Shef's a\#wily one,\.\#I tell ya.<#>Шеф - хитрец,\.\#скажу тебе.
+Took nearly\#five percent of\#our land just\#by himself.<#>Забрал примерно\#пятьдесят процентов\#земли себе.
+It's every\#jersey's dream\#to get a chance\#at that fight.<#>Каждый маечник\#мечтает сразиться\#с ним.
+Too bad\#he doesn't\#seem to share\#our sentiments.<#>Жаль, что он,\#похоже, не\#разделяет это\#желание.
+The boy\#that takes off\#his head will be\#crowned a king.<#>Тот, кто срубит\#его голосу с\#плеч, будет\#коронован.
+Coward ain't\#ain't even here.<#>Труса здесь\#даже нет.
+We was\#set up from\#the start.<#>Нас надули\#с самого\#начала.
+Guess I'll\#have to find\#some other\#bitch to butcher.<#>Похоже,\#придётся найти\#и зарезать\#другую суку.
+All I\#want is\#one good\#fight.<#>Всё, чего\#я хочу -\#хорошей\#битвы.
+That'd be\#more than\#The Game\#ever got me.<#>Она бы дала мне\#больше чувств,\#чем Игра когда-либо.
+The thrill\#of battle\#is calling\#my name.<#>Азарт\#битвы\#зовёт\#меня.
 "No Entry"<#>
-"Shef's Space"<#>
-Don't let\#his goofy hat\#fool you.<#>
+"Shef's Space"<#>"Обитель Шефа"
+Don't let\#his goofy hat\#fool you.<#>Не позволь\#его дурацкой\#шляпе обмануть тебя.
 <!-- Map248.rvdata2 --><#>
 That man\#is a monster.<#>Этот человек -\#монстр.
 There's a\#reason he got\#that turf all\#by himself.<#>Есть причина,\#по которой он\#забрал всю\#землю себе.
@@ -7141,7 +7141,7 @@ The meat pulses with green.<#>Мясо пульсирует зеленым цв�
 Cocola Cola!<#>Кокола-кола!
 You're not\#supposed to\#be here...<#>Ты не должен\#быть здесь...
 <!-- Map251.rvdata2 --><#>
-Well, we'll\#get out of\#your hair,\. then.<#>
+Well, we'll\#get out of\#your hair,\. then.<#>Ну,\. тогда\#мы уберёмся\#с твоих глаз
 Just let\#us pass.<#>Просто дай\#нам пройти.
 The cycle of\#violence spins\#'round and 'round.<#>Цикл насилия\#вращается вновь\#и вновь.
 This spiral of\#blood will paint\#Downtown with\#sanguine glory.<#>Спираль из\#крови окрасит\#город светлой\#славой.
@@ -7370,32 +7370,32 @@ Ha ha HA!<#>
 Gimme my belt!<#>
 "Welcome Back to Mack"<#>
 <!-- Map255.rvdata2 --><#>
-The silo is firmly sealed.<#>
-Farming tools.<#>
-A watering can and some fertilizer.<#>
-Pluck a carrot?<#>
-Them crops\#ain't for\#just takin'!<#>
-Got a Rooty Carrot!<#>
-Pulling this out of the ground\#would probably be very difficult.<#>
-Boarded entryway.<#>
-It's sealed with a rusty lock.<#>
-Used the Mack Key.<#>
-Crops ain't\#lookin' too\#hot this year.<#>
-The soil\#in Downtown\#just ain't what\#it used to be.<#>
-But that's alright.\|\#Daddy Mack will\#know what to do.<#>
-He's gotten\#us through\#tougher times\#than these.<#>
-I bet those\#jerseyheads have\#somethin' to do\#with the crops dyin'.<#>
-That bunch's like\#a bad omen.<#>
-Ain't nothin'\#good can come\#outta them.<#>
-Everything's goin'\#south for us\#Mack kids.<#>
-Our crops\#are dying',\.\#meat's pilin'\#up to our knees...<#>
-And now\#we've done\#lost the key\#to the Mack Shack.<#>
-It's just\#one thing\#after another.<#>
-How long'll\#it be 'till those\#jerseys come\#stormin' through, too?<#>
-I hope\#Daddy Mack\#can get us\#through this.<#>
-He's always\#got a plan\#cookin' in that\#big head of his...<#>
-Jersey scarecrow.<#>
-Acquired Mystery Jerky!<#>
+The silo is firmly sealed.<#>Силос надежно запечатан.
+Farming tools.<#>Дачные инструменты.
+A watering can and some fertilizer.<#>Лейка и немного удобрений.
+Pluck a carrot?<#>Сорвать морковку?
+Them crops\#ain't for\#just takin'!<#>Этот урожай\#не для вас!
+Got a Rooty Carrot!<#>Получена морковка!
+Pulling this out of the ground\#would probably be very difficult.<#>Вытащить её из земли,\#наверное, будет очень сложно.
+Boarded entryway.<#>Заколоченный вход.
+It's sealed with a rusty lock.<#>Заперто на ржавый замок.
+Used the Mack Key.<#>Использован ключ Маков.
+Crops ain't\#lookin' too\#hot this year.<#>Урожай в этом\#году не особо\#крупный.
+The soil\#in Downtown\#just ain't what\#it used to be.<#>Почва в\#городе уже\#не та, которой\#была.
+But that's alright.\|\#Daddy Mack will\#know what to do.<#>Но всё в порядке.\|\#Папочка Мак знает,\#что делать.
+He's gotten\#us through\#tougher times\#than these.<#>Он проводил\#нас сквозь\#худшие\#времена.
+I bet those\#jerseyheads have\#somethin' to do\#with the crops dyin'.<#>Ставлю, что\#эти маечники\#как-то связаны\#с гибелью урожая.
+That bunch's like\#a bad omen.<#>Эта кучка людей\#словно плохое знамение.
+Ain't nothin'\#good can come\#outta them.<#>Ничто хорошее\#из них не выходит.
+Everything's goin'\#south for us\#Mack kids.<#>Всё идёт наперекосяк\#у нас, детей Мака.
+Our crops\#are dying',\.\#meat's pilin'\#up to our knees...<#>Наш урожай\#умирает,\.\#у наших ног\#скапливается мясо...
+And now\#we've done\#lost the key\#to the Mack Shack.<#>И теперь мы\#потеряли ключ\#к хижине\#Маков.
+It's just\#one thing\#after another.<#>Всё идёт\#одно за\#другим.
+How long'll\#it be 'till those\#jerseys come\#stormin' through, too?<#>Как скоро\#же эти маечники\#прорвутся?
+I hope\#Daddy Mack\#can get us\#through this.<#>Надеюсь,\#папочка Мак\#поможет нам\#пережить это.
+He's always\#got a plan\#cookin' in that\#big head of his...<#>Он всегда\#готовит планы\#в своей большой\#голове...
+Jersey scarecrow.<#>Пугало в майке.
+Acquired Mystery Jerky!<#>Получено неизвестное мясо!
 <!-- Map256.rvdata2 --><#>
 <!-- Map257.rvdata2 --><#>
 <!-- Map258.rvdata2 --><#>
@@ -7408,63 +7408,63 @@ Old tractor.<#>Старый трактор.
 Old tractor. The engine is missing.<#>Старый трактор. Двигатель отсутствует.
 Old tractor. The wheels\#were changed recently.<#>Старый трактор. Колёса были недавно\#заменены.
 Combine, too rusty to function.<#>Комбайн, слишком ржавый для работы.
-All this\#meat lyin'\#around's stinkin'\#to high hell.<#>
-When is someone\#gonna take the\#rake and scoop\#that shit up?<#>
-What's stoppin'\#you from doin'\#that yerself,\. dickhead?<#>
-'Cause...<#>
-Ya gonna\#finish that\#there thought?<#>
-Yup. Knew it.<#>
-Huck,\. why's\#you so mean\#to me all\#the damn time?<#>
-'Cause you\#dumb as hell.<#>
-But we're\#brothers!<#>
-That don't\#mean nothin'.<#>
-Never meant\#nothin' to\#Pappy,\. anyway...<#>
-Let's not\#talk about that.<#>
-I can\#talk about\#whatever the\#hell I want.<#>
-You're a jackass.<#>
-I'm gonna\#get back\#to work now.<#>
-Good.\. Make\#yerself useful\#for once.<#>
-Fuck you,\. Huck.<#>
-Fuck you,\. Glenn.<#>
-Looks like\#we got us\#some fresh meat!<#>
-The hell\#do you think\#is fresh about\#an old man?<#>
-Meat is\#meat,\. so\#long as\#it breathes!<#>
-Whatever, just\#get 'em!<#>
-Hmm...\|\#Wheat's all\#fucked up.<#>
-What?\. Why?<#>
-Hell if\#I know,\#just is.<#>
-That ain't good!<#>
-If the\#wheat don't\#grow,\. what're\#we gonna eat?<#>
-We'll be fine.<#>
-Got enough\#stored up to\#feed the whole\#damn town.<#>
-And if\#that ain't\#enough...<#>
-Maybe we'll\#put meat on\#the menu.<#>
-You can't\#grow meat,\.\#dumbfuck!<#>
-It was\#a metaphor\#you piece'a\#rat shit.<#>
-What's a metaphor?<#>
-You wouldn't\#understand if\#I told ya.<#>
-You callin'\#me stupid?<#>
-I hate you.<#>
-Feelin's mutual.<#>
-Bitch.<#>
-Bastard.<#>
-This harvest\#won't last\#us the year.<#>
-If it keeps\#this up,\. we'll\#be done for.<#>
-Our stores\#aren't holdin'\#up as well\#as we hoped...<#>
-Bless us,\.\#Momma Mack.<#>
-Keep us fed...<#>
-...'fore we\#all eat\#ourselves alive.<#>
-Farmin's hard\#work,\. I tell ya.<#>
-Don't help\#that the soil\#here ain't good\#for nothin'.<#>
-Gotta keep\#goin', though.<#>
-Downtown'll be\#toast without\#this next harvest.<#>
-Hey!\.\#You messin'\#with our\#farm, dipstick?!<#>
-No,\. I'm just\#passing through.<#>
-You better.<#>
-Ain't got no\#more patience\#for troublemakers\#'round these parts.<#>
-'Specially with\#these jersey\#knuckleheads\#runnin' amok.<#>
-You'll be plum\#fucked if I catch\#you messin' 'round\#with our crops.<#>
-Junker.<#>
+All this\#meat lyin'\#around's stinkin'\#to high hell.<#>Всё это мясо\#чертовски\#воняет.
+When is someone\#gonna take the\#rake and scoop\#that shit up?<#>Когда кто-нибудь\#возьмёт грабли\#и сгребёт это\#дерьмо?
+What's stoppin'\#you from doin'\#that yerself,\. dickhead?<#>Что мешает тебе\#сделать это лично,\.\#кретин?
+'Cause...<#>Ну...
+Ya gonna\#finish that\#there thought?<#>Что, есть\#оправдания?
+Yup. Knew it.<#>Ага. Так и знал.
+Huck,\. why's\#you so mean\#to me all\#the damn time?<#>Гек,\. почему\#ты так груб со\#мной всё время?
+'Cause you\#dumb as hell.<#>Потому что ты\#чертовски туп.
+But we're\#brothers!<#>Но мы братья!
+That don't\#mean nothin'.<#>Это ничего\#не значит.
+Never meant\#nothin' to\#Pappy,\. anyway...<#>Никогда не\#значило для\#папочки,\. в любом случае...
+Let's not\#talk about that.<#>Давай не будем\#об этом.
+I can\#talk about\#whatever the\#hell I want.<#>Я могу говорить\#о чём угодно\#захочу.
+You're a jackass.<#>Ты мудак.
+I'm gonna\#get back\#to work now.<#>Я возвращаюсь\#к работе.
+Good.\. Make\#yerself useful\#for once.<#>Отлично.\.\#Побудь полезным\#хоть раз.
+Fuck you,\. Huck.<#>Пошёл ты нахуй,\. Гек.
+Fuck you,\. Glenn.<#>Пошёл ты нахуй,\. Гленн.
+Looks like\#we got us\#some fresh meat!<#>Похоже, у нас\#есть немного\#свежего мяса!
+The hell\#do you think\#is fresh about\#an old man?<#>Что ты нахер\#видишь свежего\#в старике?
+Meat is\#meat,\. so\#long as\#it breathes!<#>Мясо есть\#мясо,\. пока\#оно дышит!
+Whatever, just\#get 'em!<#>Неважно, просто\#убей его!
+Hmm...\|\#Wheat's all\#fucked up.<#>Хмм...\|\#Пшеница вся\#взъёбана.
+What?\. Why?<#>Что?\. Почему?
+Hell if\#I know,\#just is.<#>Чёрт,\#знал бы\#я.
+That ain't good!<#>Это нехорошо!
+If the\#wheat don't\#grow,\. what're\#we gonna eat?<#>Если пшеница\#не вырастет,\.\#что мы будем\#есть?
+We'll be fine.<#>Мы будем в порядке.
+Got enough\#stored up to\#feed the whole\#damn town.<#>Мы накопили\#достаточно, чтобы\#накормить всех\#сраный город.
+And if\#that ain't\#enough...<#>И если даже\#этого не хватит...
+Maybe we'll\#put meat on\#the menu.<#>Возможно, мы\#вернём мясо в\#меню.
+You can't\#grow meat,\.\#dumbfuck!<#>Ты не можешь\#растить мясо,\.\#долбоёб!
+It was\#a metaphor\#you piece'a\#rat shit.<#>Это была\#метафора,\#кусок ты\#крысиного дерьма.
+What's a metaphor?<#>Что такое метафора?
+You wouldn't\#understand if\#I told ya.<#>Ты не поймёшь,\#даже если я\#объясню.
+You callin'\#me stupid?<#>Ты называешь\#меня тупым?
+I hate you.<#>Я тебя ненавижу.
+Feelin's mutual.<#>Это взаимно.
+Bitch.<#>Сучка.
+Bastard.<#>Ублюдок.
+This harvest\#won't last\#us the year.<#>Этого урожая\#нам не хватит\#на год.
+If it keeps\#this up,\. we'll\#be done for.<#>Если так и\#будет дальше,\.\#нам конец.
+Our stores\#aren't holdin'\#up as well\#as we hoped...<#>Наши запасы\#держаться не\#так хорошо, как\#мы надеялись...
+Bless us,\.\#Momma Mack.<#>Благослови нас,\.\#мамочка Мак.
+Keep us fed...<#>Накорми нас...
+...'fore we\#all eat\#ourselves alive.<#>...пока мы не\#съели друг\#друга заживо.
+Farmin's hard\#work,\. I tell ya.<#>Огород - тяжёлая\#работа,\. скажу тебе.
+Don't help\#that the soil\#here ain't good\#for nothin'.<#>И эта ни на\#что непригодная\#почва не спасает\#ситуацию.
+Gotta keep\#goin', though.<#>Но надо\#продолжать.
+Downtown'll be\#toast without\#this next harvest.<#>Городу конец,\#если следующий\#урожай не удастся.
+Hey!\.\#You messin'\#with our\#farm, dipstick?!<#>Эй!\.\#Ты портишь\#нашу ферму, \#придурок?!
+No,\. I'm just\#passing through.<#>Нет,\. я просто\#прохожу мимо.
+You better.<#>Лучше так.
+Ain't got no\#more patience\#for troublemakers\#'round these parts.<#>У меня уже\#не осталось\#терпения на\#местных хулиганов.
+'Specially with\#these jersey\#knuckleheads\#runnin' amok.<#>Особенно\#обезумевших\#идиотов в\#майках.
+You'll be plum\#fucked if I catch\#you messin' 'round\#with our crops.<#>Тебе пиздец,\#если я увижу,\#что ты портишь\#наш урожай.
+Junker.<#>Хлам.
 <!-- Map261.rvdata2 --><#>
 <!-- Map262.rvdata2 --><#>
 It's displaying various areas of the town.<#>Она отображает различные области города.
@@ -7480,94 +7480,94 @@ The townsfolk\#here are some\#interesting people.<#>Местные горожа�
 This "Game"\#they're playing...<#>Эта "Игра", в которую\#они играют...
 Do you suppose\#it could be\#a worthwhile\#business venture?<#>Как ты думаешь,\#может она\#годится для\#бизнес-вмешательства?
 Maybe.<#>Возможно.
-We're not\#in the right\#place to\#be picky.<#>Мы не в\#положении,\#чтобы\#придираться.
+We're not\#in the right\#place to\#be picky.<#>Мы не в\#положении,\#чтобы много\#требовать.
 Desparate sales\#for desparate buyers.<#>Отчаянные продажи для\#отчаянных покупателей.
 Sounds like\#a handsome\#investment\#to me.<#>Звучит, как\#неплохая\#инвестиция.
-Senseless violence\#is an untapped market.<#>
-We'll milk\#these people\#for everything\#they're worth.<#>
-We've been\#skirting the\#edge of bankrupcy\#for years now.<#>
-We need\#some revenue\#before we\#lose everything.<#>
+Senseless violence\#is an untapped market.<#>Бессмысленное насилие -\#это нераскрытый рынок.
+We'll milk\#these people\#for everything\#they're worth.<#>Мы выдоим из\#этих людей всё,\#чего они стоят.
+We've been\#skirting the\#edge of bankrupcy\#for years now.<#>Мы уже годы\#пребываем на\#грани банкротства.
+We need\#some revenue\#before we\#lose everything.<#>Нам нужно\#немного\#дохода, пока\#мы всё не потеряли.
 Relax,\. Lancaster.<#>Расслабься,\. Ланкастер.
-It's only\#a matter of\#time before\#we hit it big.<#>
-Wall Street\#veterans like\#us always come\#out on top.<#>
-Don't count\#your chickens\#before they\#hatch,\. Gordon.<#>
-To think,\. we\#used to be\#sipping cocktails\#with Richard Nixon.<#>
-Those damn\#communists cost\#us everything.<#>
-I had a\#long talk with a\#fellow businessman.<#>
-Turns out,\#the Infinity\#Franchise is\#on the rise.<#>
-And I'm gonna\#ride the red\#line all the\#way to the top.<#>
-This is\#the investment\#I've been\#waiting for.<#>
-Indeed,\. patience\#is a tool of\#the prosperous...<#>
-Gaze upon\#me now,\#great sage.<#>
-See the\#carnage I\#have wrought.<#>
-The blood\#that drips from\#my hands...<#>
-It has\#become a\#part of me.<#>
-As inseparable\#as the lungs\#in my chest.<#>
-When the\#angel of death\#comes, it will\#sing my name.<#>
-Serenade me,\.\#o angel of death...<#>
-Legend has\#it that there\#are worlds\#beyond our own.<#>
+It's only\#a matter of\#time before\#we hit it big.<#>Лишь дело\#времени, когда\#мы наткнёмся\#на крупную жилу.
+Wall Street\#veterans like\#us always come\#out on top.<#>Ветераны\#Уолл-стрит вроде\#нас всегда окажутся\#на вершине.
+Don't count\#your chickens\#before they\#hatch,\. Gordon.<#>Не считай\#цыплят пока\#они не вылупились,\.\#Гордон.
+To think,\. we\#used to be\#sipping cocktails\#with Richard Nixon.<#>Только подумать,\.\#что мы пили\#коктейли с\#Ричардом Никсоном.
+Those damn\#communists cost\#us everything.<#>Эти сраные\#коммунисты\#украли у нас всё.
+I had a\#long talk with a\#fellow businessman.<#>У меня был долгий\#разговор с товарищем\#по бизнесу.
+Turns out,\#the Infinity\#Franchise is\#on the rise.<#>Оказывается,\#Бесконечная\#Франшиза сейчас\#на подъёме.
+And I'm gonna\#ride the red\#line all the\#way to the top.<#>И я прокачусь\#по линии крови\#до самого верха.
+This is\#the investment\#I've been\#waiting for.<#>Этой инвестиции\#я и ждал.
+Indeed,\. patience\#is a tool of\#the prosperous...<#>Воистину,\. терпение -\#инструмент процветания...
+Gaze upon\#me now,\#great sage.<#>Взгляни же на\#меня, великий\#мудрец.
+See the\#carnage I\#have wrought.<#>Узри резню,\#которую я\#принёс.
+The blood\#that drips from\#my hands...<#>Кровь, стекающая\#с моих рук...
+It has\#become a\#part of me.<#>Стала частью\#меня.
+As inseparable\#as the lungs\#in my chest.<#>Неразделима\#со мной, как\#лёгкие в моей груди.
+When the\#angel of death\#comes, it will\#sing my name.<#>Когда ангел\#смерти придёт,\#он будет петь\#моё имя.
+Serenade me,\.\#o angel of death...<#>Пой мне серенады,\.\#о ангел смерти...
+Legend has\#it that there\#are worlds\#beyond our own.<#>Легенда гласит,\#что существуют\#миры за пределами\#нашего.
 <!-- Map269.rvdata2 --><#>
-Realms past the\#deepest abyss and\#through the thickest\#fogs of mystery.<#>
-Can we\#humans even\#comprehend\#such places?<#>
-Should you\#find yourself\#in a plane\#beyond the Earth...<#>
-...I suggest\#you leave\#as soon\#as possible.<#>
-Some things\#are better\#off unknown.<#>
-Madness is\#sure to come\#to those who\#seek the truth.<#>
-Sometimes,\. it's\#almost too easy.<#>
-After your\#first heads,\.\#killing ain't\#even a struggle.<#>
-But it\#ain't fun,\.\#neither.<#>
-It's just blood.<#>
-I guess we'll\#all be blood\#in the end.<#>
-You wanna\#hear a joke?<#>
-My political\#science degree.<#>
-It'd be funny\#if it wasn't so sad.<#>
-Before The Game,\.\#I felt like a\#useless old man\#waiting for death.<#>
+Realms past the\#deepest abyss and\#through the thickest\#fogs of mystery.<#>Царства за пределами\#глубочайшей бездны,\#скрывающиеся за самыми\#толстыми туманами таинства.
+Can we\#humans even\#comprehend\#such places?<#>Могут ли\#люди вообще\#понимать такие\#места?
+Should you\#find yourself\#in a plane\#beyond the Earth...<#>Если же ты\#найдёшь себя\#в измерении\#вне Земли...
+...I suggest\#you leave\#as soon\#as possible.<#>...Советую\#теперь уходить\#как можно\#скорее.
+Some things\#are better\#off unknown.<#>Некоторым вещам\#лучше оставаться\#неизвестными.
+Madness is\#sure to come\#to those who\#seek the truth.<#>Безумие определённо\#настигнет тех, кто\#ищет правду.
+Sometimes,\. it's\#almost too easy.<#>Иногда,\. это\#слишком легко.
+After your\#first heads,\.\#killing ain't\#even a struggle.<#>После первых\#начинаний,\.\#убивать уже даже\#не сложно.
+But it\#ain't fun,\.\#neither.<#>Но и не\#весело.\.
+It's just blood.<#>Это просто кровь.
+I guess we'll\#all be blood\#in the end.<#>Думаю, мы все\#в итоге - лишь\#кровь.
+You wanna\#hear a joke?<#>Хочешь\#шутку?
+My political\#science degree.<#>Я отучился\#на политика.
+It'd be funny\#if it wasn't so sad.<#>Было бы смешно, если\#бы не было так грустно.
+Before The Game,\.\#I felt like a\#useless old man\#waiting for death.<#>До Игры,\. я\#чувствовал себя\#бесполезным стариком,\#ожидающим смерти.
 <!-- Map270.rvdata2 --><#>
-But Otto and\#all the others\#gave my life\#purpose again.<#>
-I'm not\#much for\#the brutality\#of it all, but...<#>
-The schemes?\.\#The board meetings?\.\#The toilet cleanings?<#>
-I live\#for those.<#>
-The last\#meeting we had,\#Otto even brought\#in some donuts!<#>
-They were\#stale and slightly\#moldy, but still!<#>
-Donuts, in this\#day and age!<#>
-A bloody\#sight for\#sore eyes.<#>
-Otto still\#isn't back\#from that\#meeting.<#>
-I'm starting\#to get nervous...<#>
-What if...\|\#he doesn't\#come back?<#>
-That's preposterious.<#>
-Otto will\#be back;\.\#we just need\#to be patient.<#>
-If you\#say so...<#>
+But Otto and\#all the others\#gave my life\#purpose again.<#>Но Отто\#и остальные\#снова дали\#моей жизни смысл.
+I'm not\#much for\#the brutality\#of it all, but...<#>Мне не очень\#нравится вся эта\#жестокость, но...
+The schemes?\.\#The board meetings?\.\#The toilet cleanings?<#>Планы?\.\#Заседания?\.\#Чистки туалетов?
+I live\#for those.<#>Я живу ради\#всего этого.
+The last\#meeting we had,\#Otto even brought\#in some donuts!<#>И на последнем\#заседании, Отто\#даже принёс\#пончиков!
+They were\#stale and slightly\#moldy, but still!<#>Они были жёсткие\#и слегка плесневелые,\#но всё же!
+Donuts, in this\#day and age!<#>Пончики, в такой день\#и возраст!
+A bloody\#sight for\#sore eyes.<#>Кровавый\#вид для\#бедных глаз.
+Otto still\#isn't back\#from that\#meeting.<#>Отто ещё\#не вернулся\#со встречи.
+I'm starting\#to get nervous...<#>Я начинаю\#нервничать...
+What if...\|\#he doesn't\#come back?<#>Что если...\|\#Он не вернётся?
+That's preposterious.<#>Это абсурдно.
+Otto will\#be back;\.\#we just need\#to be patient.<#>Отто вернётся,\.\#нужно просто\#подождать.
+If you\#say so...<#>Если ты так\#считаешь...
 We better\#throw him one\#ripper of a\#return party.<#>
 Him and\#Lenny both.<#>
-I'm on\#the lookout\#for jerseyheads.<#>
-Seen any?<#>
-A few.<#>
-Killed any?<#>
-.\..\..\.A few.<#>
-Damn freaks\#are ruining\#The Game\#with their antics.<#>
-Otto's got\#a plan.<#>
-He'll make\#sure things\#are taken\#care of right.<#>
-Rusty mailbox.<#>
-Say...\| have you\#noticed it getting\#a little\. loud\.\#inside the Bureau?<#>
-Afraid I wouldn't\#know, Adrian.<#>
-Your ears\#work better\#than mine.<#>
-Perhaps this calls\#for a little...\|\#investigation.<#>
-Eh, they're\#probably fine.<#>
-If you're\#looking for\#Otto,\. he's\#not here.<#>
+I'm on\#the lookout\#for jerseyheads.<#>Я наблюдаю\#за маечниками.
+Seen any?<#>Заметил скольких?
+A few.<#>Парочку.
+Killed any?<#>Убил скольких?
+.\..\..\.A few.<#>.\..\..\.Парочку.
+Damn freaks\#are ruining\#The Game\#with their antics.<#>Чёртовы фрики\#портят Игру\#своими выходками.
+Otto's got\#a plan.<#>У Отто есть\#план.
+He'll make\#sure things\#are taken\#care of right.<#>Он убедиться,\#чтобы всё было\#правильно.
+Rusty mailbox.<#>Ржавый почтовый ящик.
+Say...\| have you\#noticed it getting\#a little\. loud\.\#inside the Bureau?<#>Скажи...\| ты\#не замечал,\#что в Бюро стало\#немного\. громко\.?
+Afraid I wouldn't\#know, Adrian.<#>Боюсь, не замечал,\#Адриан.
+Your ears\#work better\#than mine.<#>Ты слышишь\#лучше, чем\#я.
+Perhaps this calls\#for a little...\|\#investigation.<#>Возможно, придётся\#немного...\|\#порасследовать.
+Eh, they're\#probably fine.<#>А, с ними наверное\#всё нормально.
+If you're\#looking for\#Otto,\. he's\#not here.<#>Если ты\#ищешь\#Отто,\.\#он не здесь.
 <!-- Map271.rvdata2 --><#>
-No telling when\#he'll be back.<#>
-That meeting's\#liable to\#last for ages...<#>
-Oh,\. and don't\#even think about\#breaking into his office.<#>
-It's locked\#up tighter\#than Fort Knox.<#>
-And I swallowed\#the key, so...<#>
-Gonna be at least\#a couple hours before\#anyone gets inside.<#>
-Now that I\#think about it,\.\#I hope Otto\#takes his time.<#>
-Was that sound\#I heard behind me\#the sound of Otto's\#office being infiltrated?<#>
-Oh,\. alright.<#>
+No telling when\#he'll be back.<#>Неизвестно, когда\#он вернётся.
+That meeting's\#liable to\#last for ages...<#>Эта встреча\#длиться веками...
+Oh,\. and don't\#even think about\#breaking into his office.<#>О,\. и даже\#не думай вламываться\#в его офис.
+It's locked\#up tighter\#than Fort Knox.<#>Он заперт лучше,\#чем форт нокс.
+And I swallowed\#the key, so...<#>И я проглотил\#ключ, так что...
+Gonna be at least\#a couple hours before\#anyone gets inside.<#>Как минимум\#несколько часов\#никто не сможет войти.
+Now that I\#think about it,\.\#I hope Otto\#takes his time.<#>Теперь, когда я\#обдумываю это,\.\#я надеюсь что Отто\#не будет спешить.
+Was that sound\#I heard behind me\#the sound of Otto's\#office being infiltrated?<#>Не звук ли это\#вламывания в\#офис Отто я\#услышал за спиной?
+Oh,\. alright.<#>А,\. точно.
 Checked the trash can.<#>Вы проверили мусорный бак.
 Ten rotten fruits!<#>Десять гнилых фруктов!
 Nothing else useful.<#>Больше ничего полезного.
-How long\#until the\#coffee is done?<#>
+How long\#until the\#coffee is done?<#>Как скоро\#будет кофе?
 <!-- Map272.rvdata2 --><#>
 Hmph, impatient\#as always,\. Francis!<#>Хмпф, как всегда\#нетерпелив,\. Фрэнсис!
 No,\. it's\#just been\#half an hour\#and I'm getting-\^<#>Нет,\. просто\#прошло\#полчаса,\#и я начинаю-\^
@@ -7612,41 +7612,41 @@ Textbooks on international trade.<#>Учебники по международн
 Spare Tie!<#>Запасной галстук!
 Ey, you\#seen dat\#Long Leg\#freak 'round here?<#>Эй, ты видел того\#длинноногого\#уродца здесь?
 <!-- Map274.rvdata2 --><#>
-Can't say\#I have.<#>
-Bastard borrowed\#my other club\#and hasn't given\#it back yet.<#>
-Swear,\. next\#time I see\#him I'll crack\#his ankles open.<#>
-You'd best\#be careful,\#talkin' 'bout\#Lenny like that.<#>
-Especially right\#outside his office.<#>
-Guy's a\#monster.<#>
-Psh,\. ain't\#nothin' outta\#my league.<#>
-Only takes\#one whack to\#da kneecaps,\.\#and pa-blooey.<#>
-Not such\#a tall order\#no more.<#>
-Uh huh,\.\#sure...<#>
-I'll have ya know\#dat I hold da world\#record for most holes-in-one\#in one game'a golf.<#>
-And how\#many holes\#would that be?<#>
-Why do you\#need to know?<#>
-I don't,\.\#but I wanna\#make sure\#you're bein' truthful.<#>
-What,\. don't\#trust me?<#>
-Well fuck\#you den.<#>
-Ain't gonna\#tell ya anyway.<#>
-My golf\#prowess is\#unparalleled.<#>
-Swear on\#my momma's\#husband's ex-\#girlfriend's cat.<#>
-Guess I hold\#anotha world\#record now.<#>
-"Most holes\#clubbed into\#one fool's\#sorry head."<#>
-Tell the\#boys over at\#Guinness to\#write this down.<#>
-Wonder if\#we'll have a\#board meetin'\#when Otto gets back.<#>
-Fuckin' hope\#not.\. They're\#borin' as shit.<#>
-That's just\#'cause you\#ain't never\#paid attention.<#>
-I ain't never\#paid attention 'cause\#they're borin' as shit.<#>
-Pah, your loss.<#>
-Otto's a\#modern-day\#Socrates,\. I\#tell ya.<#>
-Sock-ra-who?<#>
-Fuggedaboutit.<#>
-Got a Businessy Fedora!<#>
-Old newspaper clipping.<#>
-A feasibility report on the\#efficacy of reusable toilet paper.<#>
-Dry as a desert.<#>
-Janitor's tools.<#>
+Can't say\#I have.<#>Не сказать.
+Bastard borrowed\#my other club\#and hasn't given\#it back yet.<#>Ублюдок взял\#мою вторую\#дубину и до\#сих пор не отдал.
+Swear,\. next\#time I see\#him I'll crack\#his ankles open.<#>Клянусь,\. в\#следующий раз\#я переломаю его\#колени.
+You'd best\#be careful,\#talkin' 'bout\#Lenny like that.<#>Ты осторожнее\#так говорить о\#Ленни.
+Especially right\#outside his office.<#>Особенно прямо\#у его офиса.
+Guy's a\#monster.<#>Он монстр.
+Psh,\. ain't\#nothin' outta\#my league.<#>Пф,\. не выше\#моей категории.
+Only takes\#one whack to\#da kneecaps,\.\#and pa-blooey.<#>Надо лишь\#долбануть\#па каленкам,\.\#и всё в крови.
+Not such\#a tall order\#no more.<#>И он не такой\#весь высокий\#из себя.
+Uh huh,\.\#sure...<#>А-га,\.\#конечно.
+I'll have ya know\#dat I hold da world\#record for most holes-in-one\#in one game'a golf.<#>Хочу, чтоб ты знал, что\#я обладатель мирового\#рекорда по забиваниям\#в лунки за одну игру в гольф.
+And how\#many holes\#would that be?<#>И как много\#раз ты забил?
+Why do you\#need to know?<#>А зачем тебе\#знать?
+I don't,\.\#but I wanna\#make sure\#you're bein' truthful.<#>Мне не\#нужно,\. но я\#хочу убедиться\#что ты не врёшь.
+What,\. don't\#trust me?<#>Что,\. ты не\#доверяешь?
+Well fuck\#you den.<#>Ну и пошёл\#ты нахуй.
+Ain't gonna\#tell ya anyway.<#>Я тебе не\#скажу.
+My golf\#prowess is\#unparalleled.<#>Моему мастерству\#в гольфе нет\#равных.
+Swear on\#my momma's\#husband's ex-\#girlfriend's cat.<#>Клянусь кошкой\#бывшей девушки\#мужа моей мамы.
+Guess I hold\#anotha world\#record now.<#>Похоже я терь\#держу новый\#мировой рекорд.
+"Most holes\#clubbed into\#one fool's\#sorry head."<#>"Самое большое\#количество дыр,\#пробитое в бедной\#голове одного придурка."
+Tell the\#boys over at\#Guinness to\#write this down.<#>Нужно будет\#сказать Гинесским,\#чтобы записали.
+Wonder if\#we'll have a\#board meetin'\#when Otto gets back.<#>Интересно, будет\#ли у нас заседание,\#когда Отто вернётся.
+Fuckin' hope\#not.\. They're\#borin' as shit.<#>Надеюсь что\#блядь нет.\. Они\#чертовски скучные.
+That's just\#'cause you\#ain't never\#paid attention.<#>Это потому что\#ты ничего не\#слушаешь.
+I ain't never\#paid attention 'cause\#they're borin' as shit.<#>Я не слушаю,\#потому что они\#чертовски скучные.
+Pah, your loss.<#>Ба, твоя потеря.
+Otto's a\#modern-day\#Socrates,\. I\#tell ya.<#>Отто - современный\#Сократ,\. скажу тебе.
+Sock-ra-who?<#>Сок-ра-кто?
+Fuggedaboutit.<#>Забей.
+Got a Businessy Fedora!<#>Получена деловая федора!
+Old newspaper clipping.<#>Вырезка из старой газеты.
+A feasibility report on the\#efficacy of reusable toilet paper.<#>Отчёт об эффективности многоразовой\#туалетной бумаги.
+Dry as a desert.<#>Сухо, как в пустыне.
+Janitor's tools.<#>Инструменты уборщика.
 <!-- Map275.rvdata2 --><#>
 Take a cup of water?<#>Взять стакан воды?
 <!-- Map276.rvdata2 --><#>
@@ -7688,25 +7688,25 @@ Lists of names, among other papers.<#>Списки имён и другие до
 The papers have been smeared with blood.<#>Бумаги запачканы кровью.
 He's staring off vacantly.<#>Он смотрит вдаль пустым взглядом.
 <!-- Map278.rvdata2 --><#>
-This the\#satellite those\#golden boys\#were talkin' about?<#>
-Looks like it.<#>
-Nah,\. this\#could be\#anyone's giant\#satellite.<#>
-Think they'd\#appreciate it\#if we fixed\#it up for them?<#>
-Uh...\| probably?<#>
-What are\#you getting at?<#>
-I don't\#like where\#this is going.<#>
-This shouldn't\#be too hard.<#>
-Hey, wait\#just a\#second,\. Lucky.<#>
-Far as I\#know,\. you ain't\#no electrician.<#>
-You'd be\#right,\. but I\#think I've got\#it figured ou-\^<#>
-L-Lucky!<#>
-Just...\| give\#me a moment.<#>
-You...\| probably\#should've seen\#this coming.<#>
-That's what you\#get for sticking a\#fork in an electical\#outlet, HA HA!<#>
-Alex's body was filled with a strange power.<#>
-Learned Thunder Palm!<#>
-You probably shouldn't touch this again.<#>
-Cars are wedged into the tunnel.<#>
+This the\#satellite those\#golden boys\#were talkin' about?<#>Это спутник,\#о котором\#говорили\#золотые парни?
+Looks like it.<#>Похоже на то.
+Nah,\. this\#could be\#anyone's giant\#satellite.<#>Не,\. это\#может быть\#чей угодно\#огромный спутник.
+Think they'd\#appreciate it\#if we fixed\#it up for them?<#>Думаете, они\#оценят, если\#мы починим\#его ради них?
+Uh...\| probably?<#>Э...\| наверное?
+What are\#you getting at?<#>К чему ты\#клонишь?
+I don't\#like where\#this is going.<#>Мне не нравится,\#куда всё это\#направляет.
+This shouldn't\#be too hard.<#>Не должно быть\#слишком сложно.
+Hey, wait\#just a\#second,\. Lucky.<#>Эй, подожди\#немного,\.\#счастливчик.
+Far as I\#know,\. you ain't\#no electrician.<#>Насколько я знаю,\.\#ты не электрик.
+You'd be\#right,\. but I\#think I've got\#it figured ou-\^<#>Ты, возможно,\#прав,\. но я думаю,\#что у меня всё\#под контрол-\^
+L-Lucky!<#>С-счастлвчик!
+Just...\| give\#me a moment.<#>Просто...\| дай\#мне минутку.
+You...\| probably\#should've seen\#this coming.<#>Ты...\| наверное\#должен был это\#предвидеть.
+That's what you\#get for sticking a\#fork in an electical\#outlet, HA HA!<#>Вот, что получаешь,\#когда суёшь вилку\#в розетку, ХА-ХА!
+Alex's body was filled with a strange power.<#>Тело Алекса наполнилось странной силой.
+Learned Thunder Palm!<#>Изучена громовая ладонь!
+You probably shouldn't touch this again.<#>Вам, вероятно, не следует больше к нему прикасаться.
+Cars are wedged into the tunnel.<#>Автомобили застряли в туннеле.
 <!-- Map279.rvdata2 --><#>
 Checked one of the trunks.<#>Проверен один из багажников.
 Found a secret stash!<#>Найден скрытый схрон!
