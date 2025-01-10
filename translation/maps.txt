@@ -5696,7 +5696,7 @@ Crushed bones.<#>Раздавленные кости.
 "Just leave me. Get out of here while you can.<#>"Просто оставьте меня. Выбирайтесь отсюда,\#пока можете."
 "Contact HQ by any means necessary."<#>"Свяжитесь со штабом любой ценой."
 <!-- Map213.rvdata2 --><#>
-Who cares#about coins?<#>Кому нужны\#монеты?
+Who cares\#about coins?<#>Кому нужны\#монеты?
 The house\#is what we\#came for.<#>Мы пришли\#за этим домом.
 It's so\#much\#cooler\#up close...<#>Он куда\#круче\#вблизи...
 If only\#I could\#smell\#this bad.<#>Если бы\#только я\#мог также\#плохо пахнуть.
