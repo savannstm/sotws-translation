@@ -1,20 +1,13 @@
 Attack<#>Атака
-Damages the enemy.<#>Наносит урон врагу.
 attacks!<#>атакует!
 Guard<#>Защита
-Protects user and reduces damage taken.\#Restores some SP.<#>Защищает и снижает получаемый урон.\#Восстанавливает немного ОН.
 guards.<#>защищается.
 Dual Attack<#>Двойная атака
-Hits an enemy twice!<#>Атакует дважды!
 Double Attack<#>Двойная атака
-Attacks two random enemies.<#>Атакует двух случайных врагов.
 Triple Attack<#>Тройная атака
-Attacks three random enemies.<#>Атакует трёх случайных врагов.
 Escape<#>Побег
-Enemy action. Causes enemy to flee from battle.<#>Вражеское действие. Заставляет врага сбежать из боя.
 flees.<#>сбегает.
 Wait<#>Ожидание
-Does nothing.<#>Ничего не делает.
 waits.<#>ожидает.
 Confusion Song<#>Песня замешательства
 Confuses all enemies.<#>Дезориентирует всех врагов.
@@ -939,10 +932,10 @@ When in doubt, punch it out.\#Has a chance to restore a small amount of SP.<#>
 Bludgeon<#>
 Hit 'em hard!<#>
 whacks 'em good!<#>
-Homerun Swing<#>
+Homerun Swing<#>Взмах хоумрана
 A strong swing sure to knock your\#opponent out of the park... if it hits.<#>
 goes for a homerun!<#>
-Three Strikes<#>
+Three Strikes<#>Три удара
 One, two, three strikes, you're out!\#Beat fallen opponents into the ground.<#>
 slams them again and again!<#>
 If looks could kill, they'd be dead twice over.\#Can make an opponent feel weird or wary.<#>
@@ -950,19 +943,19 @@ flashes a menacing look.<#>
 Foul Ball<#>
 A testament to the brutality of baseball. Can stun\#an opponent, but only if it connects.<#>
 prepares to swing...<#>
-Flying Bat<#>
+Flying Bat<#>Летящая бита
 Do you even know what sport you're playing?\#Inflicts bleed on hit, but disarms you.<#>
 hurls his bat forward!<#>
 Anger Management<#>
 Tenderize the ground to relieve some stress.\#Recovers around 40 SP.<#>
 is going crazy!<#>
-Grab Tibby<#>
+Grab Tibby<#>Хватка Тибби
 This will hurt you a lot more than it will hurt me.\#Enables usage of Tibby-related attacks.<#>
 takes hold of Tibby.<#>
-Tibby Toss<#>
+Tibby Toss<#>Бросок Тибби
 Launch Tibby like a missile at one opponent.\#High chance to stun. Also stuns and damages Tibby.<#>
 throws Tibby like a ragdoll!<#>
-Tibby Twirl<#>
+Tibby Twirl<#>Вращение Тибби
 Spin Tibby 'round and 'round to hit all enemies in\#a crowd. Deals severe damage to Tibby.<#>
 whirls Tibby all around!<#>
 THE KENT UNARMED--<#>
@@ -975,7 +968,7 @@ spits up some phlegm!<#>
 Nutcracker<#>Щелкунчик
 The tried and true ball-buster.\#Has a low chance to stun. Don't rely on it.<#>
 hits them where it hurts!<#>
-Tantrum<#>
+Tantrum<#>Безумство
 Enter a furious trance and lose control.\#Fury will subside after three turns, or if smacked.<#>
 goes berserk! Watch out!<#>
 Rearm<#>
@@ -993,65 +986,65 @@ Oops...<#>
 ...and strikes out!<#>
 Fortify<#>Укрепление
 Shield that handsome face. Raises defense, resists\#statuses, prevents disarming, restricts movement.<#>
-goes on guard!<#>
-Knockout Roulette<#>
+goes on guard!<#>защищается!
+Knockout Roulette<#>Нокаут-рулетка
 A simple yet decisive display of carnage.<#>
 gets ready to box.<#>
-Left Jab<#>
+Left Jab<#>Левый джеб
 A blow from the left.<#>
 punches from the left!<#>
-Right Jab<#>
+Right Jab<#>Правый джеб
 A blow from the right.<#>
 jabs from the right!<#>
-Uppercut<#>
+Uppercut<#>Апперкот
 A blow from down under.<#>
 hits them from below!<#>
-Jab Combo<#>
+Jab Combo<#>Комбо из джебов
 (SSA) The ol' one-two-three.<#>
-boxes.<#>
+boxes.<#>боксирует.
 Prevents easy knockouts.\#Increased defense and TP gain.<#>
-Knuckle Breaker<#>
+Knuckle Breaker<#>Пальцелом
 (ADAS) An illegal move in boxing, but all is fair\#in the Franchise. Disarms Armed opponents.<#>
 brings down the elbow!<#>
 (ASDD) Send them to the clouds. Launches the\#target into the air, but misses often.<#>
 knocked them upward!<#>
-Blood Punch<#>
+Blood Punch<#>Кровавый удар
 (SSDA) Hit them so hard their blood comes out.\#Deals a small amount of recoil damage.<#>
 punches out all their blood!<#>
 Blood Punch Penalty<#>
 's fingers ache.<#>
-Back Off<#>
+Back Off<#>Отступление
 An evasive maneuver. Applies Dodged and gains\#50 TP. Can only be used while Solid.<#>
 creates some distance.<#>
 (DASA) No one is safe. Can inflict\#Off-Balance and Fallen.<#>
-Carnage Whirl<#>
+Carnage Whirl<#>Водоворот резни
 (SDDS) The unholy matrimony of a tornado and\#bloody fists. Applies Off-Balance to the user.<#>
 unleashes a whirlwind of pain!<#>
-Danger Special<#>
+Danger Special<#>Особая опасность
 Prepare for true brutality.\#Grants use of Migraine Maker. Removes Solid.<#>
-Migraine Maker<#>
+Migraine Maker<#>Мигренедел
 The ultimate headache.\#No one has ever survived this technique.<#>
 crushed their skull.<#>
 A weak punch. Builds 10 TP.<#>
 Hock a bloody loogie in their eyes to inflict\#blindness. They can't hit what they can't see.<#>
 spat blood in their face!<#>
-Solid Guard<#>
+Solid Guard<#>Железная защита
 Defend yourself. Grants Solid temporarily, reducing\#all damage taken for one turn.<#>
 puts up his guard.<#>
-Deep Exhale<#>
+Deep Exhale<#>Глубокий выдох
 Take a deep, painful breath. Restores much HP,\#but makes you Winded.<#>
 is breathing heavily.<#>
 Gear Up<#>Приготовление
-This is your last chance. Show them you are still\#standing. Grants use of Denier Fist.<#>
-Denier Fist<#>
-Refuse to surrender. End their life.<#>
-will deny them!<#>
+This is your last chance. Show them you are still\#standing. Grants use of Denier Fist.<#>Это - ваш последний шанс. Покажите им, что вы ещё\#на ногах. Позволяет использовать схлопывающий кулак.
+Denier Fist<#>Схлопывающий кулак
+Refuse to surrender. End their life.<#>Откажитесь сдаваться. Закончите их жизнь.
+will deny them!<#>схлопывает их!
 Enter NOiP<#>
 We're not done yet.<#>
-is done for...<#>
-Trim<#>
-Give that lip caterpillar what for.<#>
-switches on the trimmer!<#>
+is done for...<#>готов...
+Trim<#>Подровнять
+Give that lip caterpillar what for.<#>Дайте этим усикам то, что они заслуживают.
+switches on the trimmer!<#>включаем триммер!
 Rando Bomb (Will)<#>
 slams you down.<#>
 Rando Stab (Floyd)<#>
@@ -1063,13 +1056,13 @@ does his Buster Punches!<#>
 Rando Stab (Will)<#>
 Clip Dump<#>
 Stall<#>
-doesn't want to do this...<#>
+doesn't want to do this...<#>не хочет этого делать...
 Bone Break<#>
-snaps your bones.<#>
+snaps your bones.<#>ломает ваши кости.
 Heart Squeeze<#>
-stopped your heart.<#>
+stopped your heart.<#>останавливает ваше сердце.
 Devastating Chomp<#>
-bites your head.<#>
+bites your head.<#>откусывает вашу голову.
 Velvet-fu<#>Вельвет-фу
 Urban legends say, this style, of Zhang Xianzhong,\#was lost after being banned off the infomercial scene.<#>Фольклор гласит, что этот стиль - стиль Чжан Сяньчжуна, был утерян\#после того, как его запретили использовать в обучающих роликах.
 Velvet Style Kung Fu!<#>Вельветовый стиль Кунг-фу!
@@ -1084,7 +1077,7 @@ rams his head!<#>таранит головой!
 A disengaging stance that helps regain focus.\#Recovers some SP.<#>Откланительная стойка, способствующая восстановлению\#фокусировки. Восстанавливает немного ОН.
 (WAS) The first supreme technique of the Velvet\#Style. Pierces defenses at the cost of 200 HP.<#>(WAS) Первая высшая техника вельветового стиля.\#Пробивает защиту стоимостью 200 ОЗ.
 The Major Iris<#>Крупный Ирис
-(ASAS) The second supreme technique. Shreds\#enemy defenses; shreds your body in return.<#>(ASAS) Вторая высшая техника. Разрывает вражескую\#защиту; и в свою очередь разрывает ваше тело. 
+(ASAS) The second supreme technique. Shreds\#enemy defenses; shreds your body in return.<#>(ASAS) Вторая высшая техника. Разрывает вражескую\#защиту; и в свою очередь разрывает ваше тело.
 tears them apart!<#>разрывает их на куски!
 Twisted Stance<#>Закрученная стойка
 Can your joints handle it? Recovers 70 SP.\#Costs 150 HP, or 50 HP if already twisted.<#>Выдержат ли ваши суставы? Восстанавливает 70 ОН.\#Стоит 150 ОЗ, или 50 ОЗ, если вы уже закручены.
@@ -1129,7 +1122,7 @@ is being flashy!<#>привлекает внимание!
 Roll Out<#>Перекат
 A dive and a roll.\#Prevents most forms of damage.<#>Нырок и перекат.\#Защищает от большинства видов урона.
 Mind Games<#>Игры разума
-Spooks for easy scares. Joel gets Presence,\#loses Taunt. If it removes Taunt- full SP restore.<#>Нагнать жуть для лёгкого запугивания. Джоэл получает присутствие, теряет\#насмешку. Если удаляет насмешку - полностью восстанавливает ОН.
+Spooks for easy scares. Joel gets Presence,\#loses Taunt. If it removes Taunt- full SP restore.<#>Нагнать жуть для лёгкого запугивания. Джоэл получает присутствие,\#теряет насмешку. При удалении насмешки восстанавливает ОН.
 made eye contact!<#>установил зрительный контакт!
 Gun Reveal<#>Показать пушку
 Show off your prized gun in a daring manner.\#May make some men feel nasty.<#>Светануть своим ценным оружием и подразнить врагов.\#Может вызвать у некоторых парней отвращение.
@@ -1149,14 +1142,14 @@ needs an ambulance!<#>нуждается в скорой!
 Awaken<#>Пробуждение
 Rise from your grave to\#spook the pants off all enemies.<#>Восстаньте из могилы, чтобы все враги\#отложили кирпичей.
 comes back!<#>возвращается!
-Urban legends say, this style, of  Zhang Xianzhong,\#was lost after being banned off the infomercial scene.<#>
-smacks with wrist!<#>
+Urban legends say, this style, of  Zhang Xianzhong,\#was lost after being banned off the infomercial scene.<#>Городские легенды гласят, что этот стиль, стиль Чжан\#Сяньчжуна, был утерян после запрета в рекламных роликах.
+smacks with wrist!<#>бьёт запястьем!
 Trick Kick<#>Трюк-кик
 A feint attack, that delivers a kick to the groin.<#>Ложная атака, заключающаяся в ударе ногой в пах.
 delivers a groin kick!<#>наносит удар ногой в пах!
-(DDD) A no-nonsense, double back kick.\#May launch enemy into the air.<#>
+(DDD) A no-nonsense, double back kick.\#May launch enemy into the air.<#>(DDD)
 Misdirection<#>Дезориентация
-Raise the alarm. Put the enemy on edge. Makes\#opponents attack wildly; no one is safe.<#>
+Raise the alarm. Put the enemy on edge. Makes\#opponents attack wildly; no one is safe.<#>Бейте тревогу. Уведите противника на грань.\#Оппоненты начинают безумно атаковать всех подряд.
 aims at something that isn't there!<#>
 Advancing Stance<#>Стойка продвижения
 A stance that shifts you towards the enemy.\#Recovers all TP.<#>Стойка, смещающая вас к врагу.\#Восстанавливает все ОТ.
@@ -1229,74 +1222,74 @@ Ankle Breaker<#>Голенолом
 A fierce kick to the shins. Can be used to knock\#a foe over, if they're already wobbly.<#>Яростный удар по голени. Может уронить врага, если\#он уже без равновесия.
 cracks their shins!<#>ломает голень!
 Iron Glutes<#>Железные ягодицы
-Unleash the power of your chiseled posterior.\#Guaranteed to crush the life out of fallen opponents.<#>
-falls with the force of a meteor!<#>
+Unleash the power of your chiseled posterior.\#Guaranteed to crush the life out of fallen opponents.<#>Обрушите силу своих отточенных форм.\#Определённо раздавят упавших оппонентов.
+falls with the force of a meteor!<#>падает с силой метеора!
 Throat Slit<#>Разрезание горла
 A devastating finisher. Does great damage against\#foes who are scared, stunned, or paralyzed.<#>Смертельное добивание. Наносит огромный урон\#напуганным, оглушённым и парализованным врагам.
 slices open a fool!<#>вскрывает придурку шею!
 A handy way out of a sticky situation. Makes you\#hidden, but lowers your defense.<#>Надёжный выход из скользкой ситуации. Скрывает,\#но понижает защиту.
 escapes into the smoke!<#>отступает в дым!
 Painted Red<#>Красный всплеск
-A series of slashes set to mutilate\#bleeding enemies further.<#>
-slashes out their veins!<#>
+A series of slashes set to mutilate\#bleeding enemies further.<#>Серия взмахов, которые вспорят истекающих\#кровью врагов.
+slashes out their veins!<#>вскрывает чужие вены!
 Poison Dart<#>Ядовитый дротик
-Dip your blade in lead paint and fling at a bastard.\#High chance to poison.<#>
-flings a poisoned dagger!<#>
+Dip your blade in lead paint and fling at a bastard.\#High chance to poison.<#>Окуните свой клинок в свинцовой краске и проткните\#ублюдка. Высокий шанс отравить.
+flings a poisoned dagger!<#>размахивает ядовитым клинком!
 War Paint<#>Боевая раскраска
-Let your foes know that you will bathe in their blood!\#Empowers your team, boosting attack and speed.<#>
-bellows a warcry!<#>
+Let your foes know that you will bathe in their blood!\#Empowers your team, boosting attack and speed.<#>Дайте своим врагам знать, что вы будете купаться в их\#крови! Усиливает вашу команду, повышая атаку и скорость.
+bellows a warcry!<#>издаёт боевой клич!
 Swat<#>Шлепок
 A quick smack to the cheek.<#>
-gives 'em a slap!<#>
+gives 'em a slap!<#>шлёпает его!
 Spew<#>Рвота
-Cough up some gunk onto an enemy. Gets them\#wet and has a chance to make them feel nasty.<#>
-spits up some weird stuff!<#>
+Cough up some gunk onto an enemy. Gets them\#wet and has a chance to make them feel nasty.<#>Плюньте дрянью на врага. Мочит противников\#и имеет шанс заставить их чувствовать себя мерзко.
+spits up some weird stuff!<#>изрыгает какие-то странные вещи!
 Aromatherapy<#>Ароматерапия
-Fill the air with the aroma of exotic salts.\#Heals many ailments and raises special defense.<#>
-sways his censer...<#>
+Fill the air with the aroma of exotic salts.\#Heals many ailments and raises special defense.<#>Наполните воздух ароматом экзотических солей.\#Лечит множество недугов и повышает специальную защиту.
+sways his censer...<#>качает кадилом...
 Ingest<#>Поглощение
-Chomp down on some tasty salt. Restores HP\#and SP, but only if you have salt in your inventory.<#>
-gets ready to eat.<#>
+Chomp down on some tasty salt. Restores HP\#and SP, but only if you have salt in your inventory.<#>Сожрите немного вкусной соли. Восстанавливает\#ОЗ и ОН, но только если у вас в инвентаре есть соль.
+gets ready to eat.<#>готовиться есть.
 Salt Wall<#>Соляная стена
-Deploy your impenetrable hide to protect your team!\#Redirects all damage to the user.<#>
-makes a stand!<#>
-Takedown<#>Захват
-Slam a bitch with your steely shell! Deals decent\#damage, but leaves you on the ground afterward.<#>
-rams a motherfucker!<#>
+Deploy your impenetrable hide to protect your team!\#Redirects all damage to the user.<#>Сбросьте свою непробиваемую кожу, чтобы защитить\#команду! Перенаправляет весь урон пользователю.
+makes a stand!<#>встаёт в стойку!
+Takedown<#>Прогиб
+Slam a bitch with your steely shell! Deals decent\#damage, but leaves you on the ground afterward.<#>Размажьте суку своим стальным панцирем!\#Наносит хороший урон, но вы падаете на землю.
+rams a motherfucker!<#>берёт хуесоса на прогиб!
 Solidify<#>Укрепление
-Get hard, harder! Grants the Solid status, but\#restricts your skill usage.<#>
-gets real hard!<#>
+Get hard, harder! Grants the Solid status, but\#restricts your skill usage.<#>Крепче, крепче! Даёт статус укрепления, но ограничивает\#возможность использования навыков.
+gets real hard!<#>сильно укрепляется!
 Show No Fear<#>Бесстрашие
-Show them that you won't back down. Inspires the\#rest of your team, making them brave.<#>
-isn't giving up yet!<#>
+Show them that you won't back down. Inspires the\#rest of your team, making them brave.<#>Покажите, что вы не собираетесь отступать.\#Вдохновляет остальных членов вашей команды и даёт им смелость.
+isn't giving up yet!<#>ещё не сдаётся!
 Blessed Rain<#>Благословенный дождь
 Expel a restorative droplet onto a KO'd ally,\#bringing them back to the battle. Gets them wet.<#>
 gets them back on their feet!<#>
 Ingest 2<#>
 Nom nom nom<#>
-scarfs down some salt!<#>
+scarfs down some salt!<#>съедает немного соли!
 Pocket Salt<#>Карманная соль
-A nasty surprise for the eyes. Can inflict crying and\#spooked. Low chance to blind.<#>
-flings some salt in their eyes!<#>
+A nasty surprise for the eyes. Can inflict crying and\#spooked. Low chance to blind.<#>Неприятный сюрприз для глаз. Может вызвать слёзы\#и страх. Имеет маленький шанс ослепить.
+flings some salt in their eyes!<#>бросает солью в глаза!
 Cart Crash<#>Удар тележкой
-Careen through a crowd on a chariot of iron.\#Hits all enemies to inflict off balance.<#>
+Careen through a crowd on a chariot of iron.\#Hits all enemies to inflict off balance.<#>Промчитесь сквозь толпу в железной повозке.\#Попадает по всем врагам и имеет шанс сбить с равновесия.
 comes crashing through!<#>пробивается напролом!
 Glass Shard Recoil<#>
 cuts himself up!<#>случайно режется!
 Threatening Edge<#>Угрожающий клинок
-Display your blade in a last-ditch attempt to\#frighten the enemy. Results may vary.<#>
+Display your blade in a last-ditch attempt to\#frighten the enemy. Results may vary.<#>Покажите свой клинок в качестве последней\#попытки запугать врага. Результат может быть разным.
 attempts to be threatening.<#>
 Vicious Combo<#>Жестокое комбо
 No style. Only pure violence.<#>
-bland, straightforward brutality!<#>
-Burst Palm<#>
+bland, straightforward brutality!<#>безвкусная, прямолинейная жестокость!
+Burst Palm<#>Взрывная ладонь
 A straight shot with the palm.<#>
-smacks with his palm!<#>
-Rising Punch<#>
-uppercuts up!<#>
-Gut Kick<#>
+smacks with his palm!<#>бьёт своей ладонью!
+Rising Punch<#>Восходящий удар
+uppercuts up!<#>делает апперкот!
+Gut Kick<#>Удар в живот
 An extended gut kick.<#>
-performs a gut kick!<#>
+performs a gut kick!<#>ударяет в живот!
 Flying Dropkick<#>Удар в полёте
 (WWD) Go flying with both of your feet forward.\#Has a chance to fell the enemy. Costs 50 HP.<#>(WWD) Летите, вытянув обе ноги вперед.\#Есть шанс сбить врага с ног. Стоит 50 ОЗ.
 Lead Heel<#>
@@ -1304,16 +1297,16 @@ Taste of Flesh<#>Вкус плоти
 (AAD) Use your mishapen teeth to tear them apart.\#Takes Fluid Enemies off guard. Heals 50 HP.<#>(AAD) Используйте свои кривые зубы, чтобы их разорвать.\#Застаёт жидкостных врагов врасплох. Восстанавливает 50 ОЗ.
 takes a big bite!<#>сильно кусает!
 Knuckle Cracker<#>Костолом
-(AWW) A solid slug to the enemy's head. Can stun.\#Costs 70 HP and begins bleeding.<#>
-delivers a wrist-shattering blow!<#>
+(AWW) A solid slug to the enemy's head. Can stun.\#Costs 70 HP and begins bleeding.<#>(AWW) Сильный рывок в сторону вражеской головы.\#Может оглушить. Стоит 70 ОЗ и начинает кровотечение.
+delivers a wrist-shattering blow!<#>наносит сокрушительный удар!
 Gouged Petunia<#>Вырванная петуния
-(AWAW) Supreme fist technique. Annihilate their\#face so much they cannot see. Costs 300 HP.<#>
-An engaging stance that helps regain focus.\#Recovers a lot of SP.<#>
+(AWAW) Supreme fist technique. Annihilate their\#face so much they cannot see. Costs 300 HP.<#>(AWAW) Высшая кулачная техника. Аннгилируйте их\#лицо, чтобы они не смогли даже видеть. Стоит 300 ОЗ.
+An engaging stance that helps regain focus.\#Recovers a lot of SP.<#>Наклонительная стойка, способствующая возвращению фокусировки.\#Восстанавливает много ОН.
 gets uncomfortably close!<#>
 boxes!<#>
 Special Hide<#>
 SPECIAL HIDE FOR USE IN CROWD FIGHT<#>
-hides behind the crowd.<#>
+hides behind the crowd.<#>скрывается в толпе.
 Wallop<#>Удар
 A flimsy punch. Builds a little TP.<#>Слабый удар. Добавляет немного ОТ.
 Migraine<#>Мигрень

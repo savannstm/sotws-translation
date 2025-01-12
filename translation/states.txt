@@ -67,7 +67,7 @@ is buffed up!<#>усилен!
 Counterattack<#>Контратака
 Aid<#>Помощь
 is receiving serious aid!<#>получает серьёзную помощь!
-Rupture<#>Вспарывание
+Rupture<#>Вспорот
 is painting the room red!<#>окрашивает стены в красный!
 just popped!<#>оказался вспорот!
 is leak free.<#>истекает кровью.
@@ -152,7 +152,7 @@ is cool as a cucumber!<#>крут, как варёные яйца!
 is fresh.<#>свеж.
 became lame again.<#>снова неудачник.
 Super Cool<#>Супер-крутость
-is cooler than cool!<#>круче чем крутость!
+is cooler than cool!<#>круче чем яйцо!
 is fresh as fuck.<#>пиздец как свеж.
 Defend<#>Защита
 is protecting himself!<#>защищается!

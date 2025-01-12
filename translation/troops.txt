@@ -64,7 +64,7 @@ Don't make me flip out!<#>Не беси меня!
 {Silvester de Maistre}My signature talent...<#>{Сильвестр де Местр}Мой фирменный талант...
 {Silvester de Maistre}...BILOCATION!<#>{Сильвестр де Местр}...БИЛОКАЦИЯ!
 {Silvester de Maistre}I'm done.<#>{Сильвестр де Местр}Я всё.
-{Avatar of Hatred}What's kicking, getting into trouble?<#>
+{Avatar of Hatred}What's kicking, getting into trouble?<#>{Аватар ненависти}Что пинается, попадает в беду?
 {Avatar of Hatred}Pop a thrill pill, cool cat.<#>
 {Avatar of Hatred}Check out my cover. You and me, one love.<#>
 {Avatar of Hatred}You've gotta try being someone else.<#>
@@ -80,72 +80,72 @@ Don't make me flip out!<#>Не беси меня!
 {Tingles The Clown}I knew I should've been a lawyer.<#>{Клоун Тинглз}Я знал, что надо было стать юристом.
 {Onion Ploom}I don't get the joke...<#>{Онион Плум}Я не понимаю шутку...
 {Spence Mack}Comin' home, Momma Mack...<#>{Спенс Мак}Возвращаюсь домой, мамочка Мак...
-{Spanks Star}This isn't as funny as it was in my head.<#>
-{The Unspoken One}Twenty-eight years in the slammer for this?<#>
-{Carrot Tail}Can't believe I left my balloons at home.<#>
-{Geronimo Phantasmata}If this is a joke,\| I'm not laughing.<#>
-{Douglass Fiat}I'm on the edge of infinity!<#>
-{Maurice Falcon}Doesn't matter how big, small, weak or strong\#you are. Join and The Franchise will double size.<#>
-{Maurice Falcon}I couldn't manage it.<#>
-{William Double J Palmer}Win some, lose some.<#>
-{Matty Mack}Right in time for harvestin'.<#>
-{Matty Mack}What's a little meat between family?<#>
-{Stefan Kindchild}In the desert\#I saw a creature, naked, bestial,<#>
-{Stefan Kindchild}Who, squatting upon the ground,\#Held his heart in his hands,<#>
-{Stefan Kindchild}And ate of it.<#>
-{Stefan Kindchild}I said, "Is it good, friend?"\#"It is bitter - bitter," he answered;<#>
-{Stefan Kindchild}"But I like it\#Because it is bitter,<#>
-{Stefan Kindchild}And because it is my heart."<#>
-{Tibby Dobs}It's not working! Stronger, Kent!<#>
-{Tibby Dobs}You MISSED!\| How the hell did you miss?!<#>
-{The Kent}Shut it, Tibby! We've got company!<#>
-{The Kent}Hey...\| that's my mustache trimmer!<#>
-{The Kent}You bastard!\. Give it back!<#>
-"Trim" added to Techniques.<#>
-{Tibby Dobs}Oh...\| oh no...<#>
-{The Kent}You...\| You...!<#>
-{The Kent}YOU CUT OFF MY FUCKING MUSTACHE!<#>
-{Tibby Dobs}Now, Kent,\. let's just take a moment and-\^<#>
-{The Kent}YOU'VE JUST MADE THE\#BIGGEST MISTAKE OF YOUR LIVES!<#>
-{Derb Wesley Jr.}Uh...<#>
-{Derb Wesley Jr.}Maybe I'd better go...<#>
-{Derb Wesley Jr.}Yoo hoo! So that's where ya guys went.<#>
-{The Kent}I HAVEN'T EVEN GOTTEN STARTED!<#>
-{The Kent}Oh, come on!<#>
-{Tibby Dobs}You can't stop the Dobs!<#>
-{The Kent}FIND ME IN HELL SO I CAN\#KICK YOUR ASS AGAIN!<#>
-{The Kent}Death isn't even a setback.<#>
-{Derb Wesley Jr.}Yoo hoo! Don't tell me I'm too late!<#>
-{Derb Wesley Jr.}All I ever wanted was to belong.<#>
-{Tibby Dobs}I was supposed to be invincible...<#>
-{Russel Bats}John Johnson is gone, son.<#>
-{Russel Bats}ASS!<#>
-{Russel Bats}In the end, I was the one betrayed!<#>
-{Anaconda Virtue}No hands, all bite!<#>
-{Anaconda Virtue}You know, I'm not even mad.<#>
-{Anaconda Virtue}I don't like where this is going.<#>
-{Anaconda Virtue}All this attention is making me...<#>
-{Anaconda Virtue}...HOT!<#>
-{Anaconda Virtue}Well this was fun, but "gotta play hard to get".<#>
-{Anaconda Virtue}.\..\..<#>
-{Anaconda Virtue}So...\| that's how you wanna play?<#>
-{Anaconda Virtue}Alright.<#>
-{Anaconda Virtue}I won't play nice either.<#>
-{Anaconda Virtue}Oh,\. that is IT!<#>
-{Anaconda Virtue}No more Mr. Nice Snake!<#>
-{Anaconda Virtue}I'll burn this whole world to the ground!<#>
-{Anaconda Virtue}Wow.<#>
-{Anaconda Virtue}Not bad,\. gramps,\. not bad.<#>
-{Anaconda Virtue}It's for real this time.<#>
-{Anaconda Virtue}Also...<#>
-{Anaconda Virtue}...this is what got me\#banned from the choirboys.<#>
-{Anaconda Virtue}Stop doing that!<#>
-{Anaconda Virtue}You're getting on my nerves!<#>
-{Anaconda Virtue}What?!<#>
-{Anaconda Virtue}That's not even remotely fair!<#>
-{Anaconda Virtue}Can't put my flame out!<#>
-{Anaconda Virtue}Are you kidding me?\#I'm not kidding me.<#>
-{Anaconda Virtue}Are you kidding you?<#>
+{Spanks Star}This isn't as funny as it was in my head.<#>{Спэнкс Стар}Не так весело, как я представлял.
+{The Unspoken One}Twenty-eight years in the slammer for this?<#>{Безмолвный}Двадцать восемь лет тюрьмы за это?
+{Carrot Tail}Can't believe I left my balloons at home.<#>{Кэррот Тейл}Не могу поверить, что я оставил свои шары дома.
+{Geronimo Phantasmata}If this is a joke,\| I'm not laughing.<#>{Джеронимо Фантазмата}Если это шутка,\| то мне не смешно.
+{Douglass Fiat}I'm on the edge of infinity!<#>{Дуглас Фиат}Я на грани бесконечности!
+{Maurice Falcon}Doesn't matter how big, small, weak or strong\#you are. Join and The Franchise will double size.<#>{Морис Фэлкон}Неважно, насколько ты большой, малый,\#слабый или сильный. Вступай во франшизу, и станешь вдвое лучше.
+{Maurice Falcon}I couldn't manage it.<#>{Морис Фэлкон}Я не сумел с этим управиться.
+{William Double J Palmer}Win some, lose some.<#>{Вильям Дабл Джей Палмер}Что-то выиграл, что-то проиграл.
+{Matty Mack}Right in time for harvestin'.<#>{Мэтти Мак}Прямо вовремя на сбор урожая.
+{Matty Mack}What's a little meat between family?<#>{Мэтти Мак}Что значит немного мяса в семье?
+{Stefan Kindchild}In the desert\#I saw a creature, naked, bestial,<#>{Стефан Добряк}В пустыне я увидел\#создание, голое, зверское,
+{Stefan Kindchild}Who, squatting upon the ground,\#Held his heart in his hands,<#>{Стефан Добряк}Которое, сидя на полу,\#держало своё сердце в руках,
+{Stefan Kindchild}And ate of it.<#>{Стефан Добряк}и съело его.
+{Stefan Kindchild}I said, "Is it good, friend?"\#"It is bitter - bitter," he answered;<#>{Стефан Добряк}Я спросил, "Вкусное ли оно, друг?"\#"Оно горькое, горькое", он ответил.
+{Stefan Kindchild}"But I like it\#Because it is bitter,<#>{Стефан Добряк}Но из-за горечи\#оно мне нравится,
+{Stefan Kindchild}And because it is my heart."<#>{Стефан Добряк}И из-за того, что это моё сердце.
+{Tibby Dobs}It's not working! Stronger, Kent!<#>{Тибби Добс}Не выходит! Сильнее, Кент!
+{Tibby Dobs}You MISSED!\| How the hell did you miss?!<#>{Тибби Добс}Ты ПРОМАЗАЛ!\| Как ты вообще умудрился?!
+{The Kent}Shut it, Tibby! We've got company!<#>{Кент}Заткнись, Тибби! У нас гости!
+{The Kent}Hey...\| that's my mustache trimmer!<#>{Кент}Эй...\| это мой триммер для усов!
+{The Kent}You bastard!\. Give it back!<#>{Кент}Ублюдок!\. Отдавай его обратно!
+"Trim" added to Techniques.<#>"Подровнять" добавлено в техники.
+{Tibby Dobs}Oh...\| oh no...<#>{Тибби Добс}Ох...\| о нет...
+{The Kent}You...\| You...!<#>{Кент}Ты...\| Ты...!
+{The Kent}YOU CUT OFF MY FUCKING MUSTACHE!<#>{Кент}ТЫ ОТРЕЗАЛ МОИ БЛЯДСКИЕ УСЫ!
+{Tibby Dobs}Now, Kent,\. let's just take a moment and-\^<#>{Тибби Добс}Стой, Кент,\. давай остановимся на секунду и-\^
+{The Kent}YOU'VE JUST MADE THE\#BIGGEST MISTAKE OF YOUR LIVES!<#>{Кент}ВЫ ТОЛЬКО ЧТО СОВЕРШИЛИ ХУДШУЮ\#ОШИБКУ В ВАШИХ ЖИЗНЯХ!
+{Derb Wesley Jr.}Uh...<#>{Дерб Уэсли Мл.}Э...
+{Derb Wesley Jr.}Maybe I'd better go...<#>{Дерб Уэсли Мл.}Может, я лучше пойду...
+{Derb Wesley Jr.}Yoo hoo! So that's where ya guys went.<#>{Дерб Уэсли Мл.}Йу-ху! Так вот куда парни отправились.
+{The Kent}I HAVEN'T EVEN GOTTEN STARTED!<#>{Кент}Я ДАЖЕ ЕЩЁ НЕ НАЧИНАЛ!
+{The Kent}Oh, come on!<#>{Кент}О, давай!
+{Tibby Dobs}You can't stop the Dobs!<#>{Тибби Добс}Вам не остановить Добса!
+{The Kent}FIND ME IN HELL SO I CAN\#KICK YOUR ASS AGAIN!<#>{Кент}НАЙДИТЕ МЕНЯ В АДУ СНОВА,\#ЧТОБЫ Я СНОВА НАДРАЛ ВАМ ЖОПЫ!
+{The Kent}Death isn't even a setback.<#>{Кент}Смерть - это не неудача.
+{Derb Wesley Jr.}Yoo hoo! Don't tell me I'm too late!<#>{Дерб Уэсли Мл.}Йу-ху! Не говорите мне, что я опоздал!
+{Derb Wesley Jr.}All I ever wanted was to belong.<#>{Дерб Уэсли Мл.}Я лишь хотел быть нужным.
+{Tibby Dobs}I was supposed to be invincible...<#>{Тибби Добс}Я должен был быть непобедимым...
+{Russel Bats}John Johnson is gone, son.<#>{Рассел Бэтс}Джон Джонсон тоже погиб, сынок.
+{Russel Bats}ASS!<#>{Рассел Бэтс}ЖОПА!
+{Russel Bats}In the end, I was the one betrayed!<#>{Рассел Бэтс}В итоге, предали меня!
+{Anaconda Virtue}No hands, all bite!<#>{Анаконда Добродетель}Без рук, только зубами!
+{Anaconda Virtue}You know, I'm not even mad.<#>{Анаконда Добродетель}Знаешь, я даже не зол.
+{Anaconda Virtue}I don't like where this is going.<#>{Анаконда Добродетель}Мне не нравится, куда всё это идёт.
+{Anaconda Virtue}All this attention is making me...<#>{Анаконда Добродетель}От всего этого внимания...
+{Anaconda Virtue}...HOT!<#>{Анаконда Добродетель}...Я ГОРЮ!
+{Anaconda Virtue}Well this was fun, but "gotta play hard to get".<#>{Анаконда Добродетель}Ну, это было весело, но постарайся получше.
+{Anaconda Virtue}.\..\..<#>{Анаконда Добродетель}.\..\..
+{Anaconda Virtue}So...\| that's how you wanna play?<#>{Анаконда Добродетель}Так вот как...\| ты хочешь поиграть?
+{Anaconda Virtue}Alright.<#>{Анаконда Добродетель}Ладно.
+{Anaconda Virtue}I won't play nice either.<#>{Анаконда Добродетель}И я не буду поддаваться.
+{Anaconda Virtue}Oh,\. that is IT!<#>{Анаконда Добродетель}О,\. вот и ВСЁ!
+{Anaconda Virtue}No more Mr. Nice Snake!<#>{Анаконда Добродетель}Никакой больше милой змейки!
+{Anaconda Virtue}I'll burn this whole world to the ground!<#>{Анаконда Добродетель}Я сожгу весь этот мир до основания!
+{Anaconda Virtue}Wow.<#>{Анаконда Добродетель}Вау.
+{Anaconda Virtue}Not bad,\. gramps,\. not bad.<#>{Анаконда Добродетель}Неплохо,\. дедуля,\. неплохо.
+{Anaconda Virtue}It's for real this time.<#>{Анаконда Добродетель}На этот раз давай по-настоящему.
+{Anaconda Virtue}Also...<#>{Анаконда Добродетель}И ещё...
+{Anaconda Virtue}...this is what got me\#banned from the choirboys.<#>{Анаконда Добродетель}...вот из-за чего меня изгнали\#из детского хора.
+{Anaconda Virtue}Stop doing that!<#>{Анаконда Добродетель}Прекращай!
+{Anaconda Virtue}You're getting on my nerves!<#>{Анаконда Добродетель}Ты меня раздражаешь!
+{Anaconda Virtue}What?!<#>{Анаконда Добродетель}Что?!
+{Anaconda Virtue}That's not even remotely fair!<#>{Анаконда Добродетель}Это вообще нечесетно!
+{Anaconda Virtue}Can't put my flame out!<#>{Анаконда Добродетель}Ты не можешь гасить моё пламя!
+{Anaconda Virtue}Are you kidding me?\#I'm not kidding me.<#>{Анаконда Добродетель}Ты шутишь надо мной?\#Я не шучу над собой.
+{Anaconda Virtue}Are you kidding you?<#>{Анаконда Добродетель}Ты шутишь над собой?
 {Wilbur Sin}Hell is real.<#>{Уилбур Син}Ад реален.
 {Wilbur Sin}And Hell...\| is here.<#>{Уилбур Син}И ад...\| здесь.
 {Wilbur Sin}...<#>{Уилбур Син}...
@@ -154,8 +154,8 @@ Don't make me flip out!<#>Не беси меня!
 {Darry Sweets}...You...\| you ate it...<#>{Дэрри Свитс}...Ты...\| ты съел его...
 {Darry Sweets}...right in front of me...<#>{Дэрри Свитс}...прямо передо мной...
 {Darry Sweets}You're gonna regret that!<#>{Дэрри Свитс}Ты об этом пожалеешь!
-Not out yet!<#>
-I can play dirtier, you filth!<#>
+Not out yet!<#>Не упал!
+I can play dirtier, you filth!<#>Я могу играть грязнее, ты, мусор!
 {Darry Sweets}All I wanted was a taste...<#>{Дэрри Свитс}Всё, что я хотел, это попробовать...
 {Darry Sweets}Check it!<#>{Дэрри Свитс}Наблюдай!
 {Darry Sweets}You just don't know when to quit!<#>{Дэрри Свитс}Ты просто не знаешь, когда остановиться!
@@ -214,116 +214,116 @@ I can play dirtier, you filth!<#>
 {Barry Twister}I'll gut you like a pig!<#>{Барри Твистер}Я вспорю тебя как свинью!
 {Barry Twister}Ugh... God, my head...<#>{Барри Твистер}Ух... Господи, моя голова...
 {Barry Twister}This isn't worth it.\. Not anymore.<#>{Барри Твистер}Оно того не стоит.\. Больше не стоит.
-{Ron Constitution}I'll make ya wish your momma died in labor!<#>{Рон Конститушен}
+{Ron Constitution}I'll make ya wish your momma died in labor!<#>
 {Ron Constitution}That all ya got?\. That's some pussy bullshit!<#>{Рон Конститушен}Всё, что ты умеешь?\. Какая-то бабская чушь!
 {Nicky B}No, stop!<#>{Никки Б}Нет, стой!
-{Ron Constitution}You ain't sh-\.shit!\| Come on!<#>
+{Ron Constitution}You ain't sh-\.shit!\| Come on!<#>{Рон Конститушен}Да ты ни-\.никто!\| Давай!
 {Sid Bloodheart}Shit, you're actually kinda tough.<#>{Сид Бладхарт}Чёрт, ты довольно крепкий.
 {Sid Bloodheart}Ey,\. ey!\| Stop!\. Stop!<#>{Сид Бладхарт}Эй,\. эй!\| Стоп!\. Стоп!
 {Pope Slaughter}Show me what you've got, boys!<#>{Поуп Слотер}Покажите мне, что умеете, ребята!
 {Pope Slaughter}Good hustle, but the oven's heating up now.<#>
 {Pope Slaughter}It's a party now! Woooo!<#>
 {Pope Slaughter}Not bad, not bad at all...<#>{Поуп Слотер}Неплохо, очень даже неплохо...
-{Palisade Dipper}Think you've got what it takes?<#>
-{Palisade Dipper}How about now?<#>
-{Palisade Dipper}The carnage has just begun!<#>
-{Palisade Dipper}I'm on the path to Armageddon!<#>
-{Billiard Esquire}Can you keep up, grandpa?<#>
-{Billiard Esquire}Uh...\| is it too late to say sorry?<#>
-{Billiard Esquire}This is what I get for ignoring my cardio.<#>
-{Oliver Rang}Ah'll knock ya right between the eyes!<#>
-{Oliver Rang}Ya'int nothin' compared to me!<#>
-{Oliver Rang}Goin' down undah...<#>
-{Finn Gur}You can't escape the cycle.<#>
-{Finn Gur}I will make sure of that.<#>
-{Finn Gur}This is the end of my spiral,\. but yours...<#>
-{Finn Gur}It is just the beginning.<#>
-{Alcohol Keeth}\}It's my first time being violent.<#>
-{Alcohol Keeth}\}Ugh, hold on.<#>
-{Alcohol Keeth}There.\| Now, where were we?<#>
-{Jacob Mertz}How the hell am I being beaten by\#a hobo and his shitty cowboy friend?<#>
-{Jacob Mertz}This makes no fucking sense.<#>
-{Kryzsztof the Cruncher}Ready for your nap, old man?<#>
+{Palisade Dipper}Think you've got what it takes?<#>{Пэлисейд Диппер}Думаете, вы сможете?
+{Palisade Dipper}How about now?<#>{Пэлисейд Диппер}А сейчас?
+{Palisade Dipper}The carnage has just begun!<#>{Пэлисейд Диппер}Бойня только началась!
+{Palisade Dipper}I'm on the path to Armageddon!<#>{Пэлисейд Диппер}Я на пути к Армагеддону!
+{Billiard Esquire}Can you keep up, grandpa?<#>{Биллиард Эскуайр}Поспеваешь, дедуля:
+{Billiard Esquire}Uh...\| is it too late to say sorry?<#>{Биллиард Эскуайр}Э...\| уже поздно извинятся?
+{Billiard Esquire}This is what I get for ignoring my cardio.<#>{Биллиард Эскуайр}Вот что я получил за пропуск тренировок.
+{Oliver Rang}Ah'll knock ya right between the eyes!<#>{Оливер Рэнг}Я разобью тебе нос!
+{Oliver Rang}Ya'int nothin' compared to me!<#>{Оливер Рэнг}Ты никто по сравнению со мной!
+{Oliver Rang}Goin' down undah...<#>{Оливер Рэнг}Спускаюсь в подземелье...
+{Finn Gur}You can't escape the cycle.<#>{Финн Гур}Ты не можешь сбежать из цикла.
+{Finn Gur}I will make sure of that.<#>{Финн Гур}Я убежусь в этом.
+{Finn Gur}This is the end of my spiral,\. but yours...<#>{Финн Гур}Это - конец моей спирали,\. но твоей...
+{Finn Gur}It is just the beginning.<#>{Финн Гур}Это лишь начало.
+{Alcohol Keeth}\}It's my first time being violent.<#>{Алкоголь Кит}\}Я впервые применяю насилие.
+{Alcohol Keeth}\}Ugh, hold on.<#>{Алкоголь Кит}\}Ох, погоди.
+{Alcohol Keeth}There.\| Now, where were we?<#>{Алкоголь Кит}Вот.\| На чём мы остановились?
+{Jacob Mertz}How the hell am I being beaten by\#a hobo and his shitty cowboy friend?<#>{Джейкоб Мерц}Какого чёрта меня избивает бомж и его\#сраный друг-ковбой?
+{Jacob Mertz}This makes no fucking sense.<#>{Джейкоб Мерц}Ебучая бессмыслица.
+{Kryzsztof the Cruncher}Ready for your nap, old man?<#>{Кристоф Измельчитель}Готов на покой, старик?
 {Rutherford Headstrong}Oh,\. I'm not lookin' so hot...<#>
-{Rutherford Headstrong}This one's all yours, big guy.<#>
-{Kryzsztof the Cruncher}Is that it?\| You hit like a gentle breeze!<#>
-{Kryzsztof the Cruncher}I'm still in it!\. The bell hasn't rung yet!<#>
-{Kryzsztof the Cruncher}Ungh!<#>
-{Kryzsztof the Cruncher}I...\| I can't go on...<#>
-{Kryzsztof the Cruncher}Victory is yours.<#>
-{Randy Mack}MACK MEAT,\. MACK MEAT!<#>
-{Graeme Lucifer}Hell doesn't want me...\| I'll be back.<#>
+{Rutherford Headstrong}This one's all yours, big guy.<#>{Рузерфорд Крепкий}Оставляю всё тебе, большой парень.
+{Kryzsztof the Cruncher}Is that it?\| You hit like a gentle breeze!<#>{Кристоф Измельчитель}И это всё?\| У тебя силы как у ветерка!
+{Kryzsztof the Cruncher}I'm still in it!\. The bell hasn't rung yet!<#>{Кристоф Измельчитель}Я всё ещё продолжаю!\. Колокол ещё не прозвенел!
+{Kryzsztof the Cruncher}Ungh!<#>{Кристоф Измельчитель}Уух!
+{Kryzsztof the Cruncher}I...\| I can't go on...<#>{Кристоф Измельчитель}Я...\| Я не могу продолжать.
+{Kryzsztof the Cruncher}Victory is yours.<#>{Кристоф Измельчитель}Победа за тобой.
+{Randy Mack}MACK MEAT,\. MACK MEAT!<#>{Рэнди Мак}МЯСО МАКА,\. МЯСО МАКА!
+{Graeme Lucifer}Hell doesn't want me...\| I'll be back.<#>{Грэм Люцифер}Я не нужен в аду...\| Я вернусь.
 {Ed Nobb}Dag nab consarn-flabbigabbit damn it!<#>
 {Ed Nobb}I hope you choke on your own beans!<#>
-{Jeremy Denkins}Damn\.\. KIDS!<#>
-{Jeremy Denkins}Thinkin' you can just walk all over me...<#>
-{Jeremy Denkins}Walk on my LEGACY!<#>
-{Jeremy Denkins}Well,\. I've had enough!<#>
-{Jeremy Denkins}Get ready...<#>
-{Jeremy Denkins}I'm 'bout to show you boys\#how we did things back in '44!<#>
-{Jeremy Denkins}They teach you early.\.\#How to take a man's life.<#>
-{Jeremy Denkins}They make you love it. Need it.<#>
-{Jeremy Denkins}We're all just tools of war in the end.<#>
-{Jeremy Denkins}Only difference is who's pullin' the strings.<#>
-{Floyd Burnside}Hmm...\| interesting.<#>
-{Floyd Burnside}I've seen enough.<#>
-{Floyd Burnside}Look into my eyes when you die.<#>
-{Floyd Burnside}Know that all hope has abandoned you.<#>
-{Floyd Burnside}...<#>
-{Floyd Burnside}How...\| peculiar.<#>
-{Francis Gizmo Jr.}Show them what we're made of!<#>
-{Francis Gizmo Jr.}Do I have to do everything myself?<#>
-{Francis Gizmo Jr.}All at once, now!\. Full power!<#>
-{Kroger Cleveland}You heard him! Full power!<#>
-{Wallaby Whitaker}Little busy here!<#>
-{Wallaby Whitaker}They can't handle all of us! Full power!<#>
-{Wallaby Whitaker}I'm hurtin', I'm hurtin'!<#>
-{Francis Gizmo Jr.}Get back, dumbass!<#>
-{Kroger Cleveland}Not looking good here...<#>
-{Francis Gizmo Jr.}Stay behind me!<#>
-{Kroger Cleveland}F-Francis!<#>
-{Wallaby Whitaker}Stay with us, big guy!<#>
-{Francis Gizmo Jr.}Guess I wasn't much of a leader,\. huh?<#>
-{Francis Gizmo Jr.}I'm sorry,\. boys.<#>
-{Francis Gizmo Jr.}You were better than I ever could've been.<#>
-{Kroger Cleveland}No, no, no!\| Francis...!<#>
-{Kroger Cleveland}You'll fucking pay for this!<#>
-{Wallaby Whitaker}Oh, God!\. Oh, fuck!<#>
-{Wallaby Whitaker}What are we supposed to do now?!<#>
-{Wallaby Whitaker}I'm so lost!<#>
-{Kroger Cleveland}I was supposed to be a champion.<#>
-{Kroger Cleveland}But in the end,\| I became a chumpian.<#>
-{Francis Gizmo Jr.}You're going to regret that!<#>
-{Wallaby Whitaker}Kroger,\. not you!<#>
-{Wallaby Whitaker}Guys...\| Where did you go?<#>
-{Wallaby Whitaker}It's getting cold...<#>
-{Francis Gizmo Jr.}Oh, you have fucked up now!<#>
-{Kroger Cleveland}Wait,\. Wallaby is...?\| Can't be!<#>
-{Francis Gizmo Jr.}Get your ass back in gear!<#>
-{Francis Gizmo Jr.}Earth to dumbfuck!\. Come in, dumbfuck!<#>
-{Manny Kluth}Ow, ow, ow!\. This guy's a big meanie!<#>
-{Tony Jones}Where are you going?! Geez!<#>
-{Danny DeMarco}Waaahhhh!\. He's too tough!<#>
-{Tony Jones}Oh, come on!\. Don't be such a baby!<#>
-{Shammi Beltraime}.\..\..\.Tony?<#>
-{Tony Jones}HEY!\. BACK OFF, IDIOT!<#>
-{Tony Jones}We'll make you pay for this!\. I swear...!<#>
-{Manny Kluth}Tony, no!<#>
-{Danny DeMarco}You messed up now!\. Take this, butthead!<#>
+{Jeremy Denkins}Damn\.\. KIDS!<#>{Джереми Денкинс}Чёрт\.\. ДЕТИ!
+{Jeremy Denkins}Thinkin' you can just walk all over me...<#>{Джереми Денкинс}Думаете, что можете просто переступать через меня...
+{Jeremy Denkins}Walk on my LEGACY!<#>{Джереми Денкинс}Топлать моё НАСЛЕДСТВО!
+{Jeremy Denkins}Well,\. I've had enough!<#>{Джереми Денкинс}Ну,\. с меня достаточно!
+{Jeremy Denkins}Get ready...<#>{Джереми Денкинс}Приготовтесь...
+{Jeremy Denkins}I'm 'bout to show you boys\#how we did things back in '44!<#>{Джереми Денкинс}Я покажу вам, как дела делались в 44-ом!
+{Jeremy Denkins}They teach you early.\.\#How to take a man's life.<#>{Джереми Денкинс}Они учат рано.\.\#Как забирать чужую жизнь.
+{Jeremy Denkins}They make you love it. Need it.<#>{Джереми Денкинс}Они заставляют тебя любить это. Нуждаться в этом.
+{Jeremy Denkins}We're all just tools of war in the end.<#>{Джереми Денкинс}Мы все в итоге - лишь инструменты войны.
+{Jeremy Denkins}Only difference is who's pullin' the strings.<#>{Джереми Денкинс}Единственное различие в том, кто дёргает за нитки.
+{Floyd Burnside}Hmm...\| interesting.<#>{Флойд Бёрнсайд}Хмм...\| интересно.
+{Floyd Burnside}I've seen enough.<#>{Флойд Бёрнсайд}Я увидел достаточно.
+{Floyd Burnside}Look into my eyes when you die.<#>{Флойд Бёрнсайд}Взгляни в мои глаза, когда будешь умирать.
+{Floyd Burnside}Know that all hope has abandoned you.<#>{Флойд Бёрнсайд}Знай, что вся надежда бросила тебя.
+{Floyd Burnside}...<#>{Флойд Бёрнсайд}...
+{Floyd Burnside}How...\| peculiar.<#>{Флойд Бёрнсайд}Как...\| необычно.
+{Francis Gizmo Jr.}Show them what we're made of!<#>{Фрэнсис Гизмо мл.}Покажи им, из чего мы сделаны!
+{Francis Gizmo Jr.}Do I have to do everything myself?<#>{Фрэнсис Гизмо мл.}Мне нужно делать всё самому?
+{Francis Gizmo Jr.}All at once, now!\. Full power!<#>{Фрэнсис Гизмо мл.}Все вместе!\. В полную силу!
+{Kroger Cleveland}You heard him! Full power!<#>{Крогер Кливлэнд}Вы его слышали! В полную силу!
+{Wallaby Whitaker}Little busy here!<#>{Уоллоби Уитейкер}Немного занят!
+{Wallaby Whitaker}They can't handle all of us! Full power!<#>{Уоллоби Уитейкер}Они не смогут сдержать всех! В полную силу!
+{Wallaby Whitaker}I'm hurtin', I'm hurtin'!<#>{Уоллоби Уитейкер}Мне больно, мне больно!
+{Francis Gizmo Jr.}Get back, dumbass!<#>{Фрэнсис Гизмо мл.}Назад, придурок!
+{Kroger Cleveland}Not looking good here...<#>{Крогер Кливлэнд}Ситуация не выглядит хорошо...
+{Francis Gizmo Jr.}Stay behind me!<#>{Фрэнсис Гизмо мл.}Держитесь за мной!
+{Kroger Cleveland}F-Francis!<#>{Крогер Кливлэнд}Ф-Фрэнсис!
+{Wallaby Whitaker}Stay with us, big guy!<#>{Уоллоби Уитейкер}Держись с нами, здоровяк!
+{Francis Gizmo Jr.}Guess I wasn't much of a leader,\. huh?<#>{Фрэнсис Гизмо мл.}Похоже, я был не таким уж и лидером,\. а?
+{Francis Gizmo Jr.}I'm sorry,\. boys.<#>{Фрэнсис Гизмо мл.}Простите,\. парни.
+{Francis Gizmo Jr.}You were better than I ever could've been.<#>{Фрэнсис Гизмо мл.}Вы лучше, чем я когда-либо был.
+{Kroger Cleveland}No, no, no!\| Francis...!<#>{Крогер Кливлэнд}Нет, нет, нет!\| Фрэнсис...!
+{Kroger Cleveland}You'll fucking pay for this!<#>{Крогер Кливлэнд}Вы блять заплатите за это!
+{Wallaby Whitaker}Oh, God!\. Oh, fuck!<#>{Уоллоби Уитейкер}О, боже!\. О, блять!
+{Wallaby Whitaker}What are we supposed to do now?!<#>{Уоллоби Уитейкер}Что нам делать теперь?!
+{Wallaby Whitaker}I'm so lost!<#>{Уоллоби Уитейкер}Я растерян!
+{Kroger Cleveland}I was supposed to be a champion.<#>{Крогер Кливлэнд}Я должен был быть чемпионом.
+{Kroger Cleveland}But in the end,\| I became a chumpian.<#>{Крогер Кливлэнд}Но в конце,\| оказался идиотом.
+{Francis Gizmo Jr.}You're going to regret that!<#>{Фрэнсис Гизмо мл.}Ты пожалеешь об этом!
+{Wallaby Whitaker}Kroger,\. not you!<#>{Уоллоби Уитейкер}Крогер,\. только не ты!
+{Wallaby Whitaker}Guys...\| Where did you go?<#>{Уоллоби Уитейкер}Ребята...\| Куда вы пропали?
+{Wallaby Whitaker}It's getting cold...<#>{Уоллоби Уитейкер}Мне холодно...
+{Francis Gizmo Jr.}Oh, you have fucked up now!<#>{Фрэнсис Гизмо мл.}Ох, теперь тебе пизда!
+{Kroger Cleveland}Wait,\. Wallaby is...?\| Can't be!<#>{Крогер Кливлэнд}Стоп,\. Уоллоби...?\| Невозможно!
+{Francis Gizmo Jr.}Get your ass back in gear!<#>{Фрэнсис Гизмо мл.}Одень всё обратно!
+{Francis Gizmo Jr.}Earth to dumbfuck!\. Come in, dumbfuck!<#>{Фрэнсис Гизмо мл.}Нахуй землю!\. Давай, нахуй!
+{Manny Kluth}Ow, ow, ow!\. This guy's a big meanie!<#>{Мэнни Клут}Ой, ой, ой!\. Этот парень большой негодяй!
+{Tony Jones}Where are you going?! Geez!<#>{Тони Джонс}Куда ты собрался?! Боже!
+{Danny DeMarco}Waaahhhh!\. He's too tough!<#>{Дэнни ДеМарко}Вааааа!\. Он слишком жёсткий!
+{Tony Jones}Oh, come on!\. Don't be such a baby!<#>{Тони Джонс}Ох, господи!\. Не будь таким ребёнком!
+{Shammi Beltraime}.\..\..\.Tony?<#>{Шэмми Белтрэйм}.\..\..\.Тони?
+{Tony Jones}HEY!\. BACK OFF, IDIOT!<#>{Тони Джонс}ЭЙ!\. ОТВАЛИ, ИДИОТ!
+{Tony Jones}We'll make you pay for this!\. I swear...!<#>{Тони Джонс}Ты заплатишь за это!\. Клянусь...!
+{Manny Kluth}Tony, no!<#>{Мэнни Клут}Тони, нет!
+{Danny DeMarco}You messed up now!\. Take this, butthead!<#>{Дэнни ДеМарко}Теперь тебе конец!\. Держись, придурок!
 {Joel Miller}Alex, STOP!<#>{Джоэл Миллер}Алекс, ОСТАНОВИСЬ!
 {Joel Miller}Everyone, STOP!<#>{Джоэл Миллер}Все, ОСТАНОВИТЕСЬ!
-{Glenn Cletus}Huck, I'm gettin' whooped!<#>
-{Huckleberry Cletus}Shush yer mouth and ya won't get hit!<#>
-{Glenn Cletus}That ain't fuckin' helpful!<#>
-{Huckleberry Cletus}I ain't afraid of you,\. old man!<#>
-{Glenn Cletus}Yeah, we ain't afraid of you!<#>
-{Huckleberry Cletus}Speak for yourself ya God damn chicken!<#>
-{Glenn Cletus}If I'm a chicken yer a big fuckin' COCK!<#>
-{Glenn Cletus}Tell Pappy...\| he can suck my dick...<#>
-{Huckleberry Cletus}Tell him yerself,\. lazy bastard!<#>
-{Huckleberry Cletus}Jesus...\| Gotta do everythin' myself!<#>
-{Huckleberry Cletus}Headin' down the trail again...<#>
-{Glenn Cletus}Finally got what ya deserved,\. ya asshole!<#>
+{Glenn Cletus}Huck, I'm gettin' whooped!<#>{Гленн Клетус}Гек, меня бьют!
+{Huckleberry Cletus}Shush yer mouth and ya won't get hit!<#>{Гекльберри Клетус}Заткнись, и бить не будут!
+{Glenn Cletus}That ain't fuckin' helpful!<#>{Гленн Клетус}Это нихуя не помогает!
+{Huckleberry Cletus}I ain't afraid of you,\. old man!<#>{Гекльберри Клетус}Я тебя не боюсь,\. старик!
+{Glenn Cletus}Yeah, we ain't afraid of you!<#>{Гленн Клетус}Да, мы тебя не боимся!
+{Huckleberry Cletus}Speak for yourself ya God damn chicken!<#>{Гекльберри Клетус}Говори за себя, сраный цыплёнок!
+{Glenn Cletus}If I'm a chicken yer a big fuckin' COCK!<#>{Гленн Клетус}Если я цыплёнок, то ты ебучий ПЕТУХ!
+{Glenn Cletus}Tell Pappy...\| he can suck my dick...<#>{Гленн Клетус}Скажи папочке...\| пусть пососёт мой член...
+{Huckleberry Cletus}Tell him yerself,\. lazy bastard!<#>{Гекльберри Клетус}Скажи ему сам,\. ленивый ублюдок!
+{Huckleberry Cletus}Jesus...\| Gotta do everythin' myself!<#>{Гекльберри Клетус}Господи...\| Придётся все делать самому!
+{Huckleberry Cletus}Headin' down the trail again...<#>{Гекльберри Клетус}Снова всё скатилось...
+{Glenn Cletus}Finally got what ya deserved,\. ya asshole!<#>{Гленн Клетус}Наконец-то получил что заслуживаешь,\. придурок!
 {Avatar of Failure}Hmph, not bad.<#>{Аватар ошибки}Хм, неплохо.
 {Avatar of Failure}But allow me to show you what\#separates the student from the master.<#>{Аватар ошибки}Но позволь мне показать тебе, что\#отличает ученика от учителя.
 {Avatar of Failure}It seems...\| I have nothing left to teach you.<#>{Аватар ошибки}Похоже...\| Мне больше нечему тебя научить.
@@ -331,102 +331,102 @@ I can play dirtier, you filth!<#>
 {???}Friends! Allow me to aid you!<#>{???}Друзья! Позвольте мне вам помочь!
 {???}Stay strong and win the day!<#>{???}Оставайтесь сильными и победите!
 {The Guttinator}...?<#>{Кишконатор}...?
-{Weez Finkerton}THE MAD FINK STRIKES AGAIN!<#>
-{Weez Finkerton}HEY, SATAN!\. I'M COMING FOR YOU NEXT!<#>
-{Mikhail "Milo" Zhnebrowski}Oh...\| Ohhhhhh!<#>
-{Mikhail "Milo" Zhnebrowski}I see it!<#>
-{Mikhail "Milo" Zhnebrowski}I can see it now!<#>
-{Mikhail "Milo" Zhnebrowski}My eyes...\. have...\. been...\. OPENED!<#>
-{Mikhail "Milo" Zhnebrowski}Behold, friends!<#>
-{Mikhail "Milo" Zhnebrowski}The power...\| of enlightenment!<#>
-{Mikhail "Milo" Zhnebrowski}You cannot stop me,\. friends!<#>
-{Mikhail "Milo" Zhnebrowski}I will obtain peace through any means necessary!<#>
-{Mikhail "Milo" Zhnebrowski}Brothers...\| pray for me!<#>
-{Mikhail "Milo" Zhnebrowski}Augh!<#>
-{Mikhail "Milo" Zhnebrowski}It...\| it was not meant to be...<#>
-{Dwight Boyak}Ain't seen nothin' yet!<#>
-{Dwight Boyak}Looks like you were the spicier enchilada.<#>
-{Rodrigo Chainman}Let the blood cleanse you.<#>
-{Rodrigo Chainman}Let the pain...\| free you.<#>
-{Rodrigo Chainman}How sweet it tastes...<#>
-{Rodrigo Chainman}Drink deep from my veins.<#>
-{Rodrigo Chainman}Don't let a drop go to waste.<#>
-{Frederico Daemonico}Let me watch you bleed.<#>
-{Frederico Daemonico}You're just like us...<#>
-{Hank Abner}That all you wimps got in you?!<#>
-{Hank Abner}I could do this for days!<#>
-{Basto Angel Jr.}Oh God, I'm gonna throw up...<#>
-{Basto Angel Jr.}All I wanted to do was play fuckin' basketball.<#>
-{Basto Angel Jr.}Was that too much to ask?!<#>
-{Hank Abner}NO!\. You broke my new pet!<#>
-{Hank Abner}I'm gonna knock the juice outta you bozos!\|\#And then drink it!<#>
-{Hank Abner}Like a great tree,\. I fall...\| gracefully...<#>
-{Chris Kringle}Merry Christmas, bitch!<#>
-{Chris Kringle}Happy Hanukkah,\. bitch!<#>
-{Chris Kringle}Happy,\. uh,\| Kwanza...\| bitch!<#>
-{Chris Kringle}Been on the naughty list for\#thirty-eight years and proud of it!<#>
-{Shammi}To...\| ny...\|<#>
-{Scrawny Davy}Hey, what're you pointing at?<#>
-{Scrawny Davy}Is there something behind me?<#>
-{Scrawny Davy}Okay,\. joke's over!<#>
-{Scrawny Davy}It's serious time!<#>
-{Scrawny Davy}Is this some kind of prank?<#>
-{Scrawny Davy}There's nothing over there!<#>
-{Scrawny Davy}Oh well, back to business!<#>
-{Scrawny Davy}Ohhhh, no you don't!<#>
-{Scrawny Davy}We're not doing this song and dance again!<#>
-{Scrawny Davy}Again with this?<#>
-{Scrawny Davy}Seriously,\. what IS it?!<#>
-{Scrawny Davy}We're cookin' with gas now!<#>
-{Scrawny Davy}C'mon,\. chums,\. let's get SPICY!<#>
-{Scrawny Davy}BURN, BABY, BURN!<#>
-{Scrawny Davy}Whew...<#>
-{Scrawny Davy}Is it hot in here,\. or is it just me?<#>
-{Scrawny Davy}Heh...\| heh...<#>
-{Scrawny Davy}Hey, what's going on back there?!<#>
-{Scrawny Davy}You guys better not be messing with my-\^<#>
-{Serjio Oman}In the name of the Elder, I shall cut you down!<#>
-{Serjio Oman}I won't be felled by the likes of you!<#>
-{Serjio Oman}Where did we go so wrong...?<#>
-{Vasyl Jerudich}I'm like a raging bull!\. Wild and unstoppable!<#>
-{Sheamus Gobshite}Ye call t'at a fockin' punch?!<#>
-{Sheamus Gobshite}Ah seen nannies 'it 'arder t'an ye!<#>
-{Vasyl Jerudich}Eat me and you'll have\#the shits for a whole month.<#>
-{Sheamus Gobshite}T'is t'e end of t'e rainbow fer me...<#>
-{Xerosik Courtly}I'll shock some sense into you!<#>
-{Xerosik Courtly}You're gonna wish you called me ugly!<#>
-{Xerosik Courtly}I'm not done with you yet!<#>
-{Xerosik Courtly}God,\. why couldn't I have just been normal?<#>
-{Aloysius Herschel}This flame of shame will\#bring fame to my name.<#>
-{Aloysius Herschel}The sweet heat shall be your defeat.<#>
-{Aloysius Herschel}Hark,\. you shant silence this spark.<#>
-{Aloysius Herschel}Behold,\. my wrath untold.<#>
-{Aloysius Herschel}My end is here.\| Oh dear.<#>
-{Wily Knight}Shoulda got the hell out of here\#when you had the chance,\. pal.<#>
-{Wily Knight}Enough of this playground shit!<#>
-{Wily Knight}Let's get real!<#>
-{Wily Knight}Fuck 'em up!<#>
-{June the Goon}Dismemberment is my fetish!\|\#There, I said it!<#>
-{Wily Knight}Oh, I knew it!\. Nasty bitch!<#>
-{Cecil Flairs}I ate coal as a kid.<#>
-{Wily Knight}Maybe that's why you\#were so God damn ugly!<#>
-{Wily Knight}This is all wrong!<#>
-{Wily Knight}I'm the main character!\. I can't die!<#>
-{Ygor Melody}.\..\..\.Fin.<#>
-{Wily Knight}So you COULD talk!<#>
-{Scooter Screwloose}God,\. I am harder than concrete.<#>
-{Wily Knight}You'll be real hard when rigor mortis sets in!<#>
-{Wily Knight}...<#>
-{Wily Knight}You know,\| I think I left\#the oven on at home.<#>
-{Wily Knight}You gents have fun, now!<#>
-{Dex Muldoon}You'll never take us down!<#>
-{Dex Muldoon}This trash is ours!<#>
-{Dex Muldoon}The Pedro Army will be\#bigger than Rando ever was!<#>
-{Dex Muldoon}Mark my words!<#>
-{Tibby Dobs}It's Tibby time!<#>
-{Tibby Dobs}I can be bad!<#>
-{Tibby Dobs}I'll show you just how bad I can be!<#>
-{Tibby Dobs}Ahh, no more!<#>
+{Weez Finkerton}THE MAD FINK STRIKES AGAIN!<#>{Уиз Финкертон}БЕЗУМНЫЙ ФИНК НАНОСИТ НОВЫЙ УДАР!
+{Weez Finkerton}HEY, SATAN!\. I'M COMING FOR YOU NEXT!<#>{Уиз Финкертон}ЭЙ, САТАНА!\. ТЫ СЛЕДУЮЩИЙ!
+{Mikhail "Milo" Zhnebrowski}Oh...\| Ohhhhhh!<#>{Михаил "Мило" Жнебровский}Ох...\| Оооооо!
+{Mikhail "Milo" Zhnebrowski}I see it!<#>{Михаил "Мило" Жнебровский}Я вижу!
+{Mikhail "Milo" Zhnebrowski}I can see it now!<#>{Михаил "Мило" Жнебровский}Теперь я вижу!
+{Mikhail "Milo" Zhnebrowski}My eyes...\. have...\. been...\. OPENED!<#>{Михаил "Мило" Жнебровский}Мои глаза...\. РАСКРЫТЫ!
+{Mikhail "Milo" Zhnebrowski}Behold, friends!<#>{Михаил "Мило" Жнебровский}Узрите, друзья!
+{Mikhail "Milo" Zhnebrowski}The power...\| of enlightenment!<#>{Михаил "Мило" Жнебровский}Сила...\| просветления!
+{Mikhail "Milo" Zhnebrowski}You cannot stop me,\. friends!<#>{Михаил "Мило" Жнебровский}Вам не остановить меня,\. друзья!
+{Mikhail "Milo" Zhnebrowski}I will obtain peace through any means necessary!<#>{Михаил "Мило" Жнебровский}Я достигну мира любыми способами!
+{Mikhail "Milo" Zhnebrowski}Brothers...\| pray for me!<#>{Михаил "Мило" Жнебровский}Братья...\| помолитесь за меня!
+{Mikhail "Milo" Zhnebrowski}Augh!<#>{Михаил "Мило" Жнебровский}Ох!
+{Mikhail "Milo" Zhnebrowski}It...\| it was not meant to be...<#>{Михаил "Мило" Жнебровский}Этого...\| этого не должно было...
+{Dwight Boyak}Ain't seen nothin' yet!<#>{Дуайт Бояк}Ты ещё ничего не видел!
+{Dwight Boyak}Looks like you were the spicier enchilada.<#>{Дуайт Бояк}Похоже, ты - энчилада поострее.
+{Rodrigo Chainman}Let the blood cleanse you.<#>{Родриго Чейнман}Позволь крови очистить тебя.
+{Rodrigo Chainman}Let the pain...\| free you.<#>{Родриго Чейнман}Позволь боли...\| освободить тебя.
+{Rodrigo Chainman}How sweet it tastes...<#>{Родриго Чейнман}Как сладок её вкус...
+{Rodrigo Chainman}Drink deep from my veins.<#>{Родриго Чейнман}Пей из глубин моих вен.
+{Rodrigo Chainman}Don't let a drop go to waste.<#>{Родриго Чейнман}Не упусти ни капли.
+{Frederico Daemonico}Let me watch you bleed.<#>{Фредерико Демонико}Дай посмотрю, как ты истекаешь кровью.
+{Frederico Daemonico}You're just like us...<#>{Фредерико Демонико}Ты такой же, как мы...
+{Hank Abner}That all you wimps got in you?!<#>{Хэнк Эбнер}Это всё, на что вы слабаки, способны?!
+{Hank Abner}I could do this for days!<#>{Хэнк Эбнер}Я могу делать это неделями!
+{Basto Angel Jr.}Oh God, I'm gonna throw up...<#>{Басто Энджел мл.}О Боже, меня сейчас вырвет...
+{Basto Angel Jr.}All I wanted to do was play fuckin' basketball.<#>{Басто Энджел мл.}Я всего лишь хотел поиграть в ебучий баскетбол.
+{Basto Angel Jr.}Was that too much to ask?!<#>{Басто Энджел мл.}Я слишком много просил?!
+{Hank Abner}NO!\. You broke my new pet!<#>{Хэнк Эбнер}НЕТ!\. Ты сломал моего нового питомца!
+{Hank Abner}I'm gonna knock the juice outta you bozos!\|\#And then drink it!<#>{Хэнк Эбнер}Я выбью из вас весь сок, придурки!\|\#И потом его выпью!
+{Hank Abner}Like a great tree,\. I fall...\| gracefully...<#>{Хэнк Эбнер}Как великое дерево,\. я падаю...\| грациозно...
+{Chris Kringle}Merry Christmas, bitch!<#>{Крис Крингл}Счастливого Рождества, сука!
+{Chris Kringle}Happy Hanukkah,\. bitch!<#>{Крис Крингл}Счастливой Хануки,\. сука!
+{Chris Kringle}Happy,\. uh,\| Kwanza...\| bitch!<#>{Крис Крингл}Счастливой,\. э,\| Кванзы...\| сука!
+{Chris Kringle}Been on the naughty list for\#thirty-eight years and proud of it!<#>{Крис Крингл}Был в списке плохих детей вот уже\#тридцать восемь лет, и горжусь этим!
+{Shammi}To...\| ny...\|<#>{Шэмми}То...\| ни...\|
+{Scrawny Davy}Hey, what're you pointing at?<#>{Толстяк Дэви}Эй, на кого оружие направил?
+{Scrawny Davy}Is there something behind me?<#>{Толстяк Дэви}Позади меня кто-то есть?
+{Scrawny Davy}Okay,\. joke's over!<#>{Толстяк Дэви}Ладно,\. шутки кончились!
+{Scrawny Davy}It's serious time!<#>{Толстяк Дэви}Теперь я серьёзен!
+{Scrawny Davy}Is this some kind of prank?<#>{Толстяк Дэви}Это какая-то шутка?
+{Scrawny Davy}There's nothing over there!<#>{Толстяк Дэви}Там ничего нет!
+{Scrawny Davy}Oh well, back to business!<#>{Толстяк Дэви}Ну ладно, обратно к делу!
+{Scrawny Davy}Ohhhh, no you don't!<#>{Толстяк Дэви}Оооо, вы это не сделаете!
+{Scrawny Davy}We're not doing this song and dance again!<#>{Толстяк Дэви}
+{Scrawny Davy}Again with this?<#>{Толстяк Дэви}Снова это?
+{Scrawny Davy}Seriously,\. what IS it?!<#>{Толстяк Дэви}Серьёзно,\. ЧТО это?!
+{Scrawny Davy}We're cookin' with gas now!<#>{Толстяк Дэви}Теперь мы готовим на газу!
+{Scrawny Davy}C'mon,\. chums,\. let's get SPICY!<#>{Толстяк Дэви}Давайте,\. друзья,\. ПООСТРЕЕ!
+{Scrawny Davy}BURN, BABY, BURN!<#>{Толстяк Дэви}ГОРИ, ДЕТКА, ГОРИ!
+{Scrawny Davy}Whew...<#>{Толстяк Дэви}Фух...
+{Scrawny Davy}Is it hot in here,\. or is it just me?<#>{Толстяк Дэви}Здесь горячо,\. или мне кажется?
+{Scrawny Davy}Heh...\| heh...<#>{Толстяк Дэви}Хе...\| хе...
+{Scrawny Davy}Hey, what's going on back there?!<#>{Толстяк Дэви}Эй, что там происходит?!
+{Scrawny Davy}You guys better not be messing with my-\^<#>{Толстяк Дэви}Ребята, вам лучше не портить мой-\^
+{Serjio Oman}In the name of the Elder, I shall cut you down!<#>{Серхио Оман}Во имя Старейшины, я тебя убью!
+{Serjio Oman}I won't be felled by the likes of you!<#>{Серхио Оман}Я не позволю таким, как вы, меня сокрушить!
+{Serjio Oman}Where did we go so wrong...?<#>{Серхио Оман}Где мы так ошиблись...?
+{Vasyl Jerudich}I'm like a raging bull!\. Wild and unstoppable!<#>{Василь Ерудич}Я как разъяренный бык!\. Дикий и неудержимый!
+{Sheamus Gobshite}Ye call t'at a fockin' punch?!<#>{Шеймус Гобшайт}И это для тебя блядь удар?!
+{Sheamus Gobshite}Ah seen nannies 'it 'arder t'an ye!<#>{Шеймус Гобшайт}Я знаю нянек пожёстче тебя!
+{Vasyl Jerudich}Eat me and you'll have\#the shits for a whole month.<#>{Василь Ерудич}Съешь меня, и будешь срать целый\#месяц.
+{Sheamus Gobshite}T'is t'e end of t'e rainbow fer me...<#>{Шеймус Гобшайт}Вот и сказочке конец...
+{Xerosik Courtly}I'll shock some sense into you!<#>{Херосик Кортли}Я вдолблю тебе разума!
+{Xerosik Courtly}You're gonna wish you called me ugly!<#>{Херосик Кортли}Ты будешь жалеть, что назвал меня уродом!
+{Xerosik Courtly}I'm not done with you yet!<#>{Херосик Кортли}Я с тобой ещё не закончил!
+{Xerosik Courtly}God,\. why couldn't I have just been normal?<#>{Херосик Кортли}Боже,\. почему я просто не оказался нормальным?
+{Aloysius Herschel}This flame of shame will\#bring fame to my name.<#>{Алоизий Хершель}Это пламя стыда принесёт\#славы сюда.
+{Aloysius Herschel}The sweet heat shall be your defeat.<#>{Алоизий Хершель}Этот тёплый огонь принесёт вам покой.
+{Aloysius Herschel}Hark,\. you shant silence this spark.<#>{Алоизий Хершель}Внемли,\. тебе не затушить его.
+{Aloysius Herschel}Behold,\. my wrath untold.<#>{Алоизий Хершель}Узри мой гнев необузданный.
+{Aloysius Herschel}My end is here.\| Oh dear.<#>{Алоизий Хершель}Конец мой здесь.\| Какая ересь.
+{Wily Knight}Shoulda got the hell out of here\#when you had the chance,\. pal.<#>{Уили Рыцарь}Тебе надо было валить отсюда,\#пока у тебя был шанс,\. приятель.
+{Wily Knight}Enough of this playground shit!<#>{Уили Рыцарь}Достаточно этих сраных игр!
+{Wily Knight}Let's get real!<#>{Уили Рыцарь}Посерьёзнее!
+{Wily Knight}Fuck 'em up!<#>{Уили Рыцарь}Взъебите их!
+{June the Goon}Dismemberment is my fetish!\|\#There, I said it!<#>{Юн Придурок}Расчленение - мой фетиш!\|\#Вот, признался!
+{Wily Knight}Oh, I knew it!\. Nasty bitch!<#>{Уили Рыцарь}Я знал!\. Сраная сука!
+{Cecil Flairs}I ate coal as a kid.<#>{Сэсил Находчивый}Я ел уголь, когда был ребёнком.
+{Wily Knight}Maybe that's why you\#were so God damn ugly!<#>{Уили Рыцарь}Может поэтому ты был таким\#уродливым!
+{Wily Knight}This is all wrong!<#>{Уили Рыцарь}Это всё неправильно!
+{Wily Knight}I'm the main character!\. I can't die!<#>{Уили Рыцарь}Я главный герой!\. Я не могу умереть!
+{Ygor Melody}.\..\..\.Fin.<#>{Игор Мелодичный}.\..\..\.Конец.
+{Wily Knight}So you COULD talk!<#>{Уили Рыцарь}Так ты УМЕЛ говорить!
+{Scooter Screwloose}God,\. I am harder than concrete.<#>{Скутер Беспредельщик}Господи,\. я крепче чем бетон.
+{Wily Knight}You'll be real hard when rigor mortis sets in!<#>{Уили Рыцарь}Ты будешь очень крепким, когда\#войдёшь в трупное оконченение!
+{Wily Knight}...<#>{Уили Рыцарь}...
+{Wily Knight}You know,\| I think I left\#the oven on at home.<#>{Уили Рыцарь}Знаешь,\| я думаю, я забыл\#выключить утюг.
+{Wily Knight}You gents have fun, now!<#>{Уили Рыцарь}Веселитесь, парни!
+{Dex Muldoon}You'll never take us down!<#>{Декс Малдун}Вы никогда нас не уничтожите!
+{Dex Muldoon}This trash is ours!<#>{Декс Малдун}Этот мусор наш!
+{Dex Muldoon}The Pedro Army will be\#bigger than Rando ever was!<#>{Декс Малдун}Армия Педро будет больше,\#чем любая армия Рандо!
+{Dex Muldoon}Mark my words!<#>{Декс Малдун}Запомни мои слова!
+{Tibby Dobs}It's Tibby time!<#>{Тибби Добс}Время Тибби!
+{Tibby Dobs}I can be bad!<#>{Тибби Добс}Я могу быть плохим!
+{Tibby Dobs}I'll show you just how bad I can be!<#>{Тибби Добс}Я покажу тебе, насколько!
+{Tibby Dobs}Ahh, no more!<#>{Тибби Добс}Охх, прекрати!
 {Bepe Stormer}Watch out! The Storm's comin' through!<#>{Бепе Штормер}Берегись! Шторм надвигается!
 {Bepe Stormer}I'm 24-karats of pure power!<#>{Бепе Штормер}24 карата чистой мощи!
 {Bepe Stormer}I tap, I tap!<#>
@@ -459,13 +459,13 @@ I can play dirtier, you filth!<#>
 I'm no one in particular.<#>Никто особенный.
 {Benedictus Freeman}This is fine.<#>{Бенедиктус Фримен}Всё в порядке.
 {Frisko Benson}God damn...<#>{Фриско Бенсон}Чёрт возьми...
-{Silvester de Maistre}Bah, this is childs' play!<#>
-{Silvester de Maistre}Let's make this more interesting!<#>
-{Silvester de Maistre}You don't know when to quit!<#>
-{Silvester de Maistre}Fine then!<#>
-{Silvester de Maistre}I got one last chance to take you out!<#>
-{Silvester de Maistre}...<#>
-{Silvester de Maistre}I should have... seen this coming.<#>
-{Silvester de Maistre}But you know...<#>
-{Silvester de Maistre}Dying with regrets, doesn't seem so bad.<#>
+{Silvester de Maistre}Bah, this is childs' play!<#>{Сильвестр де Мейстр}Ба, это детские игры!
+{Silvester de Maistre}Let's make this more interesting!<#>{Сильвестр де Мейстр}Давай сделаем это интереснее!
+{Silvester de Maistre}You don't know when to quit!<#>{Сильвестр де Мейстр}Ты не знаешь, когда пора уйти!
+{Silvester de Maistre}Fine then!<#>{Сильвестр де Мейстр}Ладно!
+{Silvester de Maistre}I got one last chance to take you out!<#>{Сильвестр де Мейстр}У меня есть последний шанс забрать тебя!
+{Silvester de Maistre}...<#>{Сильвестр де Мейстр}...
+{Silvester de Maistre}I should have... seen this coming.<#>{Сильвестр де Мейстр}Я должен был... предвидеть это.
+{Silvester de Maistre}But you know...<#>{Сильвестр де Мейстр}Но знаешь...
+{Silvester de Maistre}Dying with regrets, doesn't seem so bad.<#>{Сильвестр де Мейстр}Умирать с сожалением - не так уж плохо.
 {Hugo Leopardi}Enough of this.<#>{Хьюго Леопарди}Достаточно.
