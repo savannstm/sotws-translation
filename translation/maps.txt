@@ -8906,7 +8906,79 @@ Someone's idea of a home.<#>Чьё-то представление дома.
 <!-- Map330.rvdata2 --><#>
 They have been crushed.<#>Они были раздавлены.
 I hate\#this island.<#>Я ненавижу этот\#остров.
-
+<!-- Map331.rvdata2 --><#>
+It is jammed.<#>Заело.
+It's playing a calming song.<#>Оно проигрывает успокаивающую песню.
+The music has stopped.<#>Музыка прекратилась.
+My friends...<#>Мои друзья...
+I apologize.<#>Я извиняюсь.
+These doors\#can be a\#bit sticky\#sometimes.<#>Эти двери\#иногда могут\#заедать.
+It seems we've\#found ourselves\#at an impasse.<#>Похоже, мы\#оказались в\#тупике.
+We are\#friends.\.\#As such...<#>Мы друзья.\.\#И поэтому...
+I must be\#honest with you.<#>Я должен быть\#честен с вами.
+I never\#intended to\#let you leave\#this place.<#>Я никогда не\#стремился\#вывести вас\#из этого места.
+This studio...<#>Эта студия...
+What's\#left of it...<#>Что осталось\#от неё...
+It is my\#little slice\#of paradise.<#>Это мой\#маленький\#рай.
+Where all the\#worries go away.<#>Где все заботы\#уходят прочь.
+But it is\#unsustainable.<#>Но она неустойчив.
+They will\#flood this place.<#>Они заполонят\#это место.
+They will\#kill me.\. Kill\#me for the\#sake of it.<#>Они убьют\#меня.\. Убьют\#меня ради неё.
+There's nothing\#I can do but fight.<#>И мне не остаётся\#ничего, кроме боя.
+Fight to\#survive.<#>Боя ради\#выживания.
+Fight back\#every attack\#on my ideals.<#>Боя со всеми\#атаками по\#моим идеалам.
+We don't\#have to\#do this.<#>Нам не нужно\#этого делать.
+We can\#leave\#you be.<#>Мы можем\#просто оставить\#тебя.
+Let you\#live in peace.<#>Позволить тебе\#жить в мире.
+Alex,\.\#friend...<#>Алекс,\.\#друг...
+You simply\#cannot trust\#anyone anymore.<#>Больше нельзя\#никому просто\#доверять.
+Trust is\#caustic.\.\.\#Parasitic.<#>Доверие\#въедается.\.\.\#Как паразит.
+I have\#to do this.<#>Мне нужно\#это сделать.
+Then I'm\#going to hurt\#you,\. friend.<#>Тогда, я причиню\#тебе вред,\. друг.
+I won't\#hold back.<#>Я не буду\#сдерживаться.
+Alex.\. When\#our ideals are\#threatened...<#>Алекс.\. Когда\#наши идеалы\#в опасности.
+We can\#choose\#to die...<#>Мы можем\#выбрать\#смерть...
+...alongside\#our ideals...<#>...среди наших\#идеалов...
+...or we can\#choose to fight,\.\#to protect them.<#>...либо выбрать\#бой, чтобы\#защитить их.
+I have\#chosen\#to fight.<#>Я выбрал\#бой.
+I'm sorry\#for this,\. but...<#>Прости меня,\.\#но...
+Goodbye, Alex.<#>Прощай, Алекс.
+I will bury you\#someplace nice.<#>Я похороню тебя\#в хорошем месте.
+Hey, guys,\.\#I'm back!<#>Эй, ребята,\.\#я вернулся!
+Who wants jerky?!<#>Кто хочет мяса?!
+I don't think\#I brought enough.<#>Я не думаю, что\#принёс достаточно.
+All of this\#just so he\#could wear some\#tight pants...\. HA HA!<#>
+You searched the bin.<#>Вы обыскали урну.
+Nothing but paper scraps.<#>Ничего, кроме порванной бумаги.
+Antique incense holder.<#>Старинная подставка для благовоний.
+Esoteric mural. The paint is quite old.<#>Эзотерическая фреска. Краска довольно старая.
+Balance...\| the\#most essential\#principle of yoga...<#>Баланс...\| самый\#важный принцип\#йоги...
+One day we\#will stand on\#the edge of reality.<#>Однажды, мы будем\#стоять на грани\#реальности.
+You must know\#balance,\. or you\#will fall off the side.<#>Ты должен знать\#баланс,\. или\#упадёшь на бок.
+You are\#the most\#balanced\#of them all.<#>Ты самый\#сбалансированный\#из всех.
+We will\#be forever\#thankful.<#>Мы будем\#вечно\#благодарны.
+Listen to\#the universe...\.\#feel the pulse\#of its heart...<#>Прислушайся\#к вселенной...\.\#ощути пульс её\#сердца...
+Through meditation,\.\#even the deaf can hear.<#>Благодаря медитации,\.\#даже глухой услышит
+I hear\#it now...<#>Теперь я\#её слышу...
+A new\#peace...\.\#for all\#of us.<#>Новый мир...\.\#для всех\#нас.
+You are\#the tree...\|\#tall,\. mighty,\.\#unwavering...<#>Ты - дерево...\|\#высокое,\.\#могучее,\.\#непоколебимое...
+No breeze\#will shake\#you now.<#>Никакой ветер\#больше не\#поколышет тебя.
+You have\#stood against\#the wind and\#triumphed.<#>Ты противостоял\#ветру, и триумфально\#победил.
+We bless\#your spirit.<#>Мы благословляем\#твой дух.
+Eyes forward...\|\#Mind forward...<#>Глаза вперёд...\|\#Разум вперёд...
+See the end...\.\#Hear the end...\.\#Know the end...\.<#>Узри конец...\.\#Услышь конец...\.\#Узнай конец...\.
+This isn't\#the end...<#>Это ещё\#не конец...
+Maybe...\. it's\#only the\#beginning.<#>Возможно...\.\#это лишь\#начало.
+Peace befits\#the unclouded,\.\#those who know\#and are known...<#>
+Time befits\#the peaceful,\.\#those who have\#touched the universe...<#>
+A heavy\#buren has\#been lifted.<#>
+Time heals\#all wounds.<#>
+Master Zhnebrowski\#awaits you in\#his tea room.<#>
+Go forth\#now and\#be enlightened.<#>
+Be like the\#dew on the\#tip of a leaf...<#>
+Fleeting,\|\#yet serene.<#>
+I feel\#serenity...<#>
+Has peace\#truly returned?<#>
 <!-- Map332.rvdata2 --><#>
 Good\#luck, Alex.<#>Удачи,\#Алекс.
 May you\#find your peace.<#>Да найдёшь\#ты свой мир.
