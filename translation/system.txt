@@ -11,6 +11,7 @@ Smooth Moves<#>Плавные движения
 Investments<#>Инвестиции
 Moves<#>Движения
 Artistry<#>Артистичность
+Skulduggery<#>Надувательство
 MaxHP<#>Макс. ОЗ
 MaxSP<#>Макс. ОН
 ATK<#>АТК

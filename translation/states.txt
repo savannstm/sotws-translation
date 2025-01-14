@@ -75,7 +75,6 @@ Spooked<#>Напуган
 is startled!<#>напгуан!
 is shivering.<#>дрожит.
 regains his composure.<#>восстанавливает самообладание.
-Bellow Threshold<#>
 Geared Up<#>Снаряжён
 is ready to do some damage!<#>готов нанести урон!
 teems with power!<#>изобилует силой!
@@ -230,10 +229,6 @@ Bullied<#>Задирание
 is being picked on!<#>становится целью задирания!
 is a target of abuse.<#>- цель задирания.
 was left alone.<#>был оставлен в покое.
-Hidden Prio<#>
-Hidden DePrio<#>
-Secondary Threshold<#>
-Tertiary Threshold<#>
 Presence<#>Присутствие
 's got a dominating aura.<#>обладает тяжёлой аурой.
 is sinister.<#>навевает жуть.
@@ -243,8 +238,6 @@ Twisted<#>Перекос
 contorts.<#>перекошен.
 is coiled like a snake.<#>скручен, как змея.
 loosens up.<#>восстанавливает форму.
-Swelter<#>
-KO'ed fake<#>
 Brave<#>Храбрость
 embraces courage!<#>наполняется храбростью!
 is unwavering.<#>непоколебим.
@@ -287,7 +280,6 @@ is worn out!<#>истощился!
 is worn out.<#>истощён.
 feels weak.<#>чувствует слабость.
 regained his strength.<#>вернул себе силы.
-Hidden Hit Rate<#>
 Blazing<#>Пламя
 is fired up!<#>в огне!
 is feeling the burn!<#>чувствует жжение!
@@ -300,7 +292,6 @@ Pretending<#>Притворство
 has "fallen."<#>"ноукаутирован".
 is playing dead.<#>притворяется мёртвым.
 is back in the game!<#>снова в игре!
-Stacheless<#>
 Loaded<#>Снаряжён
 is packing heat!<#>держит ствол!
 's gun is primed and loaded.<#>зарядил и взвёл пушку.
@@ -329,7 +320,6 @@ simmered down.<#>остыл.
 Fortified<#>Укрепление
 is rock-steady.<#>твёрд как камень.
 drops his defenses.<#>ослабляет защиту.
-Rearm Lock<#>
 Fierce<#>Пыл
 is ready to throw down!<#>готов броситься в бой!
 is on a warpath!<#>вышел на тропу войны!

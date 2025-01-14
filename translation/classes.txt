@@ -6,6 +6,6 @@ Trash Disciple<#>Мусорный ученик
 Starving Artist<#>Голодающий художник
 Crustacean<#>Ракообразное
 Martial Artist<#>Мастер боевых искусств
-3rd Folder<#>Третья папка
+3rd Folder<#>Третья складка
 <state face: 1 InfAlex 0>\#<state face: 76 InfAlex 0>\#<state face: 41 InfAlex 0>\#<state face: 6 InfAlex 0>\#<state face: 32 InfAlex 1>\#<state face: 8 InfAlex 2>\#<state face: 30 InfAlex 2>\#<state face: 31 InfAlex 3>\#<state face: 60 InfAlex 3>\#<state face: 28 InfAlex 3>\#<state face: 58 InfAlex 3>\#<state face: 62 InfAlex 4>\#<state face: 20 InfAlex 5>\#<state face: 110 InfAlex 6>\#<win quotes>\#\elb Done.\#[new quote]\#\elb ...\#[new quote]\#\elb Another one.\#</win quotes>\#<level quotes>\#\elb ...\#</level quotes>\#<drops quotes>\#\elb Junk.\#[new quote]\#\elb ...\#</drops quotes>\#<command list>\#<command name: skill 931>\#skill list\#items\#</command list><#><state face: 1 InfAlex 0>\#<state face: 76 InfAlex 0>\#<state face: 41 InfAlex 0>\#<state face: 6 InfAlex 0>\#<state face: 32 InfAlex 1>\#<state face: 8 InfAlex 2>\#<state face: 30 InfAlex 2>\#<state face: 31 InfAlex 3>\#<state face: 60 InfAlex 3>\#<state face: 28 InfAlex 3>\#<state face: 58 InfAlex 3>\#<state face: 62 InfAlex 4>\#<state face: 20 InfAlex 5>\#<state face: 110 InfAlex 6>\#<win quotes>\#\elb Готово.\#[new quote]\#\elb ...\#[new quote]\#\elb Ещё одного.\#</win quotes>\#<level quotes>\#\elb ...\#</level quotes>\#<drops quotes>\#\elb Мусор.\#[new quote]\#\elb ...\#</drops quotes>\#<command list>\#<command name: skill 931>\#skill list\#items\#</command list>
 Neu Man<#>Человек Нью

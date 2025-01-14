@@ -5,7 +5,7 @@ Sean Shawn<#>Шон Шоун
 Roland Von Buckingham<#>Роланд фон Бакингем
 Richie Cheasedust<#>Ричи Чейздаст
 Bob Versace<#>Боб Версаче
-Rag Maggot<#>Рэг Маггот
+Rag Maggot<#>Тряпичный опарыш
 Chaz<#>Чаз
 Rubber Projectile<#>Резиновый снаряд
 Vinny Ramón<#>Винни Рамон
@@ -64,8 +64,8 @@ Cooper Kelp<#>Купер Келп
 Flynt Woodpecker<#>Флинт Дятел
 Flighty Crow<#>Легкомысленный ворон
 Aggressive Crow<#>Агрессивный ворон
-Parasol Fishman<#>Рыблюд с зонтом
-Demon-Eye Fishman<#>Рыболюд с дьяволским оком
+Parasol Fishman<#>Рыболюд с зонтом
+Demon-Eye Fishman<#>Рыболюд с дьявольским оком
 Elder Fishman<#>Пожилой рыболюд
 Garbage Gull<#>Мусорная чайка
 Gunther Scourge<#>Гюнтер Скурдж
@@ -146,11 +146,11 @@ Cecil Flairs<#>Сэсил Флейрс
 June the Goon<#>Джун Гун
 Ygor Melody<#>Игор Мелоди
 Scooter Screwloose<#>Скутер Скрюлуз
-Mother Maggot<#>Мать-личинка
-Pile of Maggots<#>Куча личинок
-Mound of Maggots<#>Бугор личинок
-Clump of Maggots<#>Груда личинок
-Horde of Maggots<#>Орда личинок
+Mother Maggot<#>Мать опарышей
+Pile of Maggots<#>Куча опарышей
+Mound of Maggots<#>Бугор опарышей
+Clump of Maggots<#>Груда опарышей
+Horde of Maggots<#>Орда опарышей
 Olathian Giant Scorpion<#>Олейтский гигантский скорпион
 Chris Kringle<#>Крис Крингл
 Fuel Tank<#>Топливный бак

@@ -27,7 +27,7 @@ A painful blow!!<#>Болезненный удар!!
 %s recovered %s %s!<#>%s восстановил %s %s!
 %s gained %s %s!<#>%s получил %s %s!
 %s lost %s %s!<#>%s потерял %s %s!
-%s was drained of %s %s!<#>
+%s was drained of %s %s!<#>Из %s высосали %s %s!
 %s took no damage!<#>%s не получил урона!
 Miss! %s took no damage!<#>Промах! %s не получил урона!
 Drained %s %s from %s!<#>Высосано %s %s из %s!
@@ -95,8 +95,8 @@ MAX LEVEL<#>МАКС. УРОВЕНЬ
 "Hey, what\'s this?"<#>"О, что это?"
  NOW<#>ТЕПЕРЬ
 Options/Quit<#>Настройки/Выход
-OFF<#>
-ON<#>
+OFF<#>ВЫКЛ
+ON<#>ВКЛ
 None<#>Ничего
 Window Red<#>Красный цвет
 Change the red colour tone for windows.\n<#>Изменить оттенок красного цвета для окон.\n
@@ -145,10 +145,3 @@ In Stock<#>В наличии
 Sold Out<#>Распродано
 Inflicts<#>Наносит
 Resists<#>Сопротивление
- Damage<#>
- Restore<#>
- Drain<#>
- Increase<#>
-Learn<#>
-Applies<#>
-Removes<#>

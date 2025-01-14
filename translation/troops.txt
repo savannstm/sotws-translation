@@ -17,8 +17,8 @@ Don't make me flip out!<#>Не беси меня!
 {Dex Muldoon}This is it, cheesebags!<#>{Декс Малдун}Вот и всё, самоуверенные ублюдки!
 {Dex Muldoon}I am taking you all out!<#>{Декс Малдун}Я убью вас всех!
 {Dex Muldoon}WOW, you're good!<#>{Декс Малдун}ВАУ, ты хорош!
-{Sean Shawn}Boy... you're a tough cookie...<#>{Син Шон}Парень... ты крепкий орешек...
-{Sean Shawn}Please, taste my flesh, you are\#the superior predator...<#>{Син Шон}Прошу, вкуси мою плоть, высший\#хищник...
+{Sean Shawn}Boy... you're a tough cookie...<#>{Шон Шоун}Парень... ты крепкий орешек...
+{Sean Shawn}Please, taste my flesh, you are\#the superior predator...<#>{Шон Шоун}Прошу, вкуси мою плоть, высший\#хищник...
 {Roland Von Buckingham}Cellophane embrace me.<#>{Роланд фон Бакингем}Целлофан, обними меня.
 {Vinny Ramón}It's two on three this time, Lin!<#>{Винни Рамон}В этот раз трое на двоих, Лин!
 {Lin Rhodes}That's not fair! We're outnumbered!<#>{Лин Роудс}Нечестно! Мы в меньшинстве!
@@ -47,7 +47,7 @@ Don't make me flip out!<#>Не беси меня!
 {Doyle Muscare}They'll kill you for me.<#>{Дойль Мускэр}Они убьют тебя за меня.
 {Lord Baxter Umpire}Foul!<#>{Лорд Бакстер Умпайр}
 {Cormack Rex}Savages, can't leave an old man in peace.<#>{Кормак Рекс}Дикари, не можете оставить старика в покое.
-{Cormack Rex}Muffin!<#>
+{Cormack Rex}Muffin!<#>{Кормак Рекс}Маффин!
 {Alcohol Keeth}It's my first time being violent.<#>{Алкоголь Кит}Я впервые применяю жестокость.
 {Alcohol Keeth}It's time for me to live up to my family name.<#>{Алкоголь Кит}Настало время мне оправдать мою фамилию.
 {Alcohol Keeth}But I was the underdog...<#>{Алкоголь Кит}Но я бы неудачником...
@@ -57,9 +57,9 @@ Don't make me flip out!<#>Не беси меня!
 {Clyde Cyclone}Put me back together when you're done.<#>{Клайд Циклон}Собери меня по частям когда закончишь.
 {Raymund Ripe}You wait, you live. You fight, you die.<#>{Рэймунд Райп}Ты ждёшь, ты живёшь. Ты сражаешься, ты умираешь.
 {Raymund Ripe}You just dug your own grave.<#>{Рэймунд Райп}Ты только что выкопал себе могилу.
-{Raymund Ripe}Soft skin... Kitty Babe...<#>
-{Raymund Ripe}You're wonderful, Angel Eyes...<#>
-{Silvester de Maistre}You know, I used to be a warlord.\#"Balloon Pants" they called me.<#>{Сильвестр де Майстер}Знаешь, я был военачальником.\#"Штаны-шары" меня называли.
+{Raymund Ripe}Soft skin... Kitty Babe...<#>{Рэймунд Райп}Мягкая кожа... детка Китти...
+{Raymund Ripe}You're wonderful, Angel Eyes...<#>{Рэймунд Райп}Ты прекрасна, ангельские глаза...
+{Silvester de Maistre}You know, I used to be a warlord.\#"Balloon Pants" they called me.<#>{Сильвестр де Майстер}Знаешь, я был военачальником.\#Меня называли "Штаны-шары".
 {Silvester de Maistre}You don't get my title by knowing just one trick.<#>{Сильвестр де Майстер}Такой титул не получишь, зная лишь один приём.
 {Silvester de Maistre}My signature talent...<#>{Сильвестр де Местр}Мой фирменный талант...
 {Silvester de Maistre}...BILOCATION!<#>{Сильвестр де Местр}...БИЛОКАЦИЯ!

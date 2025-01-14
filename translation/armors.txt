@@ -31,7 +31,7 @@ Turn this fucking world to rust!\#Reduces fire damage.<#>Пусть этот е�
 Tinfoil Bandages<#>Повязки из фольги
 Makes it harder for THEM to find you.\#Reduce bleeding slightly.<#>Так ИМ будет тяжелее найти вас.\#Немного снижают шанс кровотечения.
 Champion's Belt<#>Чемпионский пояс
-EWC tag team champion belt of '82.\#Slight increase in SP and skill cost reduction.<#>
+EWC tag team champion belt of '82.\#Slight increase in SP and skill cost reduction.<#>Чемпионский пояс EWC командного выступления 1982-го года.\#Немного повышает ОН и снижает стоимость навыков.
 Salty Bathrobe<#>Солёный халат
 A grim vestment, highly resistant to damage.\#Reduces attack, mobility and doubles SP costs.<#>Мрачное облачение, очень устойчивое к повреждениям.\#Снижает атаку, мобильность, и удваивает стоимость навыков.
 Old Poncho<#>Старое пончо
@@ -65,7 +65,7 @@ A 14-karat gold necklace made by King.\#Makes you feel Cool.<#>14-каратно
 Bad Boy Hair Gel<#>Гель для волос "Плохой Парень"
 Hair gel for troublemakers, now with 40%\#more grease. Makes you burn easily.<#>Гель для волос для плохишей, теперь с 40% жира в составе.\#Легко воспламеняется.
 Sapphire Coat<#>Сапфировое пальто
-A truly stylish coat. Allows wearer to move twice\#in one turn, but cuts HP and SP in half.<#>
+A truly stylish coat. Allows wearer to move twice\#in one turn, but cuts HP and SP in half.<#>Воистину стильное пальто. Позволяет носителю двигаться\#дважды за ход, но снижает ОЗ и ОН наполовину.
 Bad Beater<#>Плохиш-боец
 The signature undershirt of the Bad Angels.\#Lowers defense, but boosts attack.<#>Сигнатурная безрукавка Плохих Ангелов.\#Понижает защиту, но повышает атаку.
 Businessy Fedora<#>Деловая федора
@@ -89,7 +89,7 @@ The helmet of a Rando soldier. Good luck cracking\#through this one.<#>Шлем 
 Rando Pads<#>Наплечники Рандо
 More formally known as "pauldrons." Keeps those\#shoulders out of harm's way.<#>Наплечники. Не позволяют навредить плечам.
 Homely Coat<#>Домашнее пальто
-A warm coat that smells like a roaring fireplace.\#Prevents wet and nasty.<#>
+A warm coat that smells like a roaring fireplace.\#Prevents wet and nasty.<#>Тёплое пальто, пахнущее дымом костра.\#Защищает от намокания и отвращения.
 All-Seeing Fez<#>Всевидящий Фес
 Hat that expands your mind. Doubles max SP,\#but cuts all other stats.<#>Шляпа, расширяющая грани разума. Удваивает макс. ОН,\#но снижает все другие характеристики.
 Old Rosary Belt<#>Цепочка из старых чёток
