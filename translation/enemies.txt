@@ -75,7 +75,7 @@ Contorted Figure<#>Искажённая фигура
 Looming Figure<#>Нависающая фигура
 Gremory Gorgonzola<#>Гремори Горгонзола
 Flailing Centipede<#>Изворачивающаяся многоножка
-Mine Creature<#>Шахтное создание
+Mine Creature<#>Монстр шахты
 Chriss Bellucci<#>Крисс Белуччи
 Mes Tez<#>Мес Тез
 Wing Sping<#>Винг Спринг

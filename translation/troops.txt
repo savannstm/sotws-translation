@@ -65,11 +65,11 @@ Don't make me flip out!<#>Не беси меня!
 {Silvester de Maistre}...BILOCATION!<#>{Сильвестр де Местр}...БИЛОКАЦИЯ!
 {Silvester de Maistre}I'm done.<#>{Сильвестр де Местр}Я всё.
 {Avatar of Hatred}What's kicking, getting into trouble?<#>{Аватар ненависти}Что пинается, попадает в беду?
-{Avatar of Hatred}Pop a thrill pill, cool cat.<#>
-{Avatar of Hatred}Check out my cover. You and me, one love.<#>
-{Avatar of Hatred}You've gotta try being someone else.<#>
-{Avatar of Hatred}You can't keep running, I'll touch your nipple.<#>
-{Avatar of Hatred}Smooth moves, keep it clicking.<#>
+{Avatar of Hatred}Pop a thrill pill, cool cat.<#>{Аватар Ненависти}Выпей таблетку острых ощущений, крутой чувак.
+{Avatar of Hatred}Check out my cover. You and me, one love.<#>{Аватар Ненависти}Посмотри на меня. Ты и я, одна любовь.
+{Avatar of Hatred}You've gotta try being someone else.<#>{Аватар Ненависти}Тебе стоит попробовать стать кем-то другим.
+{Avatar of Hatred}You can't keep running, I'll touch your nipple.<#>{Аватар Ненависти}Ты не убежишь, я схвачу тебя за сосок.
+{Avatar of Hatred}Smooth moves, keep it clicking.<#>{Аватар Ненависти}Плавные движения, продолжай.
 {Ross Hillock}Here comes the meat train!<#>{Росс Хиллок}Вот и прибыл мясной поезд!
 {Ross Hillock}Can't break my streak!<#>{Росс Хиллок}Не могу потерять очередь!
 {Ross Hillock}Fifth fold... so close!<#>{Росс Хиллок}Пятая складка... так близко!
@@ -214,15 +214,15 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Barry Twister}I'll gut you like a pig!<#>{Барри Твистер}Я вспорю тебя как свинью!
 {Barry Twister}Ugh... God, my head...<#>{Барри Твистер}Ух... Господи, моя голова...
 {Barry Twister}This isn't worth it.\. Not anymore.<#>{Барри Твистер}Оно того не стоит.\. Больше не стоит.
-{Ron Constitution}I'll make ya wish your momma died in labor!<#>
+{Ron Constitution}I'll make ya wish your momma died in labor!<#>{Рон Конститушен}Ты пожалеешь, что тебя мама родила!
 {Ron Constitution}That all ya got?\. That's some pussy bullshit!<#>{Рон Конститушен}Всё, что ты умеешь?\. Какая-то бабская чушь!
 {Nicky B}No, stop!<#>{Никки Б}Нет, стой!
 {Ron Constitution}You ain't sh-\.shit!\| Come on!<#>{Рон Конститушен}Да ты ни-\.никто!\| Давай!
 {Sid Bloodheart}Shit, you're actually kinda tough.<#>{Сид Бладхарт}Чёрт, ты довольно крепкий.
 {Sid Bloodheart}Ey,\. ey!\| Stop!\. Stop!<#>{Сид Бладхарт}Эй,\. эй!\| Стоп!\. Стоп!
 {Pope Slaughter}Show me what you've got, boys!<#>{Поуп Слотер}Покажите мне, что умеете, ребята!
-{Pope Slaughter}Good hustle, but the oven's heating up now.<#>
-{Pope Slaughter}It's a party now! Woooo!<#>
+{Pope Slaughter}Good hustle, but the oven's heating up now.<#>{Поуп Слотер}Отлично работаете, но я только разогреваюсь.
+{Pope Slaughter}It's a party now! Woooo!<#>{Поуп Слотер}Веселимся! Уууу!
 {Pope Slaughter}Not bad, not bad at all...<#>{Поуп Слотер}Неплохо, очень даже неплохо...
 {Palisade Dipper}Think you've got what it takes?<#>{Пэлисейд Диппер}Думаете, вы сможете?
 {Palisade Dipper}How about now?<#>{Пэлисейд Диппер}А сейчас?
@@ -244,7 +244,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Jacob Mertz}How the hell am I being beaten by\#a hobo and his shitty cowboy friend?<#>{Джейкоб Мерц}Какого чёрта меня избивает бомж и его\#сраный друг-ковбой?
 {Jacob Mertz}This makes no fucking sense.<#>{Джейкоб Мерц}Ебучая бессмыслица.
 {Kryzsztof the Cruncher}Ready for your nap, old man?<#>{Кристоф Измельчитель}Готов на покой, старик?
-{Rutherford Headstrong}Oh,\. I'm not lookin' so hot...<#>
+{Rutherford Headstrong}Oh,\. I'm not lookin' so hot...<#>{Рузерфорд Крепкий}Ох,\. мне не очень хорошо...
 {Rutherford Headstrong}This one's all yours, big guy.<#>{Рузерфорд Крепкий}Оставляю всё тебе, большой парень.
 {Kryzsztof the Cruncher}Is that it?\| You hit like a gentle breeze!<#>{Кристоф Измельчитель}И это всё?\| У тебя силы как у ветерка!
 {Kryzsztof the Cruncher}I'm still in it!\. The bell hasn't rung yet!<#>{Кристоф Измельчитель}Я всё ещё продолжаю!\. Колокол ещё не прозвенел!
@@ -253,8 +253,8 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Kryzsztof the Cruncher}Victory is yours.<#>{Кристоф Измельчитель}Победа за тобой.
 {Randy Mack}MACK MEAT,\. MACK MEAT!<#>{Рэнди Мак}МЯСО МАКА,\. МЯСО МАКА!
 {Graeme Lucifer}Hell doesn't want me...\| I'll be back.<#>{Грэм Люцифер}Я не нужен в аду...\| Я вернусь.
-{Ed Nobb}Dag nab consarn-flabbigabbit damn it!<#>
-{Ed Nobb}I hope you choke on your own beans!<#>
+{Ed Nobb}Dag nab consarn-flabbigabbit damn it!<#>{Эд Нобб}Чёрт возьми сраный рот наоборот!
+{Ed Nobb}I hope you choke on your own beans!<#>{Эд Нобб}Надеюсь, ты подавишься своими таблетками!
 {Jeremy Denkins}Damn\.\. KIDS!<#>{Джереми Денкинс}Чёрт\.\. ДЕТИ!
 {Jeremy Denkins}Thinkin' you can just walk all over me...<#>{Джереми Денкинс}Думаете, что можете просто переступать через меня...
 {Jeremy Denkins}Walk on my LEGACY!<#>{Джереми Денкинс}Топлать моё НАСЛЕДСТВО!
@@ -429,11 +429,11 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Tibby Dobs}Ahh, no more!<#>{Тибби Добс}Охх, прекрати!
 {Bepe Stormer}Watch out! The Storm's comin' through!<#>{Бепе Штормер}Берегись! Шторм надвигается!
 {Bepe Stormer}I'm 24-karats of pure power!<#>{Бепе Штормер}24 карата чистой мощи!
-{Bepe Stormer}I tap, I tap!<#>
-{Bepe Stormer}We're gonna paint your face across\#the pavement,\. Angel sympathizer!<#>
-{The Kent}Let's see if the bat is stronger than the jaw!<#>{Кент}Давай посмотрим, крепче ли бита чем челюсть!
+{Bepe Stormer}I tap, I tap!<#>{Бепе Штормер}Я стукну, я стукну!
+{Bepe Stormer}We're gonna paint your face across\#the pavement,\. Angel sympathizer!<#>{Бепе Штормер}Мы размажем тебя по земле,\.\#пособник Ангелов!
+{The Kent}Let's see if the bat is stronger than the jaw!<#>{Кент}Давай посмотрим, что крепче, бита или челюсть!
 {Bepe Stormer}Uhhh...<#>{Бепе Штормер}Аххх...
-{Bepe Stormer}Come on, Kent,\. it's just a mustache.\|\#It'll grow bac-\^<#>{Бепе Штормер}Давай, Кент,\. это лишь усы.\|\#Они отрастут-\^
+{Bepe Stormer}Come on, Kent,\. it's just a mustache.\|\#It'll grow bac-\^<#>{Бепе Штормер}Ну, Кент,\. это лишь усы.\|\#Они отрастут-\^
 {Bepe Stormer}This storm's just started!<#>{Бепе Штормер}Шторм только начался!
 {Bepe Stormer}This is all Tibby's fault.<#>{Бепе Штормер}Это всё вина Тибби.
 {Matty Mack}I'm here, Daddy Mack!<#>{Мэтти Мак}Я здесь, папочка Мак!
