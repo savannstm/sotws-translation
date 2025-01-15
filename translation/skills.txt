@@ -146,14 +146,13 @@ is self-flagellating!<#>занимается самобичеванием!
 goes for the throat!<#>целит в горло!
 is gazing right through you...<#>глядит прямо сквозь вас...
 is drinking blood...<#>пьёт кровь...
-Watch out watch out WATCH OUT!<#>
 swings Basto like a ragdoll!<#>размахивает Басто, как куклой!
 slams Basto into the dirt!<#>швыряет Басто в грязь!
 feels like a used punching bag...<#>чувствует себя, как боксёрская груша...
 feels numb in the face...<#>чувствует онемение лица...
 throws a noxious fireball!<#>бросает ядовитый огненный шар!
 breathes a stream of noxious fire!<#>дышит струей ядовитого огня!
-done.<#>
+done.<#>готов.
 burns you to the ground.<#>сжигает вас до основания.
 is casting some strange magic...<#>колдует какую-то странную магию...
 prepares for his next attack...<#>готовится к следующей атаке...
@@ -178,13 +177,12 @@ plays a terrible melody.<#>играет ужасную мелодию.
 plays a truly beautiful song.<#>играет воистину прекрасную песню.
 is tuning his violin.<#>настраивает свою скрипку.
 tore you to shreds!<#>разрывает вас в клочья!
-stabbed at your eyes!<#>
-swooped for your heads!<#>
-lets out a piercing shriek!<#>
-is roosting.<#>
-a tackle<#>
-comes in with a divebomb!<#>
-is receiving a mysterious signal...<#>
+stabbed at your eyes!<#>ударил вас в глаза!
+swooped for your heads!<#>прошёлся по вашей голове!
+lets out a piercing shriek!<#>издаёт пронзительный крик!
+is roosting.<#>гнездится.
+comes in with a divebomb!<#>кидается с прогибом!
+is receiving a mysterious signal...<#>получает странный сигнал...
 Disarming Slap<#>Обезоруживающий удар
 Takes the "edge" off a wily assailant.\#Disarms an armed opponent.<#>Отбирает "лезвие" у коварного агрессора.\#Обезоруживает вооружённого противника.
 slaps at your wrists!<#>бьёт по запястью!
@@ -200,109 +198,103 @@ couldn't break your grip!<#>не смог разорвать вашу хватк
 throws bottles everywhere!<#>бросает бутылки повсюду!
 copulates fiercely!<#>яростно совокупляется!
 spews out a fireball!<#>извергает огненный шар!
-performs a Tiger Suplex!<#>
-performs a Mongolian Chop!<#>
-pokes at the vital points!<#>
-looks to the Heavens...<#>
-stomps you out!<#>
-kicks!<#>
-does a Gator Clamp!<#>
-chops!<#>
+performs a Tiger Suplex!<#>выполняет тигровый суплес!
+performs a Mongolian Chop!<#>выполняет монгольский рубец!
+pokes at the vital points!<#>ударяет в жизненно важные точки!
+looks to the Heavens...<#>смотрит в небеса...
+stomps you out!<#>пинает вас!
+kicks!<#>пинается!
+does a Gator Clamp!<#>выполняет зажим аллигатора!
+chops!<#>рубит!
 is shrouded in smoke!<#>окружён дымом!
 scratches!<#>царапает!
-blew forth exhaust!<#>
-rams full speed ahead!<#>
-loses control of the bulldozer!<#>
-stalls his bulldozer!<#>
-is fidgeting with the controls...<#>
-apologizes profusely!<#>
-blew forth exhuast!<#>
-is begging Wally for forgiveness.<#>
-Protects user and reduces damage taken.<#>
-hides behind a bush.<#>
-flys at you with a Cross Chop!<#>
-performs a Tsunami Driver!<#>
-is gathering strength...<#>
-cuts like a knife!<#>
-hook kicks!<#>
-sweeps at your legs!<#>
-fist from above!<#>
-gives a massage...<#>
-has a foriegn object!<#>
-brain chop<#>
-performs a brain chop!<#>
-performs a Power Bomb!<#>
-performs a Cosmic Chop!<#>
-a spit of mist.<#>
-sprays a mist!<#>
-swings his cinderblock!<#>
-strikes into your soul!<#>
-charges you!<#>
-gives a stiff arm!<#>
-unloads into you!<#>
-flashes a disingenuous smile...<#>
-a lame looking slap type thing.<#>
-backhands you!<#>
-gets a party started!<#>
+blew forth exhaust!<#>выдул выхлоп!
+rams full speed ahead!<#>таранит на полной скорости!
+loses control of the bulldozer!<#>теряет контроль над бульдозером!
+stalls his bulldozer!<#>останавливает свой бульдозер!
+is fidgeting with the controls...<#>возится с элементами управления...
+apologizes profusely!<#>приносит искренние извенения!
+blew forth exhuast!<#>выдул выхлоп!
+is begging Wally for forgiveness.<#>умоляет Валли о прощении.
+hides behind a bush.<#>прячется за кустом.
+flys at you with a Cross Chop!<#>летит на вас с перекрёстным ударом!
+performs a Tsunami Driver!<#>исполняет прогиб цунами!
+is gathering strength...<#>собирается с силами...
+cuts like a knife!<#>режет, словно нож!
+hook kicks!<#>ударяет крюком!
+sweeps at your legs!<#>бьёт по вашим ногам!
+fist from above!<#>ударяет сверху!
+gives a massage...<#>массажирует...
+has a foriegn object!<#>держит какую-то вещь!
+performs a brain chop!<#>ударяет по мозгам!
+performs a Power Bomb!<#>исполняет силовую бомбу!
+performs a Cosmic Chop!<#>исполняет космический удар!
+a spit of mist.<#>плюётся туманом.
+sprays a mist!<#>распыляет туман!
+swings his cinderblock!<#>размахивает своим шлакоблоком!
+strikes into your soul!<#>поражает вашу душу!
+charges you!<#>делает в вас рывок!
+gives a stiff arm!<#>махает сильнее!
+unloads into you!<#>решетит вас!
+flashes a disingenuous smile...<#>неискренне улыбается...
+backhands you!<#>бьёт слева!
+gets a party started!<#>начинает вечеринку!
 performs his Hollywood Hustle!<#>
-is lost...<#>
-is astounded by your stupidity.<#>
-is thinking...<#>
-performs a Piledriver!<#>
-kick dirt in the eyes of the enemy<#>
-kicks up dirt!<#>
+is lost...<#>потерян...
+is astounded by your stupidity.<#>ошеломлён вашей тупостью.
+is thinking...<#>думает...
+performs a Piledriver!<#>бросает на прогиб!
+kicks up dirt!<#>бросает грязь!
 performs his Holiday Slam!<#>
 performs his Atlanta Slam!<#>
-is talking serious trash!<#>
-is defending himself...<#>
-is defending herself...<#>
-looses an arrow!<#>
-performs the Corps Crasher!<#>
-prepares a deadly technique...<#>
-takes a deep breath...<#>
-gets ready to end it.<#>
-performs a devilish chop!<#>
-Joyous Fist<#>
-wrecks you!<#>
-is aiming...<#>
-slashes wildly!<#>
-licks his wounds...<#>
-is flexing hard!<#>
-plays a familiar song...<#>
-is scared of you...<#>
-ran away in fear.<#>
-Horrified<#>
-is horrified...<#>
-is going crazy.<#>
-defend a pal.<#>
-is trying to defend his friend.<#>
-is getting yoked!<#>
-sends you to Hell!<#>
-chopped your head off.<#>
-stomps with devastating force!<#>
-swings like a wrecking ball!<#>
-spews oil every which way!<#>
-lets loose a storm of bolts!<#>
-discharges sparks!<#>
-is gathering energy...<#>
-crushed your windpipe!<#>
-punched with an iron fist!<#>
-burns you down.<#>
-gathers energy...<#>
-looks over his gun...<#>
+is talking serious trash!<#>сильно оскорбляет!
+is defending himself...<#>защищается...
+is defending herself...<#>защищается...
+looses an arrow!<#>пускает стрелу!
+performs the Corps Crasher!<#>исполняет "сокрушителя Корпов"!
+prepares a deadly technique...<#>готовит смертельный приём...
+takes a deep breath...<#>глубоко вдыхает...
+gets ready to end it.<#>готовится закончить это.
+performs a devilish chop!<#>дьявольски ударяет!
+wrecks you!<#>размазывает вас!
+is aiming...<#>целится...
+slashes wildly!<#>дико размахивает!
+licks his wounds...<#>зализывает раны!
+is flexing hard!<#>сильно напрягается!
+plays a familiar song...<#>играет знакомую песню...
+is scared of you...<#>боится вас...
+ran away in fear.<#>убежал в страхе.
+is horrified...<#>в ужасе...
+is going crazy.<#>сходит с ума.
+defend a pal.<#>защищает приятеля.
+is trying to defend his friend.<#>пытается защитить своего друга.
+is getting yoked!<#>напрягается!
+sends you to Hell!<#>посылает вас в ад!
+chopped your head off.<#>отрубает вам голову.
+stomps with devastating force!<#>пинает с сокрушительной силой!
+swings like a wrecking ball!<#>размахивает, как таран!
+spews oil every which way!<#>разбрызгивает масло во все стороны!
+lets loose a storm of bolts!<#>выпускает ураган молний!
+discharges sparks!<#>разряжает искры!
+is gathering energy...<#>набирает энергию...
+crushed your windpipe!<#>давит вашу трахею!
+punched with an iron fist!<#>ударяет железным кулаком!
+burns you down.<#>сжигает вас.
+gathers energy...<#>набирает энергию...
+looks over his gun...<#>смотрит через свой прицел...
 pierces your soul!<#>стреляет вам в душу!
-is lining up his shot...<#>
-loads his cannon...!<#>
-blasts your body to bits!<#>
-...but his gun jams...<#>
-scorches the earth all around!<#>
-swings his blade!<#>
-crushes your skull!<#>
-gets ready to fire!<#>
-brings down the chopper!<#>
-steels himself...<#>
-launches you skyward!<#>
-brought you back down!<#>
+is lining up his shot...<#>готовит свой удар...
+loads his cannon...!<#>заряжает свою пушку...!
+blasts your body to bits!<#>разрывает ваше тело на куски!
+...but his gun jams...<#>...но его ружьё клинит...
+scorches the earth all around!<#>выжигает землю вокруг!
+swings his blade!<#>размахивает клинком!
+crushes your skull!<#>давит ваш череп!
+gets ready to fire!<#>готовится к стрельбе!
+brings down the chopper!<#>сбивает вертолет!
+steels himself...<#>закаляет себя...
+launches you skyward!<#>запускает вас в небо!
+brought you back down!<#>возвращает вас!
 sprayed paint in your eyes!<#>разбрызгивает краску в ваши глаза!
 is observing...<#>наблюдает...
 is barking orders!<#>выкрикивает приказы!

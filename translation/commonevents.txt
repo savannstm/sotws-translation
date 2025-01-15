@@ -130,7 +130,7 @@ All of a sudden, Joel had an epiphany!<#>Совершенно внезапно, 
 Gun Toss has become Gun Spin!<#>Бросок пистолета стал Вращением пистолета!
 You have no salt.<#>У вас нет соли.
 Exchanged ten jerseys for some Horse Jerky!<#>10 футболок были обменяны на мясо лошади!
-Exchanged ten jerseys for a Fancy Perfume!<#>10 футболок были обменяны на дорогие духи!
+Exchanged ten jerseys for a Fancy Perfume!<#>10 футболок были обменяны на изысканные духи!
 Exchanged ten jerseys for a Cocola Cola!<#>10 футболок были обменяны на кокола-колу!
 Use the instant coffee tin\#with your bottle of water?<#>Вылить воду из бутылки в банку гранулированного\#кофе?
 Made some cold coffee!<#>Получено холодное кофе!

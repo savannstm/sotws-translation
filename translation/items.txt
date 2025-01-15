@@ -15,7 +15,7 @@ Iced Coffee<#>Холодный кофе
 Restores all HP and SP.<#>Восстанавливает все ОЗ и ОН.
 Perfume<#>Духи
 The sweet scent revives an ally.<#>Приятный запах поднимает союзников на ноги.
-Fancy Perfume<#>Дорогие духи
+Fancy Perfume<#>Изысканные духи
 The sweet scent revives an ally fully.<#>Приятный запах поднимает союзников на ноги и\#полностью исцеляет.
 Bird Feed<#>Корм для птиц
 A mix of damp seeds and dead grub.\#Restores HP and some SP.<#>Комбикорм из влажных семян и мертвых личинок.\#Восстанавливает ОЗ и немного ОН.
@@ -228,8 +228,8 @@ Bottle of Coffee<#>Бутылка кофе
 A jolt for the system. Recovers 75% of HP and\#SP and removes sleep.<#>Встряска для мозгов. Восстанавливает 75% ОЗ и убирает\#статус сна.
 Cup of Water<#>Чашка воды
 Two and a half swigs of crisp goodness. Splash on\#a party member to remedy fright and burning.<#>Две с половиной ложки хрустящей вкуснятины.\#Брызните на члена группы, чтобы убрать страх и горение.
-Malicious Stereo<#>Зловредная стерео-система
-A busted car stereo that still makes noise.\#Sometimes talks in unknown tongues. (Barter Item)<#>Сломанная стерео-система из машины, которая всё ещё производит\#звук. Иногда разговаривает неизвестным языком. (Предмет для обмена)
+Malicious Stereo<#>Зловредная стереосистема
+A busted car stereo that still makes noise.\#Sometimes talks in unknown tongues. (Barter Item)<#>Сломанная стереосистема из машины, которая всё ещё производит\#звук. Иногда разговаривает неизвестным языком. (Предмет для обмена)
 Blood Wine<#>Кровавое вино
 A life-stealing drink. Cuts maximum HP by 100\#to fully restore HP and SP. Good for three uses.<#>Напиток, похищающий жизнь. Снижает максимальное ОЗ на 100,\#и полностью восстанавливает ОЗ и ОН. Его тут на три бокала.
 Petroleum Firebomb<#>Бензиновая бомба
@@ -244,7 +244,7 @@ Spray Can<#>Баллончик с краской
 A can of white spray paint. Well-used.<#>Баллончик белой краски. Был неоднократно использован.
 Crow Egg<#>Воронье яйцо
 Spawn of an Olathian crow, yet to hatch.\#Restores 200 HP.<#>Место рождения Олейтской вороны, через которое ей ещё\#предстоит проклюнуться. Восстанавливает 200 ОЗ.
-Scrambled Crow Egg<#>Взболтанное воронье яйцо
+Scrambled Crow Egg<#>Разбитое воронье яйцо
 A crow egg that's seen better days.\#Restores 500 HP, but nauseates.<#>Воронье яйцо, видавшее лучшие деньки.\#Восстанавливает 500 ОЗ, но вызывает тошноту.
 Silver Bullet<#>Серебряная пуля
 That which can kill the unkillable. Does not fit any\#known firearm. (Barter Item)<#>Та, что может убить неубиваемое. Не помещается ни в одно\#известное оружие. (Предмет для обмена)
