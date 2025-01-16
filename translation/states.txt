@@ -212,7 +212,7 @@ is experiencing a sexual quandary.<#>испытывает сексуальное
 is no longer flustered!<#>больше не возбуждён.
 Tense<#>Напряжение
 's eyes dart around.<#>бегает глазами по окружению.
-lost concentration.<#>потерял концентрацию.
+lost concentration.<#>расслабился.
 Off Balance<#>Потеря равновесия
 is wobbly.<#>шатается.
 has regained balance.<#>восстановил равновесие.
@@ -234,15 +234,15 @@ Presence<#>Присутствие
 is sinister.<#>навевает жуть.
 looms menacingly.<#>выглядит угрожающе.
 lost relevance.<#>потерял присутствие.
-Twisted<#>Перекос
-contorts.<#>перекошен.
+Twisted<#>Закрученность
+contorts.<#>закрученность.
 is coiled like a snake.<#>скручен, как змея.
 loosens up.<#>восстанавливает форму.
 Brave<#>Храбрость
 embraces courage!<#>наполняется храбростью!
 is unwavering.<#>непоколебим.
 's spirit was broken!<#>потерял дух!
-Mindful<#>Понимание
+Mindful<#>Осознание
 knows just what to do!<#>знает, что нужно делать!
 came up with a plan!<#>придумал план!
 is on top of things.<#>смотрит насковзь.

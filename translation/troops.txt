@@ -73,7 +73,7 @@ Don't make me flip out!<#>Не беси меня!
 {Ross Hillock}Here comes the meat train!<#>{Росс Хиллок}Вот и прибыл мясной поезд!
 {Ross Hillock}Can't break my streak!<#>{Росс Хиллок}Не могу потерять очередь!
 {Ross Hillock}Fifth fold... so close!<#>{Росс Хиллок}Пятая складка... так близко!
-{Kirf Dinkle}You killed no one, the franchise lives on!<#>{Кирф Динкл}Вы никого не убили, франшиза продолжает жить!
+{Kirf Dinkle}You killed no one, the franchise lives on!<#>{Кирф Динкл}Вы никого не убили, Франшиза продолжает жить!
 {Kirf Dinkle}I'm not a basket case, I'm not!<#>{Кирф Динкл}Я не псих, нет!
 {Geronimo Phantasmata}Guys, quit clowning around.\#I'll ice these chumps myself!<#>{Джеронимо Фантазмата}Ребята, кончайте клоунаду.\#Я сам замочу этих болванов!
 {Geronimo Phantasmata}Tell my brother I said hi.<#>{Джеронимо Фантазмата}Передайте привет моему брату.
@@ -85,7 +85,7 @@ Don't make me flip out!<#>Не беси меня!
 {Carrot Tail}Can't believe I left my balloons at home.<#>{Кэррот Тейл}Не могу поверить, что я оставил свои шары дома.
 {Geronimo Phantasmata}If this is a joke,\| I'm not laughing.<#>{Джеронимо Фантазмата}Если это шутка,\| то мне не смешно.
 {Douglass Fiat}I'm on the edge of infinity!<#>{Дуглас Фиат}Я на грани бесконечности!
-{Maurice Falcon}Doesn't matter how big, small, weak or strong\#you are. Join and The Franchise will double size.<#>{Морис Фэлкон}Неважно, насколько ты большой, малый,\#слабый или сильный. Вступай во франшизу, и станешь вдвое лучше.
+{Maurice Falcon}Doesn't matter how big, small, weak or strong\#you are. Join and The Franchise will double size.<#>{Морис Фэлкон}Неважно, насколько ты большой, малый,\#слабый или сильный. Вступай во Франшизу, и станешь вдвое лучше.
 {Maurice Falcon}I couldn't manage it.<#>{Морис Фэлкон}Я не сумел с этим управиться.
 {William Double J Palmer}Win some, lose some.<#>{Вильям Дабл Джей Палмер}Что-то выиграл, что-то проиграл.
 {Matty Mack}Right in time for harvestin'.<#>{Мэтти Мак}Прямо вовремя на сбор урожая.
@@ -146,11 +146,11 @@ Don't make me flip out!<#>Не беси меня!
 {Anaconda Virtue}Can't put my flame out!<#>{Анаконда Добродетель}Ты не можешь гасить моё пламя!
 {Anaconda Virtue}Are you kidding me?\#I'm not kidding me.<#>{Анаконда Добродетель}Ты шутишь надо мной?\#Я не шучу над собой.
 {Anaconda Virtue}Are you kidding you?<#>{Анаконда Добродетель}Ты шутишь над собой?
-{Wilbur Sin}Hell is real.<#>{Уилбур Син}Ад реален.
-{Wilbur Sin}And Hell...\| is here.<#>{Уилбур Син}И ад...\| здесь.
-{Wilbur Sin}...<#>{Уилбур Син}...
-{Wilbur Sin}Finally...<#>{Уилбур Син}Наконец-то...
-{Wilbur Sin}Free...\| from this cursed sin.<#>{Уилбур Син}Свободен...\| от этого проклятого греха.
+{Wilbur Sin}Hell is real.<#>{Уилбур Грех}Ад реален.
+{Wilbur Sin}And Hell...\| is here.<#>{Уилбур Грех}И ад...\| здесь.
+{Wilbur Sin}...<#>{Уилбур Грех}...
+{Wilbur Sin}Finally...<#>{Уилбур Грех}Наконец-то...
+{Wilbur Sin}Free...\| from this cursed sin.<#>{Уилбур Грех}Свободен...\| от этого проклятого греха.
 {Darry Sweets}...You...\| you ate it...<#>{Дэрри Свитс}...Ты...\| ты съел его...
 {Darry Sweets}...right in front of me...<#>{Дэрри Свитс}...прямо передо мной...
 {Darry Sweets}You're gonna regret that!<#>{Дэрри Свитс}Ты об этом пожалеешь!

@@ -3,7 +3,7 @@ Sell<#>Продать
 Cancel<#>Отменить
 Possession<#>В инвентаре
 Current Exp<#>Текущий опыт
-To Next %s<#>До след. ур. %s
+To Next %s<#>До следующего уровня
 Save to which file?<#>В какой файл сохранить?
 Load which file?<#>Какой файл загрузить?
 File<#>Файл
@@ -141,7 +141,7 @@ You can't view details of that!<#>Ты не можешь узнать подро
 We are all sold out of those!<#>Мы всё распродали!
 In Inventory<#>В инвентаре
 How many?<#>Сколько?
-In Stock<#>В наличии
+In Stock<#>в наличии
 Sold Out<#>Распродано
 Inflicts<#>Наносит
 Resists<#>Сопротивление

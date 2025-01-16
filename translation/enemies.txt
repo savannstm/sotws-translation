@@ -16,7 +16,7 @@ Arnold Shpitz<#>Арнольд Шпиц
 Core<#>Ядро
 Polyfold<#>Многогранник
 Monofold<#>Одногранник
-Wilbur Sin<#>Грех Вилбура
+Wilbur Sin<#>Уилбур Грех
 Doyle Muscare<#>Дойл Мускейр
 Competitor<#>Соперник
 Lord Baxter Umpire<#>Лорд Бакстер Умпайр
@@ -78,7 +78,7 @@ Flailing Centipede<#>Изворачивающаяся многоножка
 Mine Creature<#>Монстр шахты
 Chriss Bellucci<#>Крисс Белуччи
 Mes Tez<#>Мес Тез
-Wing Sping<#>Винг Спринг
+Wing Sping<#>Винг Спинг
 Lester Bean<#>Лестер Бин
 Barry Twister<#>Барри Твистер
 Ron Constitution<#>Рон Конститушен

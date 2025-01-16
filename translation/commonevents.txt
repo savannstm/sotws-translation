@@ -131,7 +131,7 @@ Gun Toss has become Gun Spin!<#>Бросок пистолета стал Вра�
 You have no salt.<#>У вас нет соли.
 Exchanged ten jerseys for some Horse Jerky!<#>10 футболок были обменяны на мясо лошади!
 Exchanged ten jerseys for a Fancy Perfume!<#>10 футболок были обменяны на изысканные духи!
-Exchanged ten jerseys for a Cocola Cola!<#>10 футболок были обменяны на кокола-колу!
+Exchanged ten jerseys for a Cocola Cola!<#>10 футболок были обменяны на Кокола-колу!
 Use the instant coffee tin\#with your bottle of water?<#>Вылить воду из бутылки в банку гранулированного\#кофе?
 Made some cold coffee!<#>Получено холодное кофе!
 You got three empty bottles.<#>Вы получили три пустые бутылки.
