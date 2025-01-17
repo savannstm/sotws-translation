@@ -249,7 +249,7 @@ A crow egg that's seen better days.\#Restores 500 HP, but nauseates.<#>Воро�
 Silver Bullet<#>Серебряная пуля
 That which can kill the unkillable. Does not fit any\#known firearm. (Barter Item)<#>Та, что может убить неубиваемое. Не помещается ни в одно\#известное оружие. (Предмет для обмена)
 Meat Nugget<#>Мясной наггетс
-A debatably edible hunk of viscera. Can nauseate\#and make you feel nasty. (Bulk Food)<#>С натяжкой съедобный шарик из кишков. Вызовет тошноту\#омерзение. (Низкокачественная еда)
+A debatably edible hunk of viscera. Can nauseate\#and make you feel nasty. (Bulk Food)<#>С натяжкой съедобный шарик из кишков. Вызывает тошноту и\#омерзение. (Низкокачественная еда)
 Scummy Valve<#>Мерзкий вентиль
 Old valve slathered in slime and other gunk.\#An engraving on the side reads "S.R."<#>Старый вентиль, покрытый слизью и прочей дрянью.\#Гравировка на обороте гласит: "С. Р."
 Bloody Valve<#>Кровавый вентиль

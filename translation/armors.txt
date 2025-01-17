@@ -89,7 +89,7 @@ The helmet of a Rando soldier. Good luck cracking\#through this one.<#>Шлем 
 Rando Pads<#>Наплечники Рандо
 More formally known as "pauldrons." Keeps those\#shoulders out of harm's way.<#>Наплечники. Не позволяют навредить плечам.
 Homely Coat<#>Домашнее пальто
-A warm coat that smells like a roaring fireplace.\#Prevents wet and nasty.<#>Тёплое пальто, пахнущее дымом костра.\#Защищает от намокания и отвращения.
+A warm coat that smells like a roaring fireplace.\#Prevents wet and nasty.<#>Тёплое пальто, пахнущее дымом костра.\#Защищает от намокания и мерзости.
 All-Seeing Fez<#>Всевидящий Фес
 Hat that expands your mind. Doubles max SP,\#but cuts all other stats.<#>Шляпа, расширяющая грани разума. Удваивает макс. ОН,\#но снижает все другие характеристики.
 Old Rosary Belt<#>Цепочка из старых чёток

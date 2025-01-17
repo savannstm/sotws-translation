@@ -228,8 +228,8 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Palisade Dipper}How about now?<#>{Пэлисейд Диппер}А сейчас?
 {Palisade Dipper}The carnage has just begun!<#>{Пэлисейд Диппер}Бойня только началась!
 {Palisade Dipper}I'm on the path to Armageddon!<#>{Пэлисейд Диппер}Я на пути к Армагеддону!
-{Billiard Esquire}Can you keep up, grandpa?<#>{Биллиард Эскуайр}Поспеваешь, дедуля:
-{Billiard Esquire}Uh...\| is it too late to say sorry?<#>{Биллиард Эскуайр}Э...\| уже поздно извинятся?
+{Billiard Esquire}Can you keep up, grandpa?<#>{Биллиард Эскуайр}Поспеваешь, дедуля?
+{Billiard Esquire}Uh...\| is it too late to say sorry?<#>{Биллиард Эскуайр}Э...\| уже поздно извиняться?
 {Billiard Esquire}This is what I get for ignoring my cardio.<#>{Биллиард Эскуайр}Вот что я получил за пропуск тренировок.
 {Oliver Rang}Ah'll knock ya right between the eyes!<#>{Оливер Рэнг}Я разобью тебе нос!
 {Oliver Rang}Ya'int nothin' compared to me!<#>{Оливер Рэнг}Ты никто по сравнению со мной!
