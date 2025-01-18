@@ -59,7 +59,7 @@ It's sleeping.<#>Он спит.
 It looks curious.<#>Он выглядит любопытно.
 It's squirming around.<#>Он плавает вокруг.
 It's kicking its little feet.<#>Он пинается своими маленькими ногами.
-It's nibbling on your rags.<#>Он грызёт ваши тряпки.
+It's nibbling on your rags.<#>Он грызёт ваши лохмотья.
 It pissed in your pocket.<#>Он помочился в ваш карман.
 It's nudging you sadly.<#>Он грустно вас подталкивает.
 It's worried about you.<#>Он волнуется о вас.

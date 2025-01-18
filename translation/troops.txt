@@ -37,7 +37,7 @@ Don't make me flip out!<#>Не беси меня!
 {Vinny Ramón}Shit, not again!<#>{Винни Рамон}Чёрт, не снова!
 {Lin Rhodes}Come on, man!<#>{Лин Роудс}Ну же, мужик!
 {Chet Blur}No jersey, no mercy!<#>{Чет Брюк}Нет майки, нет пощады!
-{Chet Blur}Come on,\. hit me with your best shot!<#>{Чет Блюр}Ну же,\. бей меня лучшим ударом!
+{Chet Blur}Come on,\. hit me with your best shot!<#>{Чет Блюр}Ну же,\. ударь меня со всей силы!
 {Chet Blur}Man, I...<#>{Чет Блюр}Мужик, я...
 {Chet Blur}I can't do this.<#>{Чет Блюр}Я не могу.
 {Chet Blur}Too rough, dude!<#>{Чет Блюр}Слишком жёстко, чувак!
@@ -52,7 +52,7 @@ Don't make me flip out!<#>Не беси меня!
 {Alcohol Keeth}It's time for me to live up to my family name.<#>{Алкоголь Кит}Настало время мне оправдать мою фамилию.
 {Alcohol Keeth}But I was the underdog...<#>{Алкоголь Кит}Но я бы неудачником...
 {Senyor Keister}Guess I just got...\| disenfranchised.<#>{Сеньор Кейстер}Похоже, я только что оказался...\|\#дефраншизированным.
-{Jessie Mack}It's all just same ol' meat.<#>{Джесси Мак}Это всё одинаковое старое мясо.
+{Jessie Mack}It's all just same ol' meat.<#>{Джесси Отче}Это всё одинаковое старое мясо.
 {Alejandro Babbage}You can't keep people away from infinity.<#>{Алехандро Бэббэдж}Вы не убережёте людей от бесконечности.
 {Clyde Cyclone}Put me back together when you're done.<#>{Клайд Циклон}Собери меня по частям когда закончишь.
 {Raymund Ripe}You wait, you live. You fight, you die.<#>{Рэймунд Райп}Ты ждёшь, ты живёшь. Ты сражаешься, ты умираешь.
@@ -79,7 +79,7 @@ Don't make me flip out!<#>Не беси меня!
 {Geronimo Phantasmata}Tell my brother I said hi.<#>{Джеронимо Фантазмата}Передайте привет моему брату.
 {Tingles The Clown}I knew I should've been a lawyer.<#>{Клоун Тинглз}Я знал, что надо было стать юристом.
 {Onion Ploom}I don't get the joke...<#>{Онион Плум}Я не понимаю шутку...
-{Spence Mack}Comin' home, Momma Mack...<#>{Спенс Мак}Возвращаюсь домой, мамочка Мак...
+{Spence Mack}Comin' home, Momma Mack...<#>{Спенс Отче}Возвращаюсь домой, мамочка...
 {Spanks Star}This isn't as funny as it was in my head.<#>{Спэнкс Стар}Не так весело, как я представлял.
 {The Unspoken One}Twenty-eight years in the slammer for this?<#>{Безмолвный}Двадцать восемь лет тюрьмы за это?
 {Carrot Tail}Can't believe I left my balloons at home.<#>{Кэррот Тейл}Не могу поверить, что я оставил свои шары дома.
@@ -88,8 +88,8 @@ Don't make me flip out!<#>Не беси меня!
 {Maurice Falcon}Doesn't matter how big, small, weak or strong\#you are. Join and The Franchise will double size.<#>{Морис Фэлкон}Неважно, насколько ты большой, малый,\#слабый или сильный. Вступай во Франшизу, и станешь вдвое лучше.
 {Maurice Falcon}I couldn't manage it.<#>{Морис Фэлкон}Я не сумел с этим управиться.
 {William Double J Palmer}Win some, lose some.<#>{Вильям Дабл Джей Палмер}Что-то выиграл, что-то проиграл.
-{Matty Mack}Right in time for harvestin'.<#>{Мэтти Мак}Прямо вовремя на сбор урожая.
-{Matty Mack}What's a little meat between family?<#>{Мэтти Мак}Что значит немного мяса в семье?
+{Matty Mack}Right in time for harvestin'.<#>{Мэтти Отче}Прямо вовремя на сбор урожая.
+{Matty Mack}What's a little meat between family?<#>{Мэтти Отче}Что значит немного мяса в семье?
 {Stefan Kindchild}In the desert\#I saw a creature, naked, bestial,<#>{Стефан Добряк}В пустыне я увидел\#создание, голое, зверское,
 {Stefan Kindchild}Who, squatting upon the ground,\#Held his heart in his hands,<#>{Стефан Добряк}Которое, сидя на полу,\#держало своё сердце в руках,
 {Stefan Kindchild}And ate of it.<#>{Стефан Добряк}и съело его.
@@ -251,7 +251,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Kryzsztof the Cruncher}Ungh!<#>{Кристоф Измельчитель}Уух!
 {Kryzsztof the Cruncher}I...\| I can't go on...<#>{Кристоф Измельчитель}Я...\| Я не могу продолжать.
 {Kryzsztof the Cruncher}Victory is yours.<#>{Кристоф Измельчитель}Победа за тобой.
-{Randy Mack}MACK MEAT,\. MACK MEAT!<#>{Рэнди Мак}МЯСО МАКА,\. МЯСО МАКА!
+{Randy Mack}MACK MEAT,\. MACK MEAT!<#>{Рэнди Отче}МЯСО ОТЦА,\. МЯСО ОТЦА!
 {Graeme Lucifer}Hell doesn't want me...\| I'll be back.<#>{Грэм Люцифер}Я не нужен в аду...\| Я вернусь.
 {Ed Nobb}Dag nab consarn-flabbigabbit damn it!<#>{Эд Нобб}Чёрт возьми сраный рот наоборот!
 {Ed Nobb}I hope you choke on your own beans!<#>{Эд Нобб}Надеюсь, ты подавишься своими таблетками!
@@ -436,9 +436,9 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Bepe Stormer}Come on, Kent,\. it's just a mustache.\|\#It'll grow bac-\^<#>{Бепе Штормер}Ну, Кент,\. это лишь усы.\|\#Они отрастут-\^
 {Bepe Stormer}This storm's just started!<#>{Бепе Штормер}Шторм только начался!
 {Bepe Stormer}This is all Tibby's fault.<#>{Бепе Штормер}Это всё вина Тибби.
-{Matty Mack}I'm here, Daddy Mack!<#>{Мэтти Мак}Я здесь, папочка Мак!
-{Matty Mack}Right in time for harvestin'!<#>{Мэтти Мак}Прямо к сбору!
-{Jessie Mack}It's all just...\| meat...<#>{Джесси Мак}Это всё лишь...\| мясо...
+{Matty Mack}I'm here, Daddy Mack!<#>{Мэтти Отче}Я здесь, папочка!
+{Matty Mack}Right in time for harvestin'!<#>{Мэтти Отче}Прямо к сбору!
+{Jessie Mack}It's all just...\| meat...<#>{Джесси Отче}Это всё лишь...\| мясо...
 {Alejandro Babbage}You can't keep...\| urp...<#>{Алехандро Бэббэдж}Ты не можешь взять...\| ик...
 {Alejandro Babbage}Meeaaat...<#>{Алехандро Бэббэдж}Мяяясоо...
 {Borislav Ragnarok}You are mighty foes indeed...<#>{Борислав Рагнарок}Вы действительно могучие противники...

@@ -24,7 +24,7 @@ Cormack Rex<#>Кормак Рекс
 Muffin<#>Маффин
 Alcohol Keeth<#>Алкоголь Кит
 Senyor Keister<#>Сеньор Кейстер
-Jessie Mack<#>Джесси Мак
+Jessie Mack<#>Джесси Отче
 Alejandro Babbage<#>Алехандро Бэббэдж
 Clyde Cyclone<#>Клайд Циклон
 Obsessed Bag<#>Одержимый пакет
@@ -39,15 +39,15 @@ Shadowy Figure<#>Тёмная фигура
 Infinimobile<#>Бесконечномобиль
 Tingles The Clown<#>Клоун Тинглс
 Onion Ploom<#>Онион Плум
-Spence Mack<#>Спенс Мак
+Spence Mack<#>Спенс Отче
 Spanks Star<#>Спэнкс Стар
 The Unspoken One<#>Безмолвный
 Geronimo Phantasmata<#>Джеронимо Фантазмата
 Carrot Tail<#>Кэррот Тэйл
 Douglass Fiat<#>Дуглас Фиат
 Maurice Falcon<#>Морис Фэлкон
-William Double J Palmer<#>Виллиам Дабл Джей Палмер
-Matty Mack<#>Мэтти Мак
+William Double J Palmer<#>Уиллиам Дабл Джей Палмер
+Matty Mack<#>Мэтти Отче
 Derb Wesley Jr.<#>Дерб Уэсли мл.
 The Kent<#>Кент
 Russel Bats<#>Рассел Бэтс
@@ -95,7 +95,7 @@ Jacob Mertz<#>Джейкоб Мертз
 Jeremy Denkins<#>Джереми Денкинс
 Kryzsztof the Cruncher<#>Кристоф Измельчитель
 Rutherford Headstrong<#>Руттерфорд Крепкоголовый
-Randy Mack<#>Рэнди Мак
+Randy Mack<#>Рэнди Отче
 Graeme Lucifer<#>Грейм Люцифер
 Ed Nobb<#>Эд Нобб
 Floyd Burnside<#>Флойд Бёрнсайд
@@ -141,11 +141,11 @@ Basto Angel Jr.<#>Басто Энджел мл.
 Rodrigo Chainman<#>Родриго Чейнмэн
 Shammi<#>Шэмми
 Frederico Daemonico<#>Фредерико Даймонико
-Wily Knight<#>Вили Найт
-Cecil Flairs<#>Сэсил Флейрс
-June the Goon<#>Джун Гун
-Ygor Melody<#>Игор Мелоди
-Scooter Screwloose<#>Скутер Скрюлуз
+Wily Knight<#>Уили Рыцарь
+Cecil Flairs<#>Сэсил Находчивый
+June the Goon<#>Юн Придурок
+Ygor Melody<#>Игор Мелодичный
+Scooter Screwloose<#>Скутер Беспредельщик
 Mother Maggot<#>Мать опарышей
 Pile of Maggots<#>Куча опарышей
 Mound of Maggots<#>Бугор опарышей

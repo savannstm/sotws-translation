@@ -237,14 +237,11 @@ unloads into you!<#>решетит вас!
 flashes a disingenuous smile...<#>неискренне улыбается...
 backhands you!<#>бьёт слева!
 gets a party started!<#>начинает вечеринку!
-performs his Hollywood Hustle!<#>
 is lost...<#>потерян...
 is astounded by your stupidity.<#>ошеломлён вашей тупостью.
 is thinking...<#>думает...
 performs a Piledriver!<#>бросает на прогиб!
 kicks up dirt!<#>бросает грязь!
-performs his Holiday Slam!<#>
-performs his Atlanta Slam!<#>
 is talking serious trash!<#>сильно оскорбляет!
 is defending himself...<#>защищается...
 is defending herself...<#>защищается...
@@ -383,9 +380,9 @@ stopped your heart.<#>останавливает ваше сердце.
 bites your head.<#>откусывает вашу голову.
 Velvet-fu<#>Вельвет-фу
 Urban legends say, this style, of Zhang Xianzhong,\#was lost after being banned off the infomercial scene.<#>Фольклор гласит, что этот стиль - стиль Чжан Сяньчжуна, был утерян\#после того, как его запретили использовать в обучающих роликах.
-Velvet Style Kung Fu!<#>Вельветовый стиль Кунг-фу!
-Full Thrust<#>Сильный толчок
-(WWA) Get your fingers up in their business.\#Will probably set the opponent Off Balance.<#>(WWA) Вмешайтесь в чужие дела.\#Вероятно, выведет противника из равновесия.
+Velvet Style Kung Fu!<#>использует вельветовый стиль Кунг-фу!
+Full Thrust<#>Мощный тычок
+(WWA) Get your fingers up in their business.\#Will probably set the opponent Off Balance.<#>(WWA) Ткните в оппонента пальцем.\#Вероятно, выведет противника из равновесия.
 thrusts forward!<#>совершает рывок вперёд!
 (WWD) Works your leg like a guillotine.\#Has a chance of bleeding the enemy.<#>(WWD) Работайте ногой, как гильотиной.\#Шанс вызвать кровотечение у противника.
 (DDD) A no-nonsense, double back kick.\#May launch enemy into the air. Costs 120 HP.<#>(DDD) Совершенно серьёзный двойной удар ногами.\#Может запустить врага в воздух. Стоит 120 ОЗ.
@@ -565,7 +562,7 @@ Fill the air with the aroma of exotic salts.\#Heals many ailments and raises spe
 sways his censer...<#>качает кадилом...
 Ingest<#>Поглощение
 Chomp down on some tasty salt. Restores HP\#and SP, but only if you have salt in your inventory.<#>Сожрите немного вкусной соли. Восстанавливает\#ОЗ и ОН, но только если у вас в инвентаре есть соль.
-gets ready to eat.<#>готовиться есть.
+gets ready to eat.<#>готовится есть.
 Salt Wall<#>Соляная стена
 Deploy your impenetrable hide to protect your team!\#Redirects all damage to the user.<#>Сбросьте свою непробиваемую кожу, чтобы защитить\#команду! Перенаправляет весь урон пользователю.
 makes a stand!<#>встаёт в стойку!

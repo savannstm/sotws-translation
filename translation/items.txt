@@ -130,11 +130,11 @@ Anaconda Virtue<#>Анаконда Добродетель
 The cold, lifeless corpse of the\#"hottest" snake in The Franchise.<#>Холодный, безжизненный труп "самой горячей"\#змеи во Франшизе.
 Stefan Kindchild<#>Стефан Добряк
 Snuffed out at his prime.\#Deceptively light to carry.<#>Погиб в самом расцвете сил.\#Неожиданно лёгкий.
-Jessie Mack<#>Джесси Мак
+Jessie Mack<#>Джесси Отче
 Genetic origins for most Olathian children.\#Sufferer of advanced cranial-bananism.<#>Генетический отец почти всех детей Олейта.\#Страдал острым черепномозговым бананизмом.
 Moe's Special Blend<#>Особая смесь Мое
 Rumoured to be rich in protein and tomato sauce.\#Recovers 380 HP. 30 SP.<#>По слухам, богата белком и томатной пастой.\#Восстанавливает 380 ОЗ и 30 ОН.
-Tomato Sauce Packet<#>Пачка томатной пасты
+Tomato Sauce Packet<#>Пакетик томатной пасты
 Chew on it and the tomato flavoured\#dust inside will be your reward. (Bulk Food)<#>Разгрызите её, и пыль со вкусом томата станет\#вашей наградой. (Низкокачественная еда)
 Antique Ham<#>Антикварный окорок
 More legend than actual food.\#Full party HP and SP restore.<#>Больше легенда, чем настоящая еда.\#Восстанавливает ОЗ и ОН всей группы.
@@ -238,8 +238,8 @@ Premium Cigar<#>Премиумная сигара
 A powerful cigar that must be treated with respect.\#Heals most ailments, but makes you winded.<#>Могущественная сигара, которую стоит уважать.\#Излечивает большинство статусов, но добавляет вам одышку.
 Ice Pack<#>Мешок льда
 A bag of ice to sooth your aching head. Alleviates\#stun, rage, and pissed.<#>Мешок льда, чтобы приложить к больной голове.\#Облегчает оглушение, ярость и раздражённость.
-Mack Key<#>Ключ Мака
-An old silver key. Can be used to unlock\#the Mack Shack.<#>Старый серебряный ключ. Может быть использован для\#открытия хижины Мака.
+Mack Key<#>Ключ Отче
+An old silver key. Can be used to unlock\#the Mack Shack.<#>Старый серебряный ключ. Может быть использован для\#открытия хижины Отче.
 Spray Can<#>Баллончик с краской
 A can of white spray paint. Well-used.<#>Баллончик белой краски. Был неоднократно использован.
 Crow Egg<#>Воронье яйцо
@@ -248,7 +248,7 @@ Scrambled Crow Egg<#>Разбитое воронье яйцо
 A crow egg that's seen better days.\#Restores 500 HP, but nauseates.<#>Воронье яйцо, видавшее лучшие деньки.\#Восстанавливает 500 ОЗ, но вызывает тошноту.
 Silver Bullet<#>Серебряная пуля
 That which can kill the unkillable. Does not fit any\#known firearm. (Barter Item)<#>Та, что может убить неубиваемое. Не помещается ни в одно\#известное оружие. (Предмет для обмена)
-Meat Nugget<#>Мясной наггетс
+Meat Nugget<#>Мясной самородок
 A debatably edible hunk of viscera. Can nauseate\#and make you feel nasty. (Bulk Food)<#>С натяжкой съедобный шарик из кишков. Вызывает тошноту и\#омерзение. (Низкокачественная еда)
 Scummy Valve<#>Мерзкий вентиль
 Old valve slathered in slime and other gunk.\#An engraving on the side reads "S.R."<#>Старый вентиль, покрытый слизью и прочей дрянью.\#Гравировка на обороте гласит: "С. Р."
@@ -307,7 +307,7 @@ A WWII era bolt-action rifle.\#The chamber is empty.<#>Болтовая винт
 Jeremy's Shotgun<#>Дробовик Джереми
 A double-barrel shotgun formerly owned by Jeremy\#Denkins. Worn-out from years of repeated use.<#>Двуствольный дробовик, ранее пренадлежавший Джереми Денкинсу.\#Износился от годов постоянного использования.
 Dull Pickaxe<#>Тупая кирка
-A well-used mining implement.\#Can be thrown in battle. Causes bleeding.<#>Побывавший в интенсивной эксплуатации инструмент для добычи ископаемых.\#Можно бросить в бою. Вызывает кровотечение.
+A well-used mining implement.\#Can be thrown in battle. Causes bleeding.<#>Побывавший в интенсивной эксплуатации инструмент для добычи\#ископаемых. Можно бросить в бою. Вызывает кровотечение.
 Mysterious Key<#>Загадочный ключ
 A key to an unspecified door.<#>Ключ к неизвестной двери.
 Aromatherapy Guide<#>Руководство по ароматерапии
