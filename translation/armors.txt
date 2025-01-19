@@ -2,7 +2,7 @@ Bare Chest<#>Голая грудь
 This makes a very bold statement.<#>Очень смелое заявление.
 Imitation Gold Watch<#>Реплика золотых часов
 Worthless piece of plastic with\#a yellow coat of paint.<#>Бесполезный кусок пластика, покрытый\#жёлтой краской.
-Burlap Rags<#>Джутовые лохмотья
+Burlap Rags<#>Джутовое тряпьё
 Burlap is the new denim. Sad it has a hole in it.<#>Джут - новый деним. Грустно, что в них образовалась\#дыра.
 Clean Bandages<#>Чистые повязки
 Bandages, keeping "it" together since 2600 B.C.\#Reduces bleeding.<#>Повязки, сдерживающие "их" вместе с 2600 века до н. э.\#Понижают шанс кровотечения.
@@ -16,8 +16,8 @@ Black Coat<#>Чёрный плащ
 A fine, black coat fashioned out of tanned\#trashbags.<#>Прочный, чёрный плащ, сотканный из тонированных\#мусорных пакетов.
 Custom Bullet<#>Особая пуля
 A custom made .476 bullet.<#>Особая, существующая в единственном экземпляре пуля\#.476-го калибра.
-Plaid Rags<#>Клетчатые лохмотья
-Luxury rags in the burburroo pattern.\#For the precocious beggar.<#>Роскошные лохмотья в стиле "Бурбуру".\#Для попрошайки.
+Plaid Rags<#>Клетчатое тряпьё
+Luxury rags in the burburroo pattern.\#For the precocious beggar.<#>Роскошное тряпьё в стиле "Бурбуру".\#Для попрошаек.
 Dusty Cravat<#>Пыльный галстук
 Authentic dusting cloth that doubles as\#outmoded neckwear.<#>Аутентичная тряпка для пыли, также служащая\#старомодным галстуком.
 Red Polyester Cravat<#>Красный полиэстеровый галстук
@@ -26,7 +26,7 @@ Peasant's Hat<#>Крестьянская шляпа
 The most humble of the big hat familly.<#>Самая скромная из семейства больших шляп.
 Human Fat<#>Человеческий жир
 Hair gel, not for the faint of heart.\#Increases maximum SP.<#>Гель для волос, не для слабонервных.\#Повышает максимальные ОН.
-Leadfoil Rags<#>Лохмотья из фольги
+Leadfoil Rags<#>Тряпьё из фольги
 Turn this fucking world to rust!\#Reduces fire damage.<#>Пусть этот ебучий мир заржавеет!\#Снижают урон от огня.
 Tinfoil Bandages<#>Повязки из фольги
 Makes it harder for THEM to find you.\#Reduce bleeding slightly.<#>Так ИМ будет тяжелее найти вас.\#Немного снижают шанс кровотечения.
@@ -94,7 +94,7 @@ All-Seeing Fez<#>Всевидящий Фес
 Hat that expands your mind. Doubles max SP,\#but cuts all other stats.<#>Шляпа, расширяющая грани разума. Удваивает макс. ОН,\#но снижает все другие характеристики.
 Old Rosary Belt<#>Цепочка из старых чёток
 Chain of timeworn rosary beads. Regenerates SP\#and increases max SP, but prevents stancing.<#>Цепочка из изношенных чёток. Восстанавливает ОН и повышает\#макс. ОН, но не позволяет встать в стойку.
-Rainbow Painter's Gear<#>Разноцветная палитра художника
+Rainbow Painter's Gear<#>Разноцветные инструменты художника
 Imagination in liquid form. Doubles attack and\#defense, but ensures wearer will always move last.<#>Воображение в жидкостной форме. Удваивает атаку и\#защиту, но носитель будет всегда двигаться последним.
 Infinity Jersey<#>Майка бесконечности
 It speaks to you. Warmly.\#SP increases minorly over time.<#>Она говорит с вами. Тепло.\#Со временем слегка повышает ОН.

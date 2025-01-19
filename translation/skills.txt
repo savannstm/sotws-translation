@@ -493,12 +493,12 @@ juggles! Poorly.<#>жонглирует! Плохо.
 cut himself on accident!<#>случайно порезался!
 Wasted Rave<#>Дикий рейв
 Play dirtier. Makes your whole team party hard.\#You'll feel cooler, too.<#>Играйте грязнее. Заставляет всю команду дико\#веселиться. Вы тоже почувствуете себя круто.
-parties like it's 1999!<#>веселиться, будто это 1999-ый!
+parties like it's 1999!<#>веселится, будто это 1999-ый!
 Mucus Blast<#>Взрыв слизи
-Send out the Baby Fishman to blast an enemy with\#sticky mucus. Gets them wet and inflicts nastiness.<#>Пошлите малыша-рыболюда выстрелить по врагу\#липкой слизью. Враги намокают и им становится противно.
+Send out the Baby Fishman to blast an enemy with\#sticky mucus. Gets them wet and inflicts nastiness.<#>Отправьте малыша-рыболюда выстрелить по врагу\#липкой слизью. Враг намокает и ему становится противно.
 directs the Baby Fishman!<#>направляет малыша-рыболюда!
 Shock Current<#>Ударный ток
-Command the Baby Fishman to zap them! Hits\#all enemies, but fries the Baby for a few turns.<#>Прикажите малышу-рыболюду поджарить их! Наносит урон\#всем врагам, но малыш поджаривается сам на пару ходов.
+Command the Baby Fishman to zap them! Hits\#all enemies, but fries the Baby for a few turns.<#>Прикажите малышу-рыболюду поджарить их! Наносит урон\#всем врагам, но малыш сам поджаривается на пару ходов.
 unleashes the Baby Fishman!<#>обрушивает малыша-рыболюда!
 cuts his finger.<#>порезал свой палец.
 Golden Finger<#>Золотой палец
