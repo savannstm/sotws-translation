@@ -158,6 +158,7 @@ is casting some strange magic...<#>колдует какую-то странну
 prepares for his next attack...<#>готовится к следующей атаке...
 stabs with a poisonous stinger!<#>колит ядовитым жалом!
 pinches your skin!<#>щипает вашу кожу!
+swung a sparkler!<#>махает бенгальским огнём!
 lashes with a cord!<#>взмахивает кабелем!
 shines his magnifying glass!<#>светит своей лупой!
 draws his blade in a flash!<#>мгновенно выхватывает свой клинок!
@@ -237,7 +238,9 @@ unloads into you!<#>решетит вас!
 flashes a disingenuous smile...<#>неискренне улыбается...
 backhands you!<#>бьёт слева!
 gets a party started!<#>начинает вечеринку!
+Woo!<#>Уу!
 is lost...<#>потерян...
+Wooooooo!!!<#>Ууууууу!!!
 is astounded by your stupidity.<#>ошеломлён вашей тупостью.
 is thinking...<#>думает...
 performs a Piledriver!<#>бросает на прогиб!
