@@ -1,3 +1,5 @@
 /.rpgmtranslate
 /Graphics
 /output
+/img/original
+/img/translation/**/*.png
