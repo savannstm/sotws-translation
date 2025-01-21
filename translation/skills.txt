@@ -478,7 +478,7 @@ Fruit Toss<#>Бросок фрукта
 Hurl what used to be fruit at an unsuspecting foe.\#Very low chance to poison.<#>Бросьте нечто, раньше бывшее фруктом, в ничего не\#подозревающего врага. Очень низкий шанс отравить.
 chucks some rotten fruit!<#>бросает гнилой фрукт!
 Putrid Meditation<#>Вонючая медитация
-Embrace the filth. Restores some SP.<#>Примите грязь. Восстанавливает немного ОН.
+Embrace the filth. Restores some SP.<#>Восхвалите грязь. Восстанавливает немного ОН.
 finds inner peace!<#>находит внутренний мир!
 Shag<#>Трахать
 Jiggy Jig<#>Джигги-джиг
@@ -491,7 +491,7 @@ Pumped-Up Jig<#>Заряженный джиг
 An electrifying boogie. Gets your health back in\#order, but tires you out afterward.<#>Электризующий буги-вуги. Восстанавливает здоровье,\#но утомляет.
 tears up the dancefloor!<#>разрывает танцпол!
 Bottle Juggle<#>Жонглирование бутылками
-A classic party trick. Shame that you're not very\#good at it. Hits three random enemies.<#>Классический трюк для вечеринок. Жаль, что вы не так\#хороши в нём. Попадает по трём случайным врагам.
+A classic party trick. Shame that you're not very\#good at it. Hits three random enemies.<#>Классический трюк для вечеринок. Жаль, что вы не очень\#хороши в нём. Попадает по трём случайным врагам.
 juggles! Poorly.<#>жонглирует! Плохо.
 cut himself on accident!<#>случайно порезался!
 Wasted Rave<#>Дикий рейв

@@ -1,4 +1,4 @@
-Darry Sweets<#>Дэрри Свитс
+Darry Sweets<#>Дэрри Сладостный
 Dex Muldoon<#>Декс Малдун
 Pedro Rodrigez<#>Педро Родригез
 Sean Shawn<#>Шон Шоун
@@ -14,8 +14,8 @@ Chet Blur<#>Чет Блюр
 Anaconda Virtue<#>Анаконда Добродетель
 Arnold Shpitz<#>Арнольд Шпиц
 Core<#>Ядро
-Polyfold<#>Многогранник
-Monofold<#>Одногранник
+Polyfold<#>Полискладка
+Monofold<#>Моноскладка
 Wilbur Sin<#>Уилбур Грех
 Doyle Muscare<#>Дойл Мускейр
 Competitor<#>Соперник
@@ -28,7 +28,7 @@ Jessie Mack<#>Джесси Отче
 Alejandro Babbage<#>Алехандро Бэббэдж
 Clyde Cyclone<#>Клайд Циклон
 Obsessed Bag<#>Одержимый пакет
-Cruel Sack<#>Жестокая куча
+Cruel Sack<#>Жестокий пакет
 Raymund Ripe<#>Рэймунд Райп
 Silvester de Maistre<#>Сильвестр де Мейстр
 Avatar of Hatred<#>Аватар ненависти
@@ -58,17 +58,17 @@ Television<#>Телевидение
 No One in Particular<#>Никто особенный
 Augustus Estrada<#>Август Эстрада
 Twisty<#>Извилистый
-Will Killjoy<#>Уилл Киллджой
-Foam Styro<#>Фоум Стайро
+Will Killjoy<#>Уилл Безрадостный
+Foam Styro<#>Пласт Пено
 Cooper Kelp<#>Купер Келп
 Flynt Woodpecker<#>Флинт Дятел
-Flighty Crow<#>Легкомысленный ворон
+Flighty Crow<#>Летучий ворон
 Aggressive Crow<#>Агрессивный ворон
 Parasol Fishman<#>Рыболюд с зонтом
 Demon-Eye Fishman<#>Рыболюд с дьявольским оком
 Elder Fishman<#>Пожилой рыболюд
 Garbage Gull<#>Мусорная чайка
-Gunther Scourge<#>Гюнтер Скурдж
+Gunther Scourge<#>Гюнтер Бич
 Serpentine Figure<#>Змеевидная фигура
 Amorphous Figure<#>Аморфная фигура
 Contorted Figure<#>Искажённая фигура
@@ -124,7 +124,7 @@ Dwight Boyak<#>Двайт Бояк
 Kein Felton<#>Кейн Фелтон
 Howard Al-Azif<#>Говард аль-Азиф
 The Tenderizer<#>Размягчитель
-Zill Rachmanov<#>Зилл Ракманов
+Zill Rachmanov<#>Зилл Рахманов
 Li'l Beezy Dreams<#>Лил Бизи Дримс
 Conrad Windthorn<#>Конрад Вайндторн
 Birch Obsidian<#>Бёрч Обсидиан

@@ -25,7 +25,7 @@ is snoozing.<#>дремлет.
 wakes up!<#>просыпается!
 Scared<#>Страх
 is petrified with fear!<#>наполняется страхом!
-is scared stiff.<#>застыл в страхне.
+is scared stiff.<#>застыл в страхе.
 is no longer afraid!<#>больше не боится!
 Stun<#>Оглушение
 is seeing stars!<#>видит перед собой звёзды!
@@ -160,7 +160,7 @@ drops his guard.<#>ослабляет бдительность.
 Extorted<#>Шантаж
 is being extorted!<#>подвергается шантажу!
 stood up for it's beliefs.<#>остался верен своим принципам.
-Oiled Up<#>Масляность
+Oiled Up<#>Масло
 is covered in oil!<#>покрыт маслом!
 is slippery.<#>маслянный.
 cleaned themselves off.<#>очистил себя от масла.
@@ -296,7 +296,7 @@ Loaded<#>Снаряжён
 is packing heat!<#>держит ствол!
 's gun is primed and loaded.<#>зарядил и взвёл пушку.
 empties his chamber!<#>выпускает магазин!
-Launched<#>Запуск
+Launched<#>Полёт
 was hurled skyward!<#>был запущен в небо!
 is freefalling.<#>падает.
 came back to Earth!<#>вернулся на Землю!

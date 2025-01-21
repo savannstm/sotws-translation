@@ -27,8 +27,8 @@ You have completed this task.<#>Вы выполнили это задание.
 "While nice to look at, pornographic material\#isn't the best fit for the currency of a society.<#>"Несмотря на приятный вид, порнографические материалы -\#не лучший кандидат для валюты в нормальном обществе."
 "Understanding this, Rando has established\#a more proper form of tender: Rando Coin.<#>"Понимая это, Рандо ввёл более подходящий вид\#платёжного средства: монету Рандо."
 "The issue is that no one but soldiers\#of the Rando Army accept this money.<#>"Проблема заключается в том, что никто кроме солдат\#армии Рандо не принимает эти деньги."
-"We're going to change that,\#starting with Garbage Island.<#>"Мы собираемся изменить это, начиная с мусорного острова."
-"Enclosed in this letter\#are three Rando Coins.<#>"К этому письму приложены три монеты Рандо."
+"We're going to change that,\#starting with Garbage Island.<#>"Мы собираемся изменить это,\#начиная с мусорного острова."
+"Enclosed in this letter\#are three Rando Coins.<#>"К этому письму приложены\#три монеты Рандо."
 "Your job is to give these Coins to three\#separate people on the island in order to\#officially establish the Rando economy.<#>"Ваша работа заключается в том, чтобы выдать эти монеты\#трём разным людям на острове, чтобы официально объявить\#экономику Рандо."
 "Under no circumstances are you to pocket\#this money and use it to buy extra rations.\#And no using it to bribe officers, either!<#>"Ни при каких обстоятельствах не крадите эти деньги,\#чтобы купить себе дополнительных рационов.\#И не используйте чтобы подкупать офицеров!"
 Inside the letter were three shiny objects.<#>Внутри письма находились три блестящие штуки.
@@ -37,7 +37,7 @@ Added to key items.<#>Добавлено в ключевые предметы.
 "OPERATION: TAKE OUT THE TRASH<#>"ОПЕРАЦИЯ: ВЫНОС МУСОРА"
 "This task, should you choose to accept it,\#will see you performing an assassination\#on the elusive leader of Garbage Island.<#>"Эта задача, если же вы решите её принять, потребует\#от вас убийства закулисного лидера мусорного острова."
 "Though it may appear uncivilized\#and utterly dominated by filth,\#according to our intel, Garbage\#Island DOES indeed have a ruler.<#>"Хотя остров и может показаться нецивилизованным и повсеместно\#управляемым грязью, основываясь на нашей разведке, у\#мусорного острова ВСЁ ЖЕ есть правитель.
-"From what the locals tell us, he is a recluse,\#hardly ever seen in the open, and has the\#terrifying ability to influence those who have\#the misfortune of listening to his sultry voice.<#>"Основываясь на том, что нам сказали местные, он отшельник,\#едва выходящий на публику, и имеет ужасающее качество\#влиять на тех, кому не посчастливилось услышать его знойный голос.
+"From what the locals tell us, he is a recluse,\#hardly ever seen in the open, and has the\#terrifying ability to influence those who have\#the misfortune of listening to his sultry voice.<#>"Основываясь на том, что нам сказали местные,\#он отшельник, едва выходящий на публику, и имеет\#ужасающее качество влиять на тех, кому не\#посчастливилось услышать его знойный голос.
 "It is said that he can also turn invisible,\#make your brain explode by looking at you,\#control fire and ice, and even speak Chinese.<#>"Также говорят, что он может становиться невидимым,\#взорвать чужой мозг одним взглядом, контролировать\#огонь и воду, и даже говорить на китайском."
 "His name? Larry Davis.<#>"Его имя? Ларри Дэвис."
 "Such a man is obviously a danger to the\#society that Rando wishes to build here.<#>"Такой человек - очевидная опасность для общества,\#которое Рандо желает построить на острове."
@@ -46,7 +46,7 @@ Added to key items.<#>Добавлено в ключевые предметы.
 "Be absolutely sure that the person\#you decide to kill is indeed Larry\#Davis; there can be no mistakes.<#>"Будьте абсолютно уверены, что человек, которого вам\#предстоит убить, на самом деле является Ларри Дэвисом;\#ошибки быть не может."
 You checked on the Baby Fishman.<#>Вы проверили малыша-рыболюда.
 It's panting.<#>Он задыхается.
-Put the Baby Fishman in\#your Vase of Spring Water?<#>Положить малыша-рыволюда в вашу вазу родниковой воды?
+Put the Baby Fishman in\#your Vase of Spring Water?<#>Положить малыша-рыволюда в\#вазу родниковой воды?
 Yes<#>Да
 No<#>Нет
 The Baby Fishman now inhabits the Vase.<#>Малыш-рыболюд теперь обитает в вазе.
@@ -97,7 +97,7 @@ Alex is reading the scroll...<#>Алекс читает свиток...
 Alex learned the Steadfast Stance!<#>Алекс изучил Твёрдую стойку!
 "In case I forget."<#>"В случае, если забуду."
 You examine the inflatable head next to the\#decapitated mannequin torso.<#>Вы изучаете надуваемую голову рядом с обезглавленным\#торсом манекена.
-The green slime from the torso's neck hole\#is awfully sticky...<#>Зелёная слизь из отверствия в шее торса ужасно липкая...
+The green slime from the torso's neck hole\#is awfully sticky...<#>Зелёная слизь из отверствия в шее\#торса ужасно липкая...
 Attach the head to the torso?<#>Прикрепить голову к торсу?
 The head fits perfectly.<#>Голова встала идеально.
 Got a jerryrigged doll!<#>Получена оснащённая кукла!

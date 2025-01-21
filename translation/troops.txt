@@ -1,8 +1,8 @@
-{Darry Sweets}I can play dirtier, you filth!<#>{Дэрри Свитс}Я могу играть грязнее, мусор!
-{Darry Sweets}Don't shag my riches!<#>{Дэрри Свитс}Не трахай мои богатства!
+{Darry Sweets}I can play dirtier, you filth!<#>{Дэрри Сладостный}Я могу играть грязнее, мусор!
+{Darry Sweets}Don't shag my riches!<#>{Дэрри Сладостный}Не трахай мои богатства!
 {Augustus Estrada}I'm ashamed I ever stood up for you, Roland.<#>{Август Эстрада}Я опозорен тем, что даже вступился за тебя, Роланд.
-{Roland Von Buckingham}Gotta get hard!<#>{Роланд фон Бакингэм}Надо поднажать!
-{Roland Von Buckingham}Dagnabbit!<#>{Роланд фон Бакингэм}Господи!
+{Roland Von Buckingham}Gotta get hard!<#>{Роланд фон Бакингем}Надо поднажать!
+{Roland Von Buckingham}Dagnabbit!<#>{Роланд фон Бакингем}Господи!
 {Bob Versace}I was only doing this ironically.<#>{Боб Версаче}Я делал это лишь в шутку.
 {Bob Versace}You can take a man's bags,\.\#but you can't take his stench!<#>{Боб Версаче}Можно забрать у человека пакеты,\.\#но ты никогда не заберёшь его запах!
 {Richie Cheasedust}Damn, damn, damn it!\#Catch me Roland!<#>{Ричи Чейздаст}Чёрт, чёрт, чёрт возьми!\#Лови меня, Роланд!
@@ -151,52 +151,52 @@ Don't make me flip out!<#>Не беси меня!
 {Wilbur Sin}...<#>{Уилбур Грех}...
 {Wilbur Sin}Finally...<#>{Уилбур Грех}Наконец-то...
 {Wilbur Sin}Free...\| from this cursed sin.<#>{Уилбур Грех}Свободен...\| от этого проклятого греха.
-{Darry Sweets}...You...\| you ate it...<#>{Дэрри Свитс}...Ты...\| ты съел его...
-{Darry Sweets}...right in front of me...<#>{Дэрри Свитс}...прямо передо мной...
-{Darry Sweets}You're gonna regret that!<#>{Дэрри Свитс}Ты об этом пожалеешь!
+{Darry Sweets}...You...\| you ate it...<#>{Дэрри Сладостный}...Ты...\| ты съел его...
+{Darry Sweets}...right in front of me...<#>{Дэрри Сладостный}...прямо передо мной...
+{Darry Sweets}You're gonna regret that!<#>{Дэрри Сладостный}Ты об этом пожалеешь!
 Not out yet!<#>Не упал!
 I can play dirtier, you filth!<#>Я могу играть грязнее, ты, мусор!
-{Darry Sweets}All I wanted was a taste...<#>{Дэрри Свитс}Всё, что я хотел, это попробовать...
-{Darry Sweets}Check it!<#>{Дэрри Свитс}Наблюдай!
-{Darry Sweets}You just don't know when to quit!<#>{Дэрри Свитс}Ты просто не знаешь, когда остановиться!
-{Darry Sweets}Guess life wasn't so sweet after all...<#>{Дэрри Свитс}Похоже, жизнь всё же не такая сладкая...
-{Will Killjoy}You don't know who you're fucking with!<#>{Уилл Киллджой}Ты блядь не знаешь, с кем связался!
-{Will Killjoy}You're forcing my hand...<#>{Уилл Киллджой}Ты вынуждаешь мою руку...
-{Will Killjoy}Let me show you a trick\#I learned from the big R himself.<#>{Уилл Киллджой}Давай покажу тебе трюк, которому\#научился у самого большого Р.
-{Will Killjoy}Ah... fuck...<#>{Уилл Киллджой}Ах... блядь...
-{Will Killjoy}...Floyd...<#>{Уилл Киллджой}...Флойд...
-{Will Killjoy}...I'm so sorry.<#>{Уилл Киллджой}Мне так жаль.
-{Foam Styro}I knew I shouldn't have\#eaten those packing peanuts.<#>{Фоам Стайро}Я знал, что не стоило\#есть тот упакованный арахис.
+{Darry Sweets}All I wanted was a taste...<#>{Дэрри Сладостный}Всё, что я хотел, это попробовать...
+{Darry Sweets}Check it!<#>{Дэрри Сладостный}Наблюдай!
+{Darry Sweets}You just don't know when to quit!<#>{Дэрри Сладостный}Ты просто не знаешь, когда остановиться!
+{Darry Sweets}Guess life wasn't so sweet after all...<#>{Дэрри Сладостный}Похоже, жизнь всё же не такая сладкая...
+{Will Killjoy}You don't know who you're fucking with!<#>{Уилл Безрадостный}Ты блядь не знаешь, с кем связался!
+{Will Killjoy}You're forcing my hand...<#>{Уилл Безрадостный}Ты вынуждаешь мою руку...
+{Will Killjoy}Let me show you a trick\#I learned from the big R himself.<#>{Уилл Безрадостный}Давай покажу тебе трюк, которому\#научился у самого большого Р.
+{Will Killjoy}Ah... fuck...<#>{Уилл Безрадостный}Ах... блядь...
+{Will Killjoy}...Floyd...<#>{Уилл Безрадостный}...Флойд...
+{Will Killjoy}...I'm so sorry.<#>{Уилл Безрадостный}Мне так жаль.
+{Foam Styro}I knew I shouldn't have\#eaten those packing peanuts.<#>{Пласт Пено}Я знал, что не стоило\#есть тот упакованный арахис.
 {Cooper Kelp}If Heaven doesn't have Crispy\#Bitz then send me to Hell.<#>{Купер Келп}Если в раю нет Crispy Bitz,\#то отправьте меня в ад.
-{Flynt Woodpecker}I won't allow you to maul me so easily.<#>{Флинт Вудпекер}Я не позволю тебе так легко истязать\#меня.
-{Flynt Woodpecker}Come, my beauties!<#>{Флинт Вудпекер}Вперёд, мои красотки!
-{Flynt Woodpecker}Let's teach these heathens some manners!<#>{Флинт Вудпекер}Давайте научим этих дикарей манерам!
-{Flynt Woodpecker}You didn't kill me.\.\#You just gave me my wings.<#>{Флинт Вудпекер}Вы не убили меня.\.\#Вы просто раскрыли мои крылья.
-{Flynt Woodpecker}Now I can fly away to paradise.<#>{Флинт Вудпекер}Теперь я могу улететь в рай.
-{Roland Von Buckingham}You're not going anywhere.<#>{Роланд фон Бакингэм}Вы никуда не идёте.
-{Roland Von Buckingham}This isn't your place to interfere, Augustus!<#>{Роланд фон Бакингэм}Тебе не надо сюда вмешиваться, Август!
-{Roland Von Buckingham}Back off!<#>{Роланд фон Бакингэм}Проваливай!
+{Flynt Woodpecker}I won't allow you to maul me so easily.<#>{Флинт Дятел}Я не позволю тебе так легко истязать\#меня.
+{Flynt Woodpecker}Come, my beauties!<#>{Флинт Дятел}Вперёд, мои красотки!
+{Flynt Woodpecker}Let's teach these heathens some manners!<#>{Флинт Дятел}Давайте научим этих дикарей манерам!
+{Flynt Woodpecker}You didn't kill me.\.\#You just gave me my wings.<#>{Флинт Дятел}Вы не убили меня.\.\#Вы просто раскрыли мои крылья.
+{Flynt Woodpecker}Now I can fly away to paradise.<#>{Флинт Дятел}Теперь я могу улететь в рай.
+{Roland Von Buckingham}You're not going anywhere.<#>{Роланд фон Бакингем}Вы никуда не идёте.
+{Roland Von Buckingham}This isn't your place to interfere, Augustus!<#>{Роланд фон Бакингем}Тебе не надо сюда вмешиваться, Август!
+{Roland Von Buckingham}Back off!<#>{Роланд фон Бакингем}Проваливай!
 {Augustus Estrada}Augh!<#>{Август Эстрада}Ау!
-{Roland Von Buckingham}Oh...<#>{Роланд фон Бакингэм}Ох...
-{Roland Von Buckingham}No...\. no no no...\| Augustus...!<#>{Роланд фон Бакингэм}Нет...\. нет нет нет...\| Август...!
-{Roland Von Buckingham}Gotta get harder!<#>{Роланд фон Бакингэм}Пора поднажать!
-{Gunther Scourge}I ain't gonna keel for you, grease head!<#>{Гюнтер Скурдж}Я тебе не уступлю, жирная голова!
-{Gunther Scourge}The election was rigged!<#>{Гюнтер Скурдж}Выборы подстроили!
-{Gunther Scourge}Rigged,\. you son of a bitch!<#>{Гюнтер Скурдж}Подстроили,\. сукин ты сын!
+{Roland Von Buckingham}Oh...<#>{Роланд фон Бакингем}Ох...
+{Roland Von Buckingham}No...\. no no no...\| Augustus...!<#>{Роланд фон Бакингем}Нет...\. нет нет нет...\| Август...!
+{Roland Von Buckingham}Gotta get harder!<#>{Роланд фон Бакингем}Пора поднажать!
+{Gunther Scourge}I ain't gonna keel for you, grease head!<#>{Гюнтер Бич}Я тебе не уступлю, жирная голова!
+{Gunther Scourge}The election was rigged!<#>{Гюнтер Бич}Выборы подстроили!
+{Gunther Scourge}Rigged,\. you son of a bitch!<#>{Гюнтер Бич}Подстроили,\. сукин ты сын!
 {Joel Miller}H-hey! Watch where you're swingin', Lucky!<#>{Джоэл Миллер}Э-эй! Следи, куда махаешь, счастливчик!
 {Gremory Gorgonzola}This is bullshit.<#>{Гремори Горгонзола}Бред.
 {Gremory Gorgonzola}Ungh...\| Tougher than you look...<#>{Гремори Горгонзола}У-уф...\| Ты крепче, чем кажешсья...
-{Flailing Centipede}I'll flay you motherfuckers!<#>{Размахивающая сороконожка}Я вас собью, ублюдки!
+{Flailing Centipede}I'll flay you motherfuckers!<#>{Размахивающая сороконожка}Я вас положу, ублюдки!
 {Gremory Gorgonzola}I've got heartburn...<#>{Гремори Горгонзола}У меня изжога...
-{Flailing Centipede}You're gonna fuckin' pay for that!<#>{Размахивающая сороконожка}Вы блядь за это заплатите!
-{Flailing Centipede}You could've just gone back up the ladder.<#>{Размахивающая сороконожка}Вы просто могли подняться по\#лестнице обратно.
+{Flailing Centipede}You're gonna fuckin' pay for that!<#>{Размахивающая многоножка}Вы блядь за это заплатите!
+{Flailing Centipede}You could've just gone back up the ladder.<#>{Размахивающая многоножка}Вы просто могли подняться по\#лестнице обратно.
 {Flailing Centipede}Bitch.<#>{Размахивающая сороконожка}Сука.
 {Gremory Gorgonzola}Guess it's up to me now...<#>{Гремори Горгонзола}Похоже, теперь все зависит от меня...
 {Chriss Bellucci}I'm so pumped!<#>{Крисс Беллуччи}Я так взволнован!
 {Chriss Bellucci}You don't know who you're messin' with!\.\#You have no idea!<#>{Крисс Беллуччи}Ты не знаешь, с кем связался!\.\#Ты понятия не имеешь!
 {Chriss Bellucci}I actually hate this, always did.<#>{Крисс Беллуччи}Я на самом деле это ненавижу, и всегда\#ненавидел.
 {Lester Bean}I'll keep the meat flowin'!\#Just take these goons out!<#>{Лестер Бин}Я обеспечу мясо!\#Просто завалите этих тупиц!
-{Mes Tez}And so,\. the curtain has fallen...\|\#Exit...\. stage left...<#>{Мес Тез}И так,\. занавес открылся...\|\#Выходите...\. сцена слева...
+{Mes Tez}And so,\. the curtain has fallen...\|\#Exit...\. stage left...<#>{Мес Тез}И так,\. занавес опустился...\|\#Выход...\. слева сцены...
 {Wing Sping}Mes!\. Noooooo!<#>{Винг Спинг}Мес!\. Нееееет!
 {Lester Bean}Ha! Serves 'em right!<#>{Лестер Бин}Ха! Так ему и надо.
 {Wing Sping}In the end,\. it was my skull that was cracked.<#>{Винг Спинг}В конце концов,\. вскрыли мой череп.

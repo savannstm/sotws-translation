@@ -37,8 +37,8 @@ Missed! %s took no damage!<#>Промах! %s не получил урона!
 %s reflected the power!<#>%s отразил силу!
 %s counterattacked!<#>%s контратаковал!
 %s protected %s!<#>%s защитил %s!
-%s's %s went up!<#>%s's %s поднялся!
-%s's %s went down!<#>%s's %s упал!
+%s's %s went up!<#>%s %s поднялось!
+%s's %s went down!<#>%s %s упало!
 %s's %s returned to normal.<#>%s's %s вернулся в нормальное состояние.
 There was no effect on %s!<#>Никакого эффекта на %s!
 All Foes<#>Все враги
