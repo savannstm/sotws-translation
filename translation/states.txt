@@ -95,7 +95,7 @@ is burning bright.<#>ярко светится.
 Deep Poison<#>Сильное отравление
 is poisoned badly!<#>сильно отравлён!
 feels like he's going to die.<#>думает, что сейчас умрёт.
-Wary<#>Напряжённость
+Wary<#>Нервность
 is on the edge!<#>на грани!
 is stressed!<#>на нервах!
 is stressing out!<#>срывается!
@@ -166,7 +166,7 @@ is slippery.<#>маслянный.
 cleaned themselves off.<#>очистил себя от масла.
 Party Mode<#>Вечеринка
 can't stop grooving!<#>не может перестать зависать!
-is partying hard!<#>жёстко веселиться!
+is partying hard!<#>жёстко веселится!
 lost the desire to party...<#>потерял желание веселиться...
 Depression<#>Расстроенность
 is depressed.<#>расстроен.
@@ -202,7 +202,7 @@ is immovable!<#>несдвигаем!
 lost his footing.<#>потерял равновесие.
 Nasty<#>Мерзость
 is oooh so filthy!<#>уффф, очень грязный!
-soaks in the filth.<#>возиться в грязи.
+soaks in the filth.<#>возится в грязи.
 can't scrub it off.<#>не может отмыться.
 no longer feels dirty.<#>больше не грязный.
 Flustered<#>Возбуждение
