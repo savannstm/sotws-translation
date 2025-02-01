@@ -35,7 +35,7 @@ Empty Bottle<#>Пустая бутылка
 An empty glass bottle.<#>Пустая стеклянная бутылка.
 Palladium Tile<#>Палладиевая плита
 A very stylish palladium tile of an extraterrestrial\#origin. The back reads: "Made in USSR".<#>Очень стильная палладиевая плита неземного происхождения.\#На обороте написано: "Сделано в СССР".
-Infinity Jersey<#>Майка бесконечности
+Infinity Jersey<#>Майка Бесконечности
 A knockoff jersey made infamous by being worn by\#anyone wanting to seem hard through association.<#>Дешёвая майка, печально известная тем, что её носят\#все подряд, кто хочет выглядить не таким как все.
 Skateboard<#>Скейтборд
 Plank with wheels.<#>Доска с колёсами.

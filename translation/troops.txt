@@ -54,7 +54,7 @@ Don't make me flip out!<#>Не беси меня!
 {Senyor Keister}Guess I just got...\| disenfranchised.<#>{Сеньор Кейстер}Похоже, я только что оказался...\|\#дефраншизированным.
 {Jessie Mack}It's all just same ol' meat.<#>{Джесси Отче}Это всё одинаковое старое мясо.
 {Alejandro Babbage}You can't keep people away from infinity.<#>{Алехандро Бэббэдж}Вы не убережёте людей от бесконечности.
-{Clyde Cyclone}Put me back together when you're done.<#>{Клайд Циклон}Собери меня по частям когда закончишь.
+{Clyde Cyclone}Put me back together when you're done.<#>{Клайд Циклон}Собери меня по частям, когда я умру.
 {Raymund Ripe}You wait, you live. You fight, you die.<#>{Рэймунд Райп}Ты ждёшь, ты живёшь. Ты сражаешься, ты умираешь.
 {Raymund Ripe}You just dug your own grave.<#>{Рэймунд Райп}Ты только что выкопал себе могилу.
 {Raymund Ripe}Soft skin... Kitty Babe...<#>{Рэймунд Райп}Мягкая кожа... детка Китти...
@@ -89,7 +89,7 @@ Don't make me flip out!<#>Не беси меня!
 {Maurice Falcon}I couldn't manage it.<#>{Морис Фэлкон}Я не сумел с этим управиться.
 {William Double J Palmer}Win some, lose some.<#>{Вильям Дабл Джей Палмер}Что-то выиграл, что-то проиграл.
 {Matty Mack}Right in time for harvestin'.<#>{Мэтти Отче}Прямо вовремя на сбор урожая.
-{Matty Mack}What's a little meat between family?<#>{Мэтти Отче}Что значит немного мяса в семье?
+{Matty Mack}What's a little meat between family?<#>{Мэтти Отче}Семье не помешает немного мяса.
 {Stefan Kindchild}In the desert\#I saw a creature, naked, bestial,<#>{Стефан Добряк}В пустыне я увидел\#создание, голое, зверское,
 {Stefan Kindchild}Who, squatting upon the ground,\#Held his heart in his hands,<#>{Стефан Добряк}Которое, сидя на полу,\#держало своё сердце в руках,
 {Stefan Kindchild}And ate of it.<#>{Стефан Добряк}и съело его.
@@ -242,7 +242,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Alcohol Keeth}\}Ugh, hold on.<#>{Алкоголь Кит}\}Ох, погоди.
 {Alcohol Keeth}There.\| Now, where were we?<#>{Алкоголь Кит}Вот.\| На чём мы остановились?
 {Jacob Mertz}How the hell am I being beaten by\#a hobo and his shitty cowboy friend?<#>{Джейкоб Мерц}Какого чёрта меня избивает бомж и его\#сраный друг-ковбой?
-{Jacob Mertz}This makes no fucking sense.<#>{Джейкоб Мерц}Ебучая бессмыслица.
+{Jacob Mertz}This makes no fucking sense.<#>{Джейкоб Мерц}Ебучий бред.
 {Kryzsztof the Cruncher}Ready for your nap, old man?<#>{Кристоф Измельчитель}Готов на покой, старик?
 {Rutherford Headstrong}Oh,\. I'm not lookin' so hot...<#>{Рузерфорд Крепкий}Ох,\. мне не очень хорошо...
 {Rutherford Headstrong}This one's all yours, big guy.<#>{Рузерфорд Крепкий}Оставляю всё тебе, большой парень.

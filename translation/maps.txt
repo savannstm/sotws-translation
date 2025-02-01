@@ -1359,17 +1359,17 @@ I know\#he'd feel\#the same.<#>Я знаю,\#он думал\#бы также.
 No...\.\.\#he wouldn't.<#>Нет...\.\.\#Он не думал бы.
 Your dad\#loved you\#for who\#you are.<#>Твой отец любил\#тебя таким, какой\#ты есть.
 Are you\#saying that\#all his love...<#>Ты говоришь, что\#вся его любовь...
-...was\#worthless?<#>...была бесполезной?
+...was\#worthless?<#>...была\#бесполезной?
 Man...<#>Мужик...
 How long is\#this gonna go on?<#>Сколько это будет\#продолжаться?
 Alex,\. let's\#just ditch\#this chump\#already.<#>Алекс,\. давай\#просто уже\#спишем этого\#идиота.
-He's just\#holding us up.<#>Он нас задерживает.
+He's just\#holding us up.<#>Он нас\#задерживает.
 Stand Up to Georgy<#>Возразить Джорджи
 *Silence*<#>*промолчать*
 No,\.\#Georgy.<#>Нет,\.\#Джорджи.
-This is\#important.<#>Это важно.
+This is\#important.<#>Это\#важно.
 What?!<#>Что?!
-Darry is\#our friend.<#>Дэрри - наш друг.
+Darry is\#our friend.<#>Дэрри - наш\#друг.
 We can't\#just leave\#him behind.<#>Мы просто не\#можем оставить\#его.
 Not here.<#>Не здесь.
 You are\#officially\#out of your\#fucking mind!<#>Ты официально\#сошёл нахуй\#с ума!
@@ -1405,15 +1405,15 @@ You're not\#like Rando's\#people. You're\#one of us.<#>Ты не человек\
 Once a taboo\#is broken,\#there is no\#fixing it.<#>Когда табу нарушено,\#это уже нельзя\#исправить.
 We're not wrong.\#Don't leave...<#>Мы не неправы.\#Не уходи...
 Please...<#>Пожалуйста...
-You back\#off, man!<#>Отвали, мужик!
+You back\#off, man!<#>Отвали,\#мужик!
 You have a\#deathwish?!<#>Помереть\#приспичило?!
 They killed Bob.<#>Они убили Боба.
 You don't stand\#a chance, Richie.<#>У тебя нет шансов,\#Ричи.
-I'm not\#going back.<#>Я не отступлюсь.
+I'm not\#going back.<#>Я не\#отступлюсь.
 Roland\#won't do it...<#>Роланд не сделает\#этого...
 ... he's a\#bleedin' pussy.<#>...он чёртова\#баба.
 You're wrong, man.<#>Ты неправ, мужик.
-He will\#end you.<#>Он прикончит тебя.
+He will\#end you.<#>Он прикончит\#тебя.
 I know it.<#>Я это знаю.
 Roland is\#stronger than\#you could\#ever imagine.<#>Роланд сильнее\#любого, кого\#ты можешь\#представить.
 You're alright, Alex.<#>Держись, Алекс.
@@ -2728,9 +2728,9 @@ It was a\#corporate\#decision.<#>Это общее\#решение.
 Don't think\#any of them\#could purvey\#an answer.<#>Не думаю, что\#кто-либо из\#них сможет\#дать ответ.
 Pffft.<#>Пфф.
 It's not surprising.<#>Не впечатляет.
-Scared\#of death?<#>Боишься\#смерти?
-It isn't easy.<#>Это нелегко.
-Are you seriously\#going to fight us?\#For no reason?<#>Вы правда будете\#сражаться с нами?\#Без причины?
+Scared\#of death?<#>Боитесь\#смерти?
+It isn't easy.<#>Она тяжела.
+Are you seriously\#going to fight us?\#For no reason?<#>Ты правда будешь\#сражаться с нами?\#Без причины?
 Don't blame\#me, blame\#the franchise.<#>Не вини\#меня, вини\#Франшизу.
 So be it.<#>Да будет так.
 This guy was\#something else.<#>Этот парень - что-то\#совсем другое.
@@ -4550,15 +4550,15 @@ Keep our\#heads from\#turning into\#popcorn!<#>Сохрани наши\#голо
 <!-- Map149.rvdata2 --><#>
 He is dead.<#>Он мёртв.
 Mr. A-a-arnold?<#>Мистер А-а-арнольд?
-Oh, God!\#It IS you!<#>О, боже!\#Это ТЫ!
-You are\#my idol-<#>Ты мой\#идол-
+Oh, God!\#It IS you!<#>О, боже!\#Это ВЫ!
+You are\#my idol-<#>Вы мой\#идол-
 You found a stash!<#>Вы нашли схрон!
 Diet Cocola Cola!<#>Диетическая Кокола-кола!
 The car is busted.<#>Машина сломана.
-License plate reads: "BAD".<#>На номерном знаке написано: «ПЛОХО».
+License plate reads: "BAD".<#>На номерном знаке написано: "ПЛОХИЕ".
 Geen?<#>Гин?
 Oh,\. there\#you guys are.<#>О,\. вот и вы,\#ребята.
-Some jersey\#chump was\#running amok\#out here.<#>Какой-то сумасшедший\#в майке безумствовал\#здесь.
+Some jersey\#chump was\#running amok\#out here.<#>Какой-то \#сумасшедший\#в майке творил\#здесь дичь.
 I took care\#of him, though.<#>Но я позаботился\#о нём.
 Let's get\#outta here.<#>Давайте выбираться\#отсюда.
 This place\#is skeevy\#as fuck.<#>Это место\#пиздец\#отвратительное.
@@ -4576,9 +4576,9 @@ Kick down the rope?<#>Сбросить верёвку?
 Yes<#>Да
 No<#>Нет
 A shortcut was created!<#>Теперь можно срезать!
-Everyone says\#they're gonna fix\#"The Game" tonight.<#>Все говорят,\#что они сегодня\#починят "Игру".
+Everyone says\#they're gonna fix\#"The Game" tonight.<#>Все говорят,\#что они сегодня\#исправят "Игру".
 I hope so.<#>Надеюсь на это.
-All tension\#is making\#me tear up...<#>Всё это напряжение\#разрывает меня...
+All tension\#is making\#me tear up...<#>Всё это\#напряжение\#разрывает меня...
 I feel\#like a...<#>Я чувствую себя\#как...
 What's that\#vegetable again?<#>Какой там был\#овощ, забыл?
 <!-- Map150.rvdata2 --><#>
@@ -6532,7 +6532,7 @@ The phone is smashed.<#>Телефон разбит.
 <!-- Map224.rvdata2 --><#>
 Ruined support beam.<#>Разрушенная опорная балка.
 Minecart, rusted to hell.<#>Вагонетка, к чёрту заржавевшая.
-Capsized.<#>Перевернулся.
+Capsized.<#>Перевернулась.
 Lost light.<#>Потерянный свет.
 Abandoned shovel.<#>Брошенная лопата.
 <!-- Map225.rvdata2 --><#>
@@ -6704,7 +6704,7 @@ Or did you\#forget that we\#were here?\| That's\#alright,\. if you did.<#>Или
 We are secret,\.\#we are hid.<#>Мы в тайне,\.\#мы скрыты.
 You know,\#I can ALMOST\#understand you.<#>Знаешь, я\#ПОЧТИ понимаю\#тебя.
 Almost.<#>Почти.
-Do not judge\#us,\. ragged man.\|\#We have sufffered\#through the Devil's plan.<#>Не суди нас,\. человек\#в лохмотьях.\| Мы\#пострадали из-за\#дьявольского плана.
+Do not judge\#us,\. ragged man.\|\#We have sufffered\#through the Devil's plan.<#>Не суди нас,\. человек\#в тряпье.\| Мы\#пострадали из-за\#дьявольского плана.
 The salt is\#evil,\. a horrid curse.\|\#So many it has\#led into a hearse.<#>Соль - злое,\.\#ужасное проклятие.\|\#Многих она увела\#в гроб.
 It stole my\#eyes,\. my legs,\.\#my heart,\. oh yes.<#>Она украла мои\#глаза,\. мои ноги,\.\#моё сердце,\. да.
 It has put\#the entire lake\#under duress.<#>Она подставила\#всё озеро под\#удар.
@@ -6767,8 +6767,8 @@ Stop by again\#if you find\#any oddities\#in your travels.<#>Заходите е
 Their mysteries I\#crave to unravel.<#>Чтоб разгадали мы\#их, будучи первыми.
 In return, I can\#offer you pieces\#from my stash.<#>Взамен, из схрона\#предлагаю товары.
 Some bold,\. some\#brash,\. some that will\#give you a rash.<#>Есть дикие,\. резкие,\.\#что глаз нарывают.
-It's up to you\#whether to go\#through,\. however.<#>Лишь ваше желанье,\.\#давать ли им вниманье.
-I see.\| Well,\.\#I'll let you know\#if I find anything.<#>Ясно.\| Ну,\. я\#дам тебе знать,\#если что-нибудь найду.
+It's up to you\#whether to go\#through,\. however.<#>Лишь ваше желанье -\.\#давать им вниманье.
+I see.\| Well,\.\#I'll let you know\#if I find anything.<#>Ясно.\| Ну,\. я\#дам вам знать,\#если что-нибудь найду.
 One more thing\#I'd like to add.<#>Добавить ещё кое-что\#мне не скучно.
 You've no doubt\#seen the jerseys,\.\#the ones that\#drive men mad.<#>Сумасбродные\#майки,\. вы их\#видели точно.
 I'm quite intrigued\#by them, as you\#see can by my den.<#>Меня, как можете\#видеть, они интригуют.
@@ -7457,7 +7457,7 @@ Perfume and domestic jerky!<#>Духи и домашнее мясо!
 They are dead.<#>Они мертвы.
 He is dead.<#>Он мёртв.
 The water is flowing gently.<#>Вода нежно течёт.
-It's filled with viscera.<#>Она заполнена внутренностями.
+It's filled with viscera.<#>Он заполнена внутренностями.
 Got an Infinity Jersey!<#>Вы получили майку Бесконечности!
 We're fightin'\#an uphill\#battle here.<#>У нас здесь\#тяжёлое\#сражение.
 Franchise grindin'\#through ranks,\.\#Knot snakes breathin'\#down our necks...<#>Франшиза прорывается\#сквозь наши ряды,\.\#змеи скручиваются\#на наших шеях...
@@ -9773,9 +9773,9 @@ He is dead.<#>Он мёртв.
 <!-- Map325.rvdata2 --><#>
 He is dead.<#>Он мёртв.
 Oh,\. I can't\#take it anymore!<#>Ох,\. я больше\#не могу!
-The smell!\.\#The meat!\.\#The fucking\#pink fat thing!<#>Запах!\.\#Мясо!\.\#Ебаная розовая\#жирная хрень!
+The smell!\.\#The meat!\.\#The fucking\#pink fat thing!<#>Запах!\.\#Мясо!\.\#Ебаный розовый\#жирный хрен!
 It's too much!<#>Это слишком!
-GET ME\#OUTTA HERE!<#>ВЫТАЩИ МЕНЯ\#ОТСЮДА!
+GET ME\#OUTTA HERE!<#>ВЫТАЩИТЕ МЕНЯ\#ОТСЮДА!
 <!-- Map326.rvdata2 --><#>
 He is dead.<#>Он мёртв.
 Who are you?<#>Кто ты?

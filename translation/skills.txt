@@ -155,6 +155,14 @@ breathes a stream of noxious fire!<#>дышит струей ядовитого 
 done.<#>готов.
 burns you to the ground.<#>сжигает вас до основания.
 is casting some strange magic...<#>колдует какую-то странную магию...
+Everyone is suddenly paralyzed!<#>Всех внезапно парализовало!
+Attack and defense suddenly dropped!<#>Атака и защита внезапно упали!
+Someone suddenly became winded!<#>Кто-то внезапно выдохся!
+Someone suddenly became pissed off!<#>Кто-то внезапно впал в гнев!
+The enemy party was suddenly healed!<#>Вражеская команда внезапно исцелилась!
+The enemy party was suddenly buffed!<#>Вражеская команда внезапно усилилась!
+An enemy suddenly became limber!<#>Враг внезапно стал гибче!
+An enemy suddenly became solid!<#>Враг внезапно стал твёрдым!
 prepares for his next attack...<#>готовится к следующей атаке...
 stabs with a poisonous stinger!<#>колит ядовитым жалом!
 pinches your skin!<#>щипает вашу кожу!
@@ -362,7 +370,7 @@ hits them from below!<#>бьёт снизу!
 boxes.<#>боксирует.
 brings down the elbow!<#>ударяет локтем!
 knocked them upward!<#>подбрасывает его вверх!
-punches out all their blood!<#>выбивает из них всю кровь!
+punches out all their blood!<#>выбивает из него всю кровь!
 's fingers ache.<#>испытывает боль в пальцах.
 creates some distance.<#>держится на дистанции.
 unleashes a whirlwind of pain!<#>обрушивает водоворот боли!

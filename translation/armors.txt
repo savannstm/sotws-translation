@@ -111,12 +111,12 @@ Crow skulls strung in a line. Protects the wearer\#from severe trauma, but makes
 Medal of Honor<#>Медаль за отвагу
 A badge indicative of the highest possible\#achievement. Wear it with pride.<#>Знак, обозначающий одну из высших возможных\#наград. Носите его с гордостью.
 Zein Ka Poncho<#>Пончо Зейн Ка
-The signature uniform of the Devil's Knot.\#This one has been stretched to fit its owner.<#>Фирменная униформа дьявольского узла.\#Эта конкретная была растянута её владельцем.
+The signature uniform of the Devil's Knot.\#This one has been stretched to fit its owner.<#>Фирменная униформа Дьявольского узла.\#Эта конкретная была растянута её владельцем.
 Mustache Oil<#>Масло для усов
 Grease to keep that 'stache sleek.\#Increases fire vulnerability.<#>Смазка, чтобы усы были гладкие.\#Повышает уязвимость к огню.
 Crowned Tooth<#>Зуб с коронкой
 Relic of a painful and unfortunate\#trip to the dentist.<#>Реликт болезненного и неудачного\#похода к зубному.
-Infinity Jersey XL<#>Майка бесконечности XL
+Infinity Jersey XL<#>Майка Бесконечности XL
 Knockoff sportswear stretched to its theoretical\#limit. Fuels your undying fury.<#>Поддельная спортивная форма, растянутая до своего\#максимального лимита. Подпитывает вашу бессмертную ярость.
 Weighted Belt<#>Утяжелённый пояс
 A hefty strap to keep you grounded. Resist fallen and\#off balance, but become incredibly slow.<#>Тяжёлый ремень удерживающий вас на ногах. Сопротивление\#падению и потере равновесия, но безумное понижение скорости.
