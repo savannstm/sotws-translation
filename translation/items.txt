@@ -55,7 +55,7 @@ Nice Berries<#>Вкусные ягоды
 They are just nice. (Bulk Food)<#>Они просто вкусные. (Низкокачественная еда)
 Trauma Kit<#>Хирургический набор
 "Surgeon in a bag". Alleviates: broken bones,\#brain damage, heart attacks, burns, and rupturing!<#>"Хирург в сумке". Способен помочь с: сломанными костями,\#мозговыми травмами, инфарктами, ожогами и рваными ранами!
-Fermented Mystery<#>Забродившая загадка
+Fermented Mystery<#>Забродившее нечто
 An enigma in a jar. (Barter Item)<#>Тайна в бутылке. (Предмет для обмена)
 Toilet Seat<#>Туалетная сидушка
 Harkens back to a time of luxury.\#(Barter Item)<#>Отсылает ко временам зажиточности.\#(Предмет для обмена)
@@ -231,7 +231,7 @@ Two and a half swigs of crisp goodness. Splash on\#a party member to remedy frig
 Malicious Stereo<#>Зловредная стереосистема
 A busted car stereo that still makes noise.\#Sometimes talks in unknown tongues. (Barter Item)<#>Сломанная стереосистема из машины, которая всё ещё производит\#звук. Иногда разговаривает неизвестным языком. (Предмет для обмена)
 Blood Wine<#>Кровавое вино
-A life-stealing drink. Cuts maximum HP by 100\#to fully restore HP and SP. Good for three uses.<#>Напиток, похищающий жизнь. Снижает максимальное ОЗ на 100,\#и полностью восстанавливает ОЗ и ОН. Его тут на три бокала.
+A life-stealing drink. Cuts maximum HP by 100\#to fully restore HP and SP. Good for three uses.<#>Напиток, похищающий жизнь. Снижает максимальное ОЗ на 100,\#и полностью восстанавливает ОЗ и ОН. Его тут на три глотка.
 Petroleum Firebomb<#>Бензиновая бомба
 A crudely made bomb filled with crude.\#Can cause burning.<#>Кустарно смастерённая бомба, наполненная бензином.\#Вызывает горение.
 Premium Cigar<#>Премиумная сигара

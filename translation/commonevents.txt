@@ -36,7 +36,7 @@ Got some Rando Coins!<#>Получено немного монет Рандо!
 Added to key items.<#>Добавлено в ключевые предметы.
 "OPERATION: TAKE OUT THE TRASH<#>"ОПЕРАЦИЯ: ВЫНОС МУСОРА"
 "This task, should you choose to accept it,\#will see you performing an assassination\#on the elusive leader of Garbage Island.<#>"Эта задача, если же вы решите её принять, потребует\#от вас убийства закулисного лидера мусорного острова."
-"Though it may appear uncivilized\#and utterly dominated by filth,\#according to our intel, Garbage\#Island DOES indeed have a ruler.<#>"Хотя остров и может показаться нецивилизованным и повсеместно\#управляемым грязью, основываясь на нашей разведке, у\#мусорного острова ВСЁ ЖЕ есть правитель.
+"Though it may appear uncivilized\#and utterly dominated by filth,\#according to our intel, Garbage\#Island DOES indeed have a ruler.<#>"Хотя остров и может показаться нецивилизованным\#и повсеместно управляемым грязью, основываясь на\#нашей разведке, у мусорного острова ВСЁ ЖЕ есть\#правитель."
 "From what the locals tell us, he is a recluse,\#hardly ever seen in the open, and has the\#terrifying ability to influence those who have\#the misfortune of listening to his sultry voice.<#>"Основываясь на том, что нам сказали местные,\#он отшельник, едва выходящий на публику, и имеет\#ужасающее качество влиять на тех, кому не\#посчастливилось услышать его знойный голос.
 "It is said that he can also turn invisible,\#make your brain explode by looking at you,\#control fire and ice, and even speak Chinese.<#>"Также говорят, что он может становиться невидимым,\#взорвать чужой мозг одним взглядом, контролировать\#огонь и воду, и даже говорить на китайском."
 "His name? Larry Davis.<#>"Его имя? Ларри Дэвис."
