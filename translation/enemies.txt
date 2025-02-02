@@ -83,13 +83,13 @@ Lester Bean<#>Лестер Бин
 Barry Twister<#>Барри Твистер
 Ron Constitution<#>Рон Конститушен
 Nicky B<#>Никки Б.
-Sid Bloodheart<#>Сид Бладхарт
-Pope Slaughter<#>Поп Слоутер
+Sid Bloodheart<#>Сид Кровавый
+Pope Slaughter<#>Поуп Убойный
 Palisade Dipper<#>Палисейд Диппер
 Billiard Esquire<#>Биллиард Эскуайр
 Clover<#>Кловер
 Trip<#>Трип
-Oliver Rang<#>Оливер Рэнг
+Oliver Rang<#>Оливер Ранг
 Finn Gur<#>Финн Гур
 Jacob Mertz<#>Джейкоб Мертз
 Jeremy Denkins<#>Джереми Денкинс
@@ -99,7 +99,7 @@ Randy Mack<#>Рэнди Отче
 Graeme Lucifer<#>Грейм Люцифер
 Ed Nobb<#>Эд Нобб
 Floyd Burnside<#>Флойд Бёрнсайд
-Wallaby Whitaker<#>Уоллоби Уитейкер
+Wallaby Whitaker<#>Уоллоби Уитекер
 Kroger Cleveland<#>Крогер Кливленд
 Francis Gizmo Jr.<#>Фрэнсис Гизмо мл.
 Tony Jones<#>Тони Джонс
@@ -120,7 +120,7 @@ Manie Evanescence<#>Мэни Эванисенс
 Anaha St. Germaine<#>Анаха св. Гермэйн
 Vis Audinaut<#>Вис Аудинот
 Ajn Kareeme<#>Айн Карим
-Dwight Boyak<#>Двайт Бояк
+Dwight Boyak<#>Дуэйт Бояк
 Kein Felton<#>Кейн Фелтон
 Howard Al-Azif<#>Говард аль-Азиф
 The Tenderizer<#>Размягчитель

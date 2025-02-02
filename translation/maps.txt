@@ -8755,17 +8755,17 @@ This breeze\#is anything\#but sweet!<#>Этот ветерок\#уж точно 
 It's ruining\#my hairdo!<#>Он портит мою\#причёску!
 Uh huh...<#>Ага...
 Shut it,\.\#you two.\|\#We've got\#company.<#>Заткнитесь,\.\#вы двое.\| У нас\#тут компания.
-Pft,\. that guy\#ain't nothing to\#worry about, Francis.<#>Пфф,\. ничего, о\#чём можно\#беспокоится, Фрэнсис.
+Pft,\. that guy\#ain't nothing to\#worry about, Francis.<#>Пфф,\. нам\#не о чём\#беспокоиться, Фрэнсис.
 It's just\#some shitty\#old man.<#>Это просто\#какой-то\#старый говнюк.
 We could\#pulverize him,\. easy.<#>Мы его размажем,\.\#с лёгкостью.
 Then do it.<#>Тогда давайте.
-I want to\#see if you've\#been paying\#attention to me.<#>Хочу увидеть,\#учились ли\#вы у меня\#чему-то.
+I want to\#see if you've\#been paying\#attention to me.<#>Хочу увидеть,\#научились ли\#вы у меня\#чему-то.
 Crush that\#old guy and\#do it quick.<#>Размажьте\#старика и\#побыстрее.
 Just like\#we've practiced.<#>Как мы и\#практиковались.
 ...You heard\#the boss!<#>...Ты слышал\#босса!
 Let's get 'em!<#>Бей их!
 Yeah,\. let's\#do this!<#>Ага,\.\#давай!
-Incoming!<#>Начинаю!
+Incoming!<#>Нападаю!
 He is dead.<#>Он мёртв.
 <!-- Map292.rvdata2 --><#>
 <!-- Map293.rvdata2 --><#>

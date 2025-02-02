@@ -217,23 +217,23 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Ron Constitution}I'll make ya wish your momma died in labor!<#>{Рон Конститушен}Ты пожалеешь, что тебя мама родила!
 {Ron Constitution}That all ya got?\. That's some pussy bullshit!<#>{Рон Конститушен}Всё, что ты умеешь?\. Какая-то бабская чушь!
 {Nicky B}No, stop!<#>{Никки Б}Нет, стой!
-{Ron Constitution}You ain't sh-\.shit!\| Come on!<#>{Рон Конститушен}Да ты ни-\.никто!\| Давай!
-{Sid Bloodheart}Shit, you're actually kinda tough.<#>{Сид Бладхарт}Чёрт, ты довольно крепкий.
-{Sid Bloodheart}Ey,\. ey!\| Stop!\. Stop!<#>{Сид Бладхарт}Эй,\. эй!\| Стоп!\. Стоп!
-{Pope Slaughter}Show me what you've got, boys!<#>{Поуп Слотер}Покажите мне, что умеете, ребята!
-{Pope Slaughter}Good hustle, but the oven's heating up now.<#>{Поуп Слотер}Отлично работаете, но я только разогреваюсь.
-{Pope Slaughter}It's a party now! Woooo!<#>{Поуп Слотер}Веселимся! Уууу!
-{Pope Slaughter}Not bad, not bad at all...<#>{Поуп Слотер}Неплохо, очень даже неплохо...
-{Palisade Dipper}Think you've got what it takes?<#>{Пэлисейд Диппер}Думаете, вы сможете?
-{Palisade Dipper}How about now?<#>{Пэлисейд Диппер}А сейчас?
-{Palisade Dipper}The carnage has just begun!<#>{Пэлисейд Диппер}Бойня только началась!
-{Palisade Dipper}I'm on the path to Armageddon!<#>{Пэлисейд Диппер}Я на пути к Армагеддону!
+{Ron Constitution}You ain't sh-\.shit!\| Come on!<#>{Рон Конститушен}Ты дерь-\.дерьмо!\| Чёрт!
+{Sid Bloodheart}Shit, you're actually kinda tough.<#>{Сид Кровавый}Чёрт, ты довольно крепкий.
+{Sid Bloodheart}Ey,\. ey!\| Stop!\. Stop!<#>{Сид Кровавый}Эй,\. эй!\| Стоп!\. Стоп!
+{Pope Slaughter}Show me what you've got, boys!<#>{Поуп Убойный}Покажите мне, что умеете, ребята!
+{Pope Slaughter}Good hustle, but the oven's heating up now.<#>{Поуп Убойный}Отлично работаете, но я только разогреваюсь.
+{Pope Slaughter}It's a party now! Woooo!<#>{Поуп Убойный}Веселимся! Уууу!
+{Pope Slaughter}Not bad, not bad at all...<#>{Поуп Убойный}Неплохо, очень даже неплохо...
+{Palisade Dipper}Think you've got what it takes?<#>{Палисейд Диппер}Думаете, вы сможете?
+{Palisade Dipper}How about now?<#>{Палисейд Диппер}А сейчас?
+{Palisade Dipper}The carnage has just begun!<#>{Палисейд Диппер}Бойня только началась!
+{Palisade Dipper}I'm on the path to Armageddon!<#>{Палисейд Диппер}Я на пути к Армагеддону!
 {Billiard Esquire}Can you keep up, grandpa?<#>{Биллиард Эскуайр}Поспеваешь, дедуля?
 {Billiard Esquire}Uh...\| is it too late to say sorry?<#>{Биллиард Эскуайр}Э...\| уже поздно извиняться?
 {Billiard Esquire}This is what I get for ignoring my cardio.<#>{Биллиард Эскуайр}Вот что я получил за пропуск тренировок.
-{Oliver Rang}Ah'll knock ya right between the eyes!<#>{Оливер Рэнг}Я разобью тебе нос!
-{Oliver Rang}Ya'int nothin' compared to me!<#>{Оливер Рэнг}Ты никто по сравнению со мной!
-{Oliver Rang}Goin' down undah...<#>{Оливер Рэнг}Спускаюсь в подземелье...
+{Oliver Rang}Ah'll knock ya right between the eyes!<#>{Оливер Ранг}Я разобью тебе нос!
+{Oliver Rang}Ya'int nothin' compared to me!<#>{Оливер Ранг}Ты никто по сравнению со мной!
+{Oliver Rang}Goin' down undah...<#>{Оливер Ранг}Спускаюсь в подземелье...
 {Finn Gur}You can't escape the cycle.<#>{Финн Гур}Ты не можешь сбежать из цикла.
 {Finn Gur}I will make sure of that.<#>{Финн Гур}Я обеспечу это.
 {Finn Gur}This is the end of my spiral,\. but yours...<#>{Финн Гур}Это - конец моей спирали,\. но твоей...
@@ -257,10 +257,10 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Ed Nobb}I hope you choke on your own beans!<#>{Эд Нобб}Надеюсь, ты подавишься своими таблетками!
 {Jeremy Denkins}Damn\.\. KIDS!<#>{Джереми Денкинс}Чёрт\.\. ДЕТИ!
 {Jeremy Denkins}Thinkin' you can just walk all over me...<#>{Джереми Денкинс}Думаете, что можете просто переступать через меня...
-{Jeremy Denkins}Walk on my LEGACY!<#>{Джереми Денкинс}Топлать моё НАСЛЕДСТВО!
+{Jeremy Denkins}Walk on my LEGACY!<#>{Джереми Денкинс}Топтать моё НАСЛЕДСТВО!
 {Jeremy Denkins}Well,\. I've had enough!<#>{Джереми Денкинс}Ну,\. с меня достаточно!
 {Jeremy Denkins}Get ready...<#>{Джереми Денкинс}Приготовтесь...
-{Jeremy Denkins}I'm 'bout to show you boys\#how we did things back in '44!<#>{Джереми Денкинс}Я покажу вам, как дела делались в 44-ом!
+{Jeremy Denkins}I'm 'bout to show you boys\#how we did things back in '44!<#>{Джереми Денкинс}Я покажу вам, как дела\#делались в 44-ом!
 {Jeremy Denkins}They teach you early.\.\#How to take a man's life.<#>{Джереми Денкинс}Они учат рано.\.\#Как забирать чужую жизнь.
 {Jeremy Denkins}They make you love it. Need it.<#>{Джереми Денкинс}Они заставляют тебя любить это. Нуждаться в этом.
 {Jeremy Denkins}We're all just tools of war in the end.<#>{Джереми Денкинс}Мы все в итоге - лишь инструменты войны.
@@ -274,29 +274,29 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Francis Gizmo Jr.}Show them what we're made of!<#>{Фрэнсис Гизмо мл.}Покажи им, из чего мы сделаны!
 {Francis Gizmo Jr.}Do I have to do everything myself?<#>{Фрэнсис Гизмо мл.}Мне нужно делать всё самому?
 {Francis Gizmo Jr.}All at once, now!\. Full power!<#>{Фрэнсис Гизмо мл.}Все вместе!\. В полную силу!
-{Kroger Cleveland}You heard him! Full power!<#>{Крогер Кливлэнд}Вы его слышали! В полную силу!
-{Wallaby Whitaker}Little busy here!<#>{Уоллоби Уитейкер}Немного занят!
-{Wallaby Whitaker}They can't handle all of us! Full power!<#>{Уоллоби Уитейкер}Они не смогут сдержать всех! В полную силу!
-{Wallaby Whitaker}I'm hurtin', I'm hurtin'!<#>{Уоллоби Уитейкер}Мне больно, мне больно!
+{Kroger Cleveland}You heard him! Full power!<#>{Крогер Кливлэнд}Ты его слышал! В полную силу!
+{Wallaby Whitaker}Little busy here!<#>{Уоллоби Уитекер}Немного занят!
+{Wallaby Whitaker}They can't handle all of us! Full power!<#>{Уоллоби Уитекер}Они не смогут сдержать всех! В полную силу!
+{Wallaby Whitaker}I'm hurtin', I'm hurtin'!<#>{Уоллоби Уитекер}Мне больно, мне больно!
 {Francis Gizmo Jr.}Get back, dumbass!<#>{Фрэнсис Гизмо мл.}Назад, придурок!
 {Kroger Cleveland}Not looking good here...<#>{Крогер Кливлэнд}Ситуация не выглядит хорошо...
 {Francis Gizmo Jr.}Stay behind me!<#>{Фрэнсис Гизмо мл.}Держитесь за мной!
 {Kroger Cleveland}F-Francis!<#>{Крогер Кливлэнд}Ф-Фрэнсис!
-{Wallaby Whitaker}Stay with us, big guy!<#>{Уоллоби Уитейкер}Держись с нами, здоровяк!
+{Wallaby Whitaker}Stay with us, big guy!<#>{Уоллоби Уитекер}Держись с нами, здоровяк!
 {Francis Gizmo Jr.}Guess I wasn't much of a leader,\. huh?<#>{Фрэнсис Гизмо мл.}Похоже, я был не таким уж и лидером,\. а?
 {Francis Gizmo Jr.}I'm sorry,\. boys.<#>{Фрэнсис Гизмо мл.}Простите,\. парни.
 {Francis Gizmo Jr.}You were better than I ever could've been.<#>{Фрэнсис Гизмо мл.}Вы лучше, чем я когда-либо был.
 {Kroger Cleveland}No, no, no!\| Francis...!<#>{Крогер Кливлэнд}Нет, нет, нет!\| Фрэнсис...!
 {Kroger Cleveland}You'll fucking pay for this!<#>{Крогер Кливлэнд}Вы блять заплатите за это!
-{Wallaby Whitaker}Oh, God!\. Oh, fuck!<#>{Уоллоби Уитейкер}О, боже!\. О, блять!
-{Wallaby Whitaker}What are we supposed to do now?!<#>{Уоллоби Уитейкер}Что нам делать теперь?!
-{Wallaby Whitaker}I'm so lost!<#>{Уоллоби Уитейкер}Я растерян!
+{Wallaby Whitaker}Oh, God!\. Oh, fuck!<#>{Уоллоби Уитекер}О, боже!\. О, блять!
+{Wallaby Whitaker}What are we supposed to do now?!<#>{Уоллоби Уитекер}Что нам делать теперь?!
+{Wallaby Whitaker}I'm so lost!<#>{Уоллоби Уитекер}Я растерян!
 {Kroger Cleveland}I was supposed to be a champion.<#>{Крогер Кливлэнд}Я должен был быть чемпионом.
 {Kroger Cleveland}But in the end,\| I became a chumpian.<#>{Крогер Кливлэнд}Но в конце,\| оказался идиотом.
 {Francis Gizmo Jr.}You're going to regret that!<#>{Фрэнсис Гизмо мл.}Ты пожалеешь об этом!
-{Wallaby Whitaker}Kroger,\. not you!<#>{Уоллоби Уитейкер}Крогер,\. только не ты!
-{Wallaby Whitaker}Guys...\| Where did you go?<#>{Уоллоби Уитейкер}Ребята...\| Куда вы пропали?
-{Wallaby Whitaker}It's getting cold...<#>{Уоллоби Уитейкер}Мне холодно...
+{Wallaby Whitaker}Kroger,\. not you!<#>{Уоллоби Уитекер}Крогер,\. только не ты!
+{Wallaby Whitaker}Guys...\| Where did you go?<#>{Уоллоби Уитекер}Ребята...\| Куда вы пропали?
+{Wallaby Whitaker}It's getting cold...<#>{Уоллоби Уитекер}Мне холодно...
 {Francis Gizmo Jr.}Oh, you have fucked up now!<#>{Фрэнсис Гизмо мл.}Ох, теперь тебе пизда!
 {Kroger Cleveland}Wait,\. Wallaby is...?\| Can't be!<#>{Крогер Кливлэнд}Стоп,\. Уоллоби...?\| Невозможно!
 {Francis Gizmo Jr.}Get your ass back in gear!<#>{Фрэнсис Гизмо мл.}Одень всё обратно!
@@ -344,8 +344,8 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Mikhail "Milo" Zhnebrowski}Brothers...\| pray for me!<#>{Михаил "Мило" Жнебровский}Братья...\| помолитесь за меня!
 {Mikhail "Milo" Zhnebrowski}Augh!<#>{Михаил "Мило" Жнебровский}Ох!
 {Mikhail "Milo" Zhnebrowski}It...\| it was not meant to be...<#>{Михаил "Мило" Жнебровский}Этого...\| этого не должно было...
-{Dwight Boyak}Ain't seen nothin' yet!<#>{Дуайт Бояк}Ты ещё ничего не видел!
-{Dwight Boyak}Looks like you were the spicier enchilada.<#>{Дуайт Бояк}Похоже, ты - энчилада поострее.
+{Dwight Boyak}Ain't seen nothin' yet!<#>{Дуэйт Бояк}Ты ещё ничего не видел!
+{Dwight Boyak}Looks like you were the spicier enchilada.<#>{Дуэйт Бояк}Похоже, ты - энчилада поострее.
 {Rodrigo Chainman}Let the blood cleanse you.<#>{Родриго Чейнман}Позволь крови очистить тебя.
 {Rodrigo Chainman}Let the pain...\| free you.<#>{Родриго Чейнман}Позволь боли...\| освободить тебя.
 {Rodrigo Chainman}How sweet it tastes...<#>{Родриго Чейнман}Как сладок её вкус...
