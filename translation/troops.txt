@@ -235,7 +235,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Oliver Rang}Ya'int nothin' compared to me!<#>{Оливер Рэнг}Ты никто по сравнению со мной!
 {Oliver Rang}Goin' down undah...<#>{Оливер Рэнг}Спускаюсь в подземелье...
 {Finn Gur}You can't escape the cycle.<#>{Финн Гур}Ты не можешь сбежать из цикла.
-{Finn Gur}I will make sure of that.<#>{Финн Гур}Я убежусь в этом.
+{Finn Gur}I will make sure of that.<#>{Финн Гур}Я обеспечу это.
 {Finn Gur}This is the end of my spiral,\. but yours...<#>{Финн Гур}Это - конец моей спирали,\. но твоей...
 {Finn Gur}It is just the beginning.<#>{Финн Гур}Это лишь начало.
 {Alcohol Keeth}\}It's my first time being violent.<#>{Алкоголь Кит}\}Я впервые применяю насилие.

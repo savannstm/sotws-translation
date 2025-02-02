@@ -197,7 +197,7 @@ A sweet treat that hurts to eat. Recovers 50 SP\#in exchange for 50 HP.<#>Сла
 Squirmy Cheese<#>Разлезшийся сыр
 A hunk of cheese with a crunchy surprise inside.\#Heals 500 HP, but has a high chance to nauseate.<#>Кусочек сыра с хрустящим сюрпризом внутри.\#Восстанавливает 500 ОЗ, но с большим шансом вызовет тоншоту.
 Exotic Pipe<#>Экзотическая трубка
-A cornpipe loaded with strange herbs and spices.\#Heals poison for three uses, but applies weirdness.<#>Трубка, набитая странными травами и специями.\#До трёх использовании: Исцеляет отравление, но применяет странность.
+A cornpipe loaded with strange herbs and spices.\#Heals poison for three uses, but applies weirdness.<#>Трубка, набитая странными травами и специями. До трёх\#использований: Исцеляет отравление, но накладывает странность.
 Muck Rum<#>Дрянной ром
 Chemical runoff mixed with a prick of ginger.\#Restores 250 HP, but fucks you up bad.<#>Химическая бодяга, смешанная со щепоткой имбиря.\#Восстанавливает 250 ОЗ, но сильно хуёвит.
 Gold Tooth<#>Золотой зуб
