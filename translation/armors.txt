@@ -41,9 +41,9 @@ A piece of carpeting with a massive hole in it.\#Lightweight, but makes skills c
 Bronze Watch<#>Бронзовые часы
 Busted wristwear. Will provide a bit of SP regen,\#but also lowers attack slightly.<#>Разбитые наручные часы. Дают небольшую регенерацию ОН,\#но также немного снижают атаку.
 Impeccable Golden Brolex<#>Безупречные золотые бролексы
-Worth a small African country. Are you willing to\#put it on your wrist?<#>За них можно купить небольшую африканскую страну.\#Вы точно хотите такое носить?
+Worth a small African country. Are you willing to\#put it on your wrist?<#>За них можно купить небольшую африканскую страну.\#Вы точно хотите их носить?
 Fishman Poncho<#>Пончо рыболюда
-The garb of a fishman from below Garbage Island.\#Provides decent protection, but makes you wet.<#>Одежда рыболюда с Мусорного острова.\#Хорошо защищает, но быстро мокнет.
+The garb of a fishman from below Garbage Island.\#Provides decent protection, but makes you wet.<#>Одежда рыболюда из-под мусорного острова.\#Хорошо защищает, но мочит вас.
 Mud Charm<#>Грязевой амулет
 An old dream-catcher, smeared with mud.\#Provides higher max health and HP regeneration.<#>Старый ловец снов, вымазанный грязью.\#Повышает максимальное число и регенерацию ОЗ.
 Denim Jeans<#>Денимовые джинсы
@@ -61,7 +61,7 @@ The most impenetrable piece of bathroom garb\#known to man. Limits mobility, but
 Miner's Helmet<#>Каска шахтёра
 A hat to keep your skull safe. Defensive, but the\#light attracts attention.<#>Каска, обеспечивающая сохранность черепа. Защищает, но\#лампа привлекает внимание.
 King-Brand Necklace<#>Фирменное ожерелье короля
-A 14-karat gold necklace made by King.\#Makes you feel Cool.<#>14-каратное золотое ожерелье, сделанное Королём.\#Вы чувствуете себя Круто.
+A 14-karat gold necklace made by King.\#Makes you feel Cool.<#>14-каратное золотое ожерелье фирмы "Кинг".\#Вы чувствуете себя Круто.
 Bad Boy Hair Gel<#>Гель для волос "Плохой парень"
 Hair gel for troublemakers, now with 40%\#more grease. Makes you burn easily.<#>Гель для волос для плохишей, теперь с 40% жира в составе.\#Легко воспламеняется.
 Sapphire Coat<#>Сапфировое пальто
@@ -99,7 +99,7 @@ Imagination in liquid form. Doubles attack and\#defense, but ensures wearer will
 Infinity Jersey<#>Майка бесконечности
 It speaks to you. Warmly.\#SP increases minorly over time.<#>Она говорит с вами. С теплотой.\#Слегка повышает число ОН с течением времени.
 Blood of Sin<#>Кровь греха
-Sanguine drop from the Ninth Circle.\#Provides exceptional resistance to fire.<#>Багровая капля из девятого круга.\#Дает исключительное сопротивление огню.
+Sanguine drop from the Ninth Circle.\#Provides exceptional resistance to fire.<#>Багровая капля из девятого круга.\#Даёт исключительное сопротивление огню.
 Mask of the Angel<#>Маска ангела
 Mask depicting a white angel. Provides substantial\#HP and SP bonuses, but cuts offense and speed.<#>Маска, изображающая белого ангела. Существенно повышает\#ОЗ и ОН, но снижает атаку и скорость.
 Mask of the Man<#>Маска человека
