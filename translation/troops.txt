@@ -45,7 +45,7 @@ Don't make me flip out!<#>Не беси меня!
 {Arnold Shpitz}I'm no one in particular.<#>{Арнольд Шпиц}Никто особенный.
 {Doyle Muscare}I'll make mincemeat out of you!<#>{Дойль Мускэр}Я тебя в фарш нашинкую!
 {Doyle Muscare}They'll kill you for me.<#>{Дойль Мускэр}Они убьют тебя за меня.
-{Lord Baxter Umpire}Foul!<#>{Лорд Бакстер Умпайр}
+{Lord Baxter Umpire}Foul!<#>{Лорд Бакстер Умпайр}Нарушение!
 {Cormack Rex}Savages, can't leave an old man in peace.<#>{Кормак Рекс}Дикари, не можете оставить старика в покое.
 {Cormack Rex}Muffin!<#>{Кормак Рекс}Маффин!
 {Alcohol Keeth}It's my first time being violent.<#>{Алкоголь Кит}Я впервые применяю жестокость.
@@ -59,11 +59,11 @@ Don't make me flip out!<#>Не беси меня!
 {Raymund Ripe}You just dug your own grave.<#>{Рэймунд Райп}Ты только что выкопал себе могилу.
 {Raymund Ripe}Soft skin... Kitty Babe...<#>{Рэймунд Райп}Мягкая кожа... детка Китти...
 {Raymund Ripe}You're wonderful, Angel Eyes...<#>{Рэймунд Райп}Ты прекрасна, ангельские глаза...
-{Silvester de Maistre}You know, I used to be a warlord.\#"Balloon Pants" they called me.<#>{Сильвестр де Майстер}Знаешь, я был военачальником.\#Меня называли "Штаны-шары".
-{Silvester de Maistre}You don't get my title by knowing just one trick.<#>{Сильвестр де Майстер}Такой титул не получишь, зная лишь один приём.
-{Silvester de Maistre}My signature talent...<#>{Сильвестр де Местр}Мой фирменный талант...
-{Silvester de Maistre}...BILOCATION!<#>{Сильвестр де Местр}...БИЛОКАЦИЯ!
-{Silvester de Maistre}I'm done.<#>{Сильвестр де Местр}Я всё.
+{Silvester de Maistre}You know, I used to be a warlord.\#"Balloon Pants" they called me.<#>{Сильвестр де Мейстр}Знаешь, я был военачальником.\#Меня называли "Штаны-шары".
+{Silvester de Maistre}You don't get my title by knowing just one trick.<#>{Сильвестр де Мейстр}Такой титул не получишь, зная лишь один приём.
+{Silvester de Maistre}My signature talent...<#>{Сильвестр де Мейстр}Мой фирменный талант...
+{Silvester de Maistre}...BILOCATION!<#>{Сильвестр де Мейстр}...БИЛОКАЦИЯ!
+{Silvester de Maistre}I'm done.<#>{Сильвестр де Мейстр}Я всё.
 {Avatar of Hatred}What's kicking, getting into trouble?<#>{Аватар ненависти}Что пинается, попадает в беду?
 {Avatar of Hatred}Pop a thrill pill, cool cat.<#>{Аватар Ненависти}Выпей таблетку острых ощущений, крутой чувак.
 {Avatar of Hatred}Check out my cover. You and me, one love.<#>{Аватар Ненависти}Посмотри на меня. Ты и я, одна любовь.
@@ -87,7 +87,7 @@ Don't make me flip out!<#>Не беси меня!
 {Douglass Fiat}I'm on the edge of infinity!<#>{Дуглас Фиат}Я на грани бесконечности!
 {Maurice Falcon}Doesn't matter how big, small, weak or strong\#you are. Join and The Franchise will double size.<#>{Морис Фэлкон}Неважно, насколько ты большой, малый,\#слабый или сильный. Вступай во Франшизу, и станешь вдвое лучше.
 {Maurice Falcon}I couldn't manage it.<#>{Морис Фэлкон}Я не сумел с этим управиться.
-{William Double J Palmer}Win some, lose some.<#>{Вильям Дабл Джей Палмер}Что-то выиграл, что-то проиграл.
+{William Double J Palmer}Win some, lose some.<#>{Уиллиам Дабл Джей Палмер}Что-то выиграл, что-то проиграл.
 {Matty Mack}Right in time for harvestin'.<#>{Мэтти Отче}Прямо вовремя на сбор урожая.
 {Matty Mack}What's a little meat between family?<#>{Мэтти Отче}Семье не помешает немного мяса.
 {Stefan Kindchild}In the desert\#I saw a creature, naked, bestial,<#>{Стефан Добряк}В пустыне я увидел\#создание, голое, зверское,
@@ -101,7 +101,7 @@ Don't make me flip out!<#>Не беси меня!
 {The Kent}Shut it, Tibby! We've got company!<#>{Кент}Заткнись, Тибби! У нас гости!
 {The Kent}Hey...\| that's my mustache trimmer!<#>{Кент}Эй...\| это мой триммер для усов!
 {The Kent}You bastard!\. Give it back!<#>{Кент}Ублюдок!\. Отдавай его обратно!
-"Trim" added to Techniques.<#>"Подровнять" добавлено в техники.
+"Trim" added to Techniques.<#>Действие "Подровнять" было добавлено в техники.
 {Tibby Dobs}Oh...\| oh no...<#>{Тибби Добс}Ох...\| о нет...
 {The Kent}You...\| You...!<#>{Кент}Ты...\| Ты...!
 {The Kent}YOU CUT OFF MY FUCKING MUSTACHE!<#>{Кент}ТЫ ОТРЕЗАЛ МОИ БЛЯДСКИЕ УСЫ!
@@ -271,7 +271,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Floyd Burnside}Know that all hope has abandoned you.<#>{Флойд Бёрнсайд}Знай, что вся надежда бросила тебя.
 {Floyd Burnside}...<#>{Флойд Бёрнсайд}...
 {Floyd Burnside}How...\| peculiar.<#>{Флойд Бёрнсайд}Как...\| необычно.
-{Francis Gizmo Jr.}Show them what we're made of!<#>{Фрэнсис Гизмо мл.}Покажи им, из чего мы сделаны!
+{Francis Gizmo Jr.}Show them what we're made of!<#>{Фрэнсис Гизмо мл.}Покажите им, из чего мы сделаны!
 {Francis Gizmo Jr.}Do I have to do everything myself?<#>{Фрэнсис Гизмо мл.}Мне нужно делать всё самому?
 {Francis Gizmo Jr.}All at once, now!\. Full power!<#>{Фрэнсис Гизмо мл.}Все вместе!\. В полную силу!
 {Kroger Cleveland}You heard him! Full power!<#>{Крогер Кливлэнд}Ты его слышал! В полную силу!
@@ -279,13 +279,13 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Wallaby Whitaker}They can't handle all of us! Full power!<#>{Уоллоби Уитекер}Они не смогут сдержать всех! В полную силу!
 {Wallaby Whitaker}I'm hurtin', I'm hurtin'!<#>{Уоллоби Уитекер}Мне больно, мне больно!
 {Francis Gizmo Jr.}Get back, dumbass!<#>{Фрэнсис Гизмо мл.}Назад, придурок!
-{Kroger Cleveland}Not looking good here...<#>{Крогер Кливлэнд}Ситуация не выглядит хорошо...
-{Francis Gizmo Jr.}Stay behind me!<#>{Фрэнсис Гизмо мл.}Держитесь за мной!
+{Kroger Cleveland}Not looking good here...<#>{Крогер Кливлэнд}Мне не слишком хорошо...
+{Francis Gizmo Jr.}Stay behind me!<#>{Фрэнсис Гизмо мл.}Держись за мной!
 {Kroger Cleveland}F-Francis!<#>{Крогер Кливлэнд}Ф-Фрэнсис!
-{Wallaby Whitaker}Stay with us, big guy!<#>{Уоллоби Уитекер}Держись с нами, здоровяк!
-{Francis Gizmo Jr.}Guess I wasn't much of a leader,\. huh?<#>{Фрэнсис Гизмо мл.}Похоже, я был не таким уж и лидером,\. а?
+{Wallaby Whitaker}Stay with us, big guy!<#>{Уоллоби Уитекер}Держись, здоровяк!
+{Francis Gizmo Jr.}Guess I wasn't much of a leader,\. huh?<#>{Фрэнсис Гизмо мл.}Похоже, не вышел из меня лидер\. а?
 {Francis Gizmo Jr.}I'm sorry,\. boys.<#>{Фрэнсис Гизмо мл.}Простите,\. парни.
-{Francis Gizmo Jr.}You were better than I ever could've been.<#>{Фрэнсис Гизмо мл.}Вы лучше, чем я когда-либо был.
+{Francis Gizmo Jr.}You were better than I ever could've been.<#>{Фрэнсис Гизмо мл.}Вы намного лучше меня.
 {Kroger Cleveland}No, no, no!\| Francis...!<#>{Крогер Кливлэнд}Нет, нет, нет!\| Фрэнсис...!
 {Kroger Cleveland}You'll fucking pay for this!<#>{Крогер Кливлэнд}Вы блять заплатите за это!
 {Wallaby Whitaker}Oh, God!\. Oh, fuck!<#>{Уоллоби Уитекер}О, боже!\. О, блять!
@@ -293,13 +293,13 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Wallaby Whitaker}I'm so lost!<#>{Уоллоби Уитекер}Я растерян!
 {Kroger Cleveland}I was supposed to be a champion.<#>{Крогер Кливлэнд}Я должен был быть чемпионом.
 {Kroger Cleveland}But in the end,\| I became a chumpian.<#>{Крогер Кливлэнд}Но в конце,\| оказался идиотом.
-{Francis Gizmo Jr.}You're going to regret that!<#>{Фрэнсис Гизмо мл.}Ты пожалеешь об этом!
+{Francis Gizmo Jr.}You're going to regret that!<#>{Фрэнсис Гизмо мл.}Вы пожалеете об этом!
 {Wallaby Whitaker}Kroger,\. not you!<#>{Уоллоби Уитекер}Крогер,\. только не ты!
 {Wallaby Whitaker}Guys...\| Where did you go?<#>{Уоллоби Уитекер}Ребята...\| Куда вы пропали?
 {Wallaby Whitaker}It's getting cold...<#>{Уоллоби Уитекер}Мне холодно...
-{Francis Gizmo Jr.}Oh, you have fucked up now!<#>{Фрэнсис Гизмо мл.}Ох, теперь тебе пизда!
+{Francis Gizmo Jr.}Oh, you have fucked up now!<#>{Фрэнсис Гизмо мл.}Ох, теперь вам пизда!
 {Kroger Cleveland}Wait,\. Wallaby is...?\| Can't be!<#>{Крогер Кливлэнд}Стоп,\. Уоллоби...?\| Невозможно!
-{Francis Gizmo Jr.}Get your ass back in gear!<#>{Фрэнсис Гизмо мл.}Одень всё обратно!
+{Francis Gizmo Jr.}Get your ass back in gear!<#>{Фрэнсис Гизмо мл.}Возьми себя в руки!
 {Francis Gizmo Jr.}Earth to dumbfuck!\. Come in, dumbfuck!<#>{Фрэнсис Гизмо мл.}Нахуй землю!\. Давай, нахуй!
 {Manny Kluth}Ow, ow, ow!\. This guy's a big meanie!<#>{Мэнни Клут}Ой, ой, ой!\. Этот парень большой негодяй!
 {Tony Jones}Where are you going?! Geez!<#>{Тони Джонс}Куда ты собрался?! Боже!
@@ -309,7 +309,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Tony Jones}HEY!\. BACK OFF, IDIOT!<#>{Тони Джонс}ЭЙ!\. ОТВАЛИ, ИДИОТ!
 {Tony Jones}We'll make you pay for this!\. I swear...!<#>{Тони Джонс}Ты заплатишь за это!\. Клянусь...!
 {Manny Kluth}Tony, no!<#>{Мэнни Клут}Тони, нет!
-{Danny DeMarco}You messed up now!\. Take this, butthead!<#>{Дэнни ДеМарко}Теперь тебе конец!\. Держись, придурок!
+{Danny DeMarco}You messed up now!\. Take this, butthead!<#>{Дэнни ДеМарко}Теперь тебе конец!\. Держи, придурок!
 {Joel Miller}Alex, STOP!<#>{Джоэл Миллер}Алекс, ОСТАНОВИСЬ!
 {Joel Miller}Everyone, STOP!<#>{Джоэл Миллер}Все, ОСТАНОВИТЕСЬ!
 {Glenn Cletus}Huck, I'm gettin' whooped!<#>{Гленн Клетус}Гек, меня бьют!
@@ -336,7 +336,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Mikhail "Milo" Zhnebrowski}Oh...\| Ohhhhhh!<#>{Михаил "Мило" Жнебровский}Ох...\| Оооооо!
 {Mikhail "Milo" Zhnebrowski}I see it!<#>{Михаил "Мило" Жнебровский}Я вижу!
 {Mikhail "Milo" Zhnebrowski}I can see it now!<#>{Михаил "Мило" Жнебровский}Теперь я вижу!
-{Mikhail "Milo" Zhnebrowski}My eyes...\. have...\. been...\. OPENED!<#>{Михаил "Мило" Жнебровский}Мои глаза...\. РАСКРЫТЫ!
+{Mikhail "Milo" Zhnebrowski}My eyes...\. have...\. been...\. OPENED!<#>{Михаил "Мило" Жнебровский}Мои...\. глаза...\. РАСКРЫТЫ!
 {Mikhail "Milo" Zhnebrowski}Behold, friends!<#>{Михаил "Мило" Жнебровский}Узрите, друзья!
 {Mikhail "Milo" Zhnebrowski}The power...\| of enlightenment!<#>{Михаил "Мило" Жнебровский}Сила...\| просветления!
 {Mikhail "Milo" Zhnebrowski}You cannot stop me,\. friends!<#>{Михаил "Мило" Жнебровский}Вам не остановить меня,\. друзья!
@@ -364,7 +364,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Chris Kringle}Merry Christmas, bitch!<#>{Крис Крингл}Счастливого Рождества, сука!
 {Chris Kringle}Happy Hanukkah,\. bitch!<#>{Крис Крингл}Счастливой Хануки,\. сука!
 {Chris Kringle}Happy,\. uh,\| Kwanza...\| bitch!<#>{Крис Крингл}Счастливой,\. э,\| Кванзы...\| сука!
-{Chris Kringle}Been on the naughty list for\#thirty-eight years and proud of it!<#>{Крис Крингл}Был в списке плохих детей вот уже\#тридцать восемь лет, и горжусь этим!
+{Chris Kringle}Been on the naughty list for\#thirty-eight years and proud of it!<#>{Крис Крингл}Я в списке плохих детей вот уже\#тридцать восемь лет, и горжусь этим!
 {Shammi}To...\| ny...\|<#>{Шэмми}То...\| ни...\|
 {Scrawny Davy}Hey, what're you pointing at?<#>{Толстяк Дэви}Эй, на кого оружие направил?
 {Scrawny Davy}Is there something behind me?<#>{Толстяк Дэви}Позади меня кто-то есть?
@@ -374,7 +374,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Scrawny Davy}There's nothing over there!<#>{Толстяк Дэви}Там ничего нет!
 {Scrawny Davy}Oh well, back to business!<#>{Толстяк Дэви}Ну ладно, обратно к делу!
 {Scrawny Davy}Ohhhh, no you don't!<#>{Толстяк Дэви}Оооо, вы это не сделаете!
-{Scrawny Davy}We're not doing this song and dance again!<#>{Толстяк Дэви}
+{Scrawny Davy}We're not doing this song and dance again!<#>
 {Scrawny Davy}Again with this?<#>{Толстяк Дэви}Снова это?
 {Scrawny Davy}Seriously,\. what IS it?!<#>{Толстяк Дэви}Серьёзно,\. ЧТО это?!
 {Scrawny Davy}We're cookin' with gas now!<#>{Толстяк Дэви}Теперь мы готовим на газу!
@@ -409,11 +409,11 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {June the Goon}Dismemberment is my fetish!\|\#There, I said it!<#>{Юн Придурок}Расчленение - мой фетиш!\|\#Вот, признался!
 {Wily Knight}Oh, I knew it!\. Nasty bitch!<#>{Уили Рыцарь}Я знал!\. Сраная сука!
 {Cecil Flairs}I ate coal as a kid.<#>{Сэсил Находчивый}Я ел уголь, когда был ребёнком.
-{Wily Knight}Maybe that's why you\#were so God damn ugly!<#>{Уили Рыцарь}Может поэтому ты был таким\#уродливым!
+{Wily Knight}Maybe that's why you\#were so God damn ugly!<#>{Уили Рыцарь}Может поэтому ты такой\#уродливым!
 {Wily Knight}This is all wrong!<#>{Уили Рыцарь}Это всё неправильно!
 {Wily Knight}I'm the main character!\. I can't die!<#>{Уили Рыцарь}Я главный герой!\. Я не могу умереть!
 {Ygor Melody}.\..\..\.Fin.<#>{Игор Мелодичный}.\..\..\.Конец.
-{Wily Knight}So you COULD talk!<#>{Уили Рыцарь}Так ты УМЕЛ говорить!
+{Wily Knight}So you COULD talk!<#>{Уили Рыцарь}Так ты УМЕЕШЬ говорить!
 {Scooter Screwloose}God,\. I am harder than concrete.<#>{Скутер Беспредельщик}Господи,\. я крепче чем бетон.
 {Wily Knight}You'll be real hard when rigor mortis sets in!<#>{Уили Рыцарь}Ты будешь очень крепким, когда\#войдёшь в трупное оконченение!
 {Wily Knight}...<#>{Уили Рыцарь}...

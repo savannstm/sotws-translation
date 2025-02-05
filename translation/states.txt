@@ -102,7 +102,7 @@ is stressing out!<#>срывается!
 gets a grip!<#>берёт себя в руки!
 Crying<#>Слёзы
 is tearing up.<#>разражается слезами.
-has tears in his eyes.<#>видит сквозь слёзы.
+has tears in his eyes.<#>смотрит сквозь слёзы.
 stopped crying.<#>прекращает плакать.
 Paralysis<#>Паралич
 becomes paralyzed!<#>парализует!
@@ -131,10 +131,10 @@ Pissed<#>Гнев
 sees red!<#>разгневан!
 is a lunatic! Watch out!<#>безумствует! Осторожно!
 calmed down.<#>успокоился.
-Taunt<#>Насмешка
+Taunt<#>Провокация
 steals the spotlight!<#>переключает внимание на себя!
 is attracting attention!<#>привлекает внимание!
-lost everyone's attention.<#>потерял интерес к себе.
+lost everyone's attention.<#>потерял чужое внимание.
 Withdrawal<#>Ломка
 is craving Joy.<#>жаждет Джоя.
 fought off his craving.<#>поборол ломку.

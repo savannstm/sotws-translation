@@ -95,7 +95,7 @@ launches a basketball!<#>кидает баскетбольный мяч!
 unleashes a haunting scream.<#>разражается в ужасающем крике.
 spews noxious fumes!<#>извергает ядовитые пары!
 stabs into you!<#>пронзает вас!
-swings!<#>махает!
+swings!<#>замахивается!
 takes a deep breath.<#>глубоко вздыхает.
 performs a drop kick!<#>ударяет в полёте!
 does the Bellucci Buster!<#>использует разрушителя Белуччи!
@@ -123,7 +123,7 @@ is crying deeply.<#>горько плачет.
 is glaring at you...<#>глядит на вас...
 coughed up blood!<#>кашляет кровью!
 realized he's outnumbered!<#>понял, что он в меньшинстве!
-flails!<#>махает!
+flails!<#>замахивается!
 vibrates with rage!<#>дрожит яростью!
 threw a bottle!<#>кинул бутылку!
 threw a petroleum firebomb!<#>кинул бензиновую бомбу!
@@ -137,7 +137,7 @@ clubs at you!<#>ударяет вас битой!
 strikes a pose!<#>встаёт в позу!
 brandishes a scythe!<#>размахивает косой!
 reignites!<#>вновь воспламеняется!
-swings his spear!<#>махает своим копьём!
+swings his spear!<#>замахивается своим копьём!
 breathes some life back into you!<#>вдыхает в вас жизнь!
 kicks you over and over again!<#>пинает вас снова и снова!
 clamps his legs on your throat!<#>сжимает ногами ваше горло!
@@ -357,7 +357,7 @@ hits them where it hurts!<#>бьёт по больному месту!
 goes berserk! Watch out!<#>сходит с ума! Осторожно!
 gets his mojo back on!<#>снова обретает пыл!
 relieved some stress.<#>снимает стресс.
-swings...<#>махает...
+swings...<#>замахивается...
 ...and knocks it out of the park!<#>...и выбивает!
 ...and strikes out!<#>...и наносит удар!
 Fortify<#>Укрепление
@@ -449,7 +449,7 @@ is being flashy!<#>привлекает внимание!
 Roll Out<#>Перекат
 A dive and a roll.\#Prevents most forms of damage.<#>Нырок и перекат.\#Защищает от большинства видов урона.
 Mind Games<#>Игры разума
-Spooks for easy scares. Joel gets Presence,\#loses Taunt. If it removes Taunt- full SP restore.<#>Нагнать жуть для лёгкого запугивания. Джоэл получает присутствие,\#теряет насмешку. При удалении насмешки восстанавливает ОН.
+Spooks for easy scares. Joel gets Presence,\#loses Taunt. If it removes Taunt- full SP restore.<#>Нагнать жуть для лёгкого запугивания. Джоэл получает присутствие,\#теряет провокацию. При удалении провокации - восстанавливает ОН.
 made eye contact!<#>установил зрительный контакт!
 Gun Reveal<#>Показать пушку
 Show off your prized gun in a daring manner.\#May make some men feel nasty.<#>Светануть своим ценным оружием и подразнить врагов.\#Может вызвать у некоторых парней отвращение.
@@ -522,7 +522,7 @@ Trowel Ravage<#>Разрушительная лопатка
 Show them you're not fucking around.<#>Покажите им, что вы хуйнёй не маетесь.
 gives 'em a thwacking!<#>задаёт им трёпку!
 Check the Time<#>Уточнение времени
-Look at your watch and pretend to not be a part of\#the fight. Restores SP and removes Taunt.<#>Посмотрите на свои часы и сделайте вид, что не участвуете\#в бою. Восстанавливает ОН и удаляет насмешку.
+Look at your watch and pretend to not be a part of\#the fight. Restores SP and removes Taunt.<#>Посмотрите на свои часы и сделайте вид, что не участвуете\#в бою. Восстанавливает ОН и удаляет провокацию.
 glances at his watch!<#>глядит на часы!
 Spout<#>Плевок
 Use the Baby Fishman to cool yourself off. Heals\#burning, washes off gunk, and makes you wet.<#>Используйте малыша-рыболюда, чтобы охладиться. Убирает\#горение, смывает всякую дрянь, и мочит вас.
