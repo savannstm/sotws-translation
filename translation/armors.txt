@@ -18,10 +18,10 @@ Custom Bullet<#>Особая пуля
 A custom made .476 bullet.<#>Особая, существующая в единственном экземпляре пуля\#.476-го калибра.
 Plaid Rags<#>Клетчатое тряпьё
 Luxury rags in the burburroo pattern.\#For the precocious beggar.<#>Роскошное тряпьё в стиле "Бурбери".\#Для начинающих попрошаек.
-Dusty Cravat<#>Пыльный платок
-Authentic dusting cloth that doubles as\#outmoded neckwear.<#>Самобытная тряпка для пыли, также служащая\#старомодным шейным платком.
-Red Polyester Cravat<#>Красный полиэстеровый платок
-A fine cravat in the mail coach style.\#Made from local polyester. Increases HP.<#>Изящный платок в джентельменском стиле.\#Изготовлен из местного полиэстера. Повышает ОЗ.
+Dusty Cravat<#>Пыльный шарф
+Authentic dusting cloth that doubles as\#outmoded neckwear.<#>Самобытная тряпка для пыли, также служащая\#старомодным шарфом.
+Red Polyester Cravat<#>Красный полиэстеровый шарф
+A fine cravat in the mail coach style.\#Made from local polyester. Increases HP.<#>Изящный шарф на дворянский манер.\#Изготовлен из местного полиэстера. Повышает ОЗ.
 Peasant's Hat<#>Крестьянская шляпа
 The most humble of the big hat familly.<#>Самая скромная из семейства больших шляп.
 Human Fat<#>Человеческий жир
@@ -29,7 +29,7 @@ Hair gel, not for the faint of heart.\#Increases maximum SP.<#>Гель для �
 Leadfoil Rags<#>Тряпьё из фольги
 Turn this fucking world to rust!\#Reduces fire damage.<#>Все сгорят, а я останусь!\#Снижают урон от огня.
 Tinfoil Bandages<#>Повязки из фольги
-Makes it harder for THEM to find you.\#Reduce bleeding slightly.<#>Если сделать шапочку, то ОНИ не залезут к тебе в голову!\#Немного снижают шанс кровотечения.
+Makes it harder for THEM to find you.\#Reduce bleeding slightly.<#>Теперь-то ОНИ не залезут к тебе в голову!\#Немного снижают шанс кровотечения.
 Champion's Belt<#>Чемпионский пояс
 EWC tag team champion belt of '82.\#Slight increase in SP and skill cost reduction.<#>Чемпионский пояс EWC командного выступления 1982-го года.\#Немного повышает число ОН и снижает стоимость навыков.
 Salty Bathrobe<#>Солёный халат
@@ -45,7 +45,7 @@ Worth a small African country. Are you willing to\#put it on your wrist?<#>За 
 Fishman Poncho<#>Пончо рыболюда
 The garb of a fishman from below Garbage Island.\#Provides decent protection, but makes you wet.<#>Одежда рыболюда из-под мусорного острова.\#Хорошо защищает, но мочит вас.
 Mud Charm<#>Грязевой амулет
-An old dream-catcher, smeared with mud.\#Provides higher max health and HP regeneration.<#>Старый ловец снов, вымазанный грязью.\#Повышает максимальное число и регенерацию ОЗ.
+An old dream-catcher, smeared with mud.\#Provides higher max health and HP regeneration.<#>Старый ловец снов, вымазанный грязью.\#Повышает максимальное число ОЗ и даёт регенерацию.
 Denim Jeans<#>Денимовые джинсы
 Pants built to last. Comfortable and lightweight.<#>Сшитые на века. Комфортные и лёгкие.
 Faded Shawl<#>Выцветшая шаль
@@ -53,7 +53,7 @@ Scrappy patch of cloth. Good for wiping sweat\#from your forehead.<#>Лоску�
 Painter's Gear<#>Инструменты художника
 A bucket of white paint and a brush to use it.\#All that an artist could ever ask for.<#>Ведро белой краски и кисточка.\#Предел мечтаний художника.
 Joy Mask<#>Маска радости
-The bloodied mask of a Joy dealer. Provides decent\#protection, but raises skill costs.<#>Окровавленная маска дилера Джоя. Даёт\#хорошую защиту, но повышает стоимость навыков.
+The bloodied mask of a Joy dealer. Provides decent\#protection, but raises skill costs.<#>Окровавленная маска Джоевого дилера. Даёт\#хорошую защиту, но повышает стоимость навыков.
 Salt Chunks<#>Кусочки соли
 Chunks of pure salt, and maybe a little dandruff.\#Provides protection.<#>Кусочки чистой соли, возможно смешанные с перхотью.\#Дают защиту.
 Crystal Bathrobe<#>Кристаллический халат
@@ -61,13 +61,13 @@ The most impenetrable piece of bathroom garb\#known to man. Limits mobility, but
 Miner's Helmet<#>Каска шахтёра
 A hat to keep your skull safe. Defensive, but the\#light attracts attention.<#>Каска, обеспечивающая сохранность черепа. Защищает, но\#лампа привлекает внимание.
 King-Brand Necklace<#>Фирменное ожерелье короля
-A 14-karat gold necklace made by King.\#Makes you feel Cool.<#>14-каратное золотое ожерелье фирмы "Кинг".\#Вы чувствуете себя Круто.
-Bad Boy Hair Gel<#>Гель для волос "Плохой парень"
+A 14-karat gold necklace made by King.\#Makes you feel Cool.<#>14-каратное золотое ожерелье, сделанное фирмой "Кинг".\#Вы чувствуете себя круто.
+Bad Boy Hair Gel<#>Гель для волос "Плохиш"
 Hair gel for troublemakers, now with 40%\#more grease. Makes you burn easily.<#>Гель для волос для плохишей, теперь с 40% жира в составе.\#Легко воспламеняется.
 Sapphire Coat<#>Сапфировое пальто
 A truly stylish coat. Allows wearer to move twice\#in one turn, but cuts HP and SP in half.<#>Воистину стильное пальто. Позволяет владельцу двигаться\#дважды за ход, но снижает ОЗ и ОН наполовину.
 Bad Beater<#>Плохиш-боец
-The signature undershirt of the Bad Angels.\#Lowers defense, but boosts attack.<#>Отличительная безрукавка Плохих Ангелов.\#Понижает защиту, но повышает атаку.
+The signature undershirt of the Bad Angels.\#Lowers defense, but boosts attack.<#>Отличительная безрукавка Плохих ангелов.\#Понижает защиту, но повышает атаку.
 Businessy Fedora<#>Деловая федора
 You can practically feel the stock market pulsing\#within this hat. Increases maximum SP.<#>Вы практически чувствуете пульсацию биржевого рынка в\#этой шляпе. Повышает максимальное число ОН.
 Spare Tie<#>Запасной галстук
@@ -89,7 +89,7 @@ The helmet of a Rando soldier. Good luck cracking\#through this one.<#>Шлем 
 Rando Pads<#>Наплечники Рандо
 More formally known as "pauldrons." Keeps those\#shoulders out of harm's way.<#>На плечи. Не позволяют навредить плечам.
 Homely Coat<#>Домашнее пальто
-A warm coat that smells like a roaring fireplace.\#Prevents wet and nasty.<#>Тёплое пальто, пахнущее треском костра.\#Защищает от намокания и мерзости.
+A warm coat that smells like a roaring fireplace.\#Prevents wet and nasty.<#>Тёплое пальто, пахнет трещащим костром.\#Защищает от намокания и мерзости.
 All-Seeing Fez<#>Всевидящий Фес
 Hat that expands your mind. Doubles max SP,\#but cuts all other stats.<#>Шляпа, расширяющая грани разума. Удваивает макс. число ОН,\#но снижает все другие характеристики.
 Old Rosary Belt<#>Цепочка из старых чёток
@@ -97,7 +97,7 @@ Chain of timeworn rosary beads. Regenerates SP\#and increases max SP, but preven
 Rainbow Painter's Gear<#>Разноцветные инструменты художника
 Imagination in liquid form. Doubles attack and\#defense, but ensures wearer will always move last.<#>Воображение в жидкостной форме. Удваивает атаку и\#защиту, но владелец всегда ходит последним.
 Infinity Jersey<#>Майка бесконечности
-It speaks to you. Warmly.\#SP increases minorly over time.<#>Она говорит с вами. С теплотой.\#Слегка повышает число ОН с течением времени.
+It speaks to you. Warmly.\#SP increases minorly over time.<#>Она говорит с вами. С теплотой.\#Слегка восстанавливает ОН с течением времени.
 Blood of Sin<#>Кровь греха
 Sanguine drop from the Ninth Circle.\#Provides exceptional resistance to fire.<#>Багровая капля из девятого круга.\#Даёт исключительное сопротивление огню.
 Mask of the Angel<#>Маска ангела
@@ -130,8 +130,8 @@ Shurik's Specs<#>Очки Шурика
 Shurik's glasses.\#The prescription is wildly outdated.<#>Очки Шурика.\#Диоптрии давно не подходят.
 Salty Censer<#>Солёное кадило
 A well-kept incense burner. Its smoke supposedly\#has healing properties. May be carcinogenic.<#>Ухоженное кадило. Его дым якобы имеет целебные\#свойства. Курение вызывает рак.
-Polyethylene Cravat<#>Полиэтиленовый платок
-Plastic bags stylishly refurbished into neckwear.\#Increases speed.<#>Пластиковые пакеты, стильно переработанные в\#шейный платок. Повышает скорость.
+Polyethylene Cravat<#>Полиэтиленовый шарф
+Plastic bags stylishly refurbished into neckwear.\#Increases speed.<#>Пластиковые пакеты, стильно переработанные в\#шарф. Повышает скорость.
 Rando Patch<#>Нашивка Рандо
 Patch of cloth from a Rando soldier uniform.\#Slight boost in experience gain. Stats down.<#>Нашивка с униформы солдата Рандо. Немного повышает\#получемый опыт. Понижает характеристики.
 One Franchise, infinite kings.<#>Одна Франшиза - короли бесконечности.
