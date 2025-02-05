@@ -1,0 +1,141 @@
+Bare Chest<#>Голая грудь
+This makes a very bold statement.<#>Очень смелое заявление.
+Imitation Gold Watch<#>Реплика золотых часов
+Worthless piece of plastic with\#a yellow coat of paint.<#>Бесполезный кусок пластика, покрытый\#жёлтой краской.
+Burlap Rags<#>Джутовое тряпьё
+Burlap is the new denim. Sad it has a hole in it.<#>Джут - новый деним. Грустно, что дырявый.
+Clean Bandages<#>Чистые повязки
+Bandages, keeping "it" together since 2600 B.C.\#Reduces bleeding.<#>Повязки, превращают раны в шрамы с 2600 года до н. э.\#Понижают шанс кровотечения.
+Iron Box<#>Железная коробка
+Small box with a fragile teal band.<#>Маленькая коробка с хлипкой бирюзовой лентой.
+Grease<#>Масло
+If you sweep your hair back, it might pass as\#intentional. Small boost to evasion.<#>Если зализать им волосы, то выглядит даже вполне \#естественно. Даёт лёгкий бонус к уклонению.
+Coolass Hat<#>Крутая шляпа
+Towering monolith of a hat for blocking\#out the sun.<#>Возвышающийся шляпный монолит, загораживающий\#солнце.
+Black Coat<#>Чёрный плащ
+A fine, black coat fashioned out of tanned\#trashbags.<#>Прочный чёрный плащ, сотканный из\#мусорных пакетов.
+Custom Bullet<#>Особая пуля
+A custom made .476 bullet.<#>Особая, существующая в единственном экземпляре пуля\#.476-го калибра.
+Plaid Rags<#>Клетчатое тряпьё
+Luxury rags in the burburroo pattern.\#For the precocious beggar.<#>Роскошное тряпьё в стиле "Бурбери".\#Для начинающих попрошаек.
+Dusty Cravat<#>Пыльный шарф
+Authentic dusting cloth that doubles as\#outmoded neckwear.<#>Самобытная тряпка для пыли, также служащая\#старомодным шарфом.
+Red Polyester Cravat<#>Красный полиэстеровый шарф
+A fine cravat in the mail coach style.\#Made from local polyester. Increases HP.<#>Изящный шарф на дворянский манер.\#Изготовлен из местного полиэстера. Повышает ОЗ.
+Peasant's Hat<#>Крестьянская шляпа
+The most humble of the big hat familly.<#>Самая скромная из семейства больших шляп.
+Human Fat<#>Человеческий жир
+Hair gel, not for the faint of heart.\#Increases maximum SP.<#>Гель для волос, не для слабонервных.\#Повышает максимальное число ОН.
+Leadfoil Rags<#>Тряпьё из фольги
+Turn this fucking world to rust!\#Reduces fire damage.<#>Все сгорят, а я останусь!\#Снижают урон от огня.
+Tinfoil Bandages<#>Повязки из фольги
+Makes it harder for THEM to find you.\#Reduce bleeding slightly.<#>Теперь-то ОНИ не залезут к тебе в голову!\#Немного снижают шанс кровотечения.
+Champion's Belt<#>Чемпионский пояс
+EWC tag team champion belt of '82.\#Slight increase in SP and skill cost reduction.<#>Чемпионский пояс EWC командного выступления 1982-го года.\#Немного повышает число ОН и снижает стоимость навыков.
+Salty Bathrobe<#>Солёный халат
+A grim vestment, highly resistant to damage.\#Reduces attack, mobility and doubles SP costs.<#>Мрачное облачение, крайне устойчивое к повреждениям.\#Снижает атаку и мобильность, удваивает стоимость навыков.
+Old Poncho<#>Старое пончо
+Barely counts as clothing, but good enough to keep\#you warm at night. Slightly increases max SP.<#>С трудом напоминает одежду, но согревает по ночам.\#Немного повышает макс. ОН.
+Carpet Square<#>Квадратный ковер
+A piece of carpeting with a massive hole in it.\#Lightweight, but makes skills cost more.<#>Кусок ковролина с огромной дырой.\#Лёгкий, но повышает стоимость навыков.
+Bronze Watch<#>Бронзовые часы
+Busted wristwear. Will provide a bit of SP regen,\#but also lowers attack slightly.<#>Разбитые наручные часы. Дают небольшую регенерацию ОН,\#но также немного снижают атаку.
+Impeccable Golden Brolex<#>Безупречные золотые бролексы
+Worth a small African country. Are you willing to\#put it on your wrist?<#>За них можно купить небольшую африканскую страну.\#Вы точно хотите их носить?
+Fishman Poncho<#>Пончо рыболюда
+The garb of a fishman from below Garbage Island.\#Provides decent protection, but makes you wet.<#>Одежда рыболюда из-под мусорного острова.\#Хорошо защищает, но мочит вас.
+Mud Charm<#>Грязевой амулет
+An old dream-catcher, smeared with mud.\#Provides higher max health and HP regeneration.<#>Старый ловец снов, вымазанный грязью.\#Повышает максимальное число ОЗ и даёт регенерацию.
+Denim Jeans<#>Денимовые джинсы
+Pants built to last. Comfortable and lightweight.<#>Сшитые на века. Комфортные и лёгкие.
+Faded Shawl<#>Выцветшая шаль
+Scrappy patch of cloth. Good for wiping sweat\#from your forehead.<#>Лоскут ткани. Хорошо подходит для вытирания пота\#со лба.
+Painter's Gear<#>Инструменты художника
+A bucket of white paint and a brush to use it.\#All that an artist could ever ask for.<#>Ведро белой краски и кисточка.\#Предел мечтаний художника.
+Joy Mask<#>Маска радости
+The bloodied mask of a Joy dealer. Provides decent\#protection, but raises skill costs.<#>Окровавленная маска Джоевого дилера. Даёт\#хорошую защиту, но повышает стоимость навыков.
+Salt Chunks<#>Кусочки соли
+Chunks of pure salt, and maybe a little dandruff.\#Provides protection.<#>Кусочки чистой соли, возможно смешанные с перхотью.\#Дают защиту.
+Crystal Bathrobe<#>Кристаллический халат
+The most impenetrable piece of bathroom garb\#known to man. Limits mobility, but grants SP regen.<#>Самый непробиваемый вид банной одежды, известный\#человеку. Понижает мобильность, но регенирирует ОН.
+Miner's Helmet<#>Каска шахтёра
+A hat to keep your skull safe. Defensive, but the\#light attracts attention.<#>Каска, обеспечивающая сохранность черепа. Защищает, но\#лампа привлекает внимание.
+King-Brand Necklace<#>Фирменное ожерелье короля
+A 14-karat gold necklace made by King.\#Makes you feel Cool.<#>14-каратное золотое ожерелье, сделанное фирмой "Кинг".\#Вы чувствуете себя круто.
+Bad Boy Hair Gel<#>Гель для волос "Плохиш"
+Hair gel for troublemakers, now with 40%\#more grease. Makes you burn easily.<#>Гель для волос для плохишей, теперь с 40% жира в составе.\#Легко воспламеняется.
+Sapphire Coat<#>Сапфировое пальто
+A truly stylish coat. Allows wearer to move twice\#in one turn, but cuts HP and SP in half.<#>Воистину стильное пальто. Позволяет владельцу двигаться\#дважды за ход, но снижает ОЗ и ОН наполовину.
+Bad Beater<#>Плохиш-боец
+The signature undershirt of the Bad Angels.\#Lowers defense, but boosts attack.<#>Отличительная безрукавка Плохих ангелов.\#Понижает защиту, но повышает атаку.
+Businessy Fedora<#>Деловая федора
+You can practically feel the stock market pulsing\#within this hat. Increases maximum SP.<#>Вы практически чувствуете пульсацию биржевого рынка в\#этой шляпе. Повышает максимальное число ОН.
+Spare Tie<#>Запасной галстук
+A professional never leaves home without one.\#Reduces cost of skills by 10%.<#>Профессионал никогда не выходит из дома без запасного.\#Понижает стоимость навыков на 10%.
+Leather Pants<#>Кожаные штаны
+Tight pants that highlight your best features.\#Boosts all stats, but inflicts a permanent taunt.<#>Узкие брюки, подчёркивающие ваши лучшие черты.\#Повышают все характеристики, но накладывают постоянную провокацию.
+Skin Wraps<#>Кожаные повязки
+Patch your wounds with another man's skin.\#Provides poison resistance, but makes you nasty.<#>Залатайте раны чужой кожей.\#Дают сопротивление к яду, но делают вас мерзким.
+Doctor's Coat<#>Халат доктора
+The abandoned coat of a medical practioner.\#Increases maximum health.<#>Забытый халат медика-практиканта.\#Повышает максимальное здоровье.
+Gizmo's Glasses<#>Очки Гизмо
+A precious heirloom of the Gizmo family.\#Provides exceptional accuracy.<#>Драгоценная реликвия семьи Гизмо.\#Обеспечивают исключительную точность.
+Neon Painter's Gear<#>Неоновые инструменты художника
+Neon green paint designed to irritate the eyes.\#Boosts max HP, but increases target rate.<#>Неоновая зелёная краска, созданная быть вырвиглазной.\#Повышает макс. ОЗ, но также и шанс быть атакованным.
+Rando Rags<#>Тряпьё Рандо
+Rando-branded fabric. Sturdy and hard to rip.<#>Фирменная ткань Рандо. Крепкая и не рвётся.
+Rando Helmet<#>Шлем Рандо
+The helmet of a Rando soldier. Good luck cracking\#through this one.<#>Шлем солдата Рандо. Удачи сломать его.
+Rando Pads<#>Наплечники Рандо
+More formally known as "pauldrons." Keeps those\#shoulders out of harm's way.<#>На плечи. Не позволяют навредить плечам.
+Homely Coat<#>Домашнее пальто
+A warm coat that smells like a roaring fireplace.\#Prevents wet and nasty.<#>Тёплое пальто, пахнет трещащим костром.\#Защищает от намокания и мерзости.
+All-Seeing Fez<#>Всевидящий Фес
+Hat that expands your mind. Doubles max SP,\#but cuts all other stats.<#>Шляпа, расширяющая грани разума. Удваивает макс. число ОН,\#но снижает все другие характеристики.
+Old Rosary Belt<#>Цепочка из старых чёток
+Chain of timeworn rosary beads. Regenerates SP\#and increases max SP, but prevents stancing.<#>Цепочка из ветхих чёток. Восстанавливает ОН и повышает\#макс. число ОН, но не позволяет встать в стойку.
+Rainbow Painter's Gear<#>Разноцветные инструменты художника
+Imagination in liquid form. Doubles attack and\#defense, but ensures wearer will always move last.<#>Воображение в жидкостной форме. Удваивает атаку и\#защиту, но владелец всегда ходит последним.
+Infinity Jersey<#>Майка бесконечности
+It speaks to you. Warmly.\#SP increases minorly over time.<#>Она говорит с вами. С теплотой.\#Слегка восстанавливает ОН с течением времени.
+Blood of Sin<#>Кровь греха
+Sanguine drop from the Ninth Circle.\#Provides exceptional resistance to fire.<#>Багровая капля из девятого круга.\#Даёт исключительное сопротивление огню.
+Mask of the Angel<#>Маска ангела
+Mask depicting a white angel. Provides substantial\#HP and SP bonuses, but cuts offense and speed.<#>Маска, изображающая белого ангела. Существенно повышает\#ОЗ и ОН, но снижает атаку и скорость.
+Mask of the Man<#>Маска человека
+Mask depicting a gray human. Increases defense\#substantially, but cuts HP and SP.<#>Маска, изображающая серого человека. Существенно\#повышает защиту, но снижает ОЗ и ОН.
+Mask of the Demon<#>Маска демона
+Mask depicting a black demon. Increases offense\#and speed substantially, but cuts defense.<#>Маска, изображающая чёрного демона. Существенно\#повышает атаку и скорость, но снижает защиту.
+Skull Necklace<#>Ожерелье с черепами
+Crow skulls strung in a line. Protects the wearer\#from severe trauma, but makes your bones brittle.<#>Вороньи черепа, нанизанные на нить. Защищают владельца\#от тяжёлых травм, но ослабляют кости.
+Medal of Honor<#>Медаль за отвагу
+A badge indicative of the highest possible\#achievement. Wear it with pride.<#>Знак, обозначающий одну из высших возможных\#наград. Носите его с гордостью.
+Zein Ka Poncho<#>Пончо Зейн Ка
+The signature uniform of the Devil's Knot.\#This one has been stretched to fit its owner.<#>Фирменная униформа Дьявольского узла.\#Конкретно эта была растянута её владельцем.
+Mustache Oil<#>Масло для усов
+Grease to keep that 'stache sleek.\#Increases fire vulnerability.<#>Смазка, чтобы усы были гладкие.\#Повышает уязвимость к огню.
+Crowned Tooth<#>Зуб с коронкой
+Relic of a painful and unfortunate\#trip to the dentist.<#>Реликт болезненного и неудачного\#похода к зубному.
+Infinity Jersey XL<#>Майка Бесконечности XL
+Knockoff sportswear stretched to its theoretical\#limit. Fuels your undying fury.<#>Поддельная спортивная форма, растянутая до возможного предела.\#Подпитывает вашу бессмертную ярость.
+Weighted Belt<#>Утяжелённый пояс
+A hefty strap to keep you grounded. Resist fallen and\#off balance, but become incredibly slow.<#>Тяжёлый ремень, удерживающий вас на ногах. Даёт сопротивление\#падению и потере равновесия, но безумно понижает скорость.
+Salt Diamond<#>Солевой алмаз
+The world's only ten-carat sodium gemstone.\#Provides exceptional special defense.<#>Единственный в мире десятикаратный натриевый драгоценный камень.\#Обеспечивает исключительную специальную защиту.
+Neu Crew Poncho<#>Пончо команды Нью
+The uniform of the Neu Crew. Formerly, at least.<#>Униформа команды Нью. Бывшая, по крайней мере.
+Brass Pauldron<#>Латунный наплечник
+Custom shoulder pad made of brass.\#The spike is just for show.<#>Кустарный наплечник, скованный из латуни.\#Шипы просто для вида.
+Shurik's Specs<#>Очки Шурика
+Shurik's glasses.\#The prescription is wildly outdated.<#>Очки Шурика.\#Диоптрии давно не подходят.
+Salty Censer<#>Солёное кадило
+A well-kept incense burner. Its smoke supposedly\#has healing properties. May be carcinogenic.<#>Ухоженное кадило. Его дым якобы имеет целебные\#свойства. Курение вызывает рак.
+Polyethylene Cravat<#>Полиэтиленовый шарф
+Plastic bags stylishly refurbished into neckwear.\#Increases speed.<#>Пластиковые пакеты, стильно переработанные в\#шарф. Повышает скорость.
+Rando Patch<#>Нашивка Рандо
+Patch of cloth from a Rando soldier uniform.\#Slight boost in experience gain. Stats down.<#>Нашивка с униформы солдата Рандо. Немного повышает\#получемый опыт. Понижает характеристики.
+One Franchise, infinite kings.<#>Одна Франшиза - короли бесконечности.
+Rando Mask<#>Маска Рандо
+It stinks of sweat and regret. Increased resistance\#to physical damage, decreased agility.<#>Она воняет потом и сожалением. Повышает\#сопротивление физическому урону, понижает ловкость.
+Cruel Sack<#>Жестокий мешок
+The prized trashbag of Bob Versace. Applies Stink.\#You feel disgusting - defense down, agility down.<#>Ценный мусорный мешок Боба Версаче. Накладывает вонь.\#Вы чувствуете себя отвратительно - защита и ловкость снижаются.
