@@ -106,7 +106,7 @@ View which page?<#>Какую страницу посмотреть?
 Intimidation<#>Запугивание
 Scheming<#>Планирование
 Deception<#>Хитрость
-Misdirection<#>Дизориентация
+Misdirection<#>Дезориентация
 "CHAPTER 1: INTIMIDATION"<#>"ЧАСТЬ 1: ЗАПУГИВАНИЕ"
 "One of the most important aspects of war\#is being able to challenge your opponent\#mentally as well as physically.<#>"Один из важнейших аспектов войны - уметь\#противостоять соперникам\#как духовно, так и физически."
 "To this end, intimidation is a major\#component of any fighter's toolkit.<#>"И запугивание является важным инструментом\#в наборе каждого бойца."
@@ -121,7 +121,7 @@ This page is missing.<#>Страница отсутствует.
 "The art of trickery is one not easily\#mastered, yet so invaluable all the same.<#>"Искусство хитрости нелегко освоить, но так\#оно становится ещё ценнее."
 "To deceive an opponent is to control them,\#to guide their actions as you see fit.<#>"Обмануть соперника равно контролировать его,\#направлять его действия своей рукой."
 "But know that every lie contains a gram\#of truth. If the backbone of your battle is\#only deception, then do not be surprised\#when it suddenly snaps in half."<#>"Но знайте, что каждая ложь содержит в себе частицу\#правды. Если хитрость является почвой всего вашего боя,\#не удивляйтесь, когда она уйдет у вас из-под ног."
-"CHAPTER 4: MISDIRECTION"<#>"ЧАСТЬ 4: ДИЗОРИЕНТАЦИЯ"
+"CHAPTER 4: MISDIRECTION"<#>"ЧАСТЬ 4: ДЕЗОРИЕНТАЦИЯ"
 "In most battles, your opponent's\#focus will be entirely on you.<#>"В большинстве боёв, ваш оппонент будет сконцентрирован\#исключительно на вас."
 "As such, one of the most invaluable\#scenarios you can encounter in war\#is a situation where your enemy's\#concentration is directed somewhere else.<#>"Поэтому, одним из самых ценных исходов войны\#считается тот, в котором внимание врага\#перенаправлено на куда-то ещё."
 "A convenient way to force this\#circumstance is to fool your enemy\#into thinking that you are not their only foe.<#>"Такого удобнее всего достичь, заставив\#врага поверить, что вы - не единственный\#его противник."
@@ -129,10 +129,10 @@ This page is missing.<#>Страница отсутствует.
 All of a sudden, Joel had an epiphany!<#>Совершенно внезапно, Джоэл был благословлён!
 Gun Toss has become Gun Spin!<#>Бросок пистолета стал Вращением пистолета!
 You have no salt.<#>У вас нет соли.
-Exchanged ten jerseys for some Horse Jerky!<#>10 футболок были обменяны на мясо лошади!
-Exchanged ten jerseys for a Fancy Perfume!<#>10 футболок были обменяны на изысканные духи!
-Exchanged ten jerseys for a Cocola Cola!<#>10 футболок были обменяны на Кокола-колу!
-Use the instant coffee tin\#with your bottle of water?<#>Вылить воду из бутылки в банку гранулированного\#кофе?
+Exchanged ten jerseys for some Horse Jerky!<#>10 маек были обменяны на лошадиное мясо!
+Exchanged ten jerseys for a Fancy Perfume!<#>10 маек были обменяны на изысканные духи!
+Exchanged ten jerseys for a Cocola Cola!<#>10 маек были обменяны на Кокола-колу!
+Use the instant coffee tin\#with your bottle of water?<#>Вылить воду из бутылки в банку растворимого\#кофе?
 Made some cold coffee!<#>Получен холодный кофе!
 You got three empty bottles.<#>Вы получили три пустые бутылки.
 The cat on the postcard is incredibly cute.<#>Кошка на открытке невероятно милая.
