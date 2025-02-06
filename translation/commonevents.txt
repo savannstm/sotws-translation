@@ -6,19 +6,19 @@ You got an empty bottle.<#>Вы получили пустую бутылку.
 You dumped out the dirty water.<#>Вы вылили грязную воду.
 A parcel given by the Rando\#Diplomat on Garbage Island.<#>Конверт, выданный дипломатом Рандо на мусорном\#острове.
 Of no use anymore.<#>Теперь бесполезен.
-There are three separate letters\#contained within the envelope.<#>В конверте лежат ещё три\#других конверта.
-Read which?<#>Какой открыть?
-Sticky Letter<#>Липкий конверт
-Heavy Letter<#>Тяжёлый конверт
-Bloody Letter<#>Кровавый конверт
+There are three separate letters\#contained within the envelope.<#>В конверте лежат три разных\#письма.
+Read which?<#>Какое прочитать?
+Sticky Letter<#>Липкое письмо
+Heavy Letter<#>Тяжёлое письмо
+Bloody Letter<#>Кровавое письмо
 Cancel<#>Отмена
 You have completed this task.<#>Вы выполнили это задание.
 "OPERATION: LEAD A HORSE TO WATER"<#>"ОПЕРАЦИЯ: ПРИВЕСТИ ЛОШАДЬ К ВОДЕ"
 "This task, should you choose to accept it,\#will see you searching for and retrieving\#clean, drinkable water from Garbage Island.<#>"Это задание, решись вы принять его, потребует\#найти и добыть чистую, питьевую воду на мусорном\#острове."
 "Godspeed, brave soldier."<#>"С богом, храбрый солдат."
-"It is clear to us, as living things,\#that water is a must for survival.<#>"Нам, живым существам, очевидно, что вода -\#обязательный пункт выживания."
+"It is clear to us, as living things,\#that water is a must for survival.<#>"Нам, живым существам, очевидно, что вода\#необходима для выживания."
 "Without it, no civilization can hope to survive.<#>"Без неё, ни у одной цивилизации нет надежды выжить."
-"Garbage Island's water is filthy,\#utterly toxic to anyone who hasn't\#ruined their body to get used to it.<#>"Вода мусорного острова грязна и запредельно токсична\#для всех, кто не испортил своё тело её употреблением."
+"Garbage Island's water is filthy,\#utterly toxic to anyone who hasn't\#ruined their body to get used to it.<#>"Вода мусорного острова грязна и запредельно токсична\#для всех, кто не испортил свой организм её употреблением."
 "But there was a society here before.<#>"Но даже здесь когда-то было нормальное общество."
 "There HAS to be clean water here\#somewhere, and it is your job to find it.<#>"Чистая вода ДОЛЖНА где-то быть,\#и ваша работа - найти её."
 "When you do, retrieve a sample\#and return it to your nearest official.\#They will test it to confirm its drinkability.<#>"Когда вы найдёте её, возьмите образец и\#передайте ближайшему вышестоящему лицу.\#Лицо проведёт опыты на её пригодность."
@@ -27,16 +27,16 @@ You have completed this task.<#>Вы выполнили это задание.
 "While nice to look at, pornographic material\#isn't the best fit for the currency of a society.<#>"Несмотря на приятный вид, порнографические материалы -\#не лучший кандидат для валюты в нормальном обществе."
 "Understanding this, Rando has established\#a more proper form of tender: Rando Coin.<#>"Понимая это, Рандо ввёл более приличное\#платёжное средство: монету Рандо."
 "The issue is that no one but soldiers\#of the Rando Army accept this money.<#>"Проблема в том, что никто не принимает эти деньги,\#кроме солдат армии Рандо."
-"We're going to change that,\#starting with Garbage Island.<#>"Мы изменим ситуацию\#и начнем с мусорного острова."
+"We're going to change that,\#starting with Garbage Island.<#>"Мы изменим ситуацию\#и начнём с мусорного острова."
 "Enclosed in this letter\#are three Rando Coins.<#>"К этому письму приложены\#три монеты Рандо."
 "Your job is to give these Coins to three\#separate people on the island in order to\#officially establish the Rando economy.<#>"Ваша работа - выдать эти монеты\#трём разным людям на острове, чтобы официально объявить\#экономику Рандо."
-"Under no circumstances are you to pocket\#this money and use it to buy extra rations.\#And no using it to bribe officers, either!<#>"Ни при каких обстоятельствах не прикарманивайте\#эти деньги себе, чтобы купить дополнительный рацион.\#И не подкупайте ими офицеров!"
+"Under no circumstances are you to pocket\#this money and use it to buy extra rations.\#And no using it to bribe officers, either!<#>"Ни при каких обстоятельствах не пытайтесь прикарманить\#эти деньги на покупку нескольких рационов.\#И не подкупайте ими офицеров!"
 Inside the letter were three shiny objects.<#>Внутри письма лежат три блестящие штуки.
 Got some Rando Coins!<#>Получено немного монет Рандо!
 Added to key items.<#>Добавлено в ключевые предметы.
 "OPERATION: TAKE OUT THE TRASH<#>"ОПЕРАЦИЯ: ВЫНОС МУСОРА"
 "This task, should you choose to accept it,\#will see you performing an assassination\#on the elusive leader of Garbage Island.<#>"Это задание, решись вы принять его, потребует\#убить закулисного лидера мусорного острова."
-"Though it may appear uncivilized\#and utterly dominated by filth,\#according to our intel, Garbage\#Island DOES indeed have a ruler.<#>"Хотя остров и может показаться нецивилизованным\#скоплением всякой грязи, согласно нашим\#разведданным, у мусорного острова ВСЁ ЖЕ есть\#правитель."
+"Though it may appear uncivilized\#and utterly dominated by filth,\#according to our intel, Garbage\#Island DOES indeed have a ruler.<#>"Хотя остров и может показаться нецивилизованной\#кучей грязи, согласно нашим\#разведданным, у мусорного острова ВСЁ ЖЕ есть\#правитель."
 "From what the locals tell us, he is a recluse,\#hardly ever seen in the open, and has the\#terrifying ability to influence those who have\#the misfortune of listening to his sultry voice.<#>"Опрос местного населения даёт понять, что\#он отшельник, не показывается на глаза и имеет\#ужасающую способность влиять на тех, кому не\#посчастливилось услышать его знойный голос.
 "It is said that he can also turn invisible,\#make your brain explode by looking at you,\#control fire and ice, and even speak Chinese.<#>"Также люди говорят, что он умеет становиться невидимым,\#взрывать мозги одним взглядом, управлять\#огнём и водой и даже говорить на китайском."
 "His name? Larry Davis.<#>"Его имя? Ларри Дэвис."
@@ -44,7 +44,7 @@ Added to key items.<#>Добавлено в ключевые предметы.
 "It is your responsibility to find him and\#put an end to his reign of trash mysticism.<#>"Вас назначают ответственным за его поиск и окончание\#господства мусорного мистицизма."
 "The exact methods of this hit are up to your\#discretion. However, to prove that the deed\#has been done, the body of Larry Davis must\#be recovered and presented to an official.<#>"Вы сами вольны выбрать метод достижения этой цели. \#Однако, чтобы доказать успешность операции,\#необходимо отрезать часть тела Ларри Дэвиса и представить\#официальному лицу.
 "Be absolutely sure that the person\#you decide to kill is indeed Larry\#Davis; there can be no mistakes.<#>"Полностью убедитесь, что человек, которого\#вы собираетесь убить, на самом деле является Ларри Дэвисом:\#у нас нет права на ошибку."
-You checked on the Baby Fishman.<#>Вы осмотрели малыша-рыболюда.
+You checked on the Baby Fishman.<#>Вы проверили малыша-рыболюда.
 It's panting.<#>Он задыхается.
 Put the Baby Fishman in\#your Vase of Spring Water?<#>Положить малыша-рыболюда в\#вазу родниковой воды?
 Yes<#>Да
@@ -61,7 +61,7 @@ It's squirming around.<#>Он ёрзает.
 It's kicking its little feet.<#>Он пинается ножкой.
 It's nibbling on your rags.<#>Он грызёт ваше тряпьё.
 It pissed in your pocket.<#>Он помочился в ваш карман.
-It's nudging you sadly.<#>Он грустно толкает вас.
+It's nudging you sadly.<#>Он грустно толкается.
 It's worried about you.<#>Он беспокоится за вас.
 It seems scared of you.<#>Он боится вас.
 It doesn't like what you're doing.<#>Ему не нравится, что вы делаете.
@@ -86,7 +86,7 @@ Some better Jerky should suffice.<#>Ему нужно мясо получше.
 It likes it!<#>Ему нравится!
 It really likes it!<#>Ему очень нравится!
 Learned Mucus Blast!<#>Изучен Взрыв слизи!
-"Disclaimer: Results may vary.\#Contact your doctor before huffing\#any foreign gases and or substances."<#>"Предупрждение: результаты могут отличаться.\#Перед вдыханием посторонних газов и/или субстанций,\#проконсультируйтесь с вашим врачом."
+"Disclaimer: Results may vary.\#Contact your doctor before huffing\#any foreign gases and or substances."<#>"Предупреждение: результаты могут отличаться.\#Перед вдыханием посторонних газов и/или субстанций,\#проконсультируйтесь с вашим врачом."
 Your vase was emptied.<#>Ваша ваза опустела.
 We need to get to a safer place.<#>Нам нужно добраться до более безопасного места.
 Contact law enforcement upon first symptoms.<#>При проявлении симптомов, свяжитесь с представителями власти.
@@ -118,14 +118,14 @@ Misdirection<#>Дезориентация
 "A moment of careful reflection may even\#reveal strategies you once thought impossible."<#>"Секунда тщательного размышления может обнажить\#вам стратегии, которые считались невозможными."
 This page is missing.<#>Страница отсутствует.
 "CHAPTER 3: DECEPTION"<#>"ЧАСТЬ 3: ХИТРОСТЬ"
-"The art of trickery is one not easily\#mastered, yet so invaluable all the same.<#>"Искусство хитрости нелегко освоить, но так\#оно становится ещё ценнее."
+"The art of trickery is one not easily\#mastered, yet so invaluable all the same.<#>"Искусство хитрости нелегко освоить, но оттого\#оно и ценнее."
 "To deceive an opponent is to control them,\#to guide their actions as you see fit.<#>"Обмануть соперника равно контролировать его,\#направлять его действия своей рукой."
-"But know that every lie contains a gram\#of truth. If the backbone of your battle is\#only deception, then do not be surprised\#when it suddenly snaps in half."<#>"Но знайте, что каждая ложь содержит в себе частицу\#правды. Если хитрость является почвой всего вашего боя,\#не удивляйтесь, когда она уйдет у вас из-под ног."
+"But know that every lie contains a gram\#of truth. If the backbone of your battle is\#only deception, then do not be surprised\#when it suddenly snaps in half."<#>"Но знайте, что каждая ложь содержит в себе частицу\#правды. Если ваш бой выстроен на почве одной только хитрости,\#не удивляйтесь, если он не устоит."
 "CHAPTER 4: MISDIRECTION"<#>"ЧАСТЬ 4: ДЕЗОРИЕНТАЦИЯ"
 "In most battles, your opponent's\#focus will be entirely on you.<#>"В большинстве боёв, ваш оппонент будет сконцентрирован\#исключительно на вас."
-"As such, one of the most invaluable\#scenarios you can encounter in war\#is a situation where your enemy's\#concentration is directed somewhere else.<#>"Поэтому, одним из самых ценных исходов войны\#считается тот, в котором внимание врага\#перенаправлено на куда-то ещё."
+"As such, one of the most invaluable\#scenarios you can encounter in war\#is a situation where your enemy's\#concentration is directed somewhere else.<#>"Поэтому, одним из самых ценных исходов войны\#считается тот, в котором внимание врага\#перенаправлено на другие проблемы."
 "A convenient way to force this\#circumstance is to fool your enemy\#into thinking that you are not their only foe.<#>"Такого удобнее всего достичь, заставив\#врага поверить, что вы - не единственный\#его противник."
-"You may be surprised to learn just how\#far a small sleight of hand can carry you."<#>"Вы просто удивитесь, как небольшая ловкость рук\#может выручить вас."
+"You may be surprised to learn just how\#far a small sleight of hand can carry you."<#>"Вы невероятно удивитесь, как небольшая ловкость рук\#может выручить вас."
 All of a sudden, Joel had an epiphany!<#>Совершенно внезапно, Джоэл был благословлён!
 Gun Toss has become Gun Spin!<#>Бросок пистолета стал Вращением пистолета!
 You have no salt.<#>У вас нет соли.
