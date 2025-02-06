@@ -54,7 +54,7 @@ Ammonia, in the form of moisturising body cream.\#Removes most bad status effect
 Nice Berries<#>Вкусные ягоды
 They are just nice. (Bulk Food)<#>Они просто вкусные. (Низкокачественная еда)
 Trauma Kit<#>Хирургический набор
-"Surgeon in a bag". Alleviates: broken bones,\#brain damage, heart attacks, burns, and rupturing!<#>"Хирург в сумке". Показания: сломанные кости,\#сотрясение, инфаркт, ожоги и рваные раны!
+"Surgeon in a bag". Alleviates: broken bones,\#brain damage, heart attacks, burns, and rupturing!<#>"Хирург в сумке". Облегчает последствия переломов,\#сотрясения, инфаркта, ожогов и рваных ран!
 Fermented Mystery<#>Забродившее нечто
 An enigma in a jar. (Barter Item)<#>Тайна в бутылке. (Предмет для обмена)
 Toilet Seat<#>Туалетная сидушка
@@ -299,7 +299,7 @@ Dried meat of a fishman. Something about the taste\#makes you uncomfortable. Hea
 Rando Coin<#>Монета Рандо
 The official currency of the Rando Army.\#Not recognized by any other group or individual.<#>Основная валюта армии Рандо.\#Ничего не стоит у других группировок и людей.
 Warm Bag<#>Тёплый пакет
-The trashbag formerly humped by Larry Davis.\#It reeks of decomposition.<#>Мусорный пакет, который однажды поимел Ларри Дэвис.\#Воняет разложением.
+The trashbag formerly humped by Larry Davis.\#It reeks of decomposition.<#>Мусорный пакет, который ранее долбил Ларри Дэвис.\#Воняет разложением.
 Broken AK<#>Сломанный АК
 A Kalashnikov assault rifle.\#Old, mishandled, and inoperable.<#>Штурмовая винтовка Калашникова.\#Старая, испоганенная и уже нерабочая.
 Antique Rifle<#>Актикварное ружьё
