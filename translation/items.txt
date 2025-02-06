@@ -54,7 +54,7 @@ Ammonia, in the form of moisturising body cream.\#Removes most bad status effect
 Nice Berries<#>Вкусные ягоды
 They are just nice. (Bulk Food)<#>Они просто вкусные. (Низкокачественная еда)
 Trauma Kit<#>Хирургический набор
-"Surgeon in a bag". Alleviates: broken bones,\#brain damage, heart attacks, burns, and rupturing!<#>"Хирург в сумке". Облегчает последствия переломов,\#сотрясения, инфаркта, ожогов и рваных ран!
+"Surgeon in a bag". Alleviates: broken bones,\#brain damage, heart attacks, burns, and rupturing!<#>"Хирург в сумке". Полезен при переломах,\#сотрясении, инфаркте, ожогах и рваных ранах!
 Fermented Mystery<#>Забродившее нечто
 An enigma in a jar. (Barter Item)<#>Тайна в бутылке. (Предмет для обмена)
 Toilet Seat<#>Туалетная сидушка
