@@ -26,26 +26,26 @@ A drink so refreshing - it can bring back the dead.\#Restores both HP and SP.<#>
 Potato Liquor<#>Картофельный ликёр
 Capable of getting you drunk.\#Recovers 200 HP.<#>Способен опьянить.\#Восстанавливает 200 ОЗ.
 Bottle of Dirty Water<#>Бутылка грязной воды
-Contaminated water. Try throwing it at your\#enemies. Can reduce their speed in combat.<#>Загрязнённая вода. Попробуйте кинуть её во\#врагов. Снижает их скорость в бою.
+Contaminated water. Try throwing it at your\#enemies. Can reduce their speed in combat.<#>Загрязнённая вода. Попробуйте кинуть её во\#врага. Снижает скорость противника в бою.
 Rotten Fruit<#>Тухлый фрукт
-Mold, now with twenty percent fruit!\#May hurt your tummy bad. (Bulk Food)<#>Плесень, теперь с 20-ю процентами фрукта в\#составе! Из-за него будет сильно болеть живот. (Низкокачественная еда)
+Mold, now with twenty percent fruit!\#May hurt your tummy bad. (Bulk Food)<#>Плесень, теперь с 20-ю процентами фрукта в составе!\#Из-за него будет сильно болеть живот. (Низкокачественная еда)
 Mud Pie<#>Грязевой пирог
-Give a hungry man bread, he will thank you. Teach\#him to eat mud, he will never go hungry. (Bulk Food)<#>Дай голодному хлеб, и он поблагодарит тебя. Научи голодного\#есть грязь, и он больше никогда не будет голодным. (Низкокачественная еда)
+Give a hungry man bread, he will thank you. Teach\#him to eat mud, he will never go hungry. (Bulk Food)<#>Дай голодному хлеб, и он поблагодарит тебя. Научи голодного\#есть грязь, и он больше не будет голодным. (Низкокачественная еда)
 Empty Bottle<#>Пустая бутылка
 An empty glass bottle.<#>Пустая стеклянная бутылка.
 Palladium Tile<#>Палладиевая плита
 A very stylish palladium tile of an extraterrestrial\#origin. The back reads: "Made in USSR".<#>Очень стильная палладиевая плита неземного происхождения.\#На обороте написано: "Сделано в СССР".
 Infinity Jersey<#>Майка Бесконечности
-A knockoff jersey made infamous by being worn by\#anyone wanting to seem hard through association.<#>Дешёвая майка, печально известная тем, что её носят\#все подряд, кто хочет выглядить не таким как все.
+A knockoff jersey made infamous by being worn by\#anyone wanting to seem hard through association.<#>Дешёвая майка, печально известная тем, что её носят\#все подряд, кто хочет выглядеть круто.
 Skateboard<#>Скейтборд
 Plank with wheels.<#>Доска с колёсами.
 School Basement Key<#>Ключ от подвала школы
-It is marked with a letter. The rust\#makes it unreadable.<#>Он помечен каким-то сообщением. Но из-за ржавчины прочитать\#не выйдет.
+It is marked with a letter. The rust\#makes it unreadable.<#>Он помечен каким-то сообщением. Но из-за ржавчины\#прочитать невозможно.
 Eerie Record<#>Жуткая запись
 A record comprised of old men groaning.<#>Запись того, как стонут старики.
 Nightmare Bile<#>Кошмарная желчь
 A plastic cup filled with bile.\#Brings back a fallen ally into a waking nightmare.<#>Пластиковый стакан, наполненый желчью.\#Способен пробудить упавшего союзника в кошмар на яву.
-Silver Angel<#>Серебрянный ангел
+Silver Angel<#>Серебряный ангел
 Statuette of archangel Jegudiel. It's hollow.\#(Barter Item)<#>Статуэтка архангела Иегудиила. Она полая.\#(Предмет для обмена)
 Rando Ration<#>Рацион Рандо
 A high quality meal.\#Restores all HP and SP.<#>Высококачественный рацион.\#Восстанавливает все ОЗ и ОН.
@@ -54,7 +54,7 @@ Ammonia, in the form of moisturising body cream.\#Removes most bad status effect
 Nice Berries<#>Вкусные ягоды
 They are just nice. (Bulk Food)<#>Они просто вкусные. (Низкокачественная еда)
 Trauma Kit<#>Хирургический набор
-"Surgeon in a bag". Alleviates: broken bones,\#brain damage, heart attacks, burns, and rupturing!<#>"Хирург в сумке". Способен помочь с: сломанными костями,\#мозговыми травмами, инфарктами, ожогами и рваными ранами!
+"Surgeon in a bag". Alleviates: broken bones,\#brain damage, heart attacks, burns, and rupturing!<#>"Хирург в сумке". Способен помочь со: сломанными костями,\#мозговыми травмами, инфарктами, ожогами и рваными ранами!
 Fermented Mystery<#>Забродившее нечто
 An enigma in a jar. (Barter Item)<#>Тайна в бутылке. (Предмет для обмена)
 Toilet Seat<#>Туалетная сидушка
@@ -64,13 +64,13 @@ A beat up dollar bill, held together by duct tape.\#(Barter Item)<#>Помята
 Manual I<#>Руководство I
 Spotting common symptoms of Garbage Insanity.*\#*Garbage Insanity not limited to listed symptoms.<#>Обнаружение базовых симптомов мусорного безумства.*\#*Мусорное безумство не ограничивается перечисленными симптомами.
 Polyethylene Bag<#>Полиэтилентовый пакет
-It rustles at the sight of you.\#Keep away from strong gusts of wind.<#>Шуршит от одного вашего вида. Держите подальше\#от сильных порывов ветра.
+It rustles at the sight of you.\#Keep away from strong gusts of wind.<#>Шуршит от одного прикосновения. Держите подальше\#от сильных порывов ветра.
 Rubber Projectile<#>Резиновый снаряд
 Rubber-based projectile weapon.\#Can also be used to play basketball.<#>Оружие в виде снаряда, сделанного из резины.\#С ним можно поиграть в баскетбол.
-Inflatable Head<#>Надуваемая голова
+Inflatable Head<#>Надувная голова
 It's still warm.<#>Она ещё тёплая.
 Teen Magazine<#>Подростковый журнал
-Teen magazine, top seller\#ages: seven through twelve.<#>Популярный в продаже подростковый журнал.\#Целевая аудитория: от 7 до 12 лет.
+Teen magazine, top seller\#ages: seven through twelve.<#>Популярный подростковый журнал,\#бестселлер у аудитории от 7 до 12 лет.
 Family Photos<#>Семейные фотографии
 A set of beautiful memories.<#>Набор прекрасных воспоминаний.
 Gummy Worm<#>Желейный червяк
@@ -132,20 +132,20 @@ Stefan Kindchild<#>Стефан Добряк
 Snuffed out at his prime.\#Deceptively light to carry.<#>Погиб в самом расцвете сил.\#Неожиданно лёгкий.
 Jessie Mack<#>Джесси Отче
 Genetic origins for most Olathian children.\#Sufferer of advanced cranial-bananism.<#>Генетический отец почти всех детей Олейта.\#Страдал острым черепномозговым бананизмом.
-Moe's Special Blend<#>Особая смесь Мое
+Moe's Special Blend<#>Особая смесь Моэ
 Rumoured to be rich in protein and tomato sauce.\#Recovers 380 HP. 30 SP.<#>По слухам, богата белком и томатной пастой.\#Восстанавливает 380 ОЗ и 30 ОН.
 Tomato Sauce Packet<#>Пакетик томатной пасты
 Chew on it and the tomato flavoured\#dust inside will be your reward. (Bulk Food)<#>Разгрызите её, и пыль со вкусом томата станет\#вашей наградой. (Низкокачественная еда)
 Antique Ham<#>Антикварный окорок
-More legend than actual food.\#Full party HP and SP restore.<#>Больше легенда, чем настоящая еда.\#Восстанавливает ОЗ и ОН всей группы.
+More legend than actual food.\#Full party HP and SP restore.<#>Больше легедарная вещь, чем настоящая еда.\#Восстанавливает ОЗ и ОН всей группы.
 Crutch<#>Клюка
 Primitive weapon of a barbarous age.<#>Примитивное оружие первобытных времён.
 Baby Crow<#>Ворон-малыш
 This baby crow only has the brain span\#to remember what you tell it once.<#>Этот ворон-малыш имеет извилин в мозгу лишь на то,\#чтобы запомнить сказанное ему один раз.
-Storeroom Key<#>Ключ хранилища
-A literal skeleton key. Unlocks the\#Rando Army storeroom.<#>Буквальный ключ-скелет. Открывает хранилище\#армии Рандо.
+Storeroom Key<#>Ключ от хранилища
+A literal skeleton key. Unlocks the\#Rando Army storeroom.<#>Буквально ключ-скелет. Открывает хранилище\#армии Рандо.
 Rando Bobblehead<#>Башкотряс Рандо
-A bobblehead toy made in Rando's image.\#It's in mint condition. (Barter Item)<#>Игрушка-башкотряс, сделанная в виде Рандо.\#Она в отличном состоянии.
+A bobblehead toy made in Rando's image.\#It's in mint condition. (Barter Item)<#>Игрушка-башкотряс, сделанная в виде Рандо.\#Она в отличном состоянии. (Предмет для обмена)
 Ripe Fruit<#>Созревший фрукт
 Piece of fruit indigenous to Garbage Island.\#By some miracle, it is fresh. Heals 200 HP.<#>Кусочек фрукта, коренного для мусорного острова.\#Каким-то чудом, он свежий. Восстанавливает 200 ОЗ.
 Forbidden Magazine<#>Запретный журнал
@@ -153,9 +153,9 @@ Forbidden Magazine<#>Запретный журнал
 Crow Jerky<#>Мясо ворона
 Jerky made from the meat of a crow. It's tough,\#chewy, and generally flavorless. Heals 100 HP.<#>Вяленое мясо ворона. Оно жёсткое, резиновое,\#и как правило безвкусное. Восстанавливает 100 ОЗ.
 Weird Cassette Tape<#>Странная кассета
-A cassette tape that contains an otherworldly song.\#Valuable to the fishmen. (Barter Item)<#>Кассета, содержащая на себе потустороннюю песню.\#Ценна для рыболюдов. (Предмет для обмена)
+A cassette tape that contains an otherworldly song.\#Valuable to the fishmen. (Barter Item)<#>Кассета, на которую записана потусторонняя песня.\#Ценна для рыболюдов. (Предмет для обмена)
 Baby Fishman<#>Рыболюд-малыш
-An infant fishman.\#It nows lives rent-free inside your pockets.<#>Новорождённый рыболюд.\#Он поселился в ваших карманах, и не платит за аренду.
+An infant fishman.\#It nows lives rent-free inside your pockets.<#>Новорожденный рыболюд.\#Он поселился в ваших карманах, и не платит за аренду.
 Fried Fish<#>Жареная рыба
 Gone too soon... Restores 500 HP.<#>Ушла слишком рано... Восстанавливает 500 ОЗ.
 Monkey Wrench<#>Разводной ключ
@@ -167,13 +167,13 @@ A scroll emblazoned with a technique of the Velvet\#arts. Alex may learn somethi
 Sean Shawn<#>Шон Шоун
 A young Rando soldier driven insane by isolation.\#Acquired a taste for human flesh prior to death.<#>Молодой солдат Рандо, сошедший с ума из-за изоляции.\#Пристрастился к вкусу человеческой плоти перед смертью.
 Versace Bag Balloon<#>Шар-сумка Версачи
-Balloon made from an inflated polyethylene bag.\#A trademark creation of the Versace family.<#>Шар, сделанный из раздутого полиэтиленового пакета.\#Брендовая разработка семьи Версачи.
+Balloon made from an inflated polyethylene bag.\#A trademark creation of the Versace family.<#>Шар, сделанный из раздутого полиэтиленового пакета.\#Брендовая разработка семьи Версаче.
 Green Glob<#>Зелёный шар
 A glob of viscous green slime. It emanates an odor\#almost reminiscent of raw fish.<#>Шар из вязкой зелёной слизи. Он испускает вонь,\#напоминающую сырую рыбу.
 Small Key<#>Маленький ключ
-A small key to some door in the town hall.<#>Маленький ключ, открывающий одну из дверей в городском холле.
+A small key to some door in the town hall.<#>Маленький ключ, открывающий одну из дверей в городской\#резиденции.
 Large Key<#>Большой ключ
-A large key to some door in the town hall.<#>Большой ключ, открывающий одну из дверей в городском холле.
+A large key to some door in the town hall.<#>Большой ключ, открывающий одну из дверей в городской\#резиденции.
 Propaganda Poster<#>Агитплакат
 A poster advocating for a local politican.\#Something is written on the back.<#>Плакат, пропагандирующий местного политика.\#Что-то написано на обороте.
 Mannequin Torso<#>Торс манекена
@@ -185,17 +185,17 @@ A piece of mystery jerky with a big bite taken\#out of it. Recovers 150 HP.<#>К
 Stank Perfume<#>Вонючие духи
 The rancid odor will revive an ally, at a cost.<#>Мерзкий запах поднимет союзника на ноги, но какой ценой?
 Moldy Pizza<#>Плесневелая пицца
-A pizza that has been reclaimed by nature. Heals\#the entire party fully, but with some side effects.<#>Пицца, которую природа вернула себе. Полностью восстанавливает\#ОЗ всей группы, но с некоторыми побочными эффектами.
+A pizza that has been reclaimed by nature. Heals\#the entire party fully, but with some side effects.<#>Пицца, которой завладела природа. Полностью восстанавливает\#ОЗ всей группы, но с некоторыми побочными эффектами.
 Rusty Spade<#>Ржавая лопата
 A shovel coated in many layers of rust. One can\#only imagine how many graves it was used to dig.<#>Лопата, покрытая множественными слоями ржавчины. Можно\#лишь представить, сколько могил ей выкопали.
 Dried Herb<#>Высушенная трава
-Brittle snack for desert-farers. Restores 150 HP and\#relieves weirdness.<#>Ломкая закуска для пустынных пердунов. Восстанавливает\#150 ОЗ и облегчает странные чувства.
+Brittle snack for desert-farers. Restores 150 HP and\#relieves weirdness.<#>Ломкая закуска для пустынных скитальцев. Восстанавливает\#150 ОЗ и облегчает странные чувства.
 Healthy Herb<#>Целебная трава
-A leafy green that lifts your spirits with\#every bite. Heals 350 HP and cures poison.<#>Лиственная трава, повышающая боевой дух с каждым\#укусом. Восстанавливает 350 ОЗ и исцеляет отравление.
+A leafy green that lifts your spirits with\#every bite. Heals 350 HP and cures poison.<#>Зелёная трава, повышающая боевой дух с каждым\#укусом. Восстанавливает 350 ОЗ и исцеляет отравление.
 Cactus Fruit<#>Кактусовый фрукт
 A sweet treat that hurts to eat. Recovers 50 SP\#in exchange for 50 HP.<#>Сладость, которую больно есть. Восстанавливает 50 ОН\#в обмен на 50 ОЗ.
 Squirmy Cheese<#>Разлезшийся сыр
-A hunk of cheese with a crunchy surprise inside.\#Heals 500 HP, but has a high chance to nauseate.<#>Кусочек сыра с хрустящим сюрпризом внутри.\#Восстанавливает 500 ОЗ, но с большим шансом вызовет тоншоту.
+A hunk of cheese with a crunchy surprise inside.\#Heals 500 HP, but has a high chance to nauseate.<#>Кусочек сыра с хрустящей сердцевиной.\#Восстанавливает 500 ОЗ, но с большим шансом вызовет тоншоту.
 Exotic Pipe<#>Экзотическая трубка
 A cornpipe loaded with strange herbs and spices.\#Heals poison for three uses, but applies weirdness.<#>Трубка, набитая странными травами и специями. До трёх\#использований: Исцеляет отравление, но накладывает странность.
 Muck Rum<#>Дрянной ром
@@ -222,12 +222,12 @@ Bottle of Oil<#>Бутылка масла
 A vat of the slickest oil around. Move twice\#in one turn; just don't get burned.<#>Ёмкость самого липкого масла в округе. Двигайтесь дважды\#за один ход; только не сгорите.
 Rooty Carrot<#>Коренастая морковь
 Fresh from the sacred earth.\#Restores 50 HP and helps your eyes. (Bulk Food)<#>Свежесорванная со священной земли. Восстанавливает 50 ОЗ\#и благоприятно влияет на зрение. (Низкокачественная еда)
-Instant Coffee Tin<#>Банка сублимированного кофе
+Instant Coffee Tin<#>Банка гранулированного кофе
 A can of instant coffee. If only you had\#some water to use it with...<#>Банка гранулированного кофе. Если бы у вас только\#была вода...
 Bottle of Coffee<#>Бутылка кофе
-A jolt for the system. Recovers 75% of HP and\#SP and removes sleep.<#>Встряска для мозгов. Восстанавливает 75% ОЗ и убирает\#статус сна.
+A jolt for the system. Recovers 75% of HP and\#SP and removes sleep.<#>Встряска для мозгов. Восстанавливает 75% ОЗ и\#пробуждает ото сна.
 Cup of Water<#>Чашка воды
-Two and a half swigs of crisp goodness. Splash on\#a party member to remedy fright and burning.<#>Две с половиной ложки хрустящей вкуснятины.\#Брызните на члена группы, чтобы убрать страх и горение.
+Two and a half swigs of crisp goodness. Splash on\#a party member to remedy fright and burning.<#>Два с половиной глотка освежающей вкуснятины.\#Брызните на члена группы, чтобы снять страх и горение.
 Malicious Stereo<#>Зловредная стереосистема
 A busted car stereo that still makes noise.\#Sometimes talks in unknown tongues. (Barter Item)<#>Сломанная стереосистема из машины, которая всё ещё производит\#звук. Иногда разговаривает неизвестным языком. (Предмет для обмена)
 Blood Wine<#>Кровавое вино
@@ -257,13 +257,13 @@ Old valve covered in blood and soft tissue.\#An engraving on the side reads "U.S
 Cat Postcard<#>Открытка с котом
 A postcard with an adorable cat drawn on the front.\#Just looking at it makes your heart melt.<#>Открытка с милым котом, нарисованным на лицевой части.\#Лишь от одного взгляда ваше сердце тает.
 Diet Rando Ration<#>Диетический рацион Рандо
-A slight-less high quality meal.\#Restores 75% of HP and SP.<#>Чуть менее высококачественный рацион.\#Восстанавливает 75% ОЗ и ОН
+A slight-less high quality meal.\#Restores 75% of HP and SP.<#>Чуть менее высококачественный рацион.\#Восстанавливает 75% ОЗ и ОН.
 Vagabond's Globe<#>Глобус бродяги
 Antique factory defect. No countries, paths, or\#borders: a true wanderer's treasure. (Barter Item)<#>Антикварный производственный брак. Ни стран, ни дорог,\#ни границ: настоящее сокровище странника. (Предмет для обмена)
 Century Sprats<#>Вековые шпроты
-Old Soviet delicacy. More oil than fish; full HP\#restore, raises agility and HP. Lowers defenses.<#>Старый Советский деликатес. Больше масла чем рыбы; полностью\#восстанавливает и повышает ОЗ, а также ловкость. Понижает защиту.
+Old Soviet delicacy. More oil than fish; full HP\#restore, raises agility and HP. Lowers defenses.<#>Старый советский деликатес. Больше масла чем рыбы; полностью\#восстанавливают и повышают ОЗ, а также ловкость. Понижают защиту.
 Bottle of Blood<#>Бутылка крови
-A drink for vampires. For humans, a decent weapon.\#Throw to nauseate most foes.<#>Напиток для вампиров. Для людей - солидное оружие.\#Бросьте, чтобы вызвать у противников тошноту.
+A drink for vampires. For humans, a decent weapon.\#Throw to nauseate most foes.<#>Напиток для вампиров. Для людей - солидное оружие.\#Бросьте, чтобы вызвать у противника тошноту.
 Tactics: Scheming<#>Тактика: Планирование
 A missing page from a Book of Tactics.\#Joel should be able to glean something from it.<#>Пропавшая страница из книги тактики.\#Джоэл, наверное, будет способен что-нибудь усвоить из неё.
 Tactics: Deception<#>Тактика: Хитрость
@@ -273,7 +273,7 @@ Page torn from a book that mysteriously\#disappeared from shelves across Olathe.
 Cosmonaut Food Tube<#>Вакуумный тюбик
 Sustanence for space men. The labels are all in\#Russian, so eat with caution. (Bulk Food)<#>Субстанция для космонавтов. Вся этикетка на английском,\#так что ешьте с осторожностью. (Низкокачественная еда)
 Loitering Ticket<#>Тунеядский билет
-"By the powers vested in me, by God and Nixon,\#I hereby fine you 10 magazines." - Copper Silver<#>"Властью, данной мне богом и никсоном, настоящим я\#налагаю на вас штраф в размере 10 журналов." - Медь Серебро
+"By the powers vested in me, by God and Nixon,\#I hereby fine you 10 magazines." - Copper Silver<#>"Властью, данной мне богом и Никсоном, настоящим я\#налагаю на вас штраф в размере 10 журналов." - Медь Серебро
 Suite Key<#>Ключ постояльца
 Key for a suite in the Sweet Breeze Hotel.\#The room number is not listed.<#>Ключ постояльца отеля "Тёплый бриз".\#Такой комнаты нет в отеле.
 Salt Souffle<#>Солевое суфле
@@ -286,20 +286,20 @@ Salty Jerky<#>Солёное мясо
 The salt overpowers any flavor the meat once had.\#Restores 400 HP, but makes you feel nasty.<#>Соль пересиливает любые вкусы, которые это мясо когда-то имело.\#Восстанавливает 400 ОЗ, но ценой омерзения.
 Downer Cake<#>Занудный пирог
 Bizarre cuisine of Downertown origin. It's crunchy.\#Restores 80 SP. Ups Sp. Def. May nauseate.<#>Чудная кухня занудноградного происхождением. Хрустит.\#Восстанавливает 80 ОН и повышает его. Может вызвать тошноту.
-Raddish Gin<#>Редисовый Джин
+Raddish Gin<#>Редисовый джин
 Weak alcohol. Low chance of getting you drunk.\#Recovers 100 HP.<#>Слабый алкоголь. Вероятно, не опьянит.\#Восстанавливает 100 ОЗ.
 Kennedy's Binos<#>Бинокль Кеннеди
 Double-wide spyglass used to see what the naked\#eye cannot. The lenses are cracked.<#>Подзорная труба, удлинённая вдвое, чтобы видеть то, что\#не может увидеть человеческий глаз. Линзы треснуты.
-Filthy Razor<#>Грязное лезвие
-Instrument of war against facial hair.\#It's disgusting, but still sharp enough to cut.<#>Инструмент для ведения войны против лицевой растительности.\#Отвратительно, но всё ещё достаточно остро для резки.
+Filthy Razor<#>Грязная бритва
+Instrument of war against facial hair.\#It's disgusting, but still sharp enough to cut.<#>Инструмент для ведения войны против лицевой растительности.\#Отвратительная, но всё ещё достаточно острая для резки.
 Rando Parcel<#>Конверт Рандо
-An envelope containing multiple letters.\#Sealed with official Rando Army red wax.<#>Конверт, содержащий в себе несколько букв.\#Запечатан официальным красным воском армии Рандо.
-Fishy Jerky<#>Рыбное мясо
+An envelope containing multiple letters.\#Sealed with official Rando Army red wax.<#>Конверт, содержащий в себе несколько писем.\#Запечатан официальным красным воском армии Рандо.
+Fishy Jerky<#>Рыбье мясо
 Dried meat of a fishman. Something about the taste\#makes you uncomfortable. Heals 250 HP.<#>Вяленое мясо рыболюда. Что-то во вкусе вызывает в вас\#неприятные чувства. Восстанавливает 250 ОЗ.
 Rando Coin<#>Монета Рандо
 The official currency of the Rando Army.\#Not recognized by any other group or individual.<#>Основная валюта армии Рандо.\#Ничего не стоит у других группировок и людей.
 Warm Bag<#>Тёплый пакет
-The trashbag formerly humped by Larry Davis.\#It reeks of decomposition.<#>Мусорный пакет, однажды скомканный Ларри Дэвисом.\#Он воняет разложением.
+The trashbag formerly humped by Larry Davis.\#It reeks of decomposition.<#>Мусорный пакет, однажды отдолбленный Ларри Дэвисом.\#Он воняет разложением.
 Broken AK<#>Сломанный АК
 A Kalashnikov assault rifle.\#Old, mishandled, and inoperable.<#>Штурмовая винтовка Калашникова.\#Старая, бывшая в ненадлежащей эксплуатации, и неработоспособная.
 Antique Rifle<#>Актикварная винтовка
