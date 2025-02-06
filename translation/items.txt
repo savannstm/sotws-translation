@@ -26,7 +26,7 @@ A drink so refreshing - it can bring back the dead.\#Restores both HP and SP.<#>
 Potato Liquor<#>Картофельный ликёр
 Capable of getting you drunk.\#Recovers 200 HP.<#>Может опьянить.\#Восстанавливает 200 ОЗ.
 Bottle of Dirty Water<#>Бутылка грязной воды
-Contaminated water. Try throwing it at your\#enemies. Can reduce their speed in combat.<#>Загрязнённая вода. Попробуйте кинуть её во\#врагов. Снижает их скорость в бою.
+Contaminated water. Try throwing it at your\#enemies. Can reduce their speed in combat.<#>Загрязнённая вода. Попробуйте кинуть её во\#врага. Снижает скорость противника в бою.
 Rotten Fruit<#>Тухлый фрукт
 Mold, now with twenty percent fruit!\#May hurt your tummy bad. (Bulk Food)<#>Плесень, теперь с 20-ю процентами фрукта в\#составе! От такой будет сильно болеть живот. (Низкокачественная еда)
 Mud Pie<#>Грязевой пирог
@@ -137,7 +137,7 @@ Rumoured to be rich in protein and tomato sauce.\#Recovers 380 HP. 30 SP.<#>По
 Tomato Sauce Packet<#>Пакетик томатной пасты
 Chew on it and the tomato flavoured\#dust inside will be your reward. (Bulk Food)<#>Разгрызите его, и пыль со вкусом томата станет\#вашей наградой. (Низкокачественная еда)
 Antique Ham<#>Антикварный окорок
-More legend than actual food.\#Full party HP and SP restore.<#>Больше легенда, чем настоящая еда.\#Восстанавливает ОЗ и ОН всей группы.
+More legend than actual food.\#Full party HP and SP restore.<#>Больше легедарная вещь, чем настоящая еда.\#Восстанавливает ОЗ и ОН всей группы.
 Crutch<#>Костыль
 Primitive weapon of a barbarous age.<#>Примитивное оружие первобытных времён.
 Baby Crow<#>Ворон-малыш
@@ -195,7 +195,7 @@ A leafy green that lifts your spirits with\#every bite. Heals 350 HP and cures p
 Cactus Fruit<#>Кактусовый плод
 A sweet treat that hurts to eat. Recovers 50 SP\#in exchange for 50 HP.<#>Грустно, но вкусно. Восстанавливает 50 ОН\#в обмен на 50 ОЗ.
 Squirmy Cheese<#>Разлезшийся сыр
-A hunk of cheese with a crunchy surprise inside.\#Heals 500 HP, but has a high chance to nauseate.<#>Кусочек сыра с хрустящим сюрпризом внутри.\#Восстанавливает 500 ОЗ, но с большим шансом вызовет тоншоту.
+A hunk of cheese with a crunchy surprise inside.\#Heals 500 HP, but has a high chance to nauseate.<#>Кусочек сыра с хрустящей сердцевиной.\#Восстанавливает 500 ОЗ, но с большим шансом вызовет тоншоту.
 Exotic Pipe<#>Экзотическая трубка
 A cornpipe loaded with strange herbs and spices.\#Heals poison for three uses, but applies weirdness.<#>Трубка, набитая странными травами и специями. Исцеляет отравление\#за три использования, но накладывает странность.
 Muck Rum<#>Дрянной ром
@@ -227,7 +227,7 @@ A can of instant coffee. If only you had\#some water to use it with...<#>Бан�
 Bottle of Coffee<#>Бутылка кофе
 A jolt for the system. Recovers 75% of HP and\#SP and removes sleep.<#>Встряска для мозгов. Восстанавливает 75% ОЗ и\#пробуждает ото сна.
 Cup of Water<#>Стакан воды
-Two and a half swigs of crisp goodness. Splash on\#a party member to remedy fright and burning.<#>Два с половиной глотка настоящей вкуснятины.\#Брызните на члена группы, чтобы снять страх и горение.
+Two and a half swigs of crisp goodness. Splash on\#a party member to remedy fright and burning.<#>Два с половиной глотка освежающей вкуснятины.\#Брызните на члена группы, чтобы снять страх и горение.
 Malicious Stereo<#>Зловредная стереосистема
 A busted car stereo that still makes noise.\#Sometimes talks in unknown tongues. (Barter Item)<#>Сломанная стереосистема из машины, которая всё ещё производит\#звук. Иногда разговаривает неизвестным языком. (Предмет для обмена)
 Blood Wine<#>Кровавое вино

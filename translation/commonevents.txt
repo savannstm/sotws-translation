@@ -76,13 +76,13 @@ Lost a Domestic Jerky.<#>Потеряно домашнее мясо.
 It really, really likes it!<#>Оно ему очень, очень нравится!
 The Baby Fishman has become stronger.<#>Малыш-рыболюд стал сильнее.
 Level up!<#>Новый уровень!
-Learned Shock Current!<#>Изучен Электрический шок!
+Learned Shock Current!<#>Изучен Ударный ток!
 Feed it some Mystery Jerky?<#>Покормить его неизвестным мясом?
 Lost a Mystery Jerky.<#>Потеряно неизвестное мясо.
 It seems to like it!<#>Похоже, ему нравится!
-The Baby refused to eat.<#>Малыш отказался есть.
+The Baby refused to eat.<#>Малыш отказывается есть.
 It wants something more filling.<#>Он хочет что-то более сытное.
-Some better Jerky should suffice.<#>Ему нужно мясо получше.
+Some better Jerky should suffice.<#>Мясо получше должно подойти.
 It likes it!<#>Ему нравится!
 It really likes it!<#>Ему очень нравится!
 Learned Mucus Blast!<#>Изучен Взрыв слизи!
