@@ -3,7 +3,7 @@ The most powerful handgun in Olathe.<#>Самый мощный пистолет 
 Rusty Trowel<#>Ржавая лопатка
 The apocalypse just got lame.<#>Апокалипсис только что стал отстойным.
 Iron Ring<#>Железное кольцо
-A knuckle duster worn down to a single ring.<#>Кастет, изношенный до такого состояния, что от него\#осталось лишь единственное кольцо.
+A knuckle duster worn down to a single ring.<#>Кастет, изношенный до одного единственного кольца.
 Brass Knuckle<#>Латунный кастет
 Brutal jewelry.<#>Брутальное ювелирное изделие.
 Combat Knife<#>Боевой нож
