@@ -293,7 +293,7 @@ Double-wide spyglass used to see what the naked\#eye cannot. The lenses are crac
 Filthy Razor<#>Грязная бритва
 Instrument of war against facial hair.\#It's disgusting, but still sharp enough to cut.<#>Инструмент ведения войны против лицевой растительности.\#Отвратительная, но всё ещё достаточно острая для резки.
 Rando Parcel<#>Конверт Рандо
-An envelope containing multiple letters.\#Sealed with official Rando Army red wax.<#>Конверт с несколькими письмами внутри.\#Запечатан официальной красной печатью армии Рандо.
+An envelope containing multiple letters.\#Sealed with official Rando Army red wax.<#>Конверт с несколькими письмами внутри.\#Запечатан официальным красным штампом армии Рандо.
 Fishy Jerky<#>Рыбье мясо
 Dried meat of a fishman. Something about the taste\#makes you uncomfortable. Heals 250 HP.<#>Вяленое мясо рыболюда. Что-то во вкусе вызывает в вас\#неприятные чувства. Восстанавливает 250 ОЗ.
 Rando Coin<#>Монета Рандо
