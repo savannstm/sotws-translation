@@ -4,18 +4,18 @@ Turn that off.<#>Выключи плеер.
 Fast-forward?<#>Перемотать?
 Yes<#>Да
 No<#>Нет
-You'll love\#what I found at\#the thrift store.<#>Тебе понравится,\#что я нашла в\#барахолке.
+You'll love\#what I found at\#the thrift store.<#>Тебе понравится,\#что я нашла \#у нас в магазине.
 C'mon, Alex.<#>Давай, Алекс.
 What movie\#is this?<#>Что это\#за фильм?
 It's the\#lessons\#you wanted.<#>Это уроки,\#которые\#ты хотел.
 WHOA!<#>ВОУ!
-You don't need\#those costly\#schools to smack\#some fools.<#>Тебе не нужны те\#дорогущие школы, чтобы\#вломить каким-нибудь\#дурням.
+You don't need\#those costly\#schools to smack\#some fools.<#>Тебе не нужны эти\#дорогущие школы, чтобы\#вломить каким-нибудь\#дурням.
 We had more\#of these, but I got\#you the one that said:<#>У нас были другие,\#но я принесла тебе тот, о\#котором ты просил:
 "Supreme grandmaster course".<#>"Курс великого мастера".
 It's for experts,\#so this must be\#the best one!<#>Он для экспертов,\#так что должен\#быть лучшим!
 Thank you,\#auntie Beth!<#>Спасибо,\#тётя Бет!
 You're\#welcome.<#>На здоровье.
-Gotta go back,\#I had Sheryl take\#over for a bit.<#>Я пойду назад в магазин,\#я попросила Шерил\#ненадолго заменить меня.
+Gotta go back,\#I had Sheryl take\#over for a bit.<#>Мне пора возвращаться,\#я попросила Шерил\#ненадолго заменить меня.
 You better\#watch this one.<#>Посмотри\#кассету.
 You can\#count on it!<#>Обязательно\#посмотрю!
 You're a\#born winner.<#>Ты - урождённый\#победитель.
@@ -29,7 +29,7 @@ Help me.<#>Помоги мне.
 Who are you?<#>Кто ты?
 *silence*<#>*Промолчать*
 Uh...<#>Ух...
-Whoever got\#you here wasn't\#very good at\#keeping you down.<#>Тот, кто тебя тут уложил,\#явно не довёл дело \#до конца.
+Whoever got\#you here wasn't\#very good at\#keeping you down.<#>Тот, кто тебя сюда привёз,\#явно не довёл дело \#до конца.
 You'd like\#some help?<#>Нужна\#помощь?
 C'mon, let's...<#>Ну, давай...
 CAN'T BE!<#>НЕ МОЖЕТ БЫТЬ!
@@ -81,7 +81,7 @@ More cellophane.<#>Более целлофановым.
 Yeah.<#>Ага.
 Did Georgy\#trick us again?<#>Джорджи снова нас\#обманул?
 Empty rain bucket.<#>Пустое ведро для дождевой воды.
-When it desiccates, it's the primary\#source of food on Garbage Island.<#>Высушенное мясо представляет\#собой основной источник пищи\#на мусорном острове.
+When it desiccates, it's the primary\#source of food on Garbage Island.<#>Высушенное мясо птиц представляет\#собой основной источник пищи\#на мусорном острове.
 A proud avian.<#>Гордая птица.
 It glares at you, it's a queer feeling.<#>Она глядит на вас - чудное ощущение.
 You have become enlightened!<#>Вы просветлели!
@@ -109,7 +109,7 @@ You won't vomit\#forever. It's\#just your body\#detoxing.<#>Ты не будеш
 I've spoken to\#him already.<#>Я уже поговорил\#с ним.
 That Larry Davis\#hasn't set a man\#on a wrong path yet.<#>Этот Ларри Дэвис никогда\#не наставляет человека на\#ложный путь.
 What a bright\#mind that\#Larry Davis.<#>Какой светлый ум -\#этот Ларри Дэвис.
-Careful\#around\#Darry.<#>Поберегись Дэрри.
+Careful\#around\#Darry.<#>Будь осторожнее с Дэрри.
 He throws\#a mean party.<#>Он затевает нехорошую\#вечеринку.
 It's suffocating...<#>Дышать нечем...
 You think I could\#get used to this?<#>Думаешь, я смогу\#привыкнуть?
@@ -133,12 +133,12 @@ It's oddly still.<#>Она жутко неподдвижная.
 It's broken.<#>Она сломалась.
 Toxic.<#>Токсично.
 I'm sick of this.<#>Надоело.
-We've been everywhere,\#but the boat.<#>Мы были везде,\#кроме лодки.
+We've been everywhere,\#but the boat.<#>Мы побывали везде,\#кроме лодки.
 I'm in charge now!<#>Теперь я здесь главный!
 You joined Georgy's party?<#>Вы вступили в группу Джорджи?
 FALLING II:<#>ПАДЕНИЕ II:
 No floor stands for bad fall!<#>Поверхности не предназначены для\#неудачных падений!
-Unless you know there's\#a secret, you're dead!\#- Terry the Grim Hintz<#>Вам конец, если вы точно не уверены,\#что падаете в сторону секрета!\#- Терри-Жестокий Наставник
+Unless you know there's\#a secret, you're dead!\#- Terry the Grim Hintz<#>Вам конец, если вы точно не уверены,\#что падаете в сторону секрета!\#- Жестокий Наставник Терри
 SOCIALIZING:<#>СОЦИАЛИЗАЦИЯ:
 Olathe can get\#pretty lonely.<#>В Олейте может быть\#довольно одиноко.
 Very lonely.<#>Очень одиноко.
@@ -152,7 +152,7 @@ The hell, why\#would you?<#>Чёрт возьми, куда\#и зачем?
 This island\#is garbage.<#>Этот остров -\#мусор.
 You don't\#just shit on a\#man's home\#like that.<#>Ты не можешь так\#просто опорочить\#имя чьего-то\#дома.
 This is\#our life, bro.<#>Такова наша жизнь,\#брат.
-Darry following\#you around now?<#>Теперь Дэрри ходит\#за тобой?
+Darry following\#you around now?<#>Теперь Дэрри бродит\#с тобой?
 Here,\. take this.<#>Вот,\. возьми это.
 Got a Bottle of Dirty Water!<#>Получена бутылка грязной воды!
 You're gonna\#need a drink\#before long.<#>Тебе нужно выпить\#перед дорогой.
@@ -174,7 +174,7 @@ Please?<#>Пожалуйста?
 I just\#want to\#share in\#your wisdom...<#>Я просто хочу\#делиться с другими\#твоей мудростью...
 Do you trash?<#>Ты ведаешь мусор?
 Well, I used to\#take trash out.<#>Ну, я однажды\#выносил мусор.
-...don't\#follow me.<#>...не ходи\#за мной.
+...don't\#follow me.<#>...не следуй\#за мной.
 PARTY:<#>ГРУППА:
 Friends have roles\#and work together!<#>У друзей есть свои роли\#в командной работе!
 Try to figure out what your\#party members are good at!\#- Terrylicious<#>Попытайся выяснить, в чём члены\#твоей группы наиболее хороши!\#- Терри-чемпион
@@ -6991,7 +6991,7 @@ You exchanged the Vagabond's Globe\#for some Rainbow Painter's Gear!<#>Вы об
 Your paint,\.\#my friend.<#>Ваша краска,\.\#приятель.
 Don't worry,\.\#the colors\#won't blend.<#>Не бойтесь,\.\#цвета не испортятся\#\#
 Oh,\. what's that\#I smell?\| Scraps\#plucked from the\#gates of Hell?<#>Ох,\. что я вижу?\|\#Товар из адских\#глубин?
-Yes,\. of course!\|\#Infinity Jerseys,\. fresh\#from the source!<#>Да,\. вот и он!\|\#Майка Бесконечности,\.\#из центра грехов!
+Yes,\. of course!\|\#Infinity Jerseys,\. fresh\#from the source!<#>Да,\. вот и он!\|\#Бесконечные майки,\.\#из центра грехов!
 You've done well,\.\#my friend.\| Now I\#shall uphold my end.<#>Вы справились,\. мой\#друг.\| Свою руку я\#вам протяну.
 ...Wait,\. hold on,\.\#stop right there!<#>...Стоп,\. погодите,\.\#не уходите!
 You have more,\.\#I do declare!<#>У вас есть больше,\.\#поглядите!
@@ -10362,7 +10362,7 @@ That doesn't\#matter to me.<#>Меня это не\#волнует.
 All of you\#outsiders are\#the same.<#>Все вы,\#чужаки,\#одинаковые.
 Cruel,\. wasteful,\. vile...<#>Жестокие,\. расточительные,\.\#подлые...
 But today\#is the\#day your\#villainy ends!<#>Но в этот\#день вашим\#злодеяниям\#конец!
-It shall\#die...\| by\#my hands!<#>Я окончу их...\|\#своими рукам!
+It shall\#die...\| by\#my hands!<#>Я окончу их...\|\#своими руками!
 Have at you!<#>Получи!
 He is dead.<#>Он мёртв.
 You found a stash!<#>Вы нашли схрон!
