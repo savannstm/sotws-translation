@@ -417,7 +417,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Scooter Screwloose}God,\. I am harder than concrete.<#>{Скутер Беспредельщик}Господи,\. я крепче чем бетон.
 {Wily Knight}You'll be real hard when rigor mortis sets in!<#>{Уили Рыцарь}Ты будешь очень крепким, когда\#войдёшь в трупное оконченение!
 {Wily Knight}...<#>{Уили Рыцарь}...
-{Wily Knight}You know,\| I think I left\#the oven on at home.<#>{Уили Рыцарь}Знаешь,\| я думаю, я забыл\#выключить утюг.
+{Wily Knight}You know,\| I think I left\#the oven on at home.<#>{Уили Рыцарь}Знаете,\| я думаю, я забыл\#выключить утюг.
 {Wily Knight}You gents have fun, now!<#>{Уили Рыцарь}Веселитесь, парни!
 {Dex Muldoon}You'll never take us down!<#>{Декс Малдун}Вы никогда нас не уничтожите!
 {Dex Muldoon}This trash is ours!<#>{Декс Малдун}Этот мусор наш!
@@ -456,8 +456,8 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Borislav Ragnarok}...no matter what happens.<#>{Борислав Рагнарок}...что бы ни случилось.
 {Borislav Ragnarok}Commander...\| I am sorry.<#>{Борислав Рагнарок}Командир...\| Мне жаль.
 {Borislav Ragnarok}Do svidania.<#>{Борислав Рагнарок}До побачення.
-I'm no one in particular.<#>Никто особенный.
-{Benedictus Freeman}This is fine.<#>{Бенедиктус Фримен}Всё в порядке.
+I'm no one in particular.<#>Я - никто особенный.
+{Benedictus Freeman}This is fine.<#>{Бенедикт Фримен}Всё в порядке.
 {Frisko Benson}God damn...<#>{Фриско Бенсон}Чёрт возьми...
 {Silvester de Maistre}Bah, this is childs' play!<#>{Сильвестр де Мейстр}Ба, это детские игры!
 {Silvester de Maistre}Let's make this more interesting!<#>{Сильвестр де Мейстр}Давай сделаем это интереснее!
