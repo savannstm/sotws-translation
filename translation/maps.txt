@@ -3719,10 +3719,10 @@ Well, night.<#>Ну, ночи.
 A member of your party has passed.<#>Член вашей группы умер.
 ...you did it, you\#can take it back.<#>...ты это сделал, ты это\#и расхлёбывай.
 Oh no, this\#is on you.<#>О нет,\#это ты.
-You can't expect\#me to fix YOUR\#problems-<#>Не жди, что я\#буду исправлять\#ТВОИ проблемы-
-\^It is either that or\#your friends here die.<#>\^Или так, или твои\#друзья умрут здесь.
-\^It is either that or\#your friend here dies.<#>\^Или так, или твой\#друг умрёт здесь.
-Whatever, sicko.<#>Делай что хочешь, псих.
+You can't expect\#me to fix YOUR\#problems-<#>Не жди, что я\#буду исправлять\#ТВОИ ошибки-
+\^It is either that or\#your friends here die.<#>\^Либо так, либо твои\#друзья умрут.
+\^It is either that or\#your friend here dies.<#>\^Либо так, либо твой\#друг умрёт.
+Whatever, sicko.<#>Как хочешь, псих.
 Your DEF. has decreased.<#>Ваша защита понижена.
 Your AGI. has decreased.<#>Ваша скорость понижена.
 You are ruptured.<#>Вы вспороты.
