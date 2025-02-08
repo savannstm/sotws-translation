@@ -1809,8 +1809,8 @@ Gave him your water bottle.<#>Вы отдали ему бутылку воды.
 \et[040]Ah...\|\#refreshing.<#>Ох...\|\#освежает.
 \et[040]You're quite kind,\#Mister...\.?<#>Вы довольно добры,\#мистер...\.?
 \et[000]Churchland.\.\#Alex Churchland.<#>Чёрчлэнд.\.\#Алекс Чёрчлэнд.
-\et[040]You're quite kind,\#Alex.\. Better than most\#out here, at least.<#>Ты довольно добр, Алекс.\.\#Добрее чем большинство\#здесь, по крайней мере.
-\et[040]I could use some\#company like yours...<#>Мне бы не помешала\#такая компания...
+\et[040]You're quite kind,\#Alex.\. Better than most\#out here, at least.<#>Ты довольно добр, Алекс.\.\#Добрее чем многие\#здесь, по крайней мере.
+\et[040]I could use some\#company like yours...<#>Мне бы не помешали\#такие союзники...
 \et[040]You wouldn't mind\#if I tag along\#with you, right?<#>Не возражаешь,\#если я присоединюсь\#к тебе?
 \et[000]Not at all.<#>Вовсе не возражаю.
 \et[040]That's what I\#like to hear.<#>Рад\#услышать.
@@ -2009,12 +2009,12 @@ Added to key items.<#>Добавлено в ключевые предметы.
 \et[06]I sold it to him.<#>А я его ему продал.
 \et[06]Came here all the\#way from Aurora.<#>Прошёл сюда весь путь\#от Авроры.
 \et[06]Bad move...<#>Неудачное путешествие...
-\et[06]The bastard knew\#a starving man\#isn't much good\#at bartering.<#>Мудак знал, что\#голодающий\#человек не слишком\#хорош в торговле.
+\et[06]The bastard knew\#a starving man\#isn't much good\#at bartering.<#>Мудак знал, что\#голодающий\#человек не слишком\#хорошо торгуется.
 \et[06]Now I'm\#stuck here.<#>Теперь я застрял\#здесь.
 \et[06]Guess untapped riches\#wasn't the reason\#they warned against\#trading here.<#>Похоже, вовсе не "несметные\#богатства" были причиной по\#которой меня предупредили\#не торговать здесь.
 \et[06]...I'll get back\#at him, slit\#his throat.<#>...Я ему отомщу,\#перережу глотку.
 \et[07]God, I smell good.<#>Боже, я хорошу пахну.
-\et[07]That guy in\#the backroom is\#awfully nice.<#>Этот парень в конце\#ужасно добрый.
+\et[07]That guy in\#the backroom is\#awfully nice.<#>Этот парень\#в конце ужасно\#добрый.
 \et[07]He gave Chaz some\#funny blue candy.<#>Он дал Чазу какую-то\#весёлую синюю конфету.
 \et[07]I didn't\#like the taste...<#>Мне не понравился\#вкус...
 He is dead.<#>Он мёртв.
@@ -2031,8 +2031,8 @@ It is dead.<#>Он мёртв.
 You pay 5 magazines for the room.<#>Вы заплатили 5 журналов за комнату.
 \et[000]I don't have\#that much.<#>У меня столько\#нет.
 \et[011]Cheapskate!<#>Нищеброд!
-\et[06]C'mon barkeep,\#just let them rest.<#>Бармен, просто дай им\#отдохнуть.
-\et[011]Whatever,\#just give\#me what\#you've got.<#>К чёрту, плати\#сколько есть.
+\et[06]C'mon barkeep,\#just let them rest.<#>Бармен, просто дай\#им отдохнуть.
+\et[011]Whatever,\#just give\#me what\#you've got.<#>К чёрту, давай\#сколько есть.
 You pay him a magazine for the room.<#>Вы заплатили ему журнал за комнату.
 \et[011]I'm not\#responsible if\#you get stabbed\#while you sleep.<#>Не беру ответственность,\#если тебя зарежут во\#сне.
 \et[011]I'm not responsible\#if you get stabbed\#while you sleep.<#>Не беру ответственность,\#если тебя зарежут во\#сне.
@@ -2051,7 +2051,7 @@ Nothing left.<#>Ничего не осталось.
 It's some of the barkeep's stock.<#>Остатки ассортимента бармена.
 Mystery jerky, perfume and a diet cola!<#>Неизвестное мясо, духи и диетическая кола!
 His throat was slit.<#>Ему перерезали горло.
-\et[013]You thought\#I wouldn't\#notice?<#>Ты думал, я не\#замечу?
+\et[013]You thought\#I wouldn't\#notice?<#>Ты думал,\#я не\#замечу?
 \et[013]Thieving\#piece\#of trash...<#>Вороватый\#бомжара...
 \et[013]Give me back my\#watch, before\#I waste you.<#>Отдавай часы\#обратно, пока я\#не завалил тебя.
 You have lost the watch.<#>Вы потеряли часы.
@@ -2075,12 +2075,12 @@ Oh.<#>Ох.
 \et[000]Remember any?<#>Помнишь какие-нибудь?
 \et[000]Oh.<#>Ох.
 \et[000]I was\#never a\#fan of\#hunting.<#>Я никогда\#не был\#фанатом\#охоты.
-\et[002]Ain't exactly\#a leisure sport.<#>Не совсем расслабляющий\#спорт.
-\et[002]There's always\#something to gain;\.\#food or fame\#or notoriety.<#>Всегда нужно\#чего-то добиваться;\.\#еды, славы, известности.
+\et[002]Ain't exactly\#a leisure sport.<#>Не самый расслабляющий\#спорт.
+\et[002]There's always\#something to gain;\.\#food or fame\#or notoriety.<#>Всегда нужно\#чего-то добиваться;\.\#еды, славы,\#известности.
 \et[002]Too many\#wasted bullets\#for my tastes.<#>Слишком много\#пуль нужно тратить\#ради своих целей.
 \et[000]I do like\#to fish, though.<#>Хотя мне нравится\#рыбалка.
 \et[002]Heh, that\#does seem\#more up\#your alley.<#>Ха, вот это\#в твоём духе.
-\et[000]I got\#into it when\#I was a kid.<#>Научился этому,\#когда был ребёнком.
+\et[000]I got\#into it when\#I was a kid.<#>Научился ей,\#когда был\#ребёнком.
 \et[000]Used to go\#out to the\#river all the\#time with,\. uh...<#>Ходил на реку\#всё время с,\.\#э...
 \et[000]Clarence.<#>Клэрэнсом.
 \et[002]That guy\#with the raft?<#>Тот парень\#с плотом?
@@ -2104,9 +2104,9 @@ Elaborate<#>Поддержать беседу
 \et[000]He must have\#been a big\#inspiration\#to you.<#>Он, должно\#быть, сильно\#вдохновил\#тебя.
 \et[002]Wouldn't\#say that.<#>Я бы так не\#сказал.
 \et[002]I thought it stupid\#how he would\#make these\#stories up.<#>Я думал, это\#безумно\#глупые\#выдумки.
-\et[002]None of them\#were true\#and I always\#knew it.<#>Ни одна из\#историй не\#была правдой,\#и я всегда это знал.
-\et[000]He probably\#did that so\#you would\#accept him.<#>Он, наверное, выдумывал\#всё это, чтобы ты его\#принял.
-\et[002]Sure. Big game\#hunter sounds\#more glamorous\#than car thief.<#>Конечно. Охотник и большая\#шишка звучит круче, чем\#автоугонщик.
+\et[002]None of them\#were true\#and I always\#knew it.<#>Ни одна из\#историй не\#была настоящей,\#и я всегда это знал.
+\et[000]He probably\#did that so\#you would\#accept him.<#>Он, наверное,\#выдумывал всё\#это, чтобы ты его\#принял.
+\et[002]Sure. Big game\#hunter sounds\#more glamorous\#than car thief.<#>Конечно. Охотник\#большая шишка\#звучит круче, чем\#автоугонщик.
 \et[002]That's the thing,\#he didn't have\#to do that for\#me to like him.<#>Дело в том, что\#ему не надо было\#это делать, чтобы\#я его любил.
 \et[002]Dad said he bought\#the gun at an\#auction, to launder\#some money.<#>Отец говорил мне, что\#он купил этот ствол на\#барахолке, чтобы отмыть\#деньги.
 \et[002]Before recently,\#never even had\#a bullet in it.<#>До недавнего момента,\#в нём вообще никогда\#не бывала пуля.
@@ -2114,7 +2114,7 @@ Elaborate<#>Поддержать беседу
 \et[002]As long as you\#accept it, own it.<#>И этим благородством\#надо пользоваться.
 \et[000]It sounds like\#he was ashamed\#of his choices.<#>Звучало так, будто\#ему было стыдно\#за свои решения.
 \et[002]Anyway. His stories\#stuck with me.<#>В любом случае,\#его истории запали\#мне в душу.
-\et[002]The day the\#flash happened,\#was the happiest\#in my life.<#>День, когда\#произошла вспышка,\#был самым счастливым\#в моей жизни.
+\et[002]The day the\#flash happened,\#was the happiest\#in my life.<#>День, когда\#произошла вспышка,\#стал самым счастливым\#в моей жизни.
 \et[002]Because suddenly\#all these options\#were open to me.<#>Потому что внезапно\#все эти двери открылись\#мне.
 \et[002]and I knew\#exactly what\#I would do.<#>И я был точно\#уверен в том,\#чем займусь.
 \et[000]Become a\#lone pistolero\#with an\#empty gun?<#>Станешь одиноким\#пистолеро с пустой\#пушкой?
@@ -2833,8 +2833,8 @@ He is dead.<#>Он мёртв.
 \et[049]Pathetic.<#>Жалко.
 \et[000]Why?<#>Почему?
 \et[000]You really\#want to\#do this?<#>Ты правда\#хочешь это\#сделать?
-\et[016]...We've got company.<#>...У нас тут компания.
-\et[016]Looks like\#we're all out\#of options...<#>Похоже, у нас\#кончились\#выборы...
+\et[016]...We've got company.<#>...У нас тут гости.
+\et[016]Looks like\#we're all out\#of options...<#>Похоже, у нас\#кончился\#выбор...
 \et[016]It has been...\|\#a pleasure,\#gentlemen.<#>Это была...\|\#честь,\#джентльмены.
 \et[016]I'll try to\#hold 'em off as\#long as I can.<#>Я попытаюсь\#задержать их\#на сколько смогу.
 \et[053]Alex?<#>Алекс?
@@ -4498,7 +4498,7 @@ DEF. decreased.<#>ЗЩТ снижена.
 \et[002]Kill your\#inner child.<#>Убейте своего внутреннего\#ребёнка.
 \et[000]What!? NO!<#>Что!? НЕТ!
 \et[002]Okay.<#>Хорошо.
-\et[002]Avatar of\#your hatred.<#>Аватар вашей\#ненависти.
+\et[002]Avatar of\#your hatred.<#>Отражение вашей\#ненависти.
 \et[004]What's poppin',\#daddy-o?<#>Чё как,\#папочка?
 \et[004]Look at me,\#I'm human-trash.<#>Посмотри на меня,\#я биомусор.
 \et[000]I'm leaving.<#>Я ухожу.
@@ -9089,7 +9089,7 @@ Rest here?<#>Отдохнуть здесь?
 Yes<#>Да
 No<#>Нет
 Found something!<#>Вы что-то нашли!
-Tactics: Misdirection!<#>Тактика: Дезориентация!
+Tactics: Misdirection!<#>Тактика: Дизориентация!
 You have been badly poisoned.<#>Вы были сильно отравлены.
 \et[000]...Huh.\.\.\#Neat.<#>...Ага.\.\.\#Дико.
 Got a Homely Coat!<#>Получено домашнее пальто!
@@ -9139,7 +9139,7 @@ He is dead.<#>Он мёртв.
 \et[004]This breeze\#is anything\#but sweet!<#>Этот ветерок\#уж точно не\#приятный!
 \et[004]It's ruining\#my hairdo!<#>Он портит мою\#причёску!
 \et[005]Uh huh...<#>Ага...
-\et[003]Shut it,\.\#you two.\|\#We've got\#company.<#>Заткнитесь,\.\#вы двое.\| У нас\#тут компания.
+\et[003]Shut it,\.\#you two.\|\#We've got\#company.<#>Заткнитесь,\.\#вы двое.\|\#У нас\#тут гости.
 \et[004]Pft,\. that guy\#ain't nothing to\#worry about, Francis.<#>Пфф,\. нам\#не о чём\#беспокоиться, Фрэнсис.
 \et[005]It's just\#some shitty\#old man.<#>Это просто\#какой-то\#старый говнюк.
 \et[005]We could\#pulverize him,\. easy.<#>Мы его размажем,\.\#с лёгкостью.
@@ -9444,7 +9444,7 @@ Learned the Major Iris.<#>Изучен большой Ирис.
 \et[002]Oh ho ho.<#>О-хо-хо.
 \et[002]I assure you,\#Mr. Churchland,\.\#the Infinity\#Franchise is no game.<#>Я уверяю вас,\#мистер Чёрчлэнд,\.\#Франшиза Бесконечности\#это никакая не игра.
 \et[002]Now,\. just\#one more\#formality.<#>Теперь,\. ещё\#одна формальность.
-\et[002]Kill the\#avatar of\#your failure.<#>Убейте аватар\#своих ошибок.
+\et[002]Kill the\#avatar of\#your failure.<#>Убейте отражение\#своих ошибок.
 \et[000]Are...\| are you?<#>Ты...\| ты...
 \et[005]I'm exactly\#who you\#think I am.<#>Я тот, о\#ком ты\#подумал.
 \et[000]It's been\#a long time.<#>Давно не\#виделись.
@@ -10749,9 +10749,9 @@ Got an Infinity Jersey.<#>Получена майка Бесконечности
 \et[002]For me,\. okay?<#>Ради меня,\. ладно?
 \et[002]Gotta go back,\#I had Daniel take\#over for a bit.<#>Мне пора возвращаться,\#я попросила Даниэля\#заменить меня ненадолго.
 \et[002]You're a\#born winner, Alex.<#>Ты урождённый\#победитель, Алекс.
-\et[005]W-wait,\| Auntie Beth!<#>С-стой,\| тётушка Бэт!
-\et[005]Auntie Beth,\| wai-\^<#>Тётушка Бэт,\| ст-\^
-\et[000]Beth...\| don't go.<#>Бэт...\| не уходи.
+\et[005]W-wait,\| Auntie Beth!<#>С-стой,\| тётушка Бет!
+\et[005]Auntie Beth,\| wai-\^<#>Тётушка Бет,\| ст-\^
+\et[000]Beth...\| don't go.<#>Бет...\| не уходи.
 Your head burns.<#>Ваша голова горит.
 Max SP increased. Max HP decreased.<#>Макс. ОН повышены. Макс. ОЗ понижены.
 <!-- Map338.rvdata2 --><#>
