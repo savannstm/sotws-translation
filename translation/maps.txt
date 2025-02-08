@@ -10382,30 +10382,30 @@ Coated bones.<#>Скелет в халате.
 <!-- Map337.rvdata2 --><#>Сцена из начала игры, но искажённая бесконечностью
 Your lungs burn.<#>Ваши лёгкие горят.
 Max HP increased. Max SP decreased.<#>Макс. ОЗ повышены. Макс. ОН понижены.
-\et[002]Turn that off.<#>Выключи его.
-\et[002]You'll love\#what I found at\#the thrift store.<#>Тебе понравится то,\#что я нашла в\#барахольном магазине.
-\et[002]C'mon, Alex.<#>Пойдём, Алекс.
+\et[002]Turn that off.<#>Выключи плеер.
+\et[002]You'll love\#what I found at\#the thrift store.<#>Тебе понравится,\#что я нашла \#у нас в магазине.
+\et[002]C'mon, Alex.<#>Давай, Алекс.
 \et[005]What movie\#is this?<#>Что это\#за фильм?
-\et[002]It's what\#you wanted.<#>Это уроки, которые\#ты хотел.
+\et[002]It's what\#you wanted.<#>Это тот,\#что\#ты хотел.
 \et[005]Huh?<#>А?
-\et[005]Uh...\| are\#you sure\#I wanted this?<#>Э...\| ты уверена,\#что я этого\#хотел?
-\et[002]Yeah.\| I know\#all about it.<#>Да.\| Я знаю\#всё об этом.
-\et[002]You're a big\#fan of this\#stuff, right?<#>Ты большой\#любитель\#этого, верно?
-\et[002]So when I saw\#this on the shelf,\.\#I just knew I\#had to get it.<#>Поэтому, когда\#я увидела её\#на полке, я знала,\#что её нужно купить.
+\et[005]Uh...\| are\#you sure\#I wanted this?<#>Э...\| ты уверена,\#что я его\#хотел?
+\et[002]Yeah.\| I know\#all about it.<#>Да.\| Определённо.
+\et[002]You're a big\#fan of this\#stuff, right?<#>Ты большой\#любитель\#такого, верно?
+\et[002]So when I saw\#this on the shelf,\.\#I just knew I\#had to get it.<#>Поэтому, когда\#я увидела его\#на полке, я знала,\#что его нужно забрать.
 \et[005]Auntie...\.\^<#>Тётушка...\.\^
 \et[002]And look.<#>И посмотри-ка.
-\et[002]It even came\#with a matching outfit.<#>Она даже шла с\#подходящим нарядом.
+\et[002]It even came\#with a matching outfit.<#>Он даже шёл с\#подходящим нарядом.
 \et[002]Here.<#>Вот.
 Got an Infinity Jersey.<#>Получена майка Бесконечности.
 \et[005]Auntie, I...\|<#>Тётушка, я...\|
-\et[005]I don't know\#if I want this.<#>Я не знаю, хочу\#ли я этого.
+\et[005]I don't know\#if I want this.<#>Я не знаю, нужно\#ли мне всё это.
 \et[002]Oh.<#>Ох.
 \et[002]Well,\| I really did\#think you'd like it.<#>Ну,\| я думала, что\#тебе очень понравится.
 \et[002]But if you\#don't,\. that's alright.<#>Но если тебе не нравится,\.\#всё в порядке.
-\et[002]I'll just...\|\#take it back\#to the store.<#>Я просто...\|\#отнесу её обратно\#в магазин.
-\et[002]Give it\#a watch\#at least once.<#>Хотя бы\#взгляни\#на неё.
+\et[002]I'll just...\|\#take it back\#to the store.<#>Я просто...\|\#отнесу их обратно\#в магазин.
+\et[002]Give it\#a watch\#at least once.<#>Хотя бы\#посмотри\#фильм.
 \et[002]For me,\. okay?<#>Ради меня,\. ладно?
-\et[002]Gotta go back,\#I had Daniel take\#over for a bit.<#>Нужно идти, я\#попросила Даниэля\#заменить меня ненадолго.
+\et[002]Gotta go back,\#I had Daniel take\#over for a bit.<#>Мне пора возвращаться,\#я попросила Даниэля\#заменить меня ненадолго.
 \et[002]You're a\#born winner, Alex.<#>Ты урождённый\#победитель, Алекс.
 \et[005]W-wait,\| Auntie Beth!<#>С-стой,\| тётушка Бэт!
 \et[005]Auntie Beth,\| wai-\^<#>Тётушка Бэт,\| ст-\^
