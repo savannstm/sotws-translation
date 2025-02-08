@@ -49,7 +49,7 @@ cackles maniacally!<#>маникально смеётся!
 lashes out!<#>набрасывается!
 rams you with his pipe!<#>ударяет вас своей трубой!
 is struggling to lift his pipe...<#>пытается поднять трубу...
-swings his flail!<#>машет цепом!
+swings his flail!<#>машет цепью!
 swings his tire!<#>машет покрышкой!
 stomps him out!<#>вышибает предмет!
 coughs up some toxic gunk!<#>кашляет какой-то токсичной дрянью!
