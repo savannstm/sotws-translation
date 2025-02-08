@@ -31,7 +31,7 @@ Obsessed Bag<#>Одержимый пакет
 Cruel Sack<#>Жестокий пакет
 Raymund Ripe<#>Рэймунд Райп
 Silvester de Maistre<#>Сильвестр де Мейстр
-Avatar of Hatred<#>Аватар ненависти
+Avatar of Hatred<#>Отражение ненависти
 Donnie Sand<#>Донни Сэнд
 Ross Hillock<#>Росс Хиллок
 Kirf Dinkle<#>Кирф Динкл
@@ -51,7 +51,7 @@ Matty Mack<#>Мэтти Отче
 Derb Wesley Jr.<#>Дерб Уэсли мл.
 The Kent<#>Кент
 Russel Bats<#>Рассел Бэтс
-Chandler Sinclair<#>Чэндлер Синклер
+Chandler Sinclair<#>Чендлер Синклер
 Tibby Dobs<#>Тибби Добс
 Stefan Kindchild<#>Стефан Добряк
 Television<#>Телевидение
@@ -108,9 +108,9 @@ Manny Kluth<#>Мэнни Клуф
 Shammi Beltraime<#>Шэмми Белтрейм
 Joel Miller<#>Джоэл Миллер
 Glenn Cletus<#>Гленн Клетус
-Huckleberry Cletus<#>Хаклберри Клетус
-Scrawny Davy<#>Скрони Дэви
-Avatar of Failure<#>Аватар Ошибки
+Huckleberry Cletus<#>Гекльберри Клетус
+Scrawny Davy<#>Тощий Дэви
+Avatar of Failure<#>Отражение ошибки
 The Guttinator<#>Кишконатор
 Weez Finkerton<#>Виз Финкертон
 Mikhail "Milo" Zhnebrowski<#>Михаил "Мило" Жнебровский
@@ -140,7 +140,7 @@ Hank Abner<#>Хэнк Эбнер
 Basto Angel Jr.<#>Басто Энджел мл.
 Rodrigo Chainman<#>Родриго Чейнмэн
 Shammi<#>Шэмми
-Frederico Daemonico<#>Фредерико Даймонико
+Frederico Daemonico<#>Фредерико Демонико
 Wily Knight<#>Уили Рыцарь
 Cecil Flairs<#>Сэсил Находчивый
 June the Goon<#>Юн Придурок
@@ -157,8 +157,8 @@ Fuel Tank<#>Топливный бак
 Serjio Oman<#>Серхио Оман
 Vasyl Jerudich<#>Василь Иерудич
 Sheamus Gobshite<#>Шеймус Гобшайт
-Xerosik Courtly<#>Херосик Куртли
-Aloysius Herschel<#>Алойзиус Хершель
+Xerosik Courtly<#>Херосик Кортли
+Aloysius Herschel<#>Алоизий Хершель
 Great Olathian Condor<#>Великий олейтский кондор
 Bepe Stormer<#>Бепе Штормер
 Borislav Ragnarok<#>Борислав Рагнарок

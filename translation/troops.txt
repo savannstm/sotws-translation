@@ -64,12 +64,12 @@ Don't make me flip out!<#>Не беси меня!
 {Silvester de Maistre}My signature talent...<#>{Сильвестр де Мейстр}Мой фирменный талант...
 {Silvester de Maistre}...BILOCATION!<#>{Сильвестр де Мейстр}...БИЛОКАЦИЯ!
 {Silvester de Maistre}I'm done.<#>{Сильвестр де Мейстр}Я всё.
-{Avatar of Hatred}What's kicking, getting into trouble?<#>{Аватар ненависти}Что пинается, попадает в беду?
-{Avatar of Hatred}Pop a thrill pill, cool cat.<#>{Аватар Ненависти}Выпей таблетку острых ощущений, крутой чувак.
-{Avatar of Hatred}Check out my cover. You and me, one love.<#>{Аватар Ненависти}Посмотри на меня. Ты и я, одна любовь.
-{Avatar of Hatred}You've gotta try being someone else.<#>{Аватар Ненависти}Тебе стоит попробовать стать кем-то другим.
-{Avatar of Hatred}You can't keep running, I'll touch your nipple.<#>{Аватар Ненависти}Ты не убежишь, я схвачу тебя за сосок.
-{Avatar of Hatred}Smooth moves, keep it clicking.<#>{Аватар Ненависти}Плавные движения, продолжай.
+{Avatar of Hatred}What's kicking, getting into trouble?<#>{Отражение ненависти}Что пинается, попадает в беду?
+{Avatar of Hatred}Pop a thrill pill, cool cat.<#>{Отражение ненависти}Выпей таблетку острых ощущений, крутой чувак.
+{Avatar of Hatred}Check out my cover. You and me, one love.<#>{Отражение ненависти}Посмотри на меня. Ты и я, одна любовь.
+{Avatar of Hatred}You've gotta try being someone else.<#>{Отражение ненависти}Тебе стоит попробовать стать кем-то другим.
+{Avatar of Hatred}You can't keep running, I'll touch your nipple.<#>{Отражение ненависти}Ты не убежишь, я схвачу тебя за сосок.
+{Avatar of Hatred}Smooth moves, keep it clicking.<#>{Отражение ненависти}Плавные движения, продолжай.
 {Ross Hillock}Here comes the meat train!<#>{Росс Хиллок}Вот и прибыл мясной поезд!
 {Ross Hillock}Can't break my streak!<#>{Росс Хиллок}Не могу потерять очередь!
 {Ross Hillock}Fifth fold... so close!<#>{Росс Хиллок}Пятая складка... так близко!
@@ -324,10 +324,10 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Huckleberry Cletus}Jesus...\| Gotta do everythin' myself!<#>{Гекльберри Клетус}Господи...\| Придётся все делать самому!
 {Huckleberry Cletus}Headin' down the trail again...<#>{Гекльберри Клетус}Снова всё скатилось...
 {Glenn Cletus}Finally got what ya deserved,\. ya asshole!<#>{Гленн Клетус}Наконец-то получил что заслуживаешь,\. придурок!
-{Avatar of Failure}Hmph, not bad.<#>{Аватар ошибки}Хм, неплохо.
-{Avatar of Failure}But allow me to show you what\#separates the student from the master.<#>{Аватар ошибки}Но позволь мне показать тебе, что\#отличает ученика от учителя.
-{Avatar of Failure}It seems...\| I have nothing left to teach you.<#>{Аватар ошибки}Похоже...\| Мне больше нечему тебя научить.
-{Avatar of Failure}Well done.<#>{Аватар ошибки}Отлично сработано.
+{Avatar of Failure}Hmph, not bad.<#>{Отражение ошибки}Хм, неплохо.
+{Avatar of Failure}But allow me to show you what\#separates the student from the master.<#>{Отражение ошибки}Но позволь мне показать тебе, что\#отличает ученика от учителя.
+{Avatar of Failure}It seems...\| I have nothing left to teach you.<#>{Отражение ошибки}Похоже...\| Мне больше нечему тебя научить.
+{Avatar of Failure}Well done.<#>{Отражение ошибки}Отлично сработано.
 {???}Friends! Allow me to aid you!<#>{???}Друзья! Позвольте мне вам помочь!
 {???}Stay strong and win the day!<#>{???}Оставайтесь сильными и победите!
 {The Guttinator}...?<#>{Кишконатор}...?
@@ -346,11 +346,11 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Mikhail "Milo" Zhnebrowski}It...\| it was not meant to be...<#>{Михаил "Мило" Жнебровский}Этого...\| этого не должно было...
 {Dwight Boyak}Ain't seen nothin' yet!<#>{Дуэйт Бояк}Ты ещё ничего не видел!
 {Dwight Boyak}Looks like you were the spicier enchilada.<#>{Дуэйт Бояк}Похоже, ты - энчилада поострее.
-{Rodrigo Chainman}Let the blood cleanse you.<#>{Родриго Чейнман}Позволь крови очистить тебя.
-{Rodrigo Chainman}Let the pain...\| free you.<#>{Родриго Чейнман}Позволь боли...\| освободить тебя.
-{Rodrigo Chainman}How sweet it tastes...<#>{Родриго Чейнман}Как сладок её вкус...
-{Rodrigo Chainman}Drink deep from my veins.<#>{Родриго Чейнман}Пей из глубин моих вен.
-{Rodrigo Chainman}Don't let a drop go to waste.<#>{Родриго Чейнман}Не упусти ни капли.
+{Rodrigo Chainman}Let the blood cleanse you.<#>{Родриго Чейнмэн}Позволь крови очистить тебя.
+{Rodrigo Chainman}Let the pain...\| free you.<#>{Родриго Чейнмэн}Позволь боли...\| освободить тебя.
+{Rodrigo Chainman}How sweet it tastes...<#>{Родриго Чейнмэн}Как сладок её вкус...
+{Rodrigo Chainman}Drink deep from my veins.<#>{Родриго Чейнмэн}Пей из глубин моих вен.
+{Rodrigo Chainman}Don't let a drop go to waste.<#>{Родриго Чейнмэн}Не упусти ни капли.
 {Frederico Daemonico}Let me watch you bleed.<#>{Фредерико Демонико}Дай посмотрю, как ты истекаешь кровью.
 {Frederico Daemonico}You're just like us...<#>{Фредерико Демонико}Ты такой же, как мы...
 {Hank Abner}That all you wimps got in you?!<#>{Хэнк Эбнер}Это всё, на что вы слабаки, способны?!
@@ -366,25 +366,25 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Chris Kringle}Happy,\. uh,\| Kwanza...\| bitch!<#>{Крис Крингл}Счастливой,\. э,\| Кванзы...\| сука!
 {Chris Kringle}Been on the naughty list for\#thirty-eight years and proud of it!<#>{Крис Крингл}Я в списке плохих детей вот уже\#тридцать восемь лет, и горжусь этим!
 {Shammi}To...\| ny...\|<#>{Шэмми}То...\| ни...\|
-{Scrawny Davy}Hey, what're you pointing at?<#>{Толстяк Дэви}Эй, на кого оружие направил?
-{Scrawny Davy}Is there something behind me?<#>{Толстяк Дэви}Позади меня кто-то есть?
-{Scrawny Davy}Okay,\. joke's over!<#>{Толстяк Дэви}Ладно,\. шутки кончились!
-{Scrawny Davy}It's serious time!<#>{Толстяк Дэви}Теперь я серьёзен!
-{Scrawny Davy}Is this some kind of prank?<#>{Толстяк Дэви}Это какая-то шутка?
-{Scrawny Davy}There's nothing over there!<#>{Толстяк Дэви}Там ничего нет!
-{Scrawny Davy}Oh well, back to business!<#>{Толстяк Дэви}Ну ладно, обратно к делу!
-{Scrawny Davy}Ohhhh, no you don't!<#>{Толстяк Дэви}Оооо, вы это не сделаете!
-{Scrawny Davy}We're not doing this song and dance again!<#>
-{Scrawny Davy}Again with this?<#>{Толстяк Дэви}Снова это?
-{Scrawny Davy}Seriously,\. what IS it?!<#>{Толстяк Дэви}Серьёзно,\. ЧТО это?!
-{Scrawny Davy}We're cookin' with gas now!<#>{Толстяк Дэви}Теперь мы готовим на газу!
-{Scrawny Davy}C'mon,\. chums,\. let's get SPICY!<#>{Толстяк Дэви}Давайте,\. друзья,\. ПООСТРЕЕ!
-{Scrawny Davy}BURN, BABY, BURN!<#>{Толстяк Дэви}ГОРИ, ДЕТКА, ГОРИ!
-{Scrawny Davy}Whew...<#>{Толстяк Дэви}Фух...
-{Scrawny Davy}Is it hot in here,\. or is it just me?<#>{Толстяк Дэви}Здесь горячо,\. или мне кажется?
-{Scrawny Davy}Heh...\| heh...<#>{Толстяк Дэви}Хе...\| хе...
-{Scrawny Davy}Hey, what's going on back there?!<#>{Толстяк Дэви}Эй, что там происходит?!
-{Scrawny Davy}You guys better not be messing with my-\^<#>{Толстяк Дэви}Ребята, вам лучше не портить мой-\^
+{Scrawny Davy}Hey, what're you pointing at?<#>{Тощий Дэви}Эй, на кого оружие направил?
+{Scrawny Davy}Is there something behind me?<#>{Тощий Дэви}Позади меня кто-то есть?
+{Scrawny Davy}Okay,\. joke's over!<#>{Тощий Дэви}Ладно,\. шутки кончились!
+{Scrawny Davy}It's serious time!<#>{Тощий Дэви}Теперь я серьёзен!
+{Scrawny Davy}Is this some kind of prank?<#>{Тощий Дэви}Это какая-то шутка?
+{Scrawny Davy}There's nothing over there!<#>{Тощий Дэви}Там ничего нет!
+{Scrawny Davy}Oh well, back to business!<#>{Тощий Дэви}Ну ладно, обратно к делу!
+{Scrawny Davy}Ohhhh, no you don't!<#>{Тощий Дэви}Оооо, вы это не сделаете!
+{Scrawny Davy}We're not doing this song and dance again!<#>{Тощий Дэви}Никаких танцев и плясок!
+{Scrawny Davy}Again with this?<#>{Тощий Дэви}Снова это?
+{Scrawny Davy}Seriously,\. what IS it?!<#>{Тощий Дэви}Серьёзно,\. ЧТО это?!
+{Scrawny Davy}We're cookin' with gas now!<#>{Тощий Дэви}Теперь мы готовим на газу!
+{Scrawny Davy}C'mon,\. chums,\. let's get SPICY!<#>{Тощий Дэви}Давайте,\. друзья,\. ПООСТРЕЕ!
+{Scrawny Davy}BURN, BABY, BURN!<#>{Тощий Дэви}ГОРИ, ДЕТКА, ГОРИ!
+{Scrawny Davy}Whew...<#>{Тощий Дэви}Фух...
+{Scrawny Davy}Is it hot in here,\. or is it just me?<#>{Тощий Дэви}Здесь горячо,\. или мне кажется?
+{Scrawny Davy}Heh...\| heh...<#>{Тощий Дэви}Хе...\| хе...
+{Scrawny Davy}Hey, what's going on back there?!<#>{Тощий Дэви}Эй, что там происходит?!
+{Scrawny Davy}You guys better not be messing with my-\^<#>{Тощий Дэви}Ребята, вам лучше не портить мой-\^
 {Serjio Oman}In the name of the Elder, I shall cut you down!<#>{Серхио Оман}Во имя Старейшины, я тебя убью!
 {Serjio Oman}I won't be felled by the likes of you!<#>{Серхио Оман}Я не позволю таким, как вы, меня сокрушить!
 {Serjio Oman}Where did we go so wrong...?<#>{Серхио Оман}Где мы так ошиблись...?
