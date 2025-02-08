@@ -4886,7 +4886,7 @@ We were just leaving.*leave*<#>Мы уходим. *уйти*
 \et[11]A.K.A. 'Bad Angel';<#>Также "Плохой ангел";
 \et[11]A.K.A. 'Serbian Knife Fight'-<#>Также "Сербский ножевой вояка"-
 \et[6]Please...<#>Пожалуйста...
-\et[6]... I go by\#\C[21]Gold Diamond\C[0] now.<#>...Теперь меня зовут\#\C[21]Голд Даймонд\C[0].
+\et[6]... I go by\#\C[21]Gold Diamond\C[0] now.<#>...Теперь меня зовут\#\C[21]Золотой Бубен\C[0].
 \et[11]Aw, that's\#lethal-fresh!<#>О, это\#убийственно свежо!
 \et[6]You like? It's pretty\#iconic isn't it.<#>Нравится? Довольно\#символично.
 \et[11]I feel this\#one will stick.<#>Я чувствую, что это\#имя задержится.
@@ -8114,12 +8114,12 @@ He is dead.<#>Он мёртв.
 \et[005]I've grown\#fond of the\#Franchise style.<#>Я полюбил\#стиль Франишзы.
 \et[005]It's a\#look to\#DIE for.<#>За такую одежду\#можно и\#УМЕРЕТЬ.
 \et[006]Those jerseyheads\#wanna cramp our style.<#>Эти маечники хотят\#потеснить наш стиль.
-\et[006]But as long\#as Gold Diamond's\#on our side,\. they\#can't touch The Corps!<#>Но пока Голд\#Даймонд на\#нашей стороне,\.\#им не тронуть Корпов!
+\et[006]But as long\#as Gold Diamond's\#on our side,\. they\#can't touch The Corps!<#>Но пока Золотой\#Бубен на нашей\#стороне,\. им не\#тронуть Корпов!
 \et[006]If they come\#'round here,\. we'll\#make 'em all\#taste the dirt.<#>Если они придут\#сюда,\. мы быстро\#заставим их\#глотать пыль.
 \et[006]The Game\#had no pizazz\#before John J.<#>В игре не было\#никакого Шика,\#до Джона Джея.
 \et[006]Everything was\#tacky and boring.<#>Всё было однообразным\#и скучным.
 \et[006]What good is\#bloodshed without\#some flair to it?<#>Какая польза от\#кровопролития\#без изюминки в нём?
-\et[006]That Gold\#Diamond really\#set things straight.<#>Этот Голд Даймонд\#быстро направил\#всё в правильное русло.
+\et[006]That Gold\#Diamond really\#set things straight.<#>Этот Золотой Бубен\#быстро направил\#всё в правильное русло.
 \et[006]Who knew\#red,\. green,\.\#and gold went\#so well together?<#>Кто знал что\#красный,\.\#зелёный и золотой\#так хорошо сочетаются?
 \et[006]The Franchise\#was onto\#something\#all along!<#>Франшиза всегда\#была на верном\#пути!
 \et[006]I feel\#fresh as\#a spring breeze.<#>Я свеж, как\#утренняя\#роса.
@@ -8127,7 +8127,7 @@ He is dead.<#>Он мёртв.
 \et[007]The other\#gangs might as\#well give up.<#>Другие банды\#могут сдаться.
 \et[007]The Corps\#stays winning.<#>Корпы остаются\#победителями.
 \et[007]Not even\#the Franchise\#can change that.<#>Даже Франшиза\#это не изменит.
-\et[007]Gold Diamond\#put crowns on\#our heads and\#said "here be kings."<#>Голд Даймонд\#надел короны\#на наши головы\#и сказал, "вы короли".
+\et[007]Gold Diamond\#put crowns on\#our heads and\#said "here be kings."<#>Золотой Бубен\#надел короны\#на наши головы\#и сказал, "вы короли".
 \et[007]Now even\#the lowliest\#chump can\#be a monarch.<#>Теперь даже\#самый дикий\#придурок может\#быть монархом.
 \et[007]This is\#what it means\#to be with\#The Corps.<#>Вот что значит\#быть с Корпами.
 \et[007]We are kings,\.\#and Downtown\#is our throne.<#>Мы короли,\.\#и город -\#наш трон.
@@ -8304,7 +8304,7 @@ He is dead.<#>Он мёртв.
 \et[014]There is\#no City,\. and\#there is\#no future!<#>Нет города,\.\#нет никакого\#будущего!
 \et[014]All we\#have left\#is "The Game."<#>Всё, что\#у нас осталось,\#"Игра".
 \et[014]When that bird\#gets taken off\#the air,\. who\#will they listen to?<#>Когда эту\#птицу собьют,\.\#кого они будут\#слушать?
-\et[014]We need\#Gold Diamond\#to lead us\#to victory!<#>Нужно, чтобы\#Голд Даймонд\#привёл нас\#к победе.
+\et[014]We need\#Gold Diamond\#to lead us\#to victory!<#>Нужно, чтобы\#Золотой Бубен\#привёл нас\#к победе.
 \et[015]Ugh...<#>Эх...
 \et[015]As if things\#couldn't get any\#more boring.<#>Как будто\#скучнее быть\#не может.
 \et[015]At least the\#talkshow guy\#was funny.<#>По крайней\#мере, парень из\#ток-шоу был смешным.
@@ -8946,7 +8946,7 @@ Lost his head.<#>Потерял свою голову.
 Semi-truck crushed like a can.<#>Грузовик раздавлен, как консервная банка.
 <!-- Map282.rvdata2 --><#>Пещера с плохим ангелом бомбером
 <!-- Order: 252 --><#>
-\et[001]Those Gold Diamond\#dickheads stole my spray\#can and chucked it\#into the salt lake.<#>Эти Голд Даймондовские\#мудаки украли мой\#баллончик со спреем и\#выкинули его в солёное озеро.
+\et[001]Those Gold Diamond\#dickheads stole my spray\#can and chucked it\#into the salt lake.<#>Эти Золотобубновские\#мудаки украли мой\#баллончик со спреем и\#выкинули его в солёное озеро.
 \et[001]My last can...<#>Мой последний баллончик...
 \et[001]My career's\#over...\| over!<#>Моя карьера окончена...\|\#окончена!
 \et[001]What's a\#bomber without\#his bomb?<#>Какой из меня бомбер\#без моей бомбы?
