@@ -318,7 +318,7 @@ thrusts down!<#>ударяет вниз!
 Side Kick<#>Удар ногой
 performs a side kick!<#>делает сайд-кик!
 Flying Axe Kick<#>Удар летящего топора
-(WWD) Works your leg like a guillotine.\#Has a low chance of bleeding the enemy.<#>(WWD) Работайте ногой, как гильотиной.\#Имеет низкий шанс вызвать кровотечение у врага.
+(WWD) Works your leg like a guillotine.\#Has a low chance of bleeding the enemy.<#>(WWD) Работайте ногой, как гильотиной.\#Имеет низкий шанс вызвать у врага кровотечение.
 hacks through air!<#>прорубает сквозь воздух!
 Goat Kick<#>Козлиный удар
 (DDD) A no-nonsense, double back kick.\#May launch enemy into the air. Costs 70 HP.<#>(DDD) Серьёзный удар обеими ногами.\#Может подбросить врага в воздух. Стоит 70 ОЗ.
