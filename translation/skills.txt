@@ -124,7 +124,7 @@ is glaring at you...<#>глядит на вас...
 coughed up blood!<#>кашляет кровью!
 realized he's outnumbered!<#>понял, что он в меньшинстве!
 flails!<#>замахивается!
-vibrates with rage!<#>преисполняется яростью!
+vibrates with rage!<#>наполняется яростью!
 threw a bottle!<#>кидает бутылку!
 threw a petroleum firebomb!<#>кидает бензиновую бомбу!
 unleashes a direct hit!<#>наносит прямой удар!
