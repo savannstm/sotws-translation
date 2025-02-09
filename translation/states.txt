@@ -71,7 +71,7 @@ Rupture<#>Вспорот
 is painting the room red!<#>окрашивает стены в красный!
 just popped!<#>оказался вспорот!
 is leak free.<#>истекает кровью.
-Spooked<#>Напуганность
+Spooked<#>Испуг
 is startled!<#>пугается!
 is shivering.<#>дрожит.
 regains his composure.<#>восстанавливает самообладание.
