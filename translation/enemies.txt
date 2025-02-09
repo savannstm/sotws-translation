@@ -29,13 +29,13 @@ Alejandro Babbage<#>Алехандро Бэббэдж
 Clyde Cyclone<#>Клайд Циклон
 Obsessed Bag<#>Одержимый пакет
 Cruel Sack<#>Жестокий пакет
-Raymund Ripe<#>Рэймунд Райп
+Raymund Ripe<#>Рэймонд Райп
 Silvester de Maistre<#>Сильвестр де Мейстр
 Avatar of Hatred<#>Отражение ненависти
 Donnie Sand<#>Донни Сэнд
 Ross Hillock<#>Росс Хиллок
 Kirf Dinkle<#>Кирф Динкл
-Shadowy Figure<#>Тёмная фигура
+Shadowy Figure<#>Тёмный силуэт
 Infinimobile<#>Бесконечномобиль
 Tingles The Clown<#>Клоун Тинглс
 Onion Ploom<#>Онион Плум
@@ -54,7 +54,7 @@ Russel Bats<#>Рассел Бэтс
 Chandler Sinclair<#>Чендлер Синклер
 Tibby Dobs<#>Тибби Добс
 Stefan Kindchild<#>Стефан Добряк
-Television<#>Телевидение
+Television<#>Телевизор
 No One in Particular<#>Никто особенный
 Augustus Estrada<#>Август Эстрада
 Twisty<#>Извилистый
@@ -69,13 +69,13 @@ Demon-Eye Fishman<#>Рыболюд с дьявольским оком
 Elder Fishman<#>Пожилой рыболюд
 Garbage Gull<#>Мусорная чайка
 Gunther Scourge<#>Гюнтер Бич
-Serpentine Figure<#>Змеевидная фигура
-Amorphous Figure<#>Аморфная фигура
-Contorted Figure<#>Искажённая фигура
-Looming Figure<#>Нависающая фигура
+Serpentine Figure<#>Змеевидный силуэт
+Amorphous Figure<#>Аморфный силуэт
+Contorted Figure<#>Искажённый силуэт
+Looming Figure<#>Нависающий силуэт
 Gremory Gorgonzola<#>Гремори Горгонзола
 Flailing Centipede<#>Изворачивающаяся многоножка
-Mine Creature<#>Шахтёр-монстр
+Mine Creature<#>Монстр-шахтёр
 Chriss Bellucci<#>Крисс Белуччи
 Mes Tez<#>Мес Тез
 Wing Sping<#>Винг Спинг
