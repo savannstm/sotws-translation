@@ -149,9 +149,9 @@ is back to their feet!<#>снова на ногах!
 Cool<#>Крутость
 is cool as a cucumber!<#>круче, чем варёные яйца!
 is fresh.<#>крут.
-became lame again.<#>снова отстой.
+became lame again.<#>снова отстойный.
 Super Cool<#>Супер-крутость
-is cooler than cool!<#>круче крутых яиц!
+is cooler than cool!<#>круче варёных яиц!
 is fresh as fuck.<#>пиздецки крут.
 Defend<#>Защита
 is protecting himself!<#>защищается!
