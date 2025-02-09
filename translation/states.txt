@@ -105,13 +105,13 @@ is tearing up.<#>разражается слезами.
 has tears in his eyes.<#>смотрит сквозь слёзы.
 stopped crying.<#>прекращает плакать.
 Paralysis<#>Паралич
-becomes paralyzed!<#>парализуется!
+becomes paralyzed!<#>парализован!
 is paralyzed!<#>парализован!
 is struggling to move!<#>не может двинуться!
 's body returns to normal!<#>возвращается в норму!
 Weird<#>Странность
 starts to feel weird...<#>чувствует себя странно...
-feels weird...<#>продолжает чувствовать себя странно...
+feels weird...<#>всё ещё чувствует себя странно...
 feels relieved.<#>чувствует облегчение.
 Bleed<#>Кровотечение
 's been cut open!<#>был вспорот!
@@ -152,7 +152,7 @@ is fresh.<#>чувствует себя круто.
 became lame again.<#>снова отстой.
 Super Cool<#>Супер-крутость
 is cooler than cool!<#>круче крутых яиц!
-is fresh as fuck.<#>чувствует себя пиздецки круто.
+is fresh as fuck.<#>пиздецки крут.
 Defend<#>Защита
 is protecting himself!<#>защищается!
 is protected.<#>защищён.
@@ -170,14 +170,14 @@ is partying hard!<#>жёстко веселится!
 lost the desire to party...<#>теряет желание веселиться...
 Depression<#>Расстроенность
 is depressed.<#>расстроен.
-Fluid<#>Текучесть
+Fluid<#>Течение
 assumes a relaxed stance!<#>принимает расслабленую стойку!
 flows like water.<#>бежит, словно вода.
 has lost his groove.<#>потерял чакру.
 Uncertain<#>Неуверенность
 doesn't know what's going on!<#>не знает, что происходит!
 isn't sure what to believe.<#>не знает, чему верить.
-quelled their apprehension.<#>развеивает в себе неясность.
+quelled their apprehension.<#>развеивает неясность.
 Enlightened<#>Просветление
 opens his third eye.<#>открывает третий глаз.
 knows all.<#>знает всё.
@@ -226,8 +226,8 @@ lost their lethality.<#>потерял убийственность.
 Gross Out<#>Отвращение
 is disgusted.<#>находится в омерзении.
 Bullied<#>Травля
-is being picked on!<#>- цель травли!
-is a target of abuse.<#>всё ещё затравлен.
+is being picked on!<#>становится целью травли!
+is a target of abuse.<#>- цель травли.
 was left alone.<#>оставлен в покое.
 Presence<#>Присутствие
 's got a dominating aura.<#>обладает тяжёлой аурой.
