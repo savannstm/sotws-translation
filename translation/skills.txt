@@ -313,13 +313,13 @@ Ascending Claw<#>Восходящий коготь
 thrusts up!<#>ударяет ввысь!
 Descending Claw<#>Нисходящий коготь
 thrusts down!<#>ударяет вниз!
-Side Kick<#> ногой
+Side Kick<#>Удар ногой
 performs a side kick!<#>делает сайд-кик!
 Flying Axe Kick<#>Удар летящего топора
 (WWD) Works your leg like a guillotine.\#Has a low chance of bleeding the enemy.<#>(WWD) Работайте ногой, как гильотиной.\#Имеет низкий шанс вызвать у врага кровотечение.
 hacks through air!<#>прорубает сквозь воздух!
 Goat Kick<#>Козлиный удар
-(DDD) A no-nonsense, double back kick.\#May launch enemy into the air. Costs 70 HP.<#>(DDD) Серьёзный  обеими ногами.\#Может подбросить врага в воздух. Стоит 70 ОЗ.
+(DDD) A no-nonsense, double back kick.\#May launch enemy into the air. Costs 70 HP.<#>(DDD) Серьёзный удар обеими ногами.\#Может подбросить врага в воздух. Стоит 70 ОЗ.
 delivers a goat-like buck!<#>лягает, словно козёл!
 The Minor Iris<#>Малый Ирис
 (WAS) The first supreme technique of the Velvet\#Style. Pierces defenses, but puts you off balance.<#>(WAS) Первая продвинутая техника Вельветового\#стиля. Пробивает защиту, но вы теряете равновесие.
