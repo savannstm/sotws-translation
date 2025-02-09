@@ -7,12 +7,12 @@ is poisoned!<#>отравлен!
 is aching real bad.<#>испытывает сильную боль.
 is freed of poison!<#>оправился от отравления!
 Blind<#>Слепота
-becomes blind!<#>ослепает!
+becomes blind!<#>слепнет!
 is blinded!<#>ослеплён!
 can't see a damn thing!<#>ни черта не видит!
 is no longer blinded!<#>снова видит!
 Silence<#>Заглушение
-doesn't feel worthwhile.<#>чувствует себя ничтожным.
+doesn't feel worthwhile.<#>чувствует себя ничтожно.
 wants to do cool moves again!<#>снова хочет делать крутые штуки!
 Confusion<#>Замешательство
 became very confused...<#>сильно растерялся...
@@ -25,12 +25,12 @@ is snoozing.<#>дремлет.
 wakes up!<#>просыпается!
 Scared<#>Страх
 is petrified with fear!<#>наполняется страхом!
-is scared stiff.<#>застыл в страхе.
+is scared stiff.<#>застывает в страхе.
 is no longer afraid!<#>больше не боится!
 Stun<#>Оглушение
 is seeing stars!<#>видит перед собой звёзды!
 is stunned!<#>оглушён!
-regains focus!<#>вновь фокусируется!
+regains focus!<#>вновь концентрируется!
 Guard<#>Защита
 puts his guard up.<#>встаёт в защиту.
 is protecting himself.<#>защищается.
@@ -42,28 +42,28 @@ is being heroic.<#>геройствует.
 falls back!<#>отходит!
 Rage<#>Ярость
 became enraged!<#>впадает в ярость!
-is filled with anger!<#>наполнен злобой!
+is filled with anger!<#>наполняется злобой!
 calms down.<#>успокаивается.
 Hide<#>Укрытие
 took cover!<#>укрывается!
 is out of sight.<#>вне поля зрения.
-was found!<#>был найден!
+was found!<#>обнаружен!
 Broken Bones<#>Сломанные кости
 got some bones shattered!<#>сломал несколько костей!
 feels the crunch!<#>слышит хруст!
 's bones are mended!<#>восстановил кости!
 Brain Damage<#>Мозговая травма
 stroked out!<#>страдает от инсульта!
-is experiencing a cerebral vacation!<#>находится на церебральном отпуске!
+is experiencing a cerebral vacation!<#>находится в церебральном отпуске!
 's brain ain't swollen no more.<#>достаёт мозги из микроволновки.
 Heart Attack<#>Сердечный приступ
 is having a heart attack!<#>испытывает сердечный приступ!
-is having mysterious chest pains!<#>испытывает неизвестные боли в груди!
-'s ol' ticker is back in force!<#>снова настраивает свои часы!
+is having mysterious chest pains!<#>испытывает странные боли в груди!
+'s ol' ticker is back in force!<#>возвращает свой движок в норму!
 Ironbody<#>Железное тело
 became stiff as stone!<#>затвердевает, как камень!
-is buffed up!<#>усилен!
-'s muscles loosened up.<#>расслабляет мышцы.
+is buffed up!<#>напрягает мышцы!
+'s muscles loosened up.<#>расслабил мышцы.
 Counterattack<#>Контратака
 Aid<#>Помощь
 is receiving serious aid!<#>получает серьёзную помощь!
@@ -71,31 +71,31 @@ Rupture<#>Вспорот
 is painting the room red!<#>окрашивает стены в красный!
 just popped!<#>оказался вспорот!
 is leak free.<#>истекает кровью.
-Spooked<#>Напуган
-is startled!<#>напгуан!
+Spooked<#>Испуг
+is startled!<#>пугается!
 is shivering.<#>дрожит.
 regains his composure.<#>восстанавливает самообладание.
-Geared Up<#>Снаряжён
-is ready to do some damage!<#>готов нанести урон!
-teems with power!<#>изобилует силой!
+Geared Up<#>Наготове
+is ready to do some damage!<#>готов устроить взбучку!
+teems with power!<#>наполняется силой!
 loses the energy.<#>теряет энергию.
 Levitate<#>Левитация
-ascends.<#>возвышается.
+ascends.<#>возносится.
 is looking down on you chumps.<#>смотрит на вас сверху вниз.
 has been shot DOWN!<#>был СБИТ!
 Winded<#>Одышка
-lost his breath!<#>теряет дыхание!
+lost his breath!<#>не может дышать!
 is gasping for air!<#>задыхается!
 is catching his breath.<#>пытается дышать!
-regains his tempo.<#>возвращает дыхание!
+regains his tempo.<#>снова дышит.
 Burning<#>Горение
 is on fire!<#>в огне!
-is burning bright.<#>ярко светится.
+is burning bright.<#>ясно горит.
 's flames went out!<#>тушит себя!
 Deep Poison<#>Сильное отравление
-is poisoned badly!<#>сильно отравлён!
-feels like he's going to die.<#>думает, что сейчас умрёт.
-Wary<#>Нервность
+is poisoned badly!<#>тяжело отравлен!
+feels like he's going to die.<#>чувствует себя так, будто сейчас умрёт.
+Wary<#>Беспокойство
 is on the edge!<#>на грани!
 is stressed!<#>на нервах!
 is stressing out!<#>срывается!
@@ -105,20 +105,20 @@ is tearing up.<#>разражается слезами.
 has tears in his eyes.<#>смотрит сквозь слёзы.
 stopped crying.<#>прекращает плакать.
 Paralysis<#>Паралич
-becomes paralyzed!<#>парализует!
+becomes paralyzed!<#>парализован!
 is paralyzed!<#>парализован!
 is struggling to move!<#>не может двинуться!
 's body returns to normal!<#>возвращается в норму!
 Weird<#>Странность
-starts to feel weird...<#>чувствует себя странно...
+starts to feel weird...<#>обретает странное чувство...
 feels weird...<#>чувствует себя странно...
 feels relieved.<#>чувствует облегчение.
 Bleed<#>Кровотечение
 's been cut open!<#>был вспорот!
 is bleeding out!<#>истекает кровью!
-stopped bleeding!<#>остановил кровотечение!
-Ticketed<#>Метка
-feels ashamed of himself.<#>стыдится самого себя.
+stopped bleeding!<#>останавливает кровотечение!
+Ticketed<#>Штраф
+feels ashamed of himself.<#>стыдится себя.
 Drunk<#>Опьянение
 got absolutely hammered.<#>размазан в стельку.
 is drunk off his ass.<#>чертовски пьян.
@@ -126,18 +126,18 @@ sobered up.<#>протрезвел.
 Stink<#>Вонь
 stinks to high hell.<#>чертовский воняет.
 smells like a dumpster fire.<#>воняет сожжённым мусором.
-freshened up.<#>освежился.
+freshened up.<#>освежается.
 Pissed<#>Гнев
 sees red!<#>разгневан!
 is a lunatic! Watch out!<#>безумствует! Осторожно!
-calmed down.<#>успокоился.
+calmed down.<#>успокаивается.
 Taunt<#>Провокация
 steals the spotlight!<#>переключает внимание на себя!
 is attracting attention!<#>привлекает внимание!
-lost everyone's attention.<#>потерял чужое внимание.
+lost everyone's attention.<#>теряет чужое внимание.
 Withdrawal<#>Ломка
 is craving Joy.<#>жаждет Джоя.
-fought off his craving.<#>поборол ломку.
+fought off his craving.<#>преодолевает ломку.
 Joyed<#>Радость
 is over Joyed.<#>переполнен радостью.
 feels nothing.<#>ничего не чувствует.
@@ -147,37 +147,37 @@ falls on his ass!<#>падает на задницу!
 is trying to get up.<#>пытается встать.
 is back to their feet!<#>снова на ногах!
 Cool<#>Крутость
-is cool as a cucumber!<#>крут, как варёные яйца!
-is fresh.<#>свеж.
-became lame again.<#>снова неудачник.
+is cool as a cucumber!<#>круче, чем варёные яйца!
+is fresh.<#>крут.
+became lame again.<#>снова отстойный.
 Super Cool<#>Супер-крутость
-is cooler than cool!<#>круче чем яйцо!
-is fresh as fuck.<#>пиздец как свеж.
+is cooler than cool!<#>круче варёных яиц!
+is fresh as fuck.<#>пиздецки крут.
 Defend<#>Защита
 is protecting himself!<#>защищается!
 is protected.<#>защищён.
 drops his guard.<#>ослабляет бдительность.
 Extorted<#>Шантаж
 is being extorted!<#>подвергается шантажу!
-stood up for it's beliefs.<#>остался верен своим принципам.
+stood up for it's beliefs.<#>остаётся верен своим принципам.
 Oiled Up<#>Масло
 is covered in oil!<#>покрыт маслом!
 is slippery.<#>маслянный.
-cleaned themselves off.<#>очистил себя от масла.
+cleaned themselves off.<#>очищает себя от масла.
 Party Mode<#>Вечеринка
 can't stop grooving!<#>не может перестать зависать!
 is partying hard!<#>жёстко веселится!
-lost the desire to party...<#>потерял желание веселиться...
+lost the desire to party...<#>теряет желание веселиться...
 Depression<#>Расстроенность
 is depressed.<#>расстроен.
-Fluid<#>Жидкость
+Fluid<#>Течение
 assumes a relaxed stance!<#>принимает расслабленую стойку!
 flows like water.<#>бежит, словно вода.
 has lost his groove.<#>потерял чакру.
 Uncertain<#>Неуверенность
 doesn't know what's going on!<#>не знает, что происходит!
 isn't sure what to believe.<#>не знает, чему верить.
-quelled their apprehension.<#>развеял в себе неясность.
+quelled their apprehension.<#>развеивает неясность.
 Enlightened<#>Просветление
 opens his third eye.<#>открывает третий глаз.
 knows all.<#>знает всё.
@@ -190,7 +190,7 @@ is dead!<#>мёртв!
 is dead.<#>мёртв.
 Armed<#>Вооружён
 is packing!<#>вооружается!
-was disarmed.<#>был безоружен.
+was disarmed.<#>обезоружен.
 Disarmed<#>Безоружен
 has lost his weapon.<#>потерял своё оружие.
 Infinitized<#>Бесконечность
@@ -206,13 +206,13 @@ soaks in the filth.<#>возится в грязи.
 can't scrub it off.<#>не может отмыться.
 no longer feels dirty.<#>больше не грязный.
 Flustered<#>Возбуждение
-becomes flustered!<#>возбуждён!
+becomes flustered!<#>возбуждается!
 is flustered!<#>возбуждён!
 is experiencing a sexual quandary.<#>испытывает сексуальное влечение.
 is no longer flustered!<#>больше не возбуждён.
 Tense<#>Напряжение
 's eyes dart around.<#>бегает глазами по окружению.
-lost concentration.<#>расслабился.
+lost concentration.<#>расслабляется.
 Off Balance<#>Потеря равновесия
 is wobbly.<#>шатается.
 has regained balance.<#>восстановил равновесие.
@@ -225,17 +225,17 @@ will kill.<#>будет убивать.
 lost their lethality.<#>потерял убийственность.
 Gross Out<#>Отвращение
 is disgusted.<#>находится в омерзении.
-Bullied<#>Задирание
-is being picked on!<#>становится целью задирания!
-is a target of abuse.<#>- цель задирания.
-was left alone.<#>был оставлен в покое.
+Bullied<#>Травля
+is being picked on!<#>становится целью травли!
+is a target of abuse.<#>- цель травли.
+was left alone.<#>оставлен в покое.
 Presence<#>Присутствие
 's got a dominating aura.<#>обладает тяжёлой аурой.
 is sinister.<#>навевает жуть.
 looms menacingly.<#>выглядит угрожающе.
-lost relevance.<#>потерял присутствие.
+lost relevance.<#>потерял значимость.
 Twisted<#>Закрученность
-contorts.<#>закрученность.
+contorts.<#>закручивается.
 is coiled like a snake.<#>скручен, как змея.
 loosens up.<#>восстанавливает форму.
 Brave<#>Храбрость
@@ -245,7 +245,7 @@ is unwavering.<#>непоколебим.
 Mindful<#>Осознание
 knows just what to do!<#>знает, что нужно делать!
 came up with a plan!<#>придумал план!
-is on top of things.<#>смотрит насковзь.
+is on top of things.<#>видит насквозь.
 's plan fell through.<#>забраковал свой план.
 Nauseated<#>Тошнота
 is feeling sick.<#>чувствует тошноту.
@@ -254,8 +254,8 @@ feels better again.<#>чувствует себя лучше.
 Flying<#>Полёт
 is sky high.<#>высоко в небесах.
 is soaring.<#>парит.
-was grounded.<#>приземлился.
-Fried<#>Фри
+was grounded.<#>приземляется.
+Fried<#>Прожарка
 's Baby Fishman was cooked!<#>видит, как малыша-рыболюда жарят!
 's Baby Fishman is recovering.<#>видит, что малыш-рыболюд восстанавливается.
 's Baby Fishman is back in action!<#>видит, что малыш-рыболюд возвращается в бой!
@@ -263,7 +263,7 @@ Wet<#>Намокание
 was drenched!<#>промок!
 is soaking.<#>мокрый.
 dried off.<#>высох.
-Electrifed<#>Электричество
+Electrifed<#>Заряд
 is juiced up!<#>заряжается!
 crackles with power.<#>трещит энергией.
 lost their charge.<#>потерял заряд.
@@ -274,7 +274,7 @@ lost his resolve!<#>потерял стойкость!
 Cowboy<#>Ковбой
 is ready to duel!<#>готов к дуэли!
 is ready to fire.<#>готов стрелять.
-lost his mojo.<#>передумал.
+lost his mojo.<#>теряет пыл.
 Exhausted<#>Истощение
 is worn out!<#>истощился!
 is worn out.<#>истощён.
@@ -289,7 +289,7 @@ feels light as a feather!<#>лёгок, как пушинка!
 is quick and nimble.<#>быстр и проворен.
 stiffened up.<#>остановился.
 Pretending<#>Притворство
-has "fallen."<#>"ноукаутирован".
+has "fallen."<#>"в нокауте".
 is playing dead.<#>притворяется мёртвым.
 is back in the game!<#>снова в игре!
 Loaded<#>Снаряжён
@@ -314,7 +314,7 @@ is unstoppable.<#>неостановим.
 was disarmed!<#>был обезоружен!
 is back in action!<#>вернулся в бой!
 Furious<#>Свирепость
-is going off the rails!<#>сходит с рельс!
+is going off the rails!<#>слетает с катушек!
 is filled with wrath!<#>разъярён!
 simmered down.<#>остыл.
 Fortified<#>Укрепление
@@ -333,4 +333,4 @@ is hungover.<#>с похмелья.
 's headache went away.<#>справился с головной болью.
 Itchy<#>Зуд
 's body feels strange.<#>испытывает странный зуд.
-itches all over.<#>зудится повсюду.
+itches all over.<#>зудится по всему телу.
