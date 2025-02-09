@@ -94,7 +94,7 @@ is burning bright.<#>ясно горит.
 's flames went out!<#>тушит себя!
 Deep Poison<#>Сильное отравление
 is poisoned badly!<#>тяжело отравлен!
-feels like he's going to die.<#>думает, что сейчас умрёт.
+feels like he's going to die.<#>чувствует себя так, будто сейчас умрёт.
 Wary<#>Беспокойство
 is on the edge!<#>на грани!
 is stressed!<#>на нервах!
