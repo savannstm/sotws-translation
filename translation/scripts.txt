@@ -13,34 +13,34 @@ File<#>Файл
 %s was surprised!<#>%s был удивлен!
 %s has started to escape!<#>%s пытается сбежать!
 You can't escape!<#>Вы не можете сбежать!
-%s was victorious!<#>%s одержала победу!
-%s was defeated.<#>%s была повержена.
+%s was victorious!<#>%s одерживает победу!
+%s was defeated.<#>%s терпит поражение.
 %s EXP received!<#>%s опыта получено!
 %s\\Mags found!<#>%s журналов найдено!
-%s found!<#>%s найдено!
+%s found!<#>Вы нашли %s!
 %s is now %s %s!<#>%s теперь %s %s!
-%s learned!<#>%s изучен!
+%s learned!<#>Изучен навык - %s!
 %s uses %s!<#>%s использует %s!
-An excellent hit!!<#>Отличный удар!!
-A painful blow!!<#>Болезненный удар!!
-%s took %s damage!<#>%s получил %s урона!
-%s recovered %s %s!<#>%s восстановил %s %s!
-%s gained %s %s!<#>%s получил %s %s!
-%s lost %s %s!<#>%s потерял %s %s!
+An excellent hit!!<#>Отличный удар!
+A painful blow!!<#>Болезненный удар!
+%s took %s damage!<#>%s получает %s урона!
+%s recovered %s %s!<#>%s восстанавливает %s %s!
+%s gained %s %s!<#>%s получает %s %s!
+%s lost %s %s!<#>%s теряет %s %s!
 %s was drained of %s %s!<#>Из %s высосали %s %s!
-%s took no damage!<#>%s не получил урона!
-Miss! %s took no damage!<#>Промах! %s не получил урона!
+%s took no damage!<#>%s не получает урона!
+Miss! %s took no damage!<#>Промах! %s не получает урона!
 Drained %s %s from %s!<#>Высосано %s %s из %s!
-Missed! %s took no damage!<#>Промах! %s не получил урона!
-%s evaded the attack!<#>%s уклонился от атаки!
-%s nullified the power!<#>%s аннулировал силу!
-%s reflected the power!<#>%s отразил силу!
-%s counterattacked!<#>%s контратаковал!
-%s protected %s!<#>%s защитил %s!
-%s's %s went up!<#>%s %s поднялось!
-%s's %s went down!<#>%s %s упало!
-%s's %s returned to normal.<#>%s's %s вернулся в нормальное состояние.
-There was no effect on %s!<#>Никакого эффекта на %s!
+Missed! %s took no damage!<#>Промах! %s не получает урона!
+%s evaded the attack!<#>%s уклоняется от атаки!
+%s nullified the power!<#>%s аннулирует способность!
+%s reflected the power!<#>%s отражает способность!
+%s counterattacked!<#>%s контратакует!
+%s protected %s!<#>%s защищает %s!
+%s's %s went up!<#>%s увеличивает %s!
+%s's %s went down!<#>%s уменьшает %s!
+%s's %s returned to normal.<#>%s возвращает %s в нормальное состояние.
+There was no effect on %s!<#>%s игнорирует!
 All Foes<#>Все враги
 One Random Foe<#>Один случайный враг
 %d Random Foes<#>%d случайных врагов
@@ -62,7 +62,7 @@ RESIST<#>СОПРОТИВЛЕНИЕ
 IMMUNE<#>ИММУНИТЕТ
 ABSORB<#>ПОГЛОЩЕНИЕ
 BUFF<#>БОНУС
-DEBUFF<#>СТАТУС
+DEBUFF<#>ОСЛАБЛЕНИЕ
 Execute<#>Исполнить
 Input Attacks<#>Ввод атак
 Change<#>Изменить
@@ -75,9 +75,9 @@ Finish<#>Завершить
 Equipment<#>Снаряжение
 New Skills<#>Новые навыки
 Your gang<#>Ваша группа
-%s won the battle.<#>%s выиграла битву.
-%s has leveled up!<#>%s повысил свой уровень!
-Leftovers<#>Остатки
+%s won the battle.<#>%s выигрывает битву.
+%s has leveled up!<#>%s повышает уровень!
+Leftovers<#>Добыча
 +%sEXP<#>+%s ОПЫТА
 LEVEL UP!<#>НОВЫЙ УРОВЕНЬ!
 MAX LEVEL<#>МАКС. УРОВЕНЬ
@@ -93,7 +93,7 @@ MAX LEVEL<#>МАКС. УРОВЕНЬ
 "To the victor goes the spoils."<#>"Добыча достаётся победителю."
 "The enemies dropped something!"<#>"Враги что-то обронили!"
 "Hey, what\'s this?"<#>"О, что это?"
- NOW<#>ТЕПЕРЬ
+ NOW<#>СЕЙЧАС
 Options/Quit<#>Настройки/Выход
 OFF<#>ВЫКЛ
 ON<#>ВКЛ
@@ -107,7 +107,7 @@ Window Blue<#>Синий цвет
 Change the blue colour tone for windows.\n<#>Изменить оттенок синего цвета для окон.\n
 BGM Volume<#>Громкость фоновой музыки
 Change the volume used for background music.\n<#>Изменить громкость фоновой музыки.\n
-BGS Volume<#>Громкость фоновых звуков.
+BGS Volume<#>Громкость фоновых звуков
 Change the volume used for background sound.\n<#>Изменить громкость фоновых звуков.\n
 SFX Volume<#>Громкость эффектов
 Change the volume used for sound effects.\n<#>Изменить громкость звуковых эффектов.\n
@@ -127,21 +127,21 @@ Return to Title Screen<#>Выйти в главное меню
 Go back to the title screen.<#>Вернуться в главное меню.
 Quit Game<#>Выйти из игры
 Quit the game.<#>Выйти из игры.
-Welcome! Take a look around!<#>Добро пожаловать! Осмотритесь вокруг!
+Welcome! Take a look around!<#>Добро пожаловать! Взгляните на товар!
 Thank you for your purchase!<#>Благодарю за покупку!
 I'll make good use of this.<#>Я найду этому применение.
 Do you need anything else?<#>Нужно что-нибудь ещё?
-Just window shopping, huh?<#>Просто глазеешь, а?
+Just window shopping, huh?<#>Просто глазеешь, да?
 Are you wasting my time or what?<#>Ты тратишь моё время?
 You don't have enough money!<#>У тебя недостаточно денег!
 I can't buy that...<#>Я не могу купить это...
 You can't carry any more of that!<#>Больше унести не выйдет!
 Thank you, come back again soon!<#>Спасибо, возвращайтесь!
-You can't view details of that!<#>Ты не можешь узнать подробности!
+You can't view details of that!<#>Тут рассказывать не о чем!
 We are all sold out of those!<#>Мы всё распродали!
 In Inventory<#>В инвентаре
 How many?<#>Сколько?
-In Stock<#>в наличии
+In Stock<#>В наличии
 Sold Out<#>Распродано
-Inflicts<#>Наносит
+Inflicts<#>Урон
 Resists<#>Сопротивление

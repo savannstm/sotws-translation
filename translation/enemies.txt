@@ -35,7 +35,7 @@ Avatar of Hatred<#>Аватар ненависти
 Donnie Sand<#>Донни Сэнд
 Ross Hillock<#>Росс Хиллок
 Kirf Dinkle<#>Кирф Динкл
-Shadowy Figure<#>Тёмная фигура
+Shadowy Figure<#>Тёмный силуэт
 Infinimobile<#>Бесконечномобиль
 Tingles The Clown<#>Клоун Тинглс
 Onion Ploom<#>Онион Плум
@@ -54,7 +54,7 @@ Russel Bats<#>Рассел Бэтс
 Chandler Sinclair<#>Чэндлер Синклер
 Tibby Dobs<#>Тибби Добс
 Stefan Kindchild<#>Стефан Добряк
-Television<#>Телевидение
+Television<#>Телевизор
 No One in Particular<#>Никто особенный
 Augustus Estrada<#>Август Эстрада
 Twisty<#>Извилистый
@@ -69,12 +69,12 @@ Demon-Eye Fishman<#>Рыболюд с дьявольским оком
 Elder Fishman<#>Пожилой рыболюд
 Garbage Gull<#>Мусорная чайка
 Gunther Scourge<#>Гюнтер Бич
-Serpentine Figure<#>Змеевидная фигура
-Amorphous Figure<#>Аморфная фигура
-Contorted Figure<#>Искажённая фигура
-Looming Figure<#>Нависающая фигура
+Serpentine Figure<#>Змеевидный
+Amorphous Figure<#>Аморфный силуэт
+Contorted Figure<#>Искажённый силуэт
+Looming Figure<#>Нависающый силуэт
 Gremory Gorgonzola<#>Гремори Горгонзола
-Flailing Centipede<#>Изворачивающаяся многоножка
+Flailing Centipede<#>Изворачивающийся сколопендр
 Mine Creature<#>Шахтёр-монстр
 Chriss Bellucci<#>Крисс Белуччи
 Mes Tez<#>Мес Тез
@@ -147,10 +147,10 @@ June the Goon<#>Юн Придурок
 Ygor Melody<#>Игор Мелодичный
 Scooter Screwloose<#>Скутер Беспредельщик
 Mother Maggot<#>Мать опарышей
-Pile of Maggots<#>Куча опарышей
+Pile of Maggots<#>Комок опарышей
 Mound of Maggots<#>Бугор опарышей
-Clump of Maggots<#>Груда опарышей
-Horde of Maggots<#>Орда опарышей
+Clump of Maggots<#>Холм опарышей
+Horde of Maggots<#>Полчище опарышей
 Olathian Giant Scorpion<#>Олейтский гигантский скорпион
 Chris Kringle<#>Крис Крингл
 Fuel Tank<#>Топливный бак
