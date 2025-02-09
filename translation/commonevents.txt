@@ -42,8 +42,8 @@ Added to key items.<#>Добавлено в ключевые предметы.
 "His name? Larry Davis.<#>"Его имя? Ларри Дэвис."
 "Such a man is obviously a danger to the\#society that Rando wishes to build here.<#>"Такой человек - очевидная опасность для общества,\#которое Рандо желает построить на острове."
 "It is your responsibility to find him and\#put an end to his reign of trash mysticism.<#>"Вас назначают ответственным за его поиск и окончание\#господства мусорного мистицизма."
-"The exact methods of this hit are up to your\#discretion. However, to prove that the deed\#has been done, the body of Larry Davis must\#be recovered and presented to an official.<#>"Вы сами вольны выбрать метод достижения этой цели. \#Однако, чтобы доказать успешность операции,\#необходимо отрезать часть тела Ларри Дэвиса и представить\#официальному лицу.
-"Be absolutely sure that the person\#you decide to kill is indeed Larry\#Davis; there can be no mistakes.<#>"Полностью убедитесь, что человек, которого\#вы собираетесь убить, на самом деле является Ларри Дэвисом:\#у нас нет права на ошибку."
+"The exact methods of this hit are up to your\#discretion. However, to prove that the deed\#has been done, the body of Larry Davis must\#be recovered and presented to an official.<#>"Вы сами вольны выбрать метод достижения этой цели. \#Однако, чтобы доказать успешность операции,\#необходимо отрезать часть тела Ларри Дэвиса\#и представить официальному лицу.
+"Be absolutely sure that the person\#you decide to kill is indeed Larry\#Davis; there can be no mistakes.<#>"Полностью убедитесь, что человек, которого\#вы собираетесь убить, на самом деле является\#Ларри Дэвисом: у нас нет права на ошибку."
 You checked on the Baby Fishman.<#>Вы проверили малыша-рыболюда.
 It's panting.<#>Он задыхается.
 Put the Baby Fishman in\#your Vase of Spring Water?<#>Положить малыша-рыболюда в\#вазу родниковой воды?
@@ -110,7 +110,7 @@ Misdirection<#>Дезориентация
 "CHAPTER 1: INTIMIDATION"<#>"ЧАСТЬ 1: ЗАПУГИВАНИЕ"
 "One of the most important aspects of war\#is being able to challenge your opponent\#mentally as well as physically.<#>"Один из важнейших аспектов войны - уметь\#противостоять соперникам\#как духовно, так и физически."
 "To this end, intimidation is a major\#component of any fighter's toolkit.<#>"И запугивание является важным инструментом\#в наборе каждого бойца."
-"If you can get inside your enemy's head,\#convince them that you are the mightier\#combatant, then you have already won."<#>"Если вы сможете проникнуть в голову\#врага, убедить, что вы более умелый\#боец - вы уже победили."
+"If you can get inside your enemy's head,\#convince them that you are the mightier\#combatant, then you have already won."<#>"Если вы сможете проникнуть в голову\#врага, убедить его, что вы более умелый\#боец - вы уже победили."
 "CHAPTER 2: SCHEMING"<#>"ЧАСТЬ 2: ПЛАНИРОВАНИЕ"
 "As the ancient adage goes,\#knowing is half the battle.<#>"Как гласит древняя пословица,\#знание - это половина битвы."
 "Only a fool goes to war without a proper\#plan of action, but a true tactician is able\#to adapt to changing circumstances.<#>"Лишь дурак пойдёт сражаться без хорошего\#плана действий, но истинный тактик способен\#адаптироваться даже к неожиданным изменениям."
