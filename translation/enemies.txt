@@ -69,13 +69,13 @@ Demon-Eye Fishman<#>Рыболюд с дьявольским оком
 Elder Fishman<#>Пожилой рыболюд
 Garbage Gull<#>Мусорная чайка
 Gunther Scourge<#>Гюнтер Бич
-Serpentine Figure<#>Змеевидный силуэт
+Serpentine Figure<#>Змеевидный
 Amorphous Figure<#>Аморфный силуэт
 Contorted Figure<#>Искажённый силуэт
-Looming Figure<#>Нависающий силуэт
+Looming Figure<#>Нависающый силуэт
 Gremory Gorgonzola<#>Гремори Горгонзола
-Flailing Centipede<#>Изворачивающаяся многоножка
-Mine Creature<#>Монстр-шахтёр
+Flailing Centipede<#>Изворачивающийся сколопендр
+Mine Creature<#>Шахтёр-монстр
 Chriss Bellucci<#>Крисс Белуччи
 Mes Tez<#>Мес Тез
 Wing Sping<#>Винг Спинг
@@ -147,10 +147,10 @@ June the Goon<#>Юн Придурок
 Ygor Melody<#>Игор Мелодичный
 Scooter Screwloose<#>Скутер Беспредельщик
 Mother Maggot<#>Мать опарышей
-Pile of Maggots<#>Куча опарышей
+Pile of Maggots<#>Комок опарышей
 Mound of Maggots<#>Бугор опарышей
-Clump of Maggots<#>Груда опарышей
-Horde of Maggots<#>Орда опарышей
+Clump of Maggots<#>Холм опарышей
+Horde of Maggots<#>Полчище опарышей
 Olathian Giant Scorpion<#>Олейтский гигантский скорпион
 Chris Kringle<#>Крис Крингл
 Fuel Tank<#>Топливный бак
