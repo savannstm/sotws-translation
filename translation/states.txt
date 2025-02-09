@@ -71,11 +71,11 @@ Rupture<#>Вспорот
 is painting the room red!<#>окрашивает стены в красный!
 just popped!<#>оказался вспорот!
 is leak free.<#>истекает кровью.
-Spooked<#>Напуган
+Spooked<#>Напуганность
 is startled!<#>пугается!
 is shivering.<#>дрожит.
 regains his composure.<#>восстанавливает самообладание.
-Geared Up<#>На готове
+Geared Up<#>Наготове
 is ready to do some damage!<#>готов устроить взбучку!
 teems with power!<#>наполняется силой!
 loses the energy.<#>теряет энергию.
@@ -93,7 +93,7 @@ is on fire!<#>в огне!
 is burning bright.<#>ясно горит.
 's flames went out!<#>тушит себя!
 Deep Poison<#>Сильное отравление
-is poisoned badly!<#>серьёзно отравлен!
+is poisoned badly!<#>тяжело отравлен!
 feels like he's going to die.<#>думает, что сейчас умрёт.
 Wary<#>Беспокойство
 is on the edge!<#>на грани!
@@ -138,21 +138,21 @@ lost everyone's attention.<#>теряет чужое внимание.
 Withdrawal<#>Ломка
 is craving Joy.<#>жаждет Джоя.
 fought off his craving.<#>преодолевает ломку.
-Joyed<#>Кайф
-is over Joyed.<#>под кайфом.
+Joyed<#>Радость
+is over Joyed.<#>переполнен радостью.
 feels nothing.<#>ничего не чувствует.
-is no longer happy...<#>больше не под кайфом...
+is no longer happy...<#>больше не счастлив...
 Fallen<#>Падение
 falls on his ass!<#>падает на задницу!
 is trying to get up.<#>пытается встать.
 is back to their feet!<#>снова на ногах!
 Cool<#>Крутость
-is cool as a cucumber!<#>крут, как варёные яйца!
-is fresh.<#>средней крутости.
+is cool as a cucumber!<#>круче, чем варёные яйца!
+is fresh.<#>чувствует себя круто.
 became lame again.<#>снова отстой.
 Super Cool<#>Супер-крутость
 is cooler than cool!<#>круче крутых яиц!
-is fresh as fuck.<#>пиздец как крут.
+is fresh as fuck.<#>чувствует себя пиздецки круто.
 Defend<#>Защита
 is protecting himself!<#>защищается!
 is protected.<#>защищён.
@@ -193,7 +193,7 @@ is packing!<#>вооружается!
 was disarmed.<#>обезоружен.
 Disarmed<#>Безоружен
 has lost his weapon.<#>потерял своё оружие.
-Infinitized<#>В Бесконечности
+Infinitized<#>Бесконечность
 is in a haze!<#>в тумане!
 entered a violent trance!<#>в трансе жестокости!
 Solid<#>Твёрдость
@@ -226,9 +226,9 @@ lost their lethality.<#>потерял убийственность.
 Gross Out<#>Отвращение
 is disgusted.<#>находится в омерзении.
 Bullied<#>Травля
-is being picked on!<#>чмырят!
-is a target of abuse.<#>затравили.
-was left alone.<#>оставили в покое.
+is being picked on!<#>- цель травли!
+is a target of abuse.<#>всё ещё затравлен.
+was left alone.<#>оставлен в покое.
 Presence<#>Присутствие
 's got a dominating aura.<#>обладает тяжёлой аурой.
 is sinister.<#>навевает жуть.

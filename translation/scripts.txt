@@ -7,7 +7,7 @@ To Next %s<#>До следующего уровня
 Save to which file?<#>В какой файл сохранить?
 Load which file?<#>Какой файл загрузить?
 File<#>Файл
-%s's Party<#>Группа %s
+%s's Party<#>Группа %sа
 %s emerged!<#>%s появился!
 %s got the upper hand!<#>%s одержал верх!
 %s was surprised!<#>%s был удивлен!
@@ -62,7 +62,7 @@ RESIST<#>СОПРОТИВЛЕНИЕ
 IMMUNE<#>ИММУНИТЕТ
 ABSORB<#>ПОГЛОЩЕНИЕ
 BUFF<#>БОНУС
-DEBUFF<#>ОСЛАБЛЕНИЕ
+DEBUFF<#>СТАТУС
 Execute<#>Исполнить
 Input Attacks<#>Ввод атак
 Change<#>Изменить
@@ -93,7 +93,7 @@ MAX LEVEL<#>МАКС. УРОВЕНЬ
 "To the victor goes the spoils."<#>"Добыча достаётся победителю."
 "The enemies dropped something!"<#>"Враги что-то обронили!"
 "Hey, what\'s this?"<#>"О, что это?"
- NOW<#>СЕЙЧАС
+ NOW<#>ТЕПЕРЬ
 Options/Quit<#>Настройки/Выход
 OFF<#>ВЫКЛ
 ON<#>ВКЛ
@@ -141,7 +141,7 @@ You can't view details of that!<#>Тут рассказывать не о чем
 We are all sold out of those!<#>Мы всё распродали!
 In Inventory<#>В инвентаре
 How many?<#>Сколько?
-In Stock<#>В наличии
+In Stock<#>в наличии
 Sold Out<#>Распродано
-Inflicts<#>Урон
+Inflicts<#>Накладывает
 Resists<#>Сопротивление
