@@ -148,7 +148,7 @@ is trying to get up.<#>пытается встать.
 is back to their feet!<#>снова на ногах!
 Cool<#>Крутость
 is cool as a cucumber!<#>круче, чем варёные яйца!
-is fresh.<#>чувствует себя круто.
+is fresh.<#>крут.
 became lame again.<#>снова отстой.
 Super Cool<#>Супер-крутость
 is cooler than cool!<#>круче крутых яиц!
