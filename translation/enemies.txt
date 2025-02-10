@@ -29,9 +29,9 @@ Alejandro Babbage<#>Алехандро Бэббэдж
 Clyde Cyclone<#>Клайд Циклон
 Obsessed Bag<#>Одержимый пакет
 Cruel Sack<#>Жестокий пакет
-Raymund Ripe<#>Рэймунд Райп
+Raymund Ripe<#>Рэймонд Райп
 Silvester de Maistre<#>Сильвестр де Мейстр
-Avatar of Hatred<#>Аватар ненависти
+Avatar of Hatred<#>Отражение ненависти
 Donnie Sand<#>Донни Сэнд
 Ross Hillock<#>Росс Хиллок
 Kirf Dinkle<#>Кирф Динкл
@@ -46,12 +46,12 @@ Geronimo Phantasmata<#>Джеронимо Фантазмата
 Carrot Tail<#>Кэррот Тэйл
 Douglass Fiat<#>Дуглас Фиат
 Maurice Falcon<#>Морис Фэлкон
-William Double J Palmer<#>Уиллиам Дабл Джей Палмер
+William Double J Palmer<#>Уильям Дабл Джей Палмер
 Matty Mack<#>Мэтти Отче
 Derb Wesley Jr.<#>Дерб Уэсли мл.
 The Kent<#>Кент
 Russel Bats<#>Рассел Бэтс
-Chandler Sinclair<#>Чэндлер Синклер
+Chandler Sinclair<#>Чендлер Синклер
 Tibby Dobs<#>Тибби Добс
 Stefan Kindchild<#>Стефан Добряк
 Television<#>Телевизор
@@ -91,12 +91,12 @@ Clover<#>Кловер
 Trip<#>Трип
 Oliver Rang<#>Оливер Ранг
 Finn Gur<#>Финн Гур
-Jacob Mertz<#>Джейкоб Мертз
+Jacob Mertz<#>Джейкоб Мерц
 Jeremy Denkins<#>Джереми Денкинс
 Kryzsztof the Cruncher<#>Кристоф Измельчитель
 Rutherford Headstrong<#>Руттерфорд Крепкоголовый
 Randy Mack<#>Рэнди Отче
-Graeme Lucifer<#>Грейм Люцифер
+Graeme Lucifer<#>Грэм Люцифер
 Ed Nobb<#>Эд Нобб
 Floyd Burnside<#>Флойд Бёрнсайд
 Wallaby Whitaker<#>Уоллоби Уитекер
@@ -108,11 +108,11 @@ Manny Kluth<#>Мэнни Клуф
 Shammi Beltraime<#>Шэмми Белтрейм
 Joel Miller<#>Джоэл Миллер
 Glenn Cletus<#>Гленн Клетус
-Huckleberry Cletus<#>Хаклберри Клетус
-Scrawny Davy<#>Скрони Дэви
-Avatar of Failure<#>Аватар Ошибки
+Huckleberry Cletus<#>Гекльберри Клетус
+Scrawny Davy<#>Тощий Дэви
+Avatar of Failure<#>Отражение ошибки
 The Guttinator<#>Кишконатор
-Weez Finkerton<#>Виз Финкертон
+Weez Finkerton<#>Уиз Финкертон
 Mikhail "Milo" Zhnebrowski<#>Михаил "Мило" Жнебровский
 Mulad Vanseer<#>Мулад Вансеер
 Svad Batistava<#>Свад Батистава
@@ -120,7 +120,7 @@ Manie Evanescence<#>Мэни Эванисенс
 Anaha St. Germaine<#>Анаха св. Гермэйн
 Vis Audinaut<#>Вис Аудинот
 Ajn Kareeme<#>Айн Карим
-Dwight Boyak<#>Дуэйт Бояк
+Dwight Boyak<#>Дуайт Бояк
 Kein Felton<#>Кейн Фелтон
 Howard Al-Azif<#>Говард аль-Азиф
 The Tenderizer<#>Размягчитель
@@ -140,7 +140,7 @@ Hank Abner<#>Хэнк Эбнер
 Basto Angel Jr.<#>Басто Энджел мл.
 Rodrigo Chainman<#>Родриго Чейнмэн
 Shammi<#>Шэмми
-Frederico Daemonico<#>Фредерико Даймонико
+Frederico Daemonico<#>Фредерико Демонико
 Wily Knight<#>Уили Рыцарь
 Cecil Flairs<#>Сэсил Находчивый
 June the Goon<#>Юн Придурок
@@ -157,8 +157,8 @@ Fuel Tank<#>Топливный бак
 Serjio Oman<#>Серхио Оман
 Vasyl Jerudich<#>Василь Иерудич
 Sheamus Gobshite<#>Шеймус Гобшайт
-Xerosik Courtly<#>Херосик Куртли
-Aloysius Herschel<#>Алойзиус Хершель
+Xerosik Courtly<#>Херосик Кортли
+Aloysius Herschel<#>Алоизий Хершель
 Great Olathian Condor<#>Великий олейтский кондор
 Bepe Stormer<#>Бепе Штормер
 Borislav Ragnarok<#>Борислав Рагнарок
