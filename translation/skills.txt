@@ -14,7 +14,7 @@ bites down hard!<#>больно кусает!
 barks at you!<#>лает на вас!
 uses Vampire!<#>использует вампиризм!
 uses Meditate!<#>медитирует!
-bit at your nerves!<#>кусает ваши нервы!
+bit at your nerves!<#>кусает за нерв!
 gets inventive!<#>проявляет изобретательность!
 gets his mojo back!<#>снова обретает пыл!
 chews at your flesh!<#>жуёт вашу кожу!
@@ -527,7 +527,7 @@ Use the Baby Fishman to cool yourself off. Heals\#burning, washes off gunk, and 
 deploys the Baby Fishman!<#>выпускает малыша-рыболюда!
 Full Stretch<#>Полная растяжка
 works out all the knots!<#>полностью растягивается!
-Shank<#>Удар
+Shank<#>Пырок
 A quick stab to show them you mean business.<#>Быстрый удар ножом, намеренный показать врагам серьёзность.
 stabs a bitch!<#>бьёт суку ножом!
 Leg Stretches<#>Растяжка ног
