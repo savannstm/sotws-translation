@@ -87,7 +87,7 @@ Don't make me flip out!<#>Не беси меня!
 {Douglass Fiat}I'm on the edge of infinity!<#>{Дуглас Фиат}Я на грани бесконечности!
 {Maurice Falcon}Doesn't matter how big, small, weak or strong\#you are. Join and The Franchise will double size.<#>{Морис Фэлкон}Неважно, насколько ты большой, малый,\#слабый или сильный. Вступай во Франшизу, и станешь вдвое лучше.
 {Maurice Falcon}I couldn't manage it.<#>{Морис Фэлкон}Я не сумел с этим управиться.
-{William Double J Palmer}Win some, lose some.<#>{Уиллиам Дабл Джей Палмер}Что-то выиграл, что-то проиграл.
+{William Double J Palmer}Win some, lose some.<#>{Уильям Дабл Джей Палмер}Что-то выиграл, что-то проиграл.
 {Matty Mack}Right in time for harvestin'.<#>{Мэтти Отче}Прямо вовремя на сбор урожая.
 {Matty Mack}What's a little meat between family?<#>{Мэтти Отче}Семье не помешает немного мяса.
 {Stefan Kindchild}In the desert\#I saw a creature, naked, bestial,<#>{Стефан Добряк}В пустыне я увидел\#создание, голое, зверское,

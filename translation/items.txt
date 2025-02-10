@@ -90,7 +90,7 @@ A drink so refreshing, it can bring back the dead...\#...this IS water, right?<#
 Lucrative Tea<#>Дешёвый чай
 An unsafe blend of tea.\#Maxes out TP, but makes you wary.<#>Нездоровая чайная смесь.\#Повышает ОТ до предела, но делает вас беспокойным.
 A bottle of something that resembles water.\#Likely the only drinkable thing left on the island.<#>Бутылка чего-то похожего на воду. Скорее всего,\#это единственная питьевая жидкость, оставшаяся на острове.
-Spiked Soda<#>Крепкая содовая
+Spiked Soda<#>Крепкая газировка
 Diet Cocola Cola spiked with cheap alcohol.\#Recovers 50% of SP and gets you drunk.<#>Диетическая Кокола-кола, смешанная с дешёвым алкоголем.\#Восстанавливает 50% ОН и опьяняет.
 Muddy Cloth<#>Грязная одежда
 A mud-coated piece of fabric. So crusty it is no\#longer able to be worn. Appears to be a jersey.<#>Покрытый грязью кусок ткани. Настолько затвердевший,\#что его больше не надеть. Вроде как, это майка.
