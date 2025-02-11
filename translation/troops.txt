@@ -64,14 +64,14 @@ Don't make me flip out!<#>Не беси меня!
 {Silvester de Maistre}My signature talent...<#>{Сильвестр де Мейстр}Мой фирменный талант...
 {Silvester de Maistre}...BILOCATION!<#>{Сильвестр де Мейстр}...БИЛОКАЦИЯ!
 {Silvester de Maistre}I'm done.<#>{Сильвестр де Мейстр}Я всё.
-{Avatar of Hatred}What's kicking, getting into trouble?<#>{Отражение ненависти}Что пинается, попадает в беду?
-{Avatar of Hatred}Pop a thrill pill, cool cat.<#>{Отражение ненависти}Выпей таблетку острых ощущений, крутой чувак.
+{Avatar of Hatred}What's kicking, getting into trouble?<#>{Отражение ненависти}Как делишки? Снова проблемы?
+{Avatar of Hatred}Pop a thrill pill, cool cat.<#>{Отражение ненависти}Выпей таблетку острых ощущений, чувачок.
 {Avatar of Hatred}Check out my cover. You and me, one love.<#>{Отражение ненависти}Посмотри на меня. Ты и я, одна любовь.
 {Avatar of Hatred}You've gotta try being someone else.<#>{Отражение ненависти}Тебе стоит попробовать стать кем-то другим.
 {Avatar of Hatred}You can't keep running, I'll touch your nipple.<#>{Отражение ненависти}Ты не убежишь, я схвачу тебя за сосок.
 {Avatar of Hatred}Smooth moves, keep it clicking.<#>{Отражение ненависти}Плавные движения, продолжай.
-{Ross Hillock}Here comes the meat train!<#>{Росс Хиллок}Вот и прибыл мясной поезд!
-{Ross Hillock}Can't break my streak!<#>{Росс Хиллок}Не могу потерять очередь!
+{Ross Hillock}Here comes the meat train!<#>{Росс Хиллок}Мясной поезд прибыл!
+{Ross Hillock}Can't break my streak!<#>{Росс Хиллок}Не могу потерять серию!
 {Ross Hillock}Fifth fold... so close!<#>{Росс Хиллок}Пятая складка... так близко!
 {Kirf Dinkle}You killed no one, the franchise lives on!<#>{Кирф Динкл}Вы никого не убили, Франшиза продолжает жить!
 {Kirf Dinkle}I'm not a basket case, I'm not!<#>{Кирф Динкл}Я не псих, нет!
@@ -198,7 +198,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Lester Bean}I'll keep the meat flowin'!\#Just take these goons out!<#>{Лестер Бин}Я обеспечу мясо!\#Просто завалите этих тупиц!
 {Mes Tez}And so,\. the curtain has fallen...\|\#Exit...\. stage left...<#>{Мес Тез}И так,\. занавес опустился...\|\#Выход...\. слева сцены...
 {Wing Sping}Mes!\. Noooooo!<#>{Винг Спинг}Мес!\. Нееееет!
-{Lester Bean}Ha! Serves 'em right!<#>{Лестер Бин}Ха! Так ему и надо.
+{Lester Bean}Ha! Serves 'em right!<#>{Лестер Бин}Ха! Так им и надо.
 {Wing Sping}In the end,\. it was my skull that was cracked.<#>{Винг Спинг}В конце концов,\. это мой череп вскрыли.
 {Mes Tez}Wing!\| You monsters, how could you?!<#>{Мес Тез}Винг!\| Вы, чудовища, как вы могли?!
 {Lester Bean}Finally put a cork in that mouth of his!<#>{Лестер Бин}Наконец заткнули ему рот!
@@ -261,7 +261,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Jeremy Denkins}Well,\. I've had enough!<#>{Джереми Денкинс}Ну,\. с меня достаточно!
 {Jeremy Denkins}Get ready...<#>{Джереми Денкинс}Приготовьтесь...
 {Jeremy Denkins}I'm 'bout to show you boys\#how we did things back in '44!<#>{Джереми Денкинс}Я покажу вам, как дела\#делались в 44-ом!
-{Jeremy Denkins}They teach you early.\.\#How to take a man's life.<#>{Джереми Денкинс}Они учат рано.\.\#Как забирать чужую жизнь.
+{Jeremy Denkins}They teach you early.\.\#How to take a man's life.<#>{Джереми Денкинс}Они рано научили.\.\#Как забирать чужую жизнь.
 {Jeremy Denkins}They make you love it. Need it.<#>{Джереми Денкинс}Они заставляют полюбить это. Нуждаться в этом.
 {Jeremy Denkins}We're all just tools of war in the end.<#>{Джереми Денкинс}Мы все в итоге - лишь инструменты войны.
 {Jeremy Denkins}Only difference is who's pullin' the strings.<#>{Джереми Денкинс}Единственное различие в том, кто дёргает за нитки.
@@ -300,7 +300,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Francis Gizmo Jr.}Oh, you have fucked up now!<#>{Фрэнсис Гизмо мл.}Ох, теперь вам пизда!
 {Kroger Cleveland}Wait,\. Wallaby is...?\| Can't be!<#>{Крогер Кливленд}Стоп,\. Уоллоби...?\| Невозможно!
 {Francis Gizmo Jr.}Get your ass back in gear!<#>{Фрэнсис Гизмо мл.}Возьми себя в руки!
-{Francis Gizmo Jr.}Earth to dumbfuck!\. Come in, dumbfuck!<#>{Фрэнсис Гизмо мл.}Земля вызывает долбоёба!\. Приём, блять!
+{Francis Gizmo Jr.}Earth to dumbfuck!\. Come in, dumbfuck!<#>{Фрэнсис Гизмо мл.}Земля вызывает дебила!\. Приём, блять!
 {Manny Kluth}Ow, ow, ow!\. This guy's a big meanie!<#>{Мэнни Клуф}Ой, ой, ой!\. Этот парень большой негодяй!
 {Tony Jones}Where are you going?! Geez!<#>{Тони Джонс}Куда ты собрался?! Боже!
 {Danny DeMarco}Waaahhhh!\. He's too tough!<#>{Дэнни ДеМарко}Вааааа!\. Он слишком жёсткий!
@@ -323,9 +323,9 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Huckleberry Cletus}Tell him yerself,\. lazy bastard!<#>{Гекльберри Клетус}Скажи ему сам,\. ленивый ублюдок!
 {Huckleberry Cletus}Jesus...\| Gotta do everythin' myself!<#>{Гекльберри Клетус}Господи...\| Придётся все делать самому!
 {Huckleberry Cletus}Headin' down the trail again...<#>{Гекльберри Клетус}Снова всё скатилось...
-{Glenn Cletus}Finally got what ya deserved,\. ya asshole!<#>{Гленн Клетус}Наконец-то получил что заслуживаешь,\. придурок!
+{Glenn Cletus}Finally got what ya deserved,\. ya asshole!<#>{Гленн Клетус}Наконец-то получил по заслугам,\. придурок!
 {Avatar of Failure}Hmph, not bad.<#>{Отражение ошибки}Хм, неплохо.
-{Avatar of Failure}But allow me to show you what\#separates the student from the master.<#>{Отражение ошибки}Но позволь мне показать тебе, что\#отличает ученика от учителя.
+{Avatar of Failure}But allow me to show you what\#separates the student from the master.<#>{Отражение ошибки}Но позволь показать тебе, что\#отличает ученика от учителя.
 {Avatar of Failure}It seems...\| I have nothing left to teach you.<#>{Отражение ошибки}Похоже...\| Мне больше нечему тебя научить.
 {Avatar of Failure}Well done.<#>{Отражение ошибки}Отлично сработано.
 {???}Friends! Allow me to aid you!<#>{???}Друзья! Позвольте мне вам помочь!
@@ -344,8 +344,8 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Mikhail "Milo" Zhnebrowski}Brothers...\| pray for me!<#>{Михаил "Мило" Жнебровский}Братья...\| помолитесь за меня!
 {Mikhail "Milo" Zhnebrowski}Augh!<#>{Михаил "Мило" Жнебровский}Ох!
 {Mikhail "Milo" Zhnebrowski}It...\| it was not meant to be...<#>{Михаил "Мило" Жнебровский}Этого...\| этого не должно было...
-{Dwight Boyak}Ain't seen nothin' yet!<#>{Дуэйт Бояк}Ты ещё ничего не видел!
-{Dwight Boyak}Looks like you were the spicier enchilada.<#>{Дуэйт Бояк}Похоже, ты - энчилада поострее.
+{Dwight Boyak}Ain't seen nothin' yet!<#>{Дуайт Бояк}Ты ещё ничего не видел!
+{Dwight Boyak}Looks like you were the spicier enchilada.<#>{Дуайт Бояк}Похоже, ты - энчилада поострее.
 {Rodrigo Chainman}Let the blood cleanse you.<#>{Родриго Чейнмэн}Позволь крови очистить тебя.
 {Rodrigo Chainman}Let the pain...\| free you.<#>{Родриго Чейнмэн}Позволь боли...\| освободить тебя.
 {Rodrigo Chainman}How sweet it tastes...<#>{Родриго Чейнмэн}Как сладок её вкус...
@@ -373,7 +373,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Scrawny Davy}Is this some kind of prank?<#>{Тощий Дэви}Это какая-то шутка?
 {Scrawny Davy}There's nothing over there!<#>{Тощий Дэви}Там ничего нет!
 {Scrawny Davy}Oh well, back to business!<#>{Тощий Дэви}Ну ладно, обратно к делу!
-{Scrawny Davy}Ohhhh, no you don't!<#>{Тощий Дэви}Оооо, вы это не сделаете!
+{Scrawny Davy}Ohhhh, no you don't!<#>{Тощий Дэви}Оооо, ну уж нет!
 {Scrawny Davy}We're not doing this song and dance again!<#>{Тощий Дэви}Никаких танцев и плясок!
 {Scrawny Davy}Again with this?<#>{Тощий Дэви}Снова это?
 {Scrawny Davy}Seriously,\. what IS it?!<#>{Тощий Дэви}Серьёзно,\. ЧТО это?!
@@ -460,7 +460,7 @@ I'm no one in particular.<#>Я - никто особенный.
 {Benedictus Freeman}This is fine.<#>{Бенедикт Фриман}Всё в порядке.
 {Frisko Benson}God damn...<#>{Фриско Бенсон}Чёрт возьми...
 {Silvester de Maistre}Bah, this is childs' play!<#>{Сильвестр де Мейстр}Ба, это детские игры!
-{Silvester de Maistre}Let's make this more interesting!<#>{Сильвестр де Мейстр}Давай сделаем поинтереснее!
+{Silvester de Maistre}Let's make this more interesting!<#>{Сильвестр де Мейстр}Давай сделаем  поинтереснее!
 {Silvester de Maistre}You don't know when to quit!<#>{Сильвестр де Мейстр}Ты не знаешь, когда пора уйти!
 {Silvester de Maistre}Fine then!<#>{Сильвестр де Мейстр}Ладно!
 {Silvester de Maistre}I got one last chance to take you out!<#>{Сильвестр де Мейстр}У меня есть последний шанс забрать тебя!
