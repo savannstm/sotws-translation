@@ -11,10 +11,10 @@ Standard-issue Rando Army combat dagger.\#Doubles TP rate for normal attacks.<#>
 Diamond Ring<#>Алмазное кольцо
 An old ring from a long-standing relationship.\#Enhances attack, max SP.<#>Старое кольцо из долгосрочных отношений.\#Увеличивает атаку и макс. ОН.
 Bloodstained Dagger<#>Кровавый кинжал
-Geen's trusty dagger. Has served him well for years.\#A bit of fresh blood resides on the tip.<#>Верный кинжал Гина. Он служил ему годами.\#Немного свежей крови осталось на кончике.
+Geen's trusty dagger. Has served him well for years.\#A bit of fresh blood resides on the tip.<#>Верный кинжал Гина. Он служил ему годами.\#На кончике осталось немного свежей крови.
 Sharpened Glass Fragment<#>Острый кусок стекла
 A particularly deadly shard of glass. Potent as a\#weapon, but hurts to wield.<#>Чрезвычайно смертельный кусок стекла.\#Отличное оружие, которое больно держать.
-Knuckle Duster<#>Пыльный кастет
+Knuckle Duster<#>Кастет
 A full set of stylish spiked knuckles.\#Perfect for weddings and shakedowns.<#>Кастет в отличном состоянии с шипами на наконечниках.\#Идеален для свадеб и потасовок.
 Calloused Knuckles<#>Мозольные кисти
 A pair of hands plagued by callouses and arthritis.\#They make for a decent weapon, however.<#>Пара кистей, изморенных мозолями и артритом.\#Так или иначе, они сойдут за неплохое оружие.
@@ -25,14 +25,14 @@ Accursed piece of handwear. Majorly boosts attack,\#but reduces HP and defenses 
 Exotic Shiv<#>Экзотическая заточка
 A finely crafted piece of cutlery. Gives knife\#attacks a chance to inflict bleeding.<#>Тонко обработанное лезвие. Даёт ножевым\#атакам шанс вызвать кровотечение.
 Doctor's Gloves<#>Перчатки врача
-A pair of pink latex gloves, primed for surgery.\#Increases maximum health.<#>Пара розовых пластиковых перчаток, предназнченных\#для операций. Повышают максимальное ОЗ.
+A pair of pink latex gloves, primed for surgery.\#Increases maximum health.<#>Пара розовых пластиковых перчаток, предназначенных\#для операций. Повышают максимальное ОЗ.
 Ancient Ring<#>Древнее кольцо
-Bejeweled ring that has been lost for ages.\#A faint power resonates from within.<#>Украшенное драгоценными камнями кольцо, считавшееся\#потерянным веками. Слабая сила исходит изнутри него.
+Bejeweled ring that has been lost for ages.\#A faint power resonates from within.<#>Украшенное драгоценными камнями кольцо, считавшееся\#потерянным веками. Изнутри исходит слабая сила.
 Perpetual Ring<#>Вечное кольцо
-Dazzling emerald ring restored to its full glory.\#Provides great power when worn.<#>Ослепительное изумрудное кольцо, реставрированное\#к полной красоте. Обеспечивает носителя великой силой.
+Dazzling emerald ring restored to its full glory.\#Provides great power when worn.<#>Ослепительное изумрудное кольцо, отреставрированное\#до былой красоты. Дарует владельцу великую силу.
 Rando Gloves<#>Перчатки Рандо
 Tough gloves that go gentle on your hands.<#>Прочные перчатки, комфортно облегающие руки.
 Splintered Bat<#>Расколотая бита
 The primordial weapon of man.\#You can never go wrong with a club.<#>Первобытное оружие человека.\#С дубинкой никогда не ошибешься.
 Butler's Gloves<#>Перчатки дворецкого
-A pair of pristine white gloves. They're itchy.<#>Пара белых перчаток в идеальном состоянии. Они колются.
+A pair of pristine white gloves. They're itchy.<#>Пара белых перчаток в идеальном состоянии. Колются.

@@ -46,7 +46,7 @@ Geronimo Phantasmata<#>Джеронимо Фантазмата
 Carrot Tail<#>Кэррот Тэйл
 Douglass Fiat<#>Дуглас Фиат
 Maurice Falcon<#>Морис Фэлкон
-William Double J Palmer<#>Уиллиам Дабл Джей Палмер
+William Double J Palmer<#>Уильям Дабл Джей Палмер
 Matty Mack<#>Мэтти Отче
 Derb Wesley Jr.<#>Дерб Уэсли мл.
 The Kent<#>Кент
@@ -91,12 +91,12 @@ Clover<#>Кловер
 Trip<#>Трип
 Oliver Rang<#>Оливер Ранг
 Finn Gur<#>Финн Гур
-Jacob Mertz<#>Джейкоб Мертз
+Jacob Mertz<#>Джейкоб Мерц
 Jeremy Denkins<#>Джереми Денкинс
 Kryzsztof the Cruncher<#>Кристоф Измельчитель
 Rutherford Headstrong<#>Руттерфорд Крепкоголовый
 Randy Mack<#>Рэнди Отче
-Graeme Lucifer<#>Грейм Люцифер
+Graeme Lucifer<#>Грэм Люцифер
 Ed Nobb<#>Эд Нобб
 Floyd Burnside<#>Флойд Бёрнсайд
 Wallaby Whitaker<#>Уоллоби Уитекер
@@ -112,7 +112,7 @@ Huckleberry Cletus<#>Гекльберри Клетус
 Scrawny Davy<#>Тощий Дэви
 Avatar of Failure<#>Отражение ошибки
 The Guttinator<#>Кишконатор
-Weez Finkerton<#>Виз Финкертон
+Weez Finkerton<#>Уиз Финкертон
 Mikhail "Milo" Zhnebrowski<#>Михаил "Мило" Жнебровский
 Mulad Vanseer<#>Мулад Вансеер
 Svad Batistava<#>Свад Батистава
@@ -120,7 +120,7 @@ Manie Evanescence<#>Мэни Эванисенс
 Anaha St. Germaine<#>Анаха св. Гермэйн
 Vis Audinaut<#>Вис Аудинот
 Ajn Kareeme<#>Айн Карим
-Dwight Boyak<#>Дуэйт Бояк
+Dwight Boyak<#>Дуайт Бояк
 Kein Felton<#>Кейн Фелтон
 Howard Al-Azif<#>Говард аль-Азиф
 The Tenderizer<#>Размягчитель
