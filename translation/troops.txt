@@ -191,7 +191,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Flailing Centipede}You're gonna fuckin' pay for that!<#>{Изворачивающийся сколопендр}Вы, блядь, за это заплатите!
 {Flailing Centipede}You could've just gone back up the ladder.<#>{Изворачивающийся сколопендр}Вы просто могли подняться обратно по\#лестнице.
 {Flailing Centipede}Bitch.<#>{Изворачивающийся сколопендр}Сука.
-{Gremory Gorgonzola}Guess it's up to me now...<#>{Гремори Горгонзола}Похоже, теперь все зависит от меня...
+{Gremory Gorgonzola}Guess it's up to me now...<#>{Гремори Горгонзола}Похоже, теперь всё зависит от меня...
 {Chriss Bellucci}I'm so pumped!<#>{Крисс Белуччи}Я так взволнован!
 {Chriss Bellucci}You don't know who you're messin' with!\.\#You have no idea!<#>{Крисс Белуччи}Ты не знаешь, с кем связался!\.\#Ты понятия не имеешь!
 {Chriss Bellucci}I actually hate this, always did.<#>{Крисс Белуччи}На самом деле, я это ненавижу, и всегда\#ненавидел.
@@ -321,7 +321,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Glenn Cletus}If I'm a chicken yer a big fuckin' COCK!<#>{Гленн Клетус}Если я цыплёнок, то ты ебучий ПЕТУХ!
 {Glenn Cletus}Tell Pappy...\| he can suck my dick...<#>{Гленн Клетус}Скажи папочке...\| пусть пососёт мой член...
 {Huckleberry Cletus}Tell him yerself,\. lazy bastard!<#>{Гекльберри Клетус}Скажи ему сам,\. ленивый ублюдок!
-{Huckleberry Cletus}Jesus...\| Gotta do everythin' myself!<#>{Гекльберри Клетус}Господи...\| Придётся все делать самому!
+{Huckleberry Cletus}Jesus...\| Gotta do everythin' myself!<#>{Гекльберри Клетус}Господи...\| Придётся всё делать самому!
 {Huckleberry Cletus}Headin' down the trail again...<#>{Гекльберри Клетус}Снова всё скатилось...
 {Glenn Cletus}Finally got what ya deserved,\. ya asshole!<#>{Гленн Клетус}Наконец-то получил что заслуживаешь,\. придурок!
 {Avatar of Failure}Hmph, not bad.<#>{Отражение ошибки}Хм, неплохо.
