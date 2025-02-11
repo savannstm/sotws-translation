@@ -152,7 +152,6 @@ feels like a used punching bag...<#>чувствует себя, как бокс
 feels numb in the face...<#>чувствует онемение лица...
 throws a noxious fireball!<#>бросает ядовитый огненный шар!
 breathes a stream of noxious fire!<#>дышит струей ядовитого огня!
-done.<#>готов.
 burns you to the ground.<#>сжигает вас до основания.
 is casting some strange magic...<#>колдует какую-то странную магию...
 Everyone is suddenly paralyzed!<#>Всех внезапно парализовало!
@@ -255,7 +254,6 @@ performs a Piledriver!<#>бросает на прогиб!
 kicks up dirt!<#>бросает грязь!
 is talking serious trash!<#>сильно оскорбляет!
 is defending himself...<#>защищается...
-is defending herself...<#>защищается...
 looses an arrow!<#>пускает стрелу!
 performs the Corps Crasher!<#>исполняет "сокрушителя Корпов"!
 prepares a deadly technique...<#>готовит смертельный приём...
@@ -528,7 +526,7 @@ Spout<#>Плевок
 Use the Baby Fishman to cool yourself off. Heals\#burning, washes off gunk, and makes you wet.<#>Используйте малыша-рыболюда, чтобы охладиться. Убирает\#горение, смывает всякую дрянь и мочит вас.
 deploys the Baby Fishman!<#>выпускает малыша-рыболюда!
 Full Stretch<#>Полная растяжка
-works out all the knots!<#>снимает все зажимы!
+works out all the knots!<#>полностью растягивается!
 Shank<#>Пырок
 A quick stab to show them you mean business.<#>Быстрый удар ножом, намеренный показать врагам серьёзность.
 stabs a bitch!<#>бьёт суку ножом!
