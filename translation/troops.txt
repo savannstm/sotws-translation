@@ -198,7 +198,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Lester Bean}I'll keep the meat flowin'!\#Just take these goons out!<#>{Лестер Бин}Я обеспечу мясо!\#Просто завалите этих тупиц!
 {Mes Tez}And so,\. the curtain has fallen...\|\#Exit...\. stage left...<#>{Мес Тез}И так,\. занавес опустился...\|\#Выход...\. слева сцены...
 {Wing Sping}Mes!\. Noooooo!<#>{Винг Спинг}Мес!\. Нееееет!
-{Lester Bean}Ha! Serves 'em right!<#>{Лестер Бин}Ха! Так им и надо.
+{Lester Bean}Ha! Serves 'em right!<#>{Лестер Бин}Ха! Так ему и надо.
 {Wing Sping}In the end,\. it was my skull that was cracked.<#>{Винг Спинг}В конце концов,\. это мой череп вскрыли.
 {Mes Tez}Wing!\| You monsters, how could you?!<#>{Мес Тез}Винг!\| Вы, чудовища, как вы могли?!
 {Lester Bean}Finally put a cork in that mouth of his!<#>{Лестер Бин}Наконец заткнули ему рот!
@@ -261,7 +261,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Jeremy Denkins}Well,\. I've had enough!<#>{Джереми Денкинс}Ну,\. с меня достаточно!
 {Jeremy Denkins}Get ready...<#>{Джереми Денкинс}Приготовьтесь...
 {Jeremy Denkins}I'm 'bout to show you boys\#how we did things back in '44!<#>{Джереми Денкинс}Я покажу вам, как дела\#делались в 44-ом!
-{Jeremy Denkins}They teach you early.\.\#How to take a man's life.<#>{Джереми Денкинс}Они рано научили.\.\#Как забирать чужую жизнь.
+{Jeremy Denkins}They teach you early.\.\#How to take a man's life.<#>{Джереми Денкинс}Они учат рано.\.\#Как забирать чужую жизнь.
 {Jeremy Denkins}They make you love it. Need it.<#>{Джереми Денкинс}Они заставляют полюбить это. Нуждаться в этом.
 {Jeremy Denkins}We're all just tools of war in the end.<#>{Джереми Денкинс}Мы все в итоге - лишь инструменты войны.
 {Jeremy Denkins}Only difference is who's pullin' the strings.<#>{Джереми Денкинс}Единственное различие в том, кто дёргает за нитки.
@@ -300,7 +300,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Francis Gizmo Jr.}Oh, you have fucked up now!<#>{Фрэнсис Гизмо мл.}Ох, теперь вам пизда!
 {Kroger Cleveland}Wait,\. Wallaby is...?\| Can't be!<#>{Крогер Кливленд}Стоп,\. Уоллоби...?\| Невозможно!
 {Francis Gizmo Jr.}Get your ass back in gear!<#>{Фрэнсис Гизмо мл.}Возьми себя в руки!
-{Francis Gizmo Jr.}Earth to dumbfuck!\. Come in, dumbfuck!<#>{Фрэнсис Гизмо мл.}Земля вызывает дебила!\. Приём, блять!
+{Francis Gizmo Jr.}Earth to dumbfuck!\. Come in, dumbfuck!<#>{Фрэнсис Гизмо мл.}Земля вызывает долбоёба!\. Приём, блять!
 {Manny Kluth}Ow, ow, ow!\. This guy's a big meanie!<#>{Мэнни Клуф}Ой, ой, ой!\. Этот парень большой негодяй!
 {Tony Jones}Where are you going?! Geez!<#>{Тони Джонс}Куда ты собрался?! Боже!
 {Danny DeMarco}Waaahhhh!\. He's too tough!<#>{Дэнни ДеМарко}Вааааа!\. Он слишком жёсткий!
