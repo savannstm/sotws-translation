@@ -149,8 +149,8 @@ It was rich and creamy. Gained 200 exp.!<#>Вкус богатый и мягки
 It was tangy, with a hint of citrus. AGI. up!<#>Вкус терпкий, с ноткой цитруса. Ловкость возрастает!
 It was super spicy! You are blazing!<#>Супер остро! Вы горите!
 It was rotten... You are nauseated.<#>Тухлятина... Вас тошнит.
-It was aggressively sour... You are paralyzed.<#>Черезчур кисло... Вы парализованы.
-It was extremely salty... You feel nasty.<#>Черезчур солёно... Вы чувствуете себя мерзко.
+It was aggressively sour... You are paralyzed.<#>Чересчур кисло... Вы парализованы.
+It was extremely salty... You feel nasty.<#>Чересчур солёно... Вы чувствуете себя мерзко.
 It was vile... You can't even move.<#>Отвратительно... Вы не можете даже двинуться.
 {Pete Constantine}Hmph.\| Not bad.<#>{Пит Константин}Хм.\| Неплохо.
 {Pete Constantine}I'll be taking that.<#>{Пит Константин}Я это возьму.
