@@ -64,14 +64,14 @@ Don't make me flip out!<#>Не беси меня!
 {Silvester de Maistre}My signature talent...<#>{Сильвестр де Мейстр}Мой фирменный талант...
 {Silvester de Maistre}...BILOCATION!<#>{Сильвестр де Мейстр}...БИЛОКАЦИЯ!
 {Silvester de Maistre}I'm done.<#>{Сильвестр де Мейстр}Я всё.
-{Avatar of Hatred}What's kicking, getting into trouble?<#>{Отражение ненависти}Что пинается, попадает в беду?
-{Avatar of Hatred}Pop a thrill pill, cool cat.<#>{Отражение ненависти}Выпей таблетку острых ощущений, крутой чувак.
+{Avatar of Hatred}What's kicking, getting into trouble?<#>{Отражение ненависти}Как делишки? Снова проблемы?
+{Avatar of Hatred}Pop a thrill pill, cool cat.<#>{Отражение ненависти}Выпей таблетку острых ощущений, чувачок.
 {Avatar of Hatred}Check out my cover. You and me, one love.<#>{Отражение ненависти}Посмотри на меня. Ты и я, одна любовь.
 {Avatar of Hatred}You've gotta try being someone else.<#>{Отражение ненависти}Тебе стоит попробовать стать кем-то другим.
 {Avatar of Hatred}You can't keep running, I'll touch your nipple.<#>{Отражение ненависти}Ты не убежишь, я схвачу тебя за сосок.
 {Avatar of Hatred}Smooth moves, keep it clicking.<#>{Отражение ненависти}Плавные движения, продолжай.
-{Ross Hillock}Here comes the meat train!<#>{Росс Хиллок}Вот и прибыл мясной поезд!
-{Ross Hillock}Can't break my streak!<#>{Росс Хиллок}Не могу потерять очередь!
+{Ross Hillock}Here comes the meat train!<#>{Росс Хиллок}Мясной поезд прибыл!
+{Ross Hillock}Can't break my streak!<#>{Росс Хиллок}Не могу потерять серию!
 {Ross Hillock}Fifth fold... so close!<#>{Росс Хиллок}Пятая складка... так близко!
 {Kirf Dinkle}You killed no one, the franchise lives on!<#>{Кирф Динкл}Вы никого не убили, Франшиза продолжает жить!
 {Kirf Dinkle}I'm not a basket case, I'm not!<#>{Кирф Динкл}Я не псих, нет!
@@ -323,9 +323,9 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Huckleberry Cletus}Tell him yerself,\. lazy bastard!<#>{Гекльберри Клетус}Скажи ему сам,\. ленивый ублюдок!
 {Huckleberry Cletus}Jesus...\| Gotta do everythin' myself!<#>{Гекльберри Клетус}Господи...\| Придётся всё делать самому!
 {Huckleberry Cletus}Headin' down the trail again...<#>{Гекльберри Клетус}Снова всё скатилось...
-{Glenn Cletus}Finally got what ya deserved,\. ya asshole!<#>{Гленн Клетус}Наконец-то получил что заслуживаешь,\. придурок!
+{Glenn Cletus}Finally got what ya deserved,\. ya asshole!<#>{Гленн Клетус}Наконец-то получил по заслугам,\. придурок!
 {Avatar of Failure}Hmph, not bad.<#>{Отражение ошибки}Хм, неплохо.
-{Avatar of Failure}But allow me to show you what\#separates the student from the master.<#>{Отражение ошибки}Но позволь мне показать тебе, что\#отличает ученика от учителя.
+{Avatar of Failure}But allow me to show you what\#separates the student from the master.<#>{Отражение ошибки}Но позволь показать тебе, что\#отличает ученика от учителя.
 {Avatar of Failure}It seems...\| I have nothing left to teach you.<#>{Отражение ошибки}Похоже...\| Мне больше нечему тебя научить.
 {Avatar of Failure}Well done.<#>{Отражение ошибки}Отлично сработано.
 {???}Friends! Allow me to aid you!<#>{???}Друзья! Позвольте мне вам помочь!
@@ -344,8 +344,8 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Mikhail "Milo" Zhnebrowski}Brothers...\| pray for me!<#>{Михаил "Мило" Жнебровский}Братья...\| помолитесь за меня!
 {Mikhail "Milo" Zhnebrowski}Augh!<#>{Михаил "Мило" Жнебровский}Ох!
 {Mikhail "Milo" Zhnebrowski}It...\| it was not meant to be...<#>{Михаил "Мило" Жнебровский}Этого...\| этого не должно было...
-{Dwight Boyak}Ain't seen nothin' yet!<#>{Дуэйт Бояк}Ты ещё ничего не видел!
-{Dwight Boyak}Looks like you were the spicier enchilada.<#>{Дуэйт Бояк}Похоже, ты - энчилада поострее.
+{Dwight Boyak}Ain't seen nothin' yet!<#>{Дуайт Бояк}Ты ещё ничего не видел!
+{Dwight Boyak}Looks like you were the spicier enchilada.<#>{Дуайт Бояк}Похоже, ты - энчилада поострее.
 {Rodrigo Chainman}Let the blood cleanse you.<#>{Родриго Чейнмэн}Позволь крови очистить тебя.
 {Rodrigo Chainman}Let the pain...\| free you.<#>{Родриго Чейнмэн}Позволь боли...\| освободить тебя.
 {Rodrigo Chainman}How sweet it tastes...<#>{Родриго Чейнмэн}Как сладок её вкус...
@@ -373,7 +373,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Scrawny Davy}Is this some kind of prank?<#>{Тощий Дэви}Это какая-то шутка?
 {Scrawny Davy}There's nothing over there!<#>{Тощий Дэви}Там ничего нет!
 {Scrawny Davy}Oh well, back to business!<#>{Тощий Дэви}Ну ладно, обратно к делу!
-{Scrawny Davy}Ohhhh, no you don't!<#>{Тощий Дэви}Оооо, вы это не сделаете!
+{Scrawny Davy}Ohhhh, no you don't!<#>{Тощий Дэви}Оооо, ну уж нет!
 {Scrawny Davy}We're not doing this song and dance again!<#>{Тощий Дэви}Никаких танцев и плясок!
 {Scrawny Davy}Again with this?<#>{Тощий Дэви}Снова это?
 {Scrawny Davy}Seriously,\. what IS it?!<#>{Тощий Дэви}Серьёзно,\. ЧТО это?!

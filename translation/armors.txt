@@ -137,5 +137,5 @@ Patch of cloth from a Rando soldier uniform.\#Slight boost in experience gain. S
 One Franchise, infinite kings.<#>Одна Франшиза - короли бесконечности.
 Rando Mask<#>Маска Рандо
 It stinks of sweat and regret. Increased resistance\#to physical damage, decreased agility.<#>Она воняет потом и сожалением. Повышает\#сопротивление физическому урону, понижает ловкость.
-Cruel Sack<#>Жестокий мешок
-The prized trashbag of Bob Versace. Applies Stink.\#You feel disgusting - defense down, agility down.<#>Ценный мусорный мешок Боба Версаче. Накладывает вонь.\#Вы чувствуете себя отвратительно - защита и ловкость снижаются.
+Cruel Sack<#>Жестокий пакет
+The prized trashbag of Bob Versace. Applies Stink.\#You feel disgusting - defense down, agility down.<#>Ценный мусорный пакет Боба Версаче. Накладывает вонь.\#Вы чувствуете себя отвратительно - защита и ловкость снижаются.
