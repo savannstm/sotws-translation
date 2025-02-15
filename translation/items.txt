@@ -90,7 +90,7 @@ A drink so refreshing, it can bring back the dead...\#...this IS water, right?<#
 Lucrative Tea<#>Дешёвый чай
 An unsafe blend of tea.\#Maxes out TP, but makes you wary.<#>Нездоровая чайная смесь.\#Повышает ОТ до предела, но делает вас беспокойным.
 A bottle of something that resembles water.\#Likely the only drinkable thing left on the island.<#>Бутылка чего-то похожего на воду. Скорее всего,\#это единственная питьевая жидкость, оставшаяся на острове.
-Spiked Soda<#>Крепкая содовая
+Spiked Soda<#>Крепкая газировка
 Diet Cocola Cola spiked with cheap alcohol.\#Recovers 50% of SP and gets you drunk.<#>Диетическая Кокола-кола, смешанная с дешёвым алкоголем.\#Восстанавливает 50% ОН и опьяняет.
 Muddy Cloth<#>Грязная одежда
 A mud-coated piece of fabric. So crusty it is no\#longer able to be worn. Appears to be a jersey.<#>Покрытый грязью кусок ткани. Настолько затвердевший,\#что его больше не надеть. Вроде как, это майка.
@@ -166,7 +166,7 @@ Velvet Scroll<#>Свиток Вельвета
 A scroll emblazoned with a technique of the Velvet\#arts. Alex may learn something from reading it.<#>Свиток, в котором расписана техника Вельветовых искусств.\#Алекс может что-то усвоить из него.
 Sean Shawn<#>Шон Шоун
 A young Rando soldier driven insane by isolation.\#Acquired a taste for human flesh prior to death.<#>Молодой солдат Рандо, сошедший с ума в изоляции.\#Пристрастился к вкусу человеческой плоти перед смертью.
-Versace Bag Balloon<#>Шар-сумка Версаче
+Versace Bag Balloon<#>Шар-пакет Версаче
 Balloon made from an inflated polyethylene bag.\#A trademark creation of the Versace family.<#>Шар, сделанный из раздутого полиэтиленового пакета.\#Брендовая разработка семьи Версаче.
 Green Glob<#>Зелёный сгусток
 A glob of viscous green slime. It emanates an odor\#almost reminiscent of raw fish.<#>Сгусток из вязкой зелёной слизи. Испускает вонь,\#напоминающую сырую рыбу.

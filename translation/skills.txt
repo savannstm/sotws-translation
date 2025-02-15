@@ -529,7 +529,7 @@ Full Stretch<#>Полная растяжка
 works out all the knots!<#>полностью растягивается!
 Shank<#>Пырок
 A quick stab to show them you mean business.<#>Быстрый удар ножом, намеренный показать врагам серьёзность.
-stabs a bitch!<#>бьёт суку ножом!
+stabs a bitch!<#>пыряет суку!
 Leg Stretches<#>Растяжка ног
 Stretch those calves. Recovers TP and relieves\#tension. If tension is removed, TP is fully restored.<#>Растяните эти икры. Восстанавливает ОТ и убирает напряжение.\#Если убирает напряжение, полностью восстанавливает ОТ.
 gets in a good stretch!<#>хорошенько растягивается!
@@ -555,8 +555,8 @@ Painted Red<#>Красный всплеск
 A series of slashes set to mutilate\#bleeding enemies further.<#>Серия взмахов, которые вспорят истекающих\#кровью врагов.
 slashes out their veins!<#>вскрывает чужие вены!
 Poison Dart<#>Ядовитый дротик
-Dip your blade in lead paint and fling at a bastard.\#High chance to poison.<#>Окуните свой клинок в свинцовую краску и проткните\#ублюдка. Высокий шанс отравить.
-flings a poisoned dagger!<#>размахивает ядовитым клинком!
+Dip your blade in lead paint and fling at a bastard.\#High chance to poison.<#>Окуните свой клинок в свинцовую краску и метните в\#ублюдка. Высокий шанс отравить.
+flings a poisoned dagger!<#>метает ядовитый клинок!
 War Paint<#>Боевая раскраска
 Let your foes know that you will bathe in their blood!\#Empowers your team, boosting attack and speed.<#>Дайте своим врагам знать, что вы будете купаться в их\#крови! Усиливает вашу команду, повышая атаку и скорость.
 bellows a warcry!<#>издаёт боевой клич!
