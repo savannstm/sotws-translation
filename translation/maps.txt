@@ -9564,7 +9564,7 @@ Scrambled crow egg!<#>Разбитое воронье яйцо!
 <!-- Map301.rvdata2 --><#>Франшизники на горе
 <!-- Order: 299 --><#>
 He is dead.<#>Он мёртв.
-\et[009]The hell\#do you think\#YOU'RE going?<#>Куда ВЫ-то\#чёрт возьми\#лезете?
+\et[009]The hell\#do you think\#YOU'RE going?<#>Куда ВЫ-то,\#чёрт возьми,\#лезете?
 \et[000]Uh...\| up?<#>Э...\| наверх?
 \et[009]Wrong!\. You're\#going DOWN,\.\#motherfuckers!<#>Неправильно!\. Сейчас\#вы будете ПАДАТЬ,\.\#ублюдки!
 \et[010]They say Arnold\#has been killing\#nonstop for three weeks.<#>Говорят, что Арнольд\#без остановки убивал\#уже три недели.
