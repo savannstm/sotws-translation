@@ -14,8 +14,8 @@ Coolass Hat<#>Крутая шляпа
 Towering monolith of a hat for blocking\#out the sun.<#>Возвышающийся шляпный монолит, загораживающий\#солнце.
 Black Coat<#>Чёрный плащ
 A fine, black coat fashioned out of tanned\#trashbags.<#>Прочный чёрный плащ, сотканный из\#мусорных пакетов.
-Custom Bullet<#>Особая пуля
-A custom made .476 bullet.<#>Особая, существующая в единственном экземпляре пуля\#.476-го калибра.
+Custom Bullet<#>Особый патрон
+A custom made .476 bullet.<#>Особый, существующий в единственном экземпляре патрон\#.476-го калибра.
 Plaid Rags<#>Клетчатое тряпьё
 Luxury rags in the burburroo pattern.\#For the precocious beggar.<#>Роскошное тряпьё в стиле "Бурбери".\#Для начинающих попрошаек.
 Dusty Cravat<#>Пыльный шарф

@@ -31,7 +31,7 @@ You have completed this task.<#>Вы выполнили это задание.
 "Enclosed in this letter\#are three Rando Coins.<#>"К этому письму приложены\#три монеты Рандо."
 "Your job is to give these Coins to three\#separate people on the island in order to\#officially establish the Rando economy.<#>"Ваша работа - выдать эти монеты\#трём разным людям на острове, чтобы официально объявить\#экономику Рандо."
 "Under no circumstances are you to pocket\#this money and use it to buy extra rations.\#And no using it to bribe officers, either!<#>"Ни при каких обстоятельствах не пытайтесь прикарманить\#эти деньги на покупку нескольких рационов.\#И не подкупайте ими офицеров!"
-Inside the letter were three shiny objects.<#>Внутри письма лежат три блестящие штуки.
+Inside the letter were three shiny objects.<#>Внутри письма лежат три блестящих предмета.
 Got some Rando Coins!<#>Получено немного монет Рандо!
 Added to key items.<#>Добавлено в ключевые предметы.
 "OPERATION: TAKE OUT THE TRASH<#>"ОПЕРАЦИЯ: ВЫНОС МУСОРА"
