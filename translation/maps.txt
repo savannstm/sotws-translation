@@ -84,8 +84,14 @@ Grave of a "Wiseman."<#>Могила "Мудреца".
 \et[240]He's not\#what I expected.<#>Не так я его\#себе представлял.
 \et[241]I thought he'd\#be... you know.<#>Я думал, что он будет...\#ну, знаешь.
 \et[241]More cellophane.<#>Более целлофановым.
+This game is difficult and requires a lot of exploration.<#>
+Would you like to receive some aid?<#>
 \et[242]Yeah.<#>Ага.
 \et[242]Did Georgy\#trick us again?<#>Джорджи снова нас\#обманул?
+A friendly crow has decided to join you!<#>
+Would you like to be able to adjust\#your walking speed in-game?<#>
+Got a Speed Changer!<#>
+Added to key items.<#>
 Empty rain bucket.<#>Пустое ведро для дождевой воды.
 When it desiccates, it's the primary\#source of food on Garbage Island.<#>Высушенное мясо птиц представляет\#собой основной источник пищи\#на мусорном острове.
 A proud avian.<#>Гордая птица.
@@ -343,6 +349,13 @@ Old mattress. Been a long time.<#>Старый матрас. Отжил своё
 \et[003]That, was folk\#with the same idea.<#>Нашлись парни\#с такой же целью.
 \et[003]Idea to leave,\#I mean.<#>Целью убраться,\#я имею в виду.
 \et[003]We're going\#to see Georgy.<#>Мы идём\#к Джорджи.
+\et[003]Oh.\. Wait.\.\#One last thing.<#>
+\et[003]I found this\#book on the way.<#>
+\et[003]Is it yours, Lucky?<#>
+\et[000]Yeah...<#>
+\et[000]Thanks.<#>
+Got your Traveler's Logbook!<#>
+\et[003]You're welcome.<#>
 \et[003]He'll be getting ready,\#waiting for us.<#>Он подготавливает\#нам всё.
 \et[000]Sure, let's go.<#>Конечно, пойдём.
 Joel Miller joined your party!<#>Джоэл Миллер вступил в вашу группу!
@@ -403,6 +416,7 @@ Lord Gao is dead! Rando Rules!<#>Лорд Гао мёртв! Рандо рули
 <!-- Order: 8 --><#>
 It's a crashed truck. There is something inside.<#>Разбитый грузовик. Внутри что-то есть.
 You found a secret stash!<#>Вы нашли скрытый схрон!
+He's dead.<#>
 2 Magazines!<#>2 журнала!
 It's a crashed truck.<#>Разбитый грузовик.
 <!-- Map010.rvdata2 --><#>Мусорная яма Ларри Дэвиса
@@ -599,7 +613,15 @@ Side with No One<#>Остаться нейтральным
 \et[003]You know\#what?<#>А знаешь\#что?
 \et[003]I will.<#>Так и сделаю.
 \et[003]And you better not\#be a fucking\.\#SECOND\. late,\.\#or I'm gone.<#>И вам лучше не\#опоздать НИ НА\#ОДНУ ебучую секунду,\.\#или я отчаливаю.
+\et[003]You know what? \.\#Maybe I was a bit\#too harsh.<#>
+\et[003]One extra man\#couldn't hurt.<#>
+\et[003]And frankly,\.\#I really don't\#wanna deal with\#those rag maggots.<#>
+\et[004]Changed your mind?<#>
+\et[003]Yeah.\..\..<#>
+\et[003]But he's\. NOT\.\#getting on that boat.\.\#Period.<#>
 \et[003]You hear me?<#>Ты меня услышал?
+\et[003]I don't like\#you already.<#>
+\et[003]Let's just get going\#before I change my mind.<#>
 \et[004]Yeah.<#>Ага.
 \et[092]What a\#blowhard!<#>Какой\#хам!
 \et[092]You made the\#right choice,\#buddy boy.<#>Ты сделал\#правильный\#выбор, дружище.
@@ -822,6 +844,7 @@ All twenty of them!<#>Все двадцать!
 \et[163]You know\#good food is\#hard to come\#by around here!<#>Ты знаешь, что\#здесь тяжело\#наткнуться на\#качественную еду!
 \et[163]So\..\..\..\.?<#>Итак\..\..\..\.?
 Take the goods.<#>Взять подарок.
+Twenty mags and some Mystery Jerky!<#>
 No deal.<#>Сделки не будет.
 He gave you what he promised!<#>Он дал вам то, что обещал!
 Twenty mags and some Mystery Jerkey!<#>Двадцать журналов и немного неизвестного мяса!
@@ -1191,11 +1214,19 @@ Darry Sweets has left your party.<#>Дэрри Сладостный покину
 \et[02]There is no way\#I'm taking that\#stinking,\. humping,\.\#no-good-\^<#>Я ни за что не возьму\#этого вонючего,\.\#горбатого,\.\#отвратительного-\^
 \et[07]That's enough,\#Georgy.<#>Достаточно,\#Джорджи.
 \et[07]If Darry being with\#us bothers you so\#much, then just\#go to the boat yourself.<#>Если присутствие\#Дэрри так сильно\#тебе мешает, просто\#отправляйся к лодке один.
+\et[02]Alright.\.\.\#Fine.\. He can tag\#along,\. I guess.<#>
+\et[02]But he's\. NOT\#getting on the boat\.\#and that's final.<#>
+\et[02]Don't let your\#new friend\#keep us\#too long...<#>
+\et[02]Or I WILL\#leave your\#asses in\#the dirt.<#>
 \et[07]We'll be\#there\#sooner\#or later.<#>Мы покажемся\#там рано\#или поздно.
 \et[02].\..\..\.Ugh...<#>.\..\..\.Уф...
 \et[02]Alright.\.\.\#Fine.<#>Ладно.\.\.\#Хорошо.
 \et[02]I'll go get\#things ready\#for departure.<#>Я приготовлю\#всё к отплытию.
 \et[02]Don't let your\#new friend\#keep you\#too long...<#>Не дайте\#вашему новому\#другу вас надолго\#задержать...
+\et[07]He's just\#off his me-\^<#>
+\et[02]Fuck you.<#>
+\et[02]Let's just get\#going before I\#change my mind.<#>
+\et[02]Let's get to\#my boat already...<#>
 \et[02]Or I WILL\#leave your\#asses in\#the dust.<#>Или я ВОЗЬМУ\#и оставлю ваши\#жопы в местной\#пыли.
 \et[02]You understand?<#>Поняли?
 \et[07]Yes,\.\#Georgy.<#>Да,\.\#Джорджи.
@@ -1283,6 +1314,7 @@ Pickled.<#>Заморен.
 \et[113]Why couldn't\#it have been me?!<#>Почему\#не я?!
 \et[113]I don't know\#if I'll be able to\#move past this.<#>Я не знаю, смогу\#ли я жить дальше\#после этого.
 \et[012]Pedro is dead!\|\#He's dead\#because of you!<#>Педро мёртв!\|\#Он мёртв из-за\#вас!
+You look like the kind of idiot\#to speak to corpses.<#>
 \et[012]You're going\#to pay\#for this!<#>Вы заплатите\#за это!
 He is dead.<#>Он мёртв.
 \et[17]I've heard what you\#were talking about.\#So Georgy started\#taking passangers?<#>Я слышал, о чём вы\#говорили. Так\#Джорджи начал\#брать пассажиров?
@@ -1295,9 +1327,11 @@ Lost Family Photos.<#>Потеряны семейные фотографии.
 \et[17]I thought I\#threw these away.<#>Я думал, что\#выбросил их.
 \et[0]Memories\#aren't trash.<#>Воспоминания -\#не мусор.
 \et[0]The people\#you loved...<#>Люди, которых\#ты любил...
+The mountain stands tall.<#>
 \et[0]You shouldn't\#throw them out.<#>Их не стоит\#выкидывать.
 Got a Cruel Sack!<#>Получен жестокий пакет!
 <!-- Map018.rvdata2 --><#>Конечный сегмент мусорного острова, босс-файт с Роландом
+\et[003]I was wrong...\.\#This entire time...<#>
 <!-- Order: 72 --><#>
 He is dead.<#>Он мёртв.
 \et[004]The hell\#do you think\#you're doing?<#>Что, чёрт\#возьми, ты\#делаешь?
@@ -1305,6 +1339,8 @@ He is dead.<#>Он мёртв.
 \et[004]There's a\#reason Georgy\#always comes\#back here...<#>Есть причина,\#по которой\#Джорджи всегда\#возвращается...
 \et[004]Do you\#really hate it\#here that much?<#>Ты правда настолько\#ненавидишь это\#место?
 \et[004]Wow, never thought\#he had it in him...\#fightin' like that.<#>Вау, никогда не\#думал... что он\#вот так дерётся.
+\et[004]About the stuff\#you said...<#>
+\et[004]Things won't be the same\#back here...<#>
 \et[004]Even though\#big, he was\#always like\#a timid cow.<#>Даже учитывая\#размер, он всегда\#был пугливой\#козой.
 \et[004]I have some\#thinkin' to do.<#>Мне нужно\#подумать.
 Got a Dull Pickaxe!<#>Получена тупая кирка!
@@ -1316,6 +1352,7 @@ It is dead.<#>Он мёртв.
 \et[015]I don't\#CARE about\#Garbage Island!<#>Меня не ВОЛНУЕТ\#мусорный остров!
 \et[015]I'm doing what's\#in the best interest for\#me and my business.<#>Я делаю то, что\#лучше всего скажется\#на мне и моём бизнесе.
 \et[00]Georgy?<#>Джорджи?
+\et[03]Richie...\|\#Where have\#you gone.\..\..\.?<#>
 \et[015]Gah,\. about\#damn time!<#>Ох,\. чёрт возьми\#вовремя!
 \et[015]Help me\#talk some\#sense into\#this bozo!<#>Помогите мне\#вбить здравомыслие\#в голову этого\#поехавшего!
 \et[03]Richie...\|\#you should\#have never\#come here.<#>Ричи...\|\#тебе не стоило\#приходить\#сюда.
@@ -1339,6 +1376,58 @@ I'm done talking.<#>Я закончил говорить.
 \et[03]You just won't\#listen to reason...<#>Ты просто не\#понимаешь причину...
 \et[000]You are done,\#we are going.<#>Прекращай.\#Мы уходим.
 \et[03]I won't let\#you play mind\#games with me.<#>Я не позволю тебе\#играть в свои игры\#разума со мной.
+\et[000]This is enough.\.\#Stop it.<#>
+\et[000]No one needs this.<#>
+\et[03]You don't understand\....<#>
+\et[03]Ever since I came here...<#>
+\et[03]Ever since things became\#the way they are...<#>
+\et[03]I had made a promise.<#>
+\et[03]A promise to Garbage Island...<#>
+\et[03]A promise to everyone for\#a better life.<#>
+\et[000]This is no place to achieve\#that dream of yours.<#>
+\et[000]People don't belong\#among garbage.<#>
+\et[000]This place reeks of\#shattered dreams...<#>
+\et[000]...and of people who have\#given up all hope completely.<#>
+\et[000]People who delude themselves into believing\#that this pile of debris is their place.<#>
+\et[000]The place where they belong...<#>
+\et[03]This place holds dear memories\#for everyone here.<#>
+\et[03]It's impossible to leave\#them behind.<#>
+\et[03]Changing someone's\#way of life isn't easy...<#>
+\et[03]Especially for a garbage man.<#>
+\et[000]Memories aren't trash.<#>
+\et[000]This place is certainly\#not what it used to be.<#>
+\et[000]There's nothing left here.<#>
+\et[000]Things will keep getting worse...\.\.\.\#Until eventually,\. everything crumbles down...<#>
+\et[000]Leaving nothing behind.<#>
+\et[03]You still don't get it...<#>
+\et[03]There is no better place than\#what we have here.<#>
+\et[03]Any other place will just\#be worse.<#>
+\et[03]I'm doing this for\#your own good.<#>
+\et[000]Keeping people here\#doesn't help anyone...<#>
+\et[000]How can you be so sure that\#things won't get any better?<#>
+\et[000]Everyone here is just living\#in their own little bubble.<#>
+\et[000]Doing nothing about your situation\#will lead you nowhere.<#>
+\et[000]It's important to take the first\#step and achieve something greater.<#>
+\et[000]After all,\. what do you\#have to lose?<#>
+\et[03]Things here don't have to change.<#>
+\et[03]They are just as they were meant to be.<#>
+\et[03]There is no future for us. \.\.\#We are destined to live and die\#amidst rubbish and waste.<#>
+\et[03]Things here\. CANNOT get better.<#>
+\et[03]We just have to make out the\#most of what's left.<#>
+\et[000]How would you know?<#>
+\et[000]Holding people here against\#their will is destructive.<#>
+\et[000]There are so many who\#want to leave...<#>
+\et[000]So many sick of the life\#on this cursed island.<#>
+\et[000]The decision is up to you.<#>
+\et[015]Roland...<#>
+\et[015]Listen man, I'm seriously getting\#a little sick of your shit at this point...<#>
+\et[015]So step aside and let us pass,\.\#unless you want to be knocked\#on your ass a second time.<#>
+\et[015]I\. DON'T\. have all day.<#>
+\et[015]Understood?<#>
+\et[14]Georgy, plea-\^<#>
+\et[03]No,\. I understand.\.<#>
+\et[03]I know what has to be done...<#>
+\et[03]You are free to go.<#>
 \et[03]I have been\#out there...\#we all have.<#>Я был\#там... мы\#все были.
 \et[03]You want to\#undermine all\#that...<#>Вы хотите всё\#подорвать...
 \et[03]...undermine all\#we have HERE.<#>...подорвать всё,\#что мы имеем ЗДЕСЬ.
@@ -1449,6 +1538,8 @@ Darry has left your party.<#>Дэрри покинул вашу группу.
 \et[031]You're not\#like Rando's\#people. You're\#one of us.<#>Ты не человек\#Рандо. Ты один\#из нас.
 \et[031]Once a taboo\#is broken,\#there is no\#fixing it.<#>Когда табу нарушено,\#это уже нельзя\#исправить.
 \et[031]We're not wrong.\#Don't leave...<#>Мы не неправы.\#Не уходи...
+\et[004]They scared Bob.<#>
+\et[004]Crazy shit.<#>
 \et[031]Please...<#>Пожалуйста...
 \et[083]You back\#off, man!<#>Отвали,\#мужик!
 \et[004]You have a\#deathwish?!<#>Помереть\#приспичило?!
@@ -1458,6 +1549,9 @@ Darry has left your party.<#>Дэрри покинул вашу группу.
 \et[004]Roland\#won't do it...<#>Роланд не сделает\#этого...
 \et[004]... he's a\#bleedin' pussy.<#>...он чёртова\#баба.
 \et[083]You're wrong, man.<#>Ты неправ, мужик.
+\et[083]I can't believe it...<#>
+\et[083]The things you said...<#>
+\et[083]T-\.Thank you...<#>
 \et[083]He will\#end you.<#>Он прикончит\#тебя.
 \et[083]I know it.<#>Я это знаю.
 \et[083]Roland is\#stronger than\#you could\#ever imagine.<#>Роланд сильнее\#любого, кого\#ты можешь\#представить.
@@ -1968,12 +2062,16 @@ You gave away the Gold Tooth.<#>Вы отдали золотой зуб.
 \et[066]Now I have my\#TV AND my tooth.<#>Теперь у меня есть свой\#телевизор И свой зуб.
 \et[066]Life is good.<#>Жизнь прекрасна.
 \et[066]Thanks a ton, sir.<#>Безумно благодарю, сэр.
+\et[066]Here,\. have this.<#>
+\et[066]For your troubles.<#>
+You got a Crowned Tooth!<#>
 You felt something warm inside your heart.<#>Вы чувствуете тепло в своём сердце.
 Stats increased!<#>Характеристики повышены!
 \et[066]Now, the question\#at hand is how\#I'm gonna put this\#thing back in...<#>Теперь вопрос заключается\#в том, как мне вкрутить его\#обратно...
 <!-- Map027.rvdata2 --><#>Первая карта пустынного сегмента
 <!-- Order: 114 --><#>
 Rotten fruit has rotted away!<#>Тухлый фрукт окончательно разложился!
+The Propaganda Poster was discarded.<#>
 The Warm Bag has rotted away.<#>Тёплый пакет окончательно разложился!
 The Mysterious Key has rotted away.<#>Загадочный ключ окончательно разложился!
 Alex no longer feels gross.<#>Алекс больше не чувствует отвращения.
@@ -2050,9 +2148,28 @@ Earth to dumbass, there's nothing there.<#>Приём, придурок, нич�
 Nothing left.<#>Ничего не осталось.
 It's some of the barkeep's stock.<#>Остатки ассортимента бармена.
 Mystery jerky, perfume and a diet cola!<#>Неизвестное мясо, духи и диетическая кола!
+\et[013]My trowel.<#>
 His throat was slit.<#>Ему перерезали горло.
 \et[013]You thought\#I wouldn't\#notice?<#>Ты думал,\#я не\#замечу?
+It doesn't belong to you.<#>
+We're sorry...<#>
+\et[000]It doesn't belong to you.<#>
+\et[013]The fuck do you mean\#it doesn't belong to me?<#>
+\et[013]I got it myself,\#bitch.<#>
+\et[000]With our help.<#>
+\et[013]Whatever.<#>
+\et[013]If you want it so badly,\#then I guess I'll have to\#take it off you!<#>
+\et[013]Fine, fuck you!<#>
+\et[013]A man helps you\#get off that trashpit...<#>
+\et[013]And this is how\#you repay him?<#>
+\et[013]I hope you rot\#in the heat,\#dickheads.<#>
+\et[007]Wow.<#>
+\et[007]What a douche.<#>
+\et[013]You never stood\#a chance against the\#Hernandez.<#>
+\et[013]Now give it up.<#>
 \et[013]Thieving\#piece\#of trash...<#>Вороватый\#бомжара...
+\et[011]Tough luck.<#>
+\et[013]Yeah, yeah...<#>
 \et[013]Give me back my\#watch, before\#I waste you.<#>Отдавай часы\#обратно, пока я\#не завалил тебя.
 You have lost the watch.<#>Вы потеряли часы.
 You have lost the Immitation Gold Watch.<#>Вы потеряли поддельные золотые часы.
@@ -2197,6 +2314,15 @@ You bought them all... heh heh...<#>Ты выкупил всё... хе-хе...
 Out of order.<#>Вышло из строя.
 Normal skeleton.<#>Обычный скелет.
 The well is dry.<#>Колодец пересох.
+Skip the Endless Wastes walk?\.\#(Damage will be taken in the process.)<#>
+Yeah, it's too hot today.<#>
+I'm fine.<#>
+You walked through the desert for hours.<#>
+Found 3 magazines and State Manual II on the way!<#>
+The heatstroke was a bit too much for you.<#>
+A "member" of your party has passed away.<#>
+Your loss.<#>
+You got a tissue!<#>
 Box of ruined sportswear.<#>Коробка порванной спортивной формы.
 Way sign reads: "nothing".<#>Указатель гласит: "ничего".
 <!-- Map032.rvdata2 --><#>Пустыня
@@ -2409,6 +2535,7 @@ You got a Rubber Projectile!<#>Вы получили резиновый снар
 \et[0126]Real slippery.<#>Очень скользит.
 *Return crutch*<#>*Вернуть костыль*
 *Take other crutch*<#>*Забрать второй костыль*
+\et[0126]You're hilarious.<#>
 *Go away*<#>*Уйти*
 You have lost The Crutch.<#>Вы потеряли костыль.
 You got a Crutch!<#>Вы получили костыль!
@@ -2540,6 +2667,27 @@ He is...dead?<#>Он... мёртв?
 \et[025]Hey,\. it's my\#favorite rag man!<#>Эй,\. это же мой\#любимый оборванец!
 \et[025]Jesus...\| we're\#both far from\#home,\. aren't we?<#>Господи...\| мы\#оба далеко от\#дома,\. не так ли?
 \et[000]Please, that\#island was\#never my home.<#>Пожалуйста, хватит,\#этот остров даже\#не был моим домом.
+\et[025]...Is that...?<#>
+\et[025]It is! You have\#my golden tooth!<#>
+\et[025]I thought I traded\#it away for this TV...<#>
+\et[025]To have gotten it\#back, you must've paid\#a motherload of mags!<#>
+\et[025]Well, it's yours now.<#>
+\et[025]I don't need it, anyway.\.\#Still got plenty of\#other teeth left.<#>
+\et[025]Take good care\#of it, man...<#>
+Return the tooth?<#>
+\et[000]If it's yours, then\#you can have it back.<#>
+\et[025]Wha...?!\. Really?<#>
+\et[000]Yes.\. I don't really\#have a use for it otherwise.<#>
+\et[025]You're an angel.<#>
+You gave away the Gold Tooth.<#>
+\et[025]Now I have my\#TV AND my tooth.<#>
+\et[025]Life is good.<#>
+\et[025]Thanks a ton, sir.<#>
+You felt something warm inside your heart.<#>
+Stats increased!<#>
+\et[025]Here,\. have this.<#>
+\et[025]For your troubles.<#>
+You got a Crowned Tooth!<#>
 \et[000]But to be\#fair,\. this place\#doesn't seem\#much better.<#>Но если быть\#честным,\. это\#место не выглядит\#лучше.
 \et[025]I swear, if\#I can't find\#a power outlet\#in this town...<#>Я клянусь, если\#я не найду рабочую\#розетку в этом городе...
 \et[025]...I guess\#I'll just have\#to keep looking...<#>...наверное, мне\#придётся искать\#дальше...
@@ -2625,6 +2773,9 @@ He is dead.<#>Он мёртв.
 \et[0151]It'd be\#so easy\#to join them.<#>К ним так\#легко можно\#присоединиться.
 \et[0151]I gotta\#stay strong...\|\#For Fringe Boy...<#>Мне нужно\#оставаться сильным...\|\#Ради Фриндж Боя...
 \et[0151]It is said, from\#meat we come...<#>Говорят, мы произошли\#от мяса...
+\et[000]Looks useful...<#>
+You search his corpse.<#>
+Got a Football Helmet!<#>
 \et[0151]... through the\#franchise, infinite\#we become.<#>...через Франшизу,\#бесконечными мы\#станем.
 They are dead.<#>Они мертвы.
 \et[152]Everyone's in\#a tizzy over\#nothing, I say.<#>Все волнуются\#попусту, скажу\#я тебе.
@@ -2633,6 +2784,13 @@ They are dead.<#>Они мертвы.
 \et[152]The Franchise is\#like a bad cold.<#>Франшиза - она как\#сильная простуда.
 \et[152]Just gotta\#wait it out.<#>Нужно просто её\#переждать.
 \et[152]We'll recover soon.<#>Мы скоро восстановимся.
+\et[000]Perhaps you're gonna\#blow it yourself with\#that eyepatch.<#>
+\et[0183]Hmm...\|\#Perhaps you're right...<#>
+\et[0183]You know what?\|\#You can take it.<#>
+He gave you his eyepatch!<#>
+\et[0183]Now, if you will.<#>
+\et[000]Yeah...\.\#Right.<#>
+He is obviously dead.<#>
 He is...dead?<#>Он... мёртв?
 \et[0183]Shh! You'll\#blow my cover.<#>Тсс! Ты раскроешь\#моё прикрытие.
 \et[0184]Spill the guts!<#>Выкладывай!
@@ -2798,6 +2956,7 @@ The mutant unravels its jaw.<#>Мутант опускает свою челюс
 You got a Baby Crow!<#>Вы получили ворона-малыша!
 There is something stuck in its jaw.<#>У него что-то застряло в челюсти.
 *Try take it*<#>*Попытаться забрать это*
+Blocked.<#>
 *Leave it*<#>*Оставить это*
 It is dead.<#>Он мёртв.
 <!-- Map047.rvdata2 --><#>Конечный сегмент города, битва с Арнольдом и Франшизой
@@ -2812,6 +2971,7 @@ He is dead.<#>Он мёртв.
 \et[049]Scared\#of death?<#>Боитесь\#смерти?
 \et[049]It isn't easy.<#>Она тяжела.
 \et[000]Are you seriously\#going to fight us?\#For no reason?<#>Ты правда будешь\#сражаться с нами?\#Без причины?
+\et[053]This guy was\#truly something else.<#>
 \et[049]Don't blame\#me, blame\#the franchise.<#>Не вини\#меня, вини\#Франшизу.
 \et[000]So be it.<#>Да будет так.
 \et[053]This guy was\#something else.<#>Этот парень - что-то\#совсем другое.
@@ -2828,17 +2988,32 @@ He is dead.<#>Он мёртв.
 \et[053]After you.<#>После тебя.
 \et[016]Right behind you.<#>Прямо за тобой.
 \et[000]Run, Joel!<#>Беги, Джоэл!
+\et[053]This guy was\.\#REALLY\. something else.<#>
 \et[000]Salt, come on!<#>Солевой, давай!
 \et[000]Geen, come on!<#>Гин, давай!
 \et[049]Pathetic.<#>Жалко.
 \et[000]Why?<#>Почему?
 \et[000]You really\#want to\#do this?<#>Ты правда\#хочешь это\#сделать?
+\et[016]Alex?<#>
+\et[016]What are you doing?!<#>
+\et[016]Are you crazy?<#>
+\et[053]Lucky...<#>
+\et[053]I don't think that\#this is a good idea...<#>
+\et[016]I'll try to\#hold 'em off as\#long as I-\^<#>
 \et[016]...We've got company.<#>...У нас тут гости.
 \et[016]Looks like\#we're all out\#of options...<#>Похоже, у нас\#кончился\#выбор...
 \et[016]It has been...\|\#a pleasure,\#gentlemen.<#>Это была...\|\#честь,\#джентльмены.
 \et[016]I'll try to\#hold 'em off as\#long as I can.<#>Я попытаюсь\#задержать их\#на сколько смогу.
 \et[053]Alex?<#>Алекс?
 \et[053]Alex. We have to\#go, now.<#>Алекс. Нам нужно\#идти, сейчас же.
+Fight back?<#>
+Yes<#>
+No<#>
+\et[016]I'll try to\#hold 'em off-\^<#>
+\et[000]What other choice\#do we have?<#>
+\et[053]I suppose\#you're right...<#>
+\et[053]Let's do this.<#>
+\et[016]I've got a feeling that\#we're gonna regret this...<#>
 \et[053]Get your\#hands off me.<#>Убери от меня\#свои руки.
 \et[053]Sto--\^<#>Сто--|^
 <!-- Map048.rvdata2 --><#>Сегмент с мужиками, складывающими мусор
@@ -3070,6 +3245,7 @@ Human Fat!<#>Человеческий жир!
 \et[010]They just\#finished.<#>Они всё\#приготовили.
 \et[000]I'm waiting\#for someone.<#>Я кое-кого\#жду.
 \et[010]Don't worry, I'll\#let them in.<#>Не волнуйся,\#я их впущу.
+\et[010]You know the drill.<#>
 \et[010]Hey.<#>Привет.
 \et[010]Get in here.<#>Входите.
 \et[010]It's showtime.<#>Настало время шоу.
@@ -3167,6 +3343,9 @@ Come watch me fight.<#>Приходи посмотреть на бой.
 \et[00]Come watch me fight.<#>Приходи посмотреть на бой.
 \et[01]You owe me one.<#>На один гляну.
 \et[00]Sure thing.<#>Конечно.
+You took quite the beating.<#>
+Defense down.<#>
+Agility down.<#>
 <!-- Map071.rvdata2 --><#>Падение с горы после последнего сегмента города и битвы с Арнольдом,\#Гин/Краб умирают
 <!-- Order: 330 --><#>
 \et[000]Joel?<#>Джоэл?
@@ -3430,6 +3609,7 @@ You have given away all your Rando Coins.<#>Вы избавились от вс�
 \et[048]That changes\#everything.<#>Это всё\#меняет.
 \et[048]Pocket friendly\#gummy worm\#for that nasty\#paper, c'mon.<#>Дружелюбный карманный\#желейный червяк, за эту\#грязную бумажку, бери.
 \et[049]No use, Percy,\#I got this.<#>Прекращай, Перси,\#у меня уже всё схвачено.
+\et[049]Key or gummy\#for that dollar,\#take your pick.<#>
 \et[049]Here, consider\#this key instead.<#>Вот, лучше посмотри\#на этот ключ.
 \et[049]I don't know\#what it's for,\#but you know\#you want it.<#>Я не знаю, от чего\#он, но знаю, что\#он тебе нужен.
 \et[049]Key or gummy\#for that dolllar,\#take your pick.<#>Ключ или желейка\#за этот доллар,\#выбирай.
@@ -3664,6 +3844,8 @@ The rest are beyond consideration.<#>На остальные смотреть б
 \et[020]That'll teach\#him, vermin\#breeding scum.<#>Это проучит его,\#отброса разводящего\#паразитов.
 \et[020]Hey, I\#remember\#you!<#>Эй, я тебя\#помню!
 \et[020]Wanna help\#a pal pull a fast\#one on Roland?<#>Поможешь приятелю\#провернуть дело с\#Роландом?
+\et[020]Damn.<#>
+\et[020]You taught him good.<#>
 \et[020]Nab his\#little pet\#from his\#shack.<#>Сопри его\#маленького\#питомца из\#его халупы.
 \et[020]That Roland\#takes after\#his father...<#>Этот Роланд\#следует за своим\#отцом...
 \et[020]...in that\#they're both\#worthless.<#>...они оба\#никчёмны.
@@ -3731,6 +3913,7 @@ Fine, fuck you!<#>Да и пошёл ты нахуй!
 \et[003]You again?<#>Снова вы?
 \et[003]Thought I\#told you\#all to get!<#>Думал, я\#сказал вам\#валить!
 \et[003]Leave me\#be, God\#damn it!<#>Оставьте меня\#в покое,\#господи!
+\et[003]Leave my home 'fore\#I cut you up!<#>
 \et[003]Is there more\#of ya coming?<#>Кто-нибудь ещё\#придёт?
 \et[003]You dense, boy?<#>Ты тупой, парень?
 \et[003]You again?!<#>Снова ты?!
@@ -3849,6 +4032,9 @@ Shurik Caukaz joined your party!<#>Шурик Кауказ вступил в в�
 \et[091]Joel.<#>Джоэл.
 \et[18]And my\#name's Shurik.<#>А меня зовут\#Шурик.
 \et[052]I know\#who you are.<#>Я знаю, кто\#ты.
+Stand up?<#>
+Yes<#>
+No<#>
 \et[000]Well, night.<#>Ну, ночи.
 A member of your party has passed.<#>Член вашей группы умер.
 \et[102]...you did it, you\#can take it back.<#>...ты это сделал, ты это\#и расхлёбывай.
@@ -3872,6 +4058,42 @@ Your stat growth reduced.<#>Рост ваших характеристик сн�
 You have lost the Pink Pill.<#>Вы потеряли розовую таблетку.
 C'mon, Alex. Get up.<#>Давай, Алекс. Вставай.
 \et[052]There...<#>Вот...
+\et[000]Joel!<#>
+\et[091]Wide and awake.<#>
+\et[102]Ugh\..\..\..<#>
+\et[000]Everyone run!<#>
+\et[102]This isn't over.<#>
+\et[091]This guy was abnormal.<#>
+\et[052]Hugo...<#>
+\et[091]An acquaintance of yours?<#>
+\et[052]Y-\|Yeah.\..\..\#You could say that...<#>
+\et[000]Let's talk about this\#on the way.<#>
+\et[000]It's not safe here.<#>
+\et[000]We better get going.<#>
+\et[052]Alright...<#>
+\et[102]You will not\#harm m-\^<#>
+Joel has lost the Custom Bullet.<#>
+The Bolt Action Pistol can no longer be reloaded.<#>
+You are bleeding.<#>
+DEF decreased.<#>
+AGI decreased.<#>
+\et[052]Doesn't look very good.\#He needs to rest-<#>
+\et[000]I'm fine.<#>
+\et[091]Come on, Lucky.<#>
+\et[000]Joel...\|\#Your bullet...<#>
+\et[091]Worthless piece of lead.<#>
+\et[091]Bullets are replaceable.\|\#You are not.<#>
+\et[000]I'm flattered.<#>
+\et[091]I'll always have your back.<#>
+\et[091]Now, let's go.<#>
+\et[091]Last chance to back off\#before I pull the trigger!<#>
+\et[102]It's not you who I am after.<#>
+\et[102]This time you will not\#elude me, Jason.<#>
+\et[102]And you friends here\#will pay for it.<#>
+He has been cured.<#>
+He is done for...<#>
+Contains surgical equipment.<#>
+All of the instruments are worn out.\|\#Nothing of use.<#>
 \et[052]Doesn't look good.\#He needs to rest-<#>Он выглядит плохо.\#Ему нужно отдохнуть-
 \et[000]Just get us\#outta here.<#>Просто давай\#валить отсюда.
 \et[102]Quite the...\| mess\#you've made here.<#>Какой же...\| беспорядок\#ты тут устроил.
@@ -3926,6 +4148,8 @@ Scratch marks.<#>Царапины.
 \et[000]What do you want?<#>Чего ты хочешь?
 \et[008]Nothing fancy...<#>Ничего особенного...
 \et[008]...some human\#contact is all...<#>...лишь немного\#человеческого контакта...
+\et[008]Gets lonely around\#here...<#>
+\et[008]I want some human contact.\#That's all...<#>
 \et[008]A man\#like you?<#>Человек,\#как ты?
 \et[008]I'll see you again,\#real soon...<#>Мы встретимся\#снова, очень скоро...
 \et[008]Get's lonely around\#here...<#>Здесь\#одиноко...
@@ -4285,6 +4509,8 @@ Yes<#>Да
 No<#>Нет
 No use.<#>Бесполезно.
 <!-- Map111.rvdata2 --><#>
+It's not safe.<#>
+No point.<#>
 <!-- Order: 375 --><#>
 No use turning back now.<#>Уже бесполезно возвращаться.
 <!-- Map112.rvdata2 --><#>
@@ -4303,12 +4529,22 @@ Let's follow him.<#>Давай за ним.
 <!-- Map115.rvdata2 --><#>
 <!-- Order: 390 --><#>
 No use.<#>Бесполезно.
+Nothing left.<#>
+You cannot go back.<#>
+The door inside appears to be sealed shut.<#>
+\et[000]Everyone alright...?<#>
+\et[032]I think so...<#>
+\et[000]Pike?<#>
+\et[000]Where is he going?<#>
+\et[032]No idea.<#>
+\et[032]Better catch up.<#>
 <!-- Map116.rvdata2 --><#>Конечный сегмент игры, автобус к "Городу"
 <!-- Order: 391 --><#>
 \et[160]Here.<#>Вот.
 \et[006]That it?<#>И всё?
 \et[160]Take it or leave it.\#A deal is a deal.<#>Берите или уходите.\#Сделка есть сделка.
 \et[006]Hmph.<#>Хмпф.
+\et[000]We aren't looking\#for trouble.<#>
 \et[004]The hell\#you're going?<#>Куда вы чёрт\#возьми идёте?
 \et[004]This ain't your\#community transport.<#>Это вам не общественный\#транспорт.
 \et[000]Who pulls a knife\#on a dying man?<#>Кто направляет нож\#на умирающего?
@@ -4359,6 +4595,8 @@ Sealed.<#>Запечатано.
 <!-- Order: 392 --><#>
 <!-- Map129.rvdata2 --><#>
 <!-- Order: 393 --><#>
+Everything is better left behind.<#>
+Fossilized.<#>
 <!-- Map130.rvdata2 --><#>
 <!-- Order: 394 --><#>
 <!-- Map131.rvdata2 --><#>
@@ -4370,7 +4608,13 @@ Sealed.<#>Запечатано.
 \et[012]I'm not\#listening.<#>Ни за\#что.
 \et[013]I hope we don't\#run into Cormack.<#>Я надеюсь, мы не\#столкнёмся с Кормаком.
 \et[013]That dog gives\#me the creeps.<#>У меня мурашки\#от этой собаки.
+\et[040].\..\..Guys?<#>
+\et[013]Oh god...<#>
+\et[013]It's one of those\#jersey guys...<#>
+\et[041]What are we gonna\#do now, Pete?<#>
+\et[015]Stand your ground!<#>
 \et[014]Just need to\#catch my breath.<#>Просто нужна\#передышка.
+Delicious.<#>
 \et[014]Or those things\#will get me for\#good this time.<#>Или эти твари\#наконец заберут\#меня навечно.
 \et[015]If I never\#eat mud again, it\#will be too soon.<#>Если я не буду\#есть грязь, это\#случится очень скоро.
 LEARN TO SUCK EGGS\#OR YOU WON'T SURVIVE!<#>УЧИСЬ СОСАТЬ ЯЙЦА, ИЛИ\#НЕ ВЫЖИВЕШЬ!
@@ -4389,6 +4633,7 @@ TALL SHADOWS-\#ALL THAT THE WHITE FLASH LEFT.<#>ВЫСОКИЕ ТЕНИ - ЭТО
 \et[060]Please, can\#you just go?<#>Пожалуйста, можешь\#уйти?
 \et[000]Your phone.<#>Твой телефон.
 \et[060]Ugh!<#>Ух!
+\et[060]...killing everyone.\#Don't do that.<#>
 \et[000]The wire\#is cut.<#>Провод\#порезан.
 \et[060]That's it.<#>Да.
 \et[000]Hello?<#>Привет?
@@ -4446,6 +4691,7 @@ I'll take you on.<#>Я принимаю вызов.
 He is dead.<#>Он мёртв.
 \et[182]Get mud pies?<#>Взять грязевые пироги?
 Yes<#>Да
+\et[060]...killing.<#>
 No<#>Нет
 You got six Mud Pies!<#>Вы получили шесть грязевых пирогов!
 <!-- Map134.rvdata2 --><#>
@@ -4465,6 +4711,7 @@ You got four Mud Pies!<#>Вы получили четыре грязевых п�
 Drawing of a familly.<#>Рисунок семьи.
 <!-- Map136.rvdata2 --><#>
 <!-- Order: 358 --><#>
+Diet Cocola Cola and a Rusty Wrench!<#>
 You found a stash!<#>Вы нашли схрон!
 Diet Cocola Cola!<#>Диетическая Кокола-кола!
 <!-- Map137.rvdata2 --><#>У складки Бесконечности
@@ -4564,7 +4811,9 @@ You got sixteen Tomato Sauce Packets.<#>Вы получили шестнадца
 \et[03]Receive my most\#powerful meat!<#>Примите моё самое\#мощное мясо!
 You got Antique Ham!<#>Вы получили антикварный окорок!
 You didn't have to.<#>Не стоило.
+\et[03]You deserve it.<#>
 Let's all share it, Lester.<#>Давай разделим его, Лестер.
+\et[03]You're too kind.<#>
 \et[00]You didn't\#have to.<#>Не стоило.
 \et[00]Let's all share\#it together, Lester.<#>Давай разделим его все\#вместе, Лестер.
 You have lost Antique Ham.<#>Вы потеряли антикварный окорок.
@@ -4645,6 +4894,7 @@ Heed Joel's advice.<#>Последовать совету Джоэла.
 \et[022]Joel,\. are you sure\#he doesn't have some sort\#of weird brain condition from\#lying around those corpses?<#>Джоэл,\. ты уверен,\#что он не повредил\#себе мозги, лёжа\#во круг трупов?
 \et[077]He's a\#free man,\.\#Georgy.<#>Он - свободный\#человек,\.\#Джорджи.
 \et[077]Can't deny\#him his\#impulses.<#>Нельзя отговаривать\#его от порывов.
+\et[022]I'll be waiting\#for you over there.<#>
 \et[022]Oh\. my\. Gooood...<#>О\. гос\. подии...
 \et[022]Fine.\.\. Jump off\#as many cliffs\#as you want.<#>Ладно.\.\. Прыгай\#со скал сколько\#тебе угодно.
 \et[022]I'll be\#at the boat.<#>Я буду ждать\#у лодки.
@@ -4679,6 +4929,8 @@ The stench is too strong.<#>Вонь слишком сильная.
 \et[000]Joel, it's me!<#>Джоэл, это я!
 \et[000]Up here!<#>Сверху!
 \et[070]Lucky!<#>Счастливчик!
+\et[024]About fuckin' time.<#>
+\et[024]Can we stop\#messing around and\#head to the boat now?<#>
 \et[070]Good to see you!<#>Приятно тебя видеть!
 \et[006]There's my boy!<#>Мой мужик!
 \et[006]Get down\#here already!<#>Спускайся\#уже!
@@ -4710,6 +4962,8 @@ You procure Bird Feed!<#>Вы получили птичий корм!
 Yes<#>Да
 No<#>Нет
 Return other baby.<#>Вернуть другого малыша.
+You felt something warm inside your heart.<#>
+Your stats increased!<#>
 You got a Baby Crow!<#>Вы получили ворона-малыша!
 You have lost a Baby Crow.<#>Вы потеряли ворона-малыша.
 Happy chicks.<#>Счастливые цыпочки.
@@ -4797,6 +5051,8 @@ They are dead.<#>Они мертвы.
 Yes<#>Да
 No<#>Нет
 You got Stefan Kindchild's corpse.<#>Вы забрали труп Стефана Добряка.
+Pick up the TV?<#>
+Got an Infini-TV!<#>
 Added to key items.<#>Добавлено в ключевые предметы.
 He is dead.<#>Он мёртв.
 <!-- Map151.rvdata2 --><#>
@@ -4805,6 +5061,9 @@ He is dead.<#>Он мёртв.
 <!-- Order: 219 --><#>
 They are dead.<#>Они мертвы.
 He is dead.<#>Он мёртв.
+Skip Dinner Scene?<#>
+Yes<#>
+No<#>
 Mouldy books.<#>Заплесневелые книги.
 \et[11]Who are you\#supposed to be?<#>Кто ты вообще\#такой?
 Alex.<#>Алекс.
@@ -5019,6 +5278,9 @@ It's jammed.<#>Заклинило.
 You search the refrigerator.<#>Вы обыскиваете холодильник.
 You found a secret stash!<#>Вы нашли скрытый схрон!
 Domestic Jerky and some Rotten Fruit!<#>Домашнее мясо и тухлый фрукт!
+You search the kitchen counter.<#>
+You found something!<#>
+Baking Mittens!<#>
 Empty.<#>Пусто.
 Putrid kitchenware.<#>Заплесневелая посуда.
 <!-- Map156.rvdata2 --><#>Здание, где мужики спорят насчёт банд Игры
@@ -5026,11 +5288,15 @@ Putrid kitchenware.<#>Заплесневелая посуда.
 \et[02]I'm done\#talking.<#>Я устал\#твердеть.
 \et[02]The Corps is\#all bark no bite.<#>Корпы лишь лают,\#но не кусаются.
 \et[02]Fringe knows\#how to show\#some teeth.<#>Фриндж\#умеет\#показать зубы.
+\et[02]Ugh...<#>
+\et[02]It's always one\#thing after another...<#>
 \et[02]Bepe never\#did have\#any backbone.<#>Бепе всегда\#был\#бесхребетным.
 \et[02]Glad he\#finally shut\#that big\#mouth of his.<#>Рад, что\#он наконец\#заткнул свой\#громкий рот.
 \et[03]Can you\#believe\#this guy?<#>Можешь\#поверить этому\#парню?
 \et[03]Just wait 'till\#the guys back\#at the Alley\#hear about this.<#>Подожди, пока\#ребята в Аллее\#услышат об этом.
 \et[03]We're the\#best and\#we know it!<#>Мы лучшие,\#и мы знаем\#это!
+\et[03]Aren't we the best?<#>
+\et[03]Apparently fuckin' not.<#>
 \et[03]Angels ain't\#got shit\#on us!<#>У Ангелов\#нихера на\#нас нет!
 He is dead.<#>Он мёртв.
 \et[03]...that's the\#best you could\#come up with?<#>...это лучшее,\#что ты смог\#придумать?
@@ -5083,6 +5349,16 @@ Don't rope me into this.<#>Не втягивайте меня в это.
 \et[02]Another crushed\#beneath the\#mighty heel\#of Dobs!<#>Ещё один\#раздавлен\#под могучей\#пятой Добса!
 \et[00]Don't rope\#me into this.<#>Не втягивайте\#меня в это.
 \et[00]I don't\#even know\#what you're\#talking about.<#>Я даже не\#знаю, о чём\#вы.
+\et[03]Nerd.<#>
+\et[02]Highschool's back for ya!<#>
+\et[02]It...<#>
+\et[02]It can't be...<#>
+\et[03]How the hell did we lose?<#>
+\et[03]Feeling's mutual.<#>
+\et[03]I can't believe this.<#>
+\et[03]We need to change our ways...<#>
+\et[03]You got what was comin' to ya!<#>
+\et[03]The storm took y'all out!<#>
 \et[03]Wow.<#>Вау.
 \et[02]Loser...<#>Лузер...
 <!-- Map157.rvdata2 --><#>
@@ -5991,6 +6267,7 @@ No<#>Нет
 \et[059]Anotha man\#enterin' da\#land o' honey.<#>Очередной человек\#входит в намазанные\#мёдом земли.
 \et[059]Dere's still time.<#>Пока ещё есть время.
 \et[059]You can change\#ya mind, son.<#>Ты можешь передумать,\#сынок.
+\et[059]Anotha one bites da dust.<#>
 \et[059]Please...\.\#we nevah\#get any\#new friends.<#>Пожалуйста...\.\#мы никогда не\#заводили новых\#друзей.
 \et[059]Why did\#Toady have\#to leave meh...<#>Почему Тоди\#ушёл от меня...
 It looks calm.<#>Выглядит спокойной.
@@ -6023,6 +6300,25 @@ It is a little strange.<#>Немного странно.
 \et[039]But now\#I've gotta\#commit\#to this.<#>Но теперь надо\#довести дело\#до конца.
 \et[039]Ugh...<#>Уф...
 \et[039]It's been\#thirty-eight hours.<#>Сижу уже тридцать\#восемь часов.
+\et[039]Well, hello again.<#>
+\et[039]Think you could\#help a fella out?<#>
+\et[000]Help you how\#exactly?<#>
+\et[039]Well...<#>
+\et[039]I've been trying to do\#the deed for hours now.<#>
+\et[039]Soooo...<#>
+\et[039]Here's what I'm\#trying to say.<#>
+\et[039]What a shame.<#>
+\et[000]This isn't right.<#>
+\et[000]You don't have\#to do this.<#>
+\et[039]I didn't ask for\#your advice.<#>
+\et[039]I asked for\#a favor.<#>
+\et[000]Surely there's still\#something worth\#living for.<#>
+\et[039]You don't\#know me.<#>
+\et[039]I've already lost\#everything.<#>
+\et[039]Come back when you\#think you've got the guts\#to get the job done.<#>
+\et[039]You're back...<#>
+\et[039]Shame indeed.<#>
+He's dead.<#>
 \et[039]Still alive.<#>Всё ещё живой.
 \et[039]I can't tell if\#I'm the world's\#luckiest or un-\#luckiest person.<#>Не знаю, самый\#счастливый ли я\#или самый неудачливый\#человек на земле.
 \et[040]Ew. No\#thanks.<#>Фу. Нет,\#спасибо.
@@ -6045,6 +6341,7 @@ It is a little strange.<#>Немного странно.
 \et[000]My sinuses\#are on fire.<#>Мои ноздри\#горят.
 \et[040]You bet\#they are.<#>Ещё\#бы.
 \et[040]Welcome to\#the good life,\#my brother.<#>Добро пожаловать\#в хорошую жизнь,\#брат.
+\et[040]You're really messed up.\|\#For real.<#>
 \et[040]We'll treat\#you right.<#>Мы тебя как\#следует вылечим.
 \et[040]Don't talk\#to me.<#>Не разговаривай\#со мной.
 He seems busy.<#>Он, похоже, занят.
@@ -6063,6 +6360,8 @@ He passed out.<#>Он потерял сознание.
 \et[011]So many\#bags in\#one place...<#>Так много\#пакетов в одном\#месте...
 \et[011]It doesn't\#even matter\#what's inside.<#>Даже неважно,\#что внутри.
 \et[011]The plastic\#speaks for itself.<#>Пластик говорит\#за себя.
+\et[011]A shame really.<#>
+\et[011]At least he went\#down like a man.<#>
 \et[011]This is\#my cocoon.<#>Это мой\#кокон.
 \et[011]One day I\#will emerge\#a beautiful\#trash butterfly...<#>Однажды, я\#взлечу, как\#прекрасная\#мусорная бабочка...
 Mysterious and lovely.<#>Загадочная и милая.
@@ -6158,12 +6457,14 @@ The text is illegible.<#>Текст неразборчив.
 \et[001]The people here\#are too busy sticking\#their dicks in trash to\#give us their time.<#>Люди здесь слишком\#заняты ёблей с мусором,\#чтобы уделить нам время.
 \et[001]Now look at\#what's happened...<#>Теперь посмотри, что\#произошло...
 \et[001]Poor T.P.<#>Бедняга Т. П.
+He's dead.<#>
 \et[001]Can't wait to\#go back to shore.<#>Не терпится вернуться\#на берег.
 \et[001]Slim's prolly wondering\#where the hell we are.<#>Слим, наверное, думает\#к какому чёрту мы затерялись.
 It's full of blue pills.<#>Она полна синих таблеток.
 \et[001]Hey!<#>Эй!
 \et[001]Hands off\#the merchandise!<#>Руки прочь от\#товара!
 \et[001]That shit ain't\#for free, ya know!<#>Дрянь не бесплатная,\#знаешь ли!
+\et[003]If you came for\#T.P., then you're gonna\#have to go through me!<#>
 The box is empty.<#>Коробка пуста.
 \et[003]Ahhh!\. We've\#been found out!<#>Ааа!\. Нас\#нашли!
 He isn't breathing.<#>Он не дышит.
@@ -6203,6 +6504,11 @@ He snatched the poster...<#>Он выхватил постер...
 ...but gave you a mag in return!<#>...но дал вам журнал взамен!
 \et[006]I really need\#to memorize that code.<#>Мне срочно надо\#запомнить этот код.
 \et[006]Lest someone else\#stumble upon this place.<#>Чтобы кто ещё не\#наткнулся на это место.
+Take one?<#>
+Yes<#>
+No<#>
+Got a Joy Pill!<#>
+Enough.<#>
 \et[006]Someone a lot\#more violent than you.<#>Кто-то куда более\#жестокий, чем ты.
 \et[006]Glad you\#were the one\#to find that\#thing, instead of...<#>Рад, что именно\#ты разобрался,\#вместо...
 \et[006]Well,\. a more\#unsavory character.<#>Ну,\. более отталкивающих\#персонажей.
@@ -6531,6 +6837,7 @@ It is dead.<#>Он мёртв.
 \et[000]I'm sorry.<#>Прости.
 \et[005]Let's just get\#outta here.<#>Давай выбираться\#отсюда.
 <!-- Map208.rvdata2 --><#>
+A healthy herb!<#>
 <!-- Order: 129 --><#>
 You found a stash!<#>Вы нашли схрон!
 A dried herb!<#>Высушенная трава!
@@ -6582,6 +6889,11 @@ Crushed bones.<#>Раздавленный скелет.
 "I'm not coming out, and you can't make me.<#>"Я не выйду, и вы не заставите меня."
 "Until whatever the hell this is stops,\#I'm holding down the fort here.<#>"Пока этот чёртов ад не прекратиться,\#я остаюсь в своём форте."
 "Just leave me. Get out of here while you can.<#>"Просто оставьте меня. Выбирайтесь отсюда,\#пока можете."
+This cave looks very dangerous.<#>
+Do you wish to proceed?<#>
+Yes<#>
+No<#>
+No.<#>
 "Contact HQ by any means necessary."<#>"Свяжитесь со штабом любой ценой."
 It is dead.<#>Он мёртв.
 <!-- Map213.rvdata2 --><#>Вонючий дом на мусорном острове
@@ -6738,6 +7050,15 @@ Old radio. It looks as if it was\#used to monitor something.<#>Старое ра
 "Currently on watch for further phenomena.<#>"В текущий момент слежу за дальнейшим развитием."
 "Will report to HQ soon."<#>"Вскоре доложу в штаб."
 <!-- Map219.rvdata2 --><#>
+\et[015]Chasing Joy?<#>
+\et[000]Uhhh\..\..\.. I really don-\^<#>
+\et[015]Of course you are.<#>
+\et[015]Don't lie to me.<#>
+\et[015]I know what you did.<#>
+\et[000]Huh?<#>
+\et[015]Scum.<#>
+\et[015]You're gonna pay for\#what you did to my boys...<#>
+\et[015]With YOUR BLOOD!<#>
 <!-- Order: 131 --><#>
 He is dead.<#>Он мёртв.
 <!-- Map220.rvdata2 --><#>
@@ -6748,6 +7069,32 @@ It reads, in shaky writing:<#>Оно гласит, расшатанными бу
 "Green...\| monster...\| evil smile...\|"<#>"Зелёный...\| монстр...\| злая улыбка...\|"
 "Where's the...\| doctor?"<#>"Где...\| доктор?"
 The rest is illegible.<#>Остальное неразборчиво.
+\et[006]Chasing Joy?<#>
+\et[000]You already said that...<#>
+\et[006]Hah!<#>
+\et[006]I'm just checking...<#>
+\et[000]Checking what?<#>
+\et[000]Who are you even?<#>
+\et[006]\.Who?\.\.\. Me?\.\.\.\.\.\#Nobody of interest.<#>
+\et[000]Your face is everywhere...<#>
+\et[006]Oh?\. Is it really?<#>
+\et[000]Y-yeah...<#>
+\et[006]Well,\. that doesn't really\#matter right now...<#>
+\et[006]Say\..\..\..<#>
+\et[006]You want another sample\#of what the Joy has to offer?<#>
+\et[006]You want a sample\#of what the Joy has to offer?<#>
+\et[000]Uhh\..\..\..<#>
+\et[000]No?<#>
+\et[000]I'm not\#interested.<#>
+\et[006]Oh...<#>
+\et[006]Is that so?<#>
+\et[006]Let's see if you're being truthful.<#>
+\et[006]Liar.<#>
+\et[006]That's\#really hard to\#believe.<#>
+\et[006]But it's alright.<#>
+\et[006]I hope that my new sample\#will be able to convince you.<#>
+His weapon...<#>
+Got a Warfare Scimitar!<#>
 You found a secret stash!<#>Вы нашли скрытый схрон!
 Doctor's coat!<#>Докторский халат!
 <!-- Map221.rvdata2 --><#>
@@ -7275,6 +7622,7 @@ You exchanged the Vagabond's Globe\#for fifteen Cosmonaut Food Tubes!<#>Вы о�
 \et[037]There you are,\.\#end of discussion.<#>Держи тюбики,\.\#Только не съешь их все в миг.
 \et[037]I do hope\#you can read\#Russian...<#>И, надеюсь,\#ты знаешь\#заморский язык...
 \et[037]I'm going\#to give this\#globe a whirl.<#>А я глобус \#покручу.
+You exchanged the Vagabond's Globe\#for a Rainbow Painter's Gear!<#>
 \et[037]See what happens,\#see what unfurls.<#>Может, \#знания получу.
 \et[000]Bring me\#the rainbow.<#>Дай мне\#радугу.
 You exchanged the Vagabond's Globe\#for some Rainbow Painter's Gear!<#>Вы обменяли глобус бродяги на\#разноцветные инструменты художника!
@@ -7462,6 +7810,10 @@ Gave some Man Made Salt.<#>Отдано немного искусственно�
 \et[002]Atop the mountain\#of blood,\. within\#the palace of carnage...<#>На вершине горы\#крови,\. в покоях\#резни...
 \et[002]Inside the\#office of the\#one betrayed\#by his fate...<#>В офисе того,\#кого предала\#судьба...
 \et[002]A traveller's\#tool remains,\.\#directionless.<#>Лежит инструмент\#путешественника,\.\#бесцельно.
+\et[006]I give you\.\#this gemstone...<#>
+\et[006]Clear your mind...\.\#Clear your soul...<#>
+\et[006]Its knowledge is\#boundless...\.\#You just have to find it.<#>
+Received a Salt Diamond!<#>
 \et[002]Offer the silent\#globe to the purveyor.<#>Предложи тихий\#глобус лавочнику.
 \et[002]I have\#no more\#wisdom to share.<#>У меня больше\#нет мудрости\#для тебя.
 \et[002]Go now,\. bearer\#of salt,\. and\#seek that which\#you still seek.<#>Теперь иди,\.\#соленосец,\.\#и найди то,\#чего ищешь.
@@ -7599,6 +7951,8 @@ We don't mean any harm.<#>Мы не хотим причинить вреда.
 \et[017]Damn, I\#can't remember\#the last time\#Ron smiled like that.<#>Чёрт, я не помню,\#когда Рон в\#последний раз\#так улыбался.
 \et[017]You've cast\#a spell on\#him, new guy.<#>Ты заворожил\#его, парень.
 \et[019]No way!\.\#A real\#life witch!<#>Невозможно!\.\#Привороты\#существуют!
+You felt something warm inside your heart.<#>
+Stats increased!<#>
 \et[019]Can you\#make me\#find true love?\.\#With your magic?<#>А ты можешь сделать\#так, чтобы я нашёл\#свою истинную любовь?\.\#С помощью своей магии?
 \et[018]Careful now,\.\#he might just\#turn you into\#a frog.<#>Поосторожнее,\.\#он тебя может\#в лягушку\#превратить.
 \et[000]Well,\. it's\#been fun.<#>Ну,\. было\#весело.
@@ -7757,6 +8111,9 @@ He is dead.<#>Он мёртв.
 \et[015]It would've\#been a great\#treat for my\#good girl!<#>Она была бы\#прекрасным\#лакомством\#для моей девочки!
 \et[015]Don't worry,\#Clove,\. Santana\#will get you\#some grubs soon!<#>Не волнуйся,\#Клов,\. Сантана\#скоро принесёт\#тебе еды!
 \et[0015]¡La carne\#de la vida!<#>
+\et[000]Wow...<#>
+\et[000]My hatred for snakes somehow\#grew even stronger.<#>
+Nothing but ashes.<#>
 \et[0015]Once you\#taste the flesh\#of man,\. you\#cannot resist!<#>Когда ты попробуешь\#вкус человека,\. не\#сможешь сопротивляться!
 \et[0015]The serpent\#devours all!<#>Змей пожирает\#всё!
 Thankfully, it seems docile.<#>К счастью, она выглядит мирной.
@@ -8394,6 +8751,14 @@ He is staring blankly.<#>Он смотрит пустым взглядом.
 \et[026]I just\#couldn't take\#it anymore.<#>Я не могу\#больше.
 \et[026]I was...\|\#too annoyed.<#>Я...\|\#Слишком разозлён.
 \et[026]I'm going\#to rid this\#world of all\#annoying people.<#>Я избавлю\#этот мир от\#всех раздражающих\#людей.
+\et[026]Grandpa...<#>
+\et[026]It seems like you\#make the list.<#>
+\et[026]Well...<#>
+\et[026]Perhaps I've made\#a mistake.<#>
+\et[026]Run along.<#>
+\et[026]You really wanna\#do this again?<#>
+\et[026]Once again.<#>
+He stumbled upon a realization.<#>
 \et[026]This is\#the power\#the Franchise\#gives to me.<#>Эту силу\#даёт мне\#Франшиза.
 \et[026]More than\#the Corps\#ever did.<#>Больше, чем\#когда-либо\#Корпы.
 It watches.<#>Он смотрит.
@@ -8411,6 +8776,13 @@ It watches.<#>Он смотрит.
 \et[032]Now we\#can play\#our game\#in peace.<#>Теперь мы\#можем\#спокойно\#играть.
 \et[032]Spill our\#blood in peace.<#>Спокойно проливать\#нашу кровь.
 \et[033]The sweet blood...<#>Сладкая кровь...
+\et[033]Or perhaps...<#>
+\et[033]Your time has come.<#>
+\et[033]I don't think so.<#>
+\et[033]You die here.<#>
+\et[000]This could come\#in handy...<#>
+You search his corpse.<#>
+Got an All-Star Baseball Helmet!<#>
 \et[033]It tastes\#so good...<#>Она такая\#вкусная...
 \et[033]It will\#be your turn,\.\#sooner or later...<#>Ты станешь\#следующим,\.\#рано или поздно...
 \et[035]Yo,\. some\#fat guy just\#like,\. totally\#ran past me.<#>Эй,\. какой-то\#жирный парень\#просто типа,\.\#пробежал мимо.
@@ -8452,6 +8824,18 @@ Out of gas.<#>Закончился бензин.
 \et[008]Whatever you\#say,\. old timer.<#>Как скажешь,\.\#старик.
 He is dead.<#>Он мёртв.
 \et[009]I'm the\#champ now!<#>Я теперь\#чемпион!
+\et[009]Hah!\.\#I'm the champion!<#>
+\et[009]Remember that.<#>
+\et[009]Please.<#>
+\et[009]For real.<#>
+You are the champ now.<#>
+Got a pair of Boxing Gloves!<#>
+\et[011]Lucky?\.\#What's that?<#>
+\et[011]You know how\#to box?<#>
+\et[000]No...<#>
+\et[000]But I think we\#could benefit.<#>
+\et[011]Alright.<#>
+\et[011]You got a point.<#>
 \et[009]Ha ha HA!<#>Ха-ха-ХА!
 \et[009]Gimme my belt!<#>Дай мне мой пояс!
 <!-- Map255.rvdata2 --><#>Ферма Отче
@@ -8658,6 +9042,9 @@ He is dead.<#>Он мёртв.
 \et[004]Him and\#Lenny both.<#>Ему и\#Ленни.
 \et[005]I'm on\#the lookout\#for jerseyheads.<#>Я наблюдаю\#за маечниками.
 \et[005]Seen any?<#>Заметил скольких?
+\et[000].\..\..\.No?<#>
+\et[005]Oh.<#>
+\et[005]They are everywhere.<#>
 \et[000]A few.<#>Парочку.
 \et[005]Killed any?<#>Убил скольких?
 \et[000].\..\..\.A few.<#>.\..\..\.Парочку.
@@ -8711,6 +9098,16 @@ Nothing else useful.<#>Больше ничего полезного.
 \et[002]NO MORE!<#>ДОСТАТОЧНО!
 \et[002]That is the\#LAST fucking time\#I hear about\#God damn STOCKS!<#>Это ПОСЛЕДНИЙ\#ебучий раз, когда\#я слушаю о чёртовых\#АКЦИЯХ!
 \et[002]I just wanted\#some fucking coffee!<#>Я просто хотел\#ебучего кофе!
+\et[000]You killed him over\#some coffee?<#>
+\et[002]Yeah.\|\#You got a problem\#with that?<#>
+\et[000]Well, I-\^<#>
+\et[002]Motherfuckers...\|\#Always trying to teach\#me a lesson!<#>
+\et[002]"Francis, it's not nice to kill\#people over petty things!"<#>
+\et[002]I've heard it all.<#>
+\et[002]How about I teach\#YOU a lesson?<#>
+\et[002]A lesson on how to keep\#your mouth shut!<#>
+It was too much for him.<#>
+Hope he learned his lesson.<#>
 \et[002]Just HAD to\#do this the\#hard way,\. eh,\#Wallace?!<#>Ты просто НЕ\#МОЖЕШЬ\#по-простому,\.\#а, Уэллэс?!
 \et[002]Cheap bastard...<#>Дешёвый ублюдок...
 \et[003]Francis,\. have I\#ever told you\#about my days\#as a stock trader?<#>Фрэнсис,\. рассказывал\#ли я тебе о моих\#деньках на фондовой\#бирже?
@@ -8767,6 +9164,9 @@ Spare Tie!<#>Запасной галстук!
 \et[005]My golf\#prowess is\#unparalleled.<#>Моему мастерству\#в гольфе нет\#равных.
 \et[005]Swear on\#my momma's\#husband's ex-\#girlfriend's cat.<#>Клянусь кошкой\#бывшей девушки\#мужа моей мамы.
 \et[005]Guess I hold\#anotha world\#record now.<#>Похоже я терь\#держу новый\#мировой рекорд.
+\et[005]You don't know\#when to back off,\#do you?<#>
+\et[005]Seriously gettin'\#on my nerves!<#>
+He's been clobbered.<#>
 \et[005]"Most holes\#clubbed into\#one fool's\#sorry head."<#>"Самое большое\#количество дыр,\#пробитое в бедной\#голове одного придурка."
 \et[005]Tell the\#boys over at\#Guinness to\#write this down.<#>Нужно будет\#сказать Гинесским,\#чтобы записали.
 \et[006]Wonder if\#we'll have a\#board meetin'\#when Otto gets back.<#>Интересно, будет\#ли у нас заседание,\#когда Отто вернётся.
@@ -8816,6 +9216,57 @@ He is dead.<#>Он мёртв.
 \et[006]Playboy\|: A History.<#>Плейбой\|: история.
 He is absorbed by the text.<#>Он поглощён текстом.
 \et[006]Turns out\#books are\#great for\#bludgeoning,\. too.<#>Оказывается,\.\#книги хороши\#ещё и для\#избиения.
+\et[006].\|.\|.\|Except for a cup of fresh\#water,\| of course.<#>
+\et[006]Mind fetching me some from\#the cooler over there?<#>
+\et[000]Uh...\|\#Sure thing.<#>
+\et[000]Here.<#>
+Lost a cup of water.<#>
+\et[006]Thank you,\| uhh...<#>
+\et[000]Alex.<#>
+\et[006]Alex, alright.<#>
+\et[006]To be frank,\| this book\#is a bit of a bore.<#>
+\et[006]Let me find some\#more...\| "literature".<#>
+\et[006]Aha!<#>
+\et[006]Almost forgot where I put it.<#>
+\et[006]Let's see...<#>
+\et[006]Hmm...<#>
+\et[006]Oh my god...<#>
+\et[006]Uhh...<#>
+\et[006]Jesus Christ...<#>
+\et[006]The hell is this nonsense?<#>
+\et[006]Hear this.<#>
+\et[006]"Traveler's Logbook Vol. 1"<#>
+\et[006]"Activate Spoiler-Free Achievements?"<#>
+\et[006]I honestly have no idea what it says.<#>
+\et[006]It really doesn't make sense.<#>
+\et[006]Perhaps the next page will\#give us some insight...<#>
+\et[006]"Achievement Number 57"<#>
+\et[006]"Bludgeon an old man\#until he's unconscious."<#>
+\et[006]Well, this is awkward.<#>
+\et[006]But I\| HAVE\| to do it.<#>
+\et[006]This is a trusted source, after all.<#>
+\et[000]Really?<#>
+\et[006]Yeah.<#>
+\et[006]I love changing my opinions and beliefs\#about the surrounding environment based\#on the influence of external sources.<#>
+\et[000]Oh.\|\#Yeah.<#>
+\et[000]Makes sense to me.<#>
+\et[000]Stop it.<#>
+\et[000]We don't have to do this.<#>
+\et[006]I'm sorry.<#>
+\et[000]Don't be sorry,\|\#be better.<#>
+\et[006]I can't help it.<#>
+\et[006]My primal instincts to inflict\#harm upon others came over me.<#>
+\et[000]Why?<#>
+\et[006]What do you mean?<#>
+\et[000]Why did you not kill us?<#>
+\et[006]It said "bludgeon",\| not "kill".<#>
+\et[000]It ran out.<#>
+\et[006]Oh.<#>
+\et[006]What a shame.<#>
+He's dead.<#>
+\et[006]At least the water calmed me down.<#>
+\et[006]Gotta credit you for that.<#>
+\et[000]No problem...\|\#I guess.<#>
 \et[006]Food for the\#mind and for\#the ravenous body.<#>Пища для ума и для\#голодного тела.
 \et[006]What more\#could you\#ask for?<#>Чего ещё\#можно\#желать?
 Dusty phonebook.<#>Пыльная телефонная книга.
@@ -9140,6 +9591,13 @@ He is dead.<#>Он мёртв.
 \et[004]It's ruining\#my hairdo!<#>Он портит мою\#причёску!
 \et[005]Uh huh...<#>Ага...
 \et[003]Shut it,\.\#you two.\|\#We've got\#company.<#>Заткнитесь,\.\#вы двое.\|\#У нас\#тут гости.
+\et[005]It's just\#some\..\..\..\#old man?<#>
+\et[003]Don't underestimate him.<#>
+\et[003]Keep your guard up.<#>
+\et[003]Let's see what\#you've learnt.<#>
+\et[004]...You heard\#the boss...<#>
+\et[004]Let's get 'em.<#>
+\et[005]Yeah...\.\#Let's do this.<#>
 \et[004]Pft,\. that guy\#ain't nothing to\#worry about, Francis.<#>Пфф,\. нам\#не о чём\#беспокоиться, Фрэнсис.
 \et[005]It's just\#some shitty\#old man.<#>Это просто\#какой-то\#старый говнюк.
 \et[005]We could\#pulverize him,\. easy.<#>Мы его размажем,\.\#с лёгкостью.
@@ -9382,10 +9840,14 @@ He is violently ill.<#>Он тяжело болен.
 You found a stash!<#>Вы нашли схрон!
 Cocola Cola and cotton candy!<#>Кокола-кола и сладкая вата!
 \et[000]What are\#you doing?!<#>Что ты\#делаешь?!
+\et[000]You torched\#that kid...<#>
 \et[028]Oh,\. hey, chum.<#>О,\. привет, друг.
 \et[028]What's it\#look like\#I'm doing?<#>Как думаешь,\#что я делаю?
 \et[000]You torched\#these kids...<#>Ты сжёг этих\#детей...
 \et[028]Pft,\. did\#that thing\#look like a\#kid to you?<#>Пфф,\. они\#выглядели\#как дети\#для тебя?
+\et[000]Where did the\#other one go?<#>
+\et[028]Hah...<#>
+\et[028]No idea!<#>
 \et[028]Was a\#God damn\#freak'a nature.<#>Они были\#сраной ошибкой\#природы.
 \et[028]And that\#other one\#just got\#in my way.<#>И одна из\#них встала\#на моём\#пути.
 \et[000]You've done\#something terrible.<#>Ты совершил\#ужасную вещь.
@@ -9498,6 +9960,7 @@ Humble garbage.<#>Скромный мусор.
 \et[003]Get some of\#the high folders\#to show me\#the ropes.<#>Попросить\#складочников\#протянуть мне\#руку.
 \et[003]Think that\#would work?<#>Как думаешь,\#сработает?
 \et[000]They'd probably\#just kill you.<#>Они скорее всего\#просто убьют тебя.
+\et[003]Oh...\|\#Oh no.<#>
 \et[003]Fuck, you're right.<#>Блять, ты прав.
 \et[003]I've got\#my work\#cut out\#for me...<#>У меня нет\#возможности\#работать...
 He is dead.<#>Он мёртв.
@@ -9509,10 +9972,26 @@ He is dead.<#>Он мёртв.
 \et[004]'Cause if I'M\#ugly,\. then buddy,\.\#you might as well\#not be seein' anything.<#>Потому что если\#Я уродливый,\. тогда\#дружище, лучше тебе\#этого не видеть.
 \et[004]And so dat's\#how I ended\#up doin' ten\#years hard time.<#>И вот так я\#в итоге отсидел\#десять лет на\#строгом.
 \et[000]Who are\#you talking to?<#>С кем\#ты говоришь?
+\et[004]Well, that just happened.<#>
 \et[004]Hell does\#it look like\#I'm talkin' to?<#>А как тебе\#чёрт возьми\#кажется?
 \et[004]But yeah,\. some\#real fuckin' rude\#people in this\#world, I tell ya.<#>Да,\. пиздец\#какие грубые\#люди существуют\#в этом мире.
 \et[005]All I\#see is\#fire.<#>Я вижу\#лишь\#огонь.
 \et[005]All I\#smell is\#smoke.<#>Я чую\#лишь\#дым.
+\et[000]Everyone here seems\#to be a little...<#>
+\et[000]Off.<#>
+Your adrenaline is pumping.<#>
+AGI increased!<#>
+Got 365 EXP!<#>
+\et[000]Wow.<#>
+\et[000]That was bizzare.<#>
+\et[034]Ow!<#>
+\et[000]Salt!<#>
+\et[000]Are you good?<#>
+\et[034]Ah! I'm fine.\|\#I've been through worse.<#>
+\et[034]Don't worry about me! \|\#HA HA!<#>
+\et[000]If you say so...<#>
+He's gone.<#>
+Reduced to nothing.<#>
 \et[005]God,\. how\#I want it\#all to\#burn away.<#>Господи,\.\#я хочу сжечь\#всё это.
 \et[005]Flame,\|\#dear flame...<#>Пламя,\.\#дорогое пламя...
 \et[007]Friend,\. why\#is it that you\#embrace conflict?<#>Друг,\. почему же\#ты восхваляешь\#жесткость?
@@ -9572,10 +10051,15 @@ He is dead.<#>Он мёртв.
 \et[011]Does he\#even sleep?<#>Он вообще\#спит?
 \et[010]Fuck if\#I know.<#>Знал бы я\#блять.
 \et[010]I just hope\#he doesn't come\#around here.<#>Я просто надеюсь,\#что он не придёт\#сюда.
+\et[010]We will find something\#to eat eventually...<#>
 \et[011]I could\#probably take him.<#>Я бы наверное\#мог убить его.
 \et[010]You're a\#fuckin' dunce.<#>Ты ебучий\#идиот.
 \et[011]Mmm...<#>Ммм...
 \et[011]You look good\#enough to eat\#for three days\#and three nights.<#>Ты выглядишь\#достаточным\#для питания\#на три дня.
+\et[011]Okay, NOW I'm\#really hungry...<#>
+\et[011]MAX!!<#>
+\et[010]What the fuck do\#you want now?<#>
+\et[011]It's time to feast!<#>
 \et[011]And that's\#just your head.<#>И это только\#твоя голова.
 \et[011]Better move\#along before\#I get hungry...<#>Лучше иди,\#пока я не\#проголодался...
 \et[012]Those shithead\#campers think\#they're sittin' pretty\#in their little camp!<#>Эти уроды кемперы\#думают, что они\#хорошо устроились\#в своём лагере!
@@ -9608,6 +10092,8 @@ He is dead.<#>Он мёртв.
 \et[008]Never would\#I have expected\#such strength from\#people like you.<#>Никогда не ожидал\#увидеть такую силу\#в людях, типа тебя.
 \et[008]But this\#isn't over yet.<#>Но ничего ещё\#не кончено.
 \et[008]Over a hundred\#men have tried and\#failed to end my life.<#>Более сотни людей\#пытались, и никому\#не удалось забрать мою жизнь.
+\et[008]No, it's going to\#take a lot more\#than that to kill me.<#>
+\et[008]Let's see how long you'll last.<#>
 \et[008]What makes\#you think\#you'll be\#any different?<#>Почему ты\#думаешь,\#что тебе\#удастся?
 \et[008]No, it's going to\#take a lot more\#than that to kill m-\.\^<#>Нет, тебе придётся\#сделать куда больше,\#чтобы убить ме-\.\^
 His head.<#>Его голова.
@@ -9637,7 +10123,9 @@ Crashed chopper.<#>Разбившийся вертолет.
 <!-- Map303.rvdata2 --><#>
 <!-- Order: 293 --><#>
 "2"<#>2
+"2"<#>
 <!-- Map304.rvdata2 --><#>
+<!-- Order: 295 --><#>
 "4"<#>4
 "3"<#>3
 "1"<#>1
@@ -10132,6 +10620,7 @@ You don't have any empty bottles.<#>У вас нет пустых бутылок
 It's clogged up.<#>Колонка забилась.
 <!-- Map317.rvdata2 --><#>
 <!-- Order: 314 --><#>
+\et[009]...INTRUDERS!<#>
 It is dead.<#>Он мёртв.
 He is dead.<#>Он мёртв.
 \et[009].\..\..\.Trespassers.<#>.\..\..\.Нарушители.
@@ -10180,6 +10669,7 @@ It hath tolled.<#>Колокол прозвенел.
 \et[006]I...\| I think\#it's safe to\#stand up now.<#>Я...\| Я думаю,\#теперь можно\#вставать.
 <!-- Map321.rvdata2 --><#>Дом охотника с камином
 <!-- Order: 315 --><#>
+Squirrel jerky and a Stylish Coat!<#>
 Big chair for big men.<#>Большое кресло для большого парня.
 You found a stash!<#>Вы нашли схрон!
 Squirrel jerky!<#>Мясо белки!
@@ -10235,6 +10725,7 @@ The music has stopped.<#>Музыка прекратилась.
 \et[015]My friends...<#>Мои друзья...
 \et[015]I apologize.<#>Я извиняюсь.
 \et[015]These doors\#can be a\#bit sticky\#sometimes.<#>Эти двери\#иногда могут\#заедать.
+\et[0]Why?<#>
 \et[015]It seems we've\#found ourselves\#at an impasse.<#>Похоже, мы\#оказались в\#тупике.
 \et[0]Why are\#you doing this?<#>Почему ты так\#поступаешь?
 \et[015]Alex.<#>Алекс.
@@ -10258,6 +10749,7 @@ The music has stopped.<#>Музыка прекратилась.
 \et[015]You simply\#cannot trust\#anyone anymore.<#>Больше нельзя\#никому просто\#доверять.
 \et[015]Trust is\#caustic.\.\.\#Parasitic.<#>Доверие\#въедается.\.\.\#Как паразит.
 \et[015]I have\#to do this.<#>Я должен\#это сделать.
+\et[0]You seriously wanna\#do it?<#>
 \et[0]Then I'm\#going to hurt\#you,\. friend.<#>И я причиню\#тебе вред,\. друг.
 \et[0]I won't\#hold back.<#>Я не буду\#сдерживаться.
 \et[015]Alex.\. When\#our ideals are\#threatened...<#>Алекс.\. Когда\#наши идеалы\#в опасности.
@@ -10314,9 +10806,11 @@ They are all dead.<#>Они все мертвы.
 \et[002]May you\#find your peace.<#>Да найдёшь\#ты свой мир.
 \et[008]Friends!<#>Друзья!
 \et[008]Welcome,\#welcome.<#>Приветствую,\#приветствую.
+\et[000]Warm tea...<#>
 \et[002]Please,\.\#have\#a seat.<#>Пожалуйста,\.\#присаживайтесь.
 \et[002]The tea\#is warm.<#>Горячий\#чай.
 \et[000]Oh my God,\#warm tea.<#>О боже,\#горячий чай.
+\et[000]It's...\|\#alright.<#>
 \et[000]Thought this\#went out with\#the old world.<#>Думал, он\#пропал вместе\#со старым миром.
 \et[006]Enjoyin'\#it, Lucky?<#>Нравится,\#счастливчик?
 \et[000]It is\#good,\#Joel.<#>Приятно,\#Джоэл.
@@ -10333,6 +10827,7 @@ They are all dead.<#>Они все мертвы.
 \et[002]Yoga is how we\#access the mystic\#properties of our bodies.<#>Йога - путь к\#владению мистическими\#свойствами наших тел.
 \et[002]Just a few\#minutes a day\#can do wonders\#for your health.<#>Лишь пару минут\#в день творят чудеса\#со здоровьем.
 \et[002]Limber joints,\.\#a clear mind...<#>Гибкие суставы,\.\#ясный ум...
+\et[000]It really does.\. My joints\#have already\#worn out.<#>
 \et[002]Doesn't that\#sound nice?<#>Хорошо\#звучит?
 \et[000]It does.\. My joints\#have started to\#wear out on me.<#>Да.\. Мои\#суставы уже\#меня подводят.
 \et[003]Trust me,\#Alex,\. yoga\#is the real deal.<#>Поверь мне,\#Алекс,\. йога\#действует.
@@ -10365,6 +10860,7 @@ I was just travelling.<#>Я просто путешествую.
 \et[002]Oh, please.<#>О, пожалуйста.
 \et[002]No need\#to apologise.<#>Не надо\#извиняться.
 \et[002]This world...\.\. it\#is a cruel place.<#>Этот мир...\.\.\#жестокое место.
+\et[000]Yeah...\|\#That's for sure.<#>
 \et[002]The things\#I have done\#to survive...<#>Поступки, на\#которые я шёл\#ради выживания...
 \et[002]Maybe we\#are two peas\#in a pod, haha!<#>Может, мы правда\#два сапога пара,\#ха-ха!
 \et[000]Is that so?<#>Вот как?
@@ -10386,6 +10882,7 @@ I was just travelling.<#>Я просто путешествую.
 \et[000]Well...\.\#anywhere.<#>Ну...\.\#куда угодно.
 \et[000]I think...<#>Я думаю...
 \et[000]I think a\#better place\#exists out there.<#>Я думаю, существует\#лучшее место.
+\et[000]But honestly...\|\#I'm not even\#sure anymore.<#>
 \et[000]Better\#than here.<#>Лучшее, чем\#это.
 \et[000]Some\#place...\.\.\#a city.<#>Место...\.\.\#город.
 \et[002]How interesting.<#>Как интересно.
@@ -10398,6 +10895,7 @@ I was just travelling.<#>Я просто путешествую.
 \et[002]Some things\#are too good\#to be true.<#>Некоторые слухи\#слишком хороши,\#чтобы быть правдой.
 \et[000]That may be.<#>Возможно.
 \et[000]But there's\#a chance.<#>Но шанс\#есть.
+\et[000]I'll have to think about it.<#>
 \et[002]And would\#you take\#that chance?<#>И ты пробуешь\#этот шанс?
 \et[000]In a heartbeat.<#>Он один за жизнь.
 \et[002]Of course,\.\#of course.<#>Конечно,\.\#конечно.
@@ -10415,6 +10913,7 @@ I was just travelling.<#>Я просто путешествую.
 \et[002]Perhaps an\#understanding\#has been reached.<#>Возможно, понимание\#было достигнуто.
 \et[000]By whom?<#>Кем?
 \et[002]Another\#question, if\#you wouldn't\#mind,\. Lucky.<#>Ещё один вопрос,\#если ты не\#возражаешь,\.\#счастливчик.
+\et[000]It's Alex.<#>
 \et[000]Lucky?<#>Счастливчик?
 \et[002]Your hat\#friend.\. It's\#what he\#calls you.<#>Твой друг в\#шляпе.\.\#Он так тебя\#зовёт.
 \et[000]Please,\#it's Alex.<#>Пожалуйста,\#зови меня Алекс.
@@ -10457,6 +10956,7 @@ Somewhere with my friends.<#>Жизнь с моими друзьями.
 \et[0]Who knows?<#>Кто знает?
 \et[0]Maybe I'm\#sitting across\#from a friend\#right now.<#>Может быть, я\#прямо сейчас\#сижу напротив\#своего друга.
 \et[002]You are\#too kind, Alex.<#>Ты слишком\#добр, Алекс.
+\et[000]I guess.<#>
 \et[002]Tea\#still warm?<#>Чай ещё\#тёплый?
 \et[000]Definitely.<#>Определённо.
 \et[002]I'm beginning\#to form a\#picture here.<#>Я начинаю\#составлять\#картину.
@@ -10484,6 +10984,7 @@ I would fight.<#>Я буду сражаться.
 \et[000]Life is about\#choosing your battles.<#>Жизнь - она о том, как\#выбирать себе битвы.
 \et[002]Practical.<#>Практично.
 \et[002]But can\#a man run\#forever?<#>Но может\#ли человек\#бежать вечно?
+\et[000]I certainly hope so.<#>
 \et[000]I don't know.<#>Я не знаю.
 \et[000]And I\#don't hope\#to find out.<#>И надеюсь,\#что не узнаю.
 \et[000]I would fight.<#>Я буду сражаться.
@@ -10506,8 +11007,14 @@ I would understand.<#>Я бы понял.
 \et[000]I think an\#understanding\#can always\#be reached.<#>Я думаю,\#всегда можно\#достичь\#понимания.
 \et[000]There is\#good in\#everyone.<#>Во всех\#есть\#добро.
 \et[002]You have\#seen the\#world, Alex.<#>Ты видел\#мир, Алекс.
+\et[000]Ah, who am I\#kidding?<#>
+\et[000]You are absolutely right.<#>
 \et[002]Some people\#are simply animals.<#>Некоторые люди -\#лишь животные.
 \et[000]That's just\#not true.<#>Это просто\#не правда.
+\et[000]The jersey\#is a corrupting\#force.<#>
+\et[000]They are unstoppable.<#>
+\et[000]After you put it on,\#there's no going back.<#>
+\et[000]All hope is lost.<#>
 \et[002]Those jerseys,\.\#they inebriate\#the mind itself.<#>Эти майки,\.\#они захватывают\#разум.
 \et[002]The culmination\#of man's mistakes.<#>Они являются кульминацией\#человеческих ошибок.
 \et[000]The jersey\#is a corrupting\#force, but...<#>Майка порочит,\#но...
@@ -10540,6 +11047,7 @@ I would understand.<#>Я бы понял.
 \et[002]Can\#peace exist...<#>Может ли мир\#существовать...
 \et[002]...even in\#a world of\#violence?<#>...даже в мире\#насилия.
 \et[000]Of\#course\#it can.<#>Конечно\#может.
+\et[000]Obviously\#it can't.<#>
 \et[000]I believe\#in peace.<#>Я верю\#в мир.
 \et[000]Don't you?<#>А вы нет?
 \et[002]Alex...<#>Алекс...
@@ -10567,6 +11075,7 @@ There is always hope.<#>Всегда есть надежда.
 \et[002]If peace\#must be\#tended to\#by force...<#>Если мир\#нужно\#поддерживать\#силой...
 \et[002]Then perhaps\#peace was a fool's\#endeavor all along.<#>Тогда, возможно,\#мир с самого\#начала был глупой затеей.
 \et[000]I've seen\#what happens\#to those\#without hope.<#>Я видел, что\#происходит\#с теми, у кого\#нет надежды.
+\et[000]I've seen\#what happens\#to those\#with hope.<#>
 \et[000]Stuck in\#their own\#ways, with\#one solution...<#>Идут по одному\#пути, решают\#всё одним\#способом...
 \et[000]To combat\#violence\#with violence.<#>Борются с\#насилием...\#насилием.
 \et[000]They were\#massacred.<#>Их всех\#убили.
@@ -10581,6 +11090,8 @@ There is always hope.<#>Всегда есть надежда.
 \et[000]You will be\#doomed by fate.<#>Ты будешь\#обречён.
 \et[002]I...<#>Я...
 \et[002]But...<#>Но...
+\et[000]They\#are evil.<#>
+\et[000]Maybe there's\#nothing left worth\#fighting for.<#>
 \et[002]Perhaps...<#>Возможно...
 \et[002]Perhaps I\#was wrong.<#>Возможно я\#был неправ.
 \et[002]Friends...<#>Друзья...
@@ -10605,6 +11116,9 @@ There is always hope.<#>Всегда есть надежда.
 \et[002]You...\.\.\#you may\#leave now.<#>Ты...\.\.\#ты можешь\#уходить.
 \et[002]I have\#some serious\#thinking to do.<#>Мне нужно\#серьёзно\#подумать.
 \et[002]About my\#life, my future.<#>О жизни, о\#будущем.
+SP fully restored!<#>
+You felt something warm inside your heart.<#>
+Stats increased!<#>
 \et[002]Go now,\#friends.<#>Идите,\#друзья.
 \et[002]I am\#rooting\#for you.<#>Я болею\#за вас.
 \et[002]I am a\#smart man.<#>Я умный\#человек.
@@ -10643,6 +11157,7 @@ No (Lie)<#>Нет (солгать)
 \et[000]A sour\#note to\#end on.<#>Мы завершаем\#на грустной\#ноте.
 \et[002]True,\#friend.<#>Истина,\#друг.
 \et[002]True.<#>Истина.
+SP slightly restored.<#>
 \et[002]You may see\#yourselves\#to the door.<#>Пройдите к\#двери.
 \et[002]Goodbye.<#>Прощайте.
 \et[002]Please do\#not lie to me.<#>Пожалуйста,\#не лгите мне.
@@ -10678,6 +11193,7 @@ No (Lie)<#>Нет (солгать)
 \et[002]These people,\.\#they cannot be\#reasoned with.<#>Эти люди,\. с\#ними не выйдет\#договориться.
 \et[000]The\#jersey\#corrupts.<#>Майка\#разрушает.
 \et[000]But its\#influence\#is not\#infinite.<#>Но её влияние\#не безгранично.
+\et[000]You are\#absolutely\#right.<#>
 \et[000]There exists\#reason in\#this world still.<#>В этом мире\#ещё существует\#разум.
 \et[002]You tell\#that to the\#corpses outside.<#>Расскажи это\#трупам снаружи.
 \et[002]As for me,\.\#I simply...<#>А я,\. я\#просто...
@@ -10690,6 +11206,7 @@ No (Lie)<#>Нет (солгать)
 \et[002]I believe\#I am running\#a bit of a fever.<#>Похоже, у меня\#началась\#лихорадка.
 \et[002]If you\#wish to\#leave now,\.\#you may.<#>Если вам\#нужно идти,\.\#идите.
 \et[000]Thank you\#for the tea.<#>Спасибо вам\#за чай.
+SP partially restored.<#>
 \et[002]Of course,\#friends.<#>Конечно,\#друзья.
 \et[002]...Farewell.<#>...Прощайте.
 Got some lucrative tea!<#>Получен дешёвый чай!
@@ -10701,6 +11218,8 @@ Got an Antique Rifle!<#>Получена антикварная винтовка
 Some kind of radar.<#>Какой-то радар.
 <!-- Map334.rvdata2 --><#>
 <!-- Order: 149 --><#>
+Two fancy perfumes and two cigarettes!<#>
+\et[000]Alright.\|\#Time to leave.<#>
 It is dead.<#>Он мёртв.
 You found a stash!<#>Вы нашли схрон!
 Fancy Perfume and two cigarettes!<#>Изысканные духи и две сигареты!
@@ -10720,8 +11239,12 @@ It is glaring at you.<#>Он пристально смотрит на вас.
 Coated bones.<#>Скелет в халате.
 <!-- Map336.rvdata2 --><#>
 <!-- Order: 179 --><#>
+Your entire body burns.<#>
 <!-- Map337.rvdata2 --><#>Сцена из начала игры, но искажённая бесконечностью
+Attack increased.\| Defense decreased.<#>
+You feel nothing.<#>
 <!-- Order: 180 --><#>
+Defense increased.\| Attack decreased.<#>
 Your lungs burn.<#>Ваши лёгкие горят.
 Max HP increased. Max SP decreased.<#>Макс. ОЗ повышены. Макс. ОН понижены.
 \et[002]Turn that off.<#>Выключи плеер.
@@ -10976,6 +11499,7 @@ Cosmonaut Food Tubes!<#>Пищевые тюбики для космонавто�
 Empty slot. It faintly smells of blood.<#>Пустая выемка. От неё слегка разит кровью.
 Insert Bloody Valve?<#>Вставить кровавый вентиль?
 Yes<#>Да
+Empty slot. It smells of blood.<#>
 No<#>Нет
 Used the Bloody Valve.<#>Использован кровавый вентиль.
 Twist the valve?<#>Повернуть вентиль?
@@ -10984,9 +11508,14 @@ Nothing happened.<#>Ничего не произошло.
 \et[003]Let's try\#turning both\#of them at\#the same time.<#>Давай попробуем\#повернуть их\#одновременно.
 \et[000]Alright.\.\#Ready when\#you are.<#>Ладно.\.\#По твоему\#сигналу.
 \et[003]Looks like\#that did\#the trick.<#>Похоже, это\#сработало.
+You need a tool to hold one\#of them in place.<#>
+Used the rusty wrench.<#>
+The scummy valve is now in place.<#>
 \et[000]Good thinking,\. Joel.<#>Быстро мыслишь,\. Джоэл.
 \et[003]Heh, it's\#nothin'.<#>Ха,\#пустяк.
 Dead end.<#>Тупик.
+Empty slot. It smells rancid.<#>
+The bloody valve is now in place.<#>
 Empty slot. It smells putrid.<#>Пустая выемка. Пахнет гнилью.
 Insert Scummy Valve?<#>Вставить мерзкий вентиль?
 Used the Scummy Valve.<#>Использован мерзкий вентиль.
@@ -11059,12 +11588,130 @@ It is no longer moveable.<#>Он больше не движется.
 \et[000]Sure,\. what\#is it?<#>Конечно,\.\#что такое?
 \et[007]The next time\#you see a big,\.\#red,\. dangerous-\#lookin' lever...<#>В следующий раз,\#когда ты увидишь\#большой,\. красный,\.\#вероятно опасный рычаг...
 \et[007]Don't pull it.\| Okay?<#>Не тяни его.\| Ладно?
+\et[006]Komandir...\|\#Eto vi?<#>
+\et[006]Ty tot, kto razbudil menya?<#>
+\et[000]Meaningless blabbering.<#>
+\et[006]Oh...\|\#An american.<#>
+\et[006]To think...\|\#you would be\#able to breach\#this stronghold...<#>
+\et[006]I dreamed\#so peacefully...\|\#of a So-\^<#>
+\et[006]H-huh?<#>
+\et[000]Done.<#>
 \et[000]Say no more.<#>Ни слова больше.
 \et[007]Good.\| Now let's\#hightail it 'fore\#another giant robot\#comes after us.<#>Отлично.\| Теперь давай\#по газам, пока за нами\#не пришёл очередной\#гигантский робот.
 He is dead.<#>Он мёртв.
 Arm of the cyborg.<#>Рука киборга.
+No use turning back now.<#>
+It's not safe.<#>
+No point.<#>
 <!-- Map367.rvdata2 --><#>
 <!-- Order: 133 --><#>
+\et[02]Finger beams?<#>
+\et[02]Some of these\#fights, I tell you...<#>
+\et[02]chinese fucking\#voodoo.<#>
+\et[010]Where is your\#gung-fu attire?<#>
+\et[010]Get out!<#>
+\et[06]Alright then.<#>
+\et[06]Ahem!<#>
+\et[06]Needless to say I\#want a proper bout.<#>
+\et[06]So none of\#that: "kicking\#them in the groin"\#debauchery.<#>
+\et[06]Lest I become\#dismayed.<#>
+\et[06]Understood?<#>
+\et[00]Yes.<#>
+\et[01]Crystal clear.<#>
+\et[06]Jolly good,\#gentlemen.<#>
+\et[01]Good luck.<#>
+\et[06]KO!<#>
+\et[06]Are you alright?<#>
+\et[00]I'm fine...<#>
+\et[06]Are you sure?<#>
+\et[00]I said, I'm FINE!<#>
+\et[06]Alright, let us\#conclude the match.<#>
+\et[06]Ladies and\#gentlemen!<#>
+\et[06]I give you\#your winner!<#>
+\et[06]That was an\#illegal move.<#>
+\et[06]Ready?<#>
+\et[06]Ladies and gentlemen!<#>
+\et[06]Show more class.<#>
+\et[00]Yeah.<#>
+*say nothing*<#>
+I forfeit.<#>
+\et[00]I forfeit.<#>
+Go on.<#>
+\et[00]Go on.<#>
+\et[06]Do not do\#that again.<#>
+\et[01]Here.<#>
+\et[06]Disqualified!<#>
+\et[06]Bad show!<#>
+\et[06]Alright, let us put\#an end to this martial\#embarrassment.<#>
+\et[06]TKO!<#>
+Everything is better left behind.<#>
+<!-- Order: 328 --><#>
+It is dead.<#>
+Fossilized.<#>
+\et[005]I'm my own man.\.\#I refuse to be\#a victim of\#the cycle.<#>
+<!-- Order: 400 --><#>
+Nothing left.<#>
+You found a stash!<#>
+Tissue and 2 Dried Herbs!<#>
+The room is no longer illuminated.<#>
+\et[005]What's up, pops?<#>
+\et[005]What's with that look?<#>
+\et[005]Surprised to see me?<#>
+\et[000]Who are you people?<#>
+\et[000]Why do you keep\#stalking us?<#>
+\et[005]C'mon.\|\#You know how it is.<#>
+\et[005]I gotta pay for\#my meds somehow.<#>
+\et[005]And I get more\#toys to play with...<#>
+\et[000]Meds?\|\#Toys?<#>
+\et[005]It doesn't concern you.\|\#Really.<#>
+\et[005]I just do what I love.<#>
+\et[000]We aren't giving\#you anything.\|\#Just let us go.<#>
+\et[005]Oh.\|\#I will.<#>
+\et[005]Just not in one piece.<#>
+\et[005]Our last encounter ended\#on a bit of a sour note, didn't it?<#>
+\et[005]Soo...\|\#How about...\|\#All of your belongings.<#>
+\et[005]Unless you want to be\#disemboweled,\. of course.<#>
+\et[000]No way.<#>
+\et[005]Yes way.<#>
+\et[005]And don't try anything\#funny or I'll-\^<#>
+\et[005]Oh,\. for fucks sake.<#>
+\et[005]Enough playing around.<#>
+<!-- Order: 401 --><#>
+You cannot go back.<#>
+The door inside appears to be sealed shut.<#>
+\et[032]I think so...<#>
+We need to find a safer place.<#>
+\et[000]Everyone alright...?<#>
+\et[032]No idea.<#>
+\et[032]Better catch up.<#>
+\et[033]I think so...<#>
+\et[000]Pike?<#>
+\et[000]Where is he going?<#>
+\et[033]No idea.<#>
+\et[033]Better catch up.<#>
+You have lost the Pink Pill.<#>
+\et[160]Here.<#>
+\et[006]That it?<#>
+\et[160]Take it or leave it.\#A deal is a deal.<#>
+\et[006]Hmph.<#>
+\et[004]The hell\#you're going?<#>
+\et[004]This ain't your\#community transport.<#>
+\et[000]We aren't looking\#for trouble.<#>
+\et[004]You're still not\#getting on that bus.<#>
+\et[000]But we were chased\#down by a gr-\^<#>
+\et[000]Please.\|\#We need to get\#out of here.<#>
+\et[004]Are you deaf?<#>
+\et[004]No means no.<#>
+\et[005]We've got\#enough enemies.<#>
+\et[005]Get on,\#we're going.<#>
+\et[005]Didn't you\#hear me?<#>
+\et[000]Thanks...<#>
+\et[005]Hey, Ray!<#>
+\et[006]Ye?<#>
+\et[005]Can a boy get\#some of that\#sweet...<#>
+\et[005]...sweet...<#>
+\et[005]...sound?<#>
+\et[006]Anythin' fo'\#you, Gale.<#>
 <!-- Map369.rvdata2 --><#>
 <!-- Order: 134 --><#>
 He is dead.<#>Он мёртв.
@@ -11612,6 +12259,27 @@ No<#>Нет
 \et[015]I ended up\#pawning off\#my tooth for\#an old Zolta TV.<#>Я в итоге заложил\#свой зуб за старый\#телек Золта.
 \et[015]These things\#used to be a\#dime a dozen,\.\#but whatever.<#>Их раньше было\#пруд пруди, но\.\#теперь что уж\#поделать.
 \et[015]At least I\#got something\#for that old\#shitty cavity.<#>По крайней мере,\#я получил что-то\#взамен на сраную\#дыру во рту.
+\et[015]...Is that...?<#>
+\et[015]It is! You have\#my golden tooth!<#>
+\et[015]I thought I traded\#it away for this TV...<#>
+\et[015]To have gotten it\#back, you must've paid\#a motherload of mags!<#>
+\et[015]Well, it's yours now.<#>
+\et[015]I don't need it, anyway.\.\#Still got plenty of\#other teeth left.<#>
+\et[015]Take good care\#of it, man...<#>
+Return the tooth?<#>
+\et[000]If it's yours, then\#you can have it back.<#>
+\et[015]Wha...?!\. Really?<#>
+\et[000]Yes.\. I don't really\#have a use for it otherwise.<#>
+\et[015]You're an angel.<#>
+You gave away the Gold Tooth.<#>
+\et[015]Now I have my\#TV AND my tooth.<#>
+\et[015]Life is good.<#>
+\et[015]Thanks a ton, sir.<#>
+You felt something warm inside your heart.<#>
+Stats increased!<#>
+\et[015]Here,\. have this.<#>
+\et[015]For your troubles.<#>
+You got a Crowned Tooth!<#>
 \et[015]Now all I\#need to do is\#find a working\#power outlet.<#>Теперь мне лишь\#нужно найти\#рабочую\#розетку.
 \et[0]Good luck\#with that.<#>Удачи с\#этим.
 <!-- Map403.rvdata2 --><#>Флешбек Алекса
@@ -11715,6 +12383,7 @@ Research notes. They read:<#>Исследовательские записки. 
 <!-- Map413.rvdata2 --><#>Лаборатория под мусорным островом в деревне рыболюдов
 <!-- Order: 89 --><#>
 Strange tube. Broken beyond repair.<#>Странная капсула. Ремонту не подлежит.
+No point.<#>
 Strange tube. A deformed\#skeleton hangs within it.<#>Странная капсула. Внутри находится\#деформированный скелет.
 Strange tube. A heavily\#deformed creature resides within it.<#>Странная капсула. Внутри находится\#сильно изуродованное существо.
 <!-- Map414.rvdata2 --><#>Лаборатория под мусорным островом в деревне рыболюдов
@@ -11723,6 +12392,12 @@ Strange tube.<#>Странная капсула.
 Old-fashioned computer and desk.<#>Старомодный компьютер и стол.
 Behind it, a map of Olathe is posted.<#>За ним висит карта Олейта.
 It is covered from top to bottom in red Xs.<#>Она покрыта сверху донизу красными крестами.
+\et[012]What the hell\#is that thing?!<#>
+\et[000]I think it's\#time to leave.<#>
+\et[012]Yeah...<#>
+\et[013]I think it's time\#to get to the fucking\#boat.<#>
+\et[013]Because I don't trust\#this place anymore...<#>
+It is dead.\. Thankfully.<#>
 The writing on the map is illegible.<#>Надписи на карте неразборчивы.
 The computer is without power.<#>Компьютер обесточен.
 <!-- Map415.rvdata2 --><#>
@@ -11733,6 +12408,7 @@ The spring is full of fresh water.<#>Родник полон свежей вод
 Fill the Antique Vase with water?<#>Наполнить антикварную вазу?
 Yes<#>Да
 No<#>Нет
+Party healed fully.<#>
 The Antique Vase was filled to the brim.<#>Антикварная ваза была наполнена до краёв.
 Take a drink?<#>Выпить?
 Party healed slightly.<#>Группа слегка исцелилась.

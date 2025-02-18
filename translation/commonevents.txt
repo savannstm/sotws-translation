@@ -88,6 +88,15 @@ It really likes it!<#>Ему очень нравится!
 Learned Mucus Blast!<#>Изучен Взрыв слизи!
 "Disclaimer: Results may vary.\#Contact your doctor before huffing\#any foreign gases and or substances."<#>"Предупреждение: результаты могут отличаться.\#Перед вдыханием посторонних газов и/или субстанций,\#проконсультируйтесь с вашим врачом."
 Your vase was emptied.<#>Ваша ваза опустела.
+The Baby Fishman is worried.<#>
+Put it in your\#Metal Vase?<#>
+The Baby Fishman now inhabits the Metal Vase.<#>
+It feels fortified.<#>
+Change your walking speed?<#>
+Select a preference:<#>
+x1<#>
+x2<#>
+x4<#>
 We need to get to a safer place.<#>Нам нужно добраться до более безопасного места.
 Contact law enforcement upon first symptoms.<#>При проявлении симптомов, свяжитесь с представителями власти.
 Joel is reading the toilet paper...<#>Джоэл читает туалетную бумагу...
@@ -102,6 +111,10 @@ Attach the head to the torso?<#>Прикрепить голову к торсу?
 The head fits perfectly.<#>Голова встала идеально.
 Got a jerryrigged doll!<#>Получена самодельная кукла!
 "Book of Tactics:\#A Guide to Strategy on the Battlefield"<#>"Книга тактики:\#Руководство по стратегии на поле боя"
+The book is complete.<#>
+Suddenly,\| Joel remembered something...<#>
+“Never give up,\#for that is just the place and time\#that the tide will turn.”<#>
+Joel learned Gun Whirl!<#>
 View which page?<#>Какую страницу посмотреть?
 Intimidation<#>Запугивание
 Scheming<#>Планирование
@@ -131,10 +144,13 @@ Gun Toss has become Gun Spin!<#>Бросок пистолета стал Вра�
 You have no salt.<#>У вас нет соли.
 Exchanged ten jerseys for some Horse Jerky!<#>10 маек были обменяны на лошадиное мясо!
 Exchanged ten jerseys for a Fancy Perfume!<#>10 маек были обменяны на изысканные духи!
+Exchanged ten jerseys for a Creamy Cola!<#>
 Exchanged ten jerseys for a Cocola Cola!<#>10 маек были обменяны на Кокола-колу!
 Use the instant coffee tin\#with your bottle of water?<#>Вылить воду из бутылки в банку растворимого\#кофе?
 Made some cold coffee!<#>Получен холодный кофе!
 You got three empty bottles.<#>Вы получили три пустые бутылки.
+You felt something warm inside your heart.<#>
+Stats increased!<#>
 The cat on the postcard is incredibly cute.<#>Кошка на открытке невероятно милая.
 Joel is reading the torn page.<#>Джоэл читает вырванную страницу.
 Joel learned Scheme!<#>Джоэл изучил Планирование!
@@ -154,5 +170,44 @@ It was extremely salty... You feel nasty.<#>Чересчур солёно... В�
 It was vile... You can't even move.<#>Отвратительно... Вы не можете даже двинуться.
 {Pete Constantine}Hmph.\| Not bad.<#>{Пит Константин}Хм.\| Неплохо.
 {Pete Constantine}I'll be taking that.<#>{Пит Константин}Я это возьму.
+Alex is inspecting the letter...<#>
+It's written in a foreign language.<#>
+You somehow understand it.<#>
+It reads:<#>
+"Bobby the sex from the complex."<#>
+You feel inspired.<#>
+yes<#>
+no<#>
+This one has enough for everyone.<#>
+It was extremely fulfilling.\| Stats up!<#>
+Next Chapter<#>
+Perseverance<#>
+Go Back<#>
+"CHAPTER 5: PERSEVERANCE"<#>
+"There might be times when your\#opponent is not fazed by\#your gunplay."<#>
+"When such a scenario happens,\#the only thing you can do is to\#rely on your physical strength\#to offer resistance.<#>
+"Take a deep breath and focus\#your inner energy.<#>
+"The strongest man is the one who does\#not need to rely on others."<#>
+Joel learned Finger Gun!<#>
 You never see smiles like these anymore.<#>Таких улыбок больше не увидишь.
+Alex is reading the note...<#>
+"I don't know how else to say this,\#but thanks for playing my mod."<#>
+"I know it's not much. I'm not very skilled at making games."<#>
+"All I wanted to do was create a mod simply for the sake of it."<#>
+"Which honestly wasn't the smartest idea...\#Making something like this by yourself, even if it's small,\#is pretty tedious."<#>
+"Nevertheless, if at least one person genuinely enjoyed this\#experience, then I'll know I have succeeded."<#>
+"Thanks again for trying it out\#and deciding to give it a chance."<#>
+Now,\| go ahead.<#>
+Spread the carnage.<#>
+\et[000]Meaningless piece of paper.<#>
+You crumpled the paper in your hand.<#>
+Activate Spoiler-Free Achievements?<#>
+Trashy Recollection<#>
+Dusty Memoir<#>
+Violent Remembrance<#>
+Ataractic Dreams<#>
+Lavender Harvest<#>
+Meaningless Honors<#>
+{Joel Miller}Get away from him!<#>
+{Joel Miller}U-Ugh...\| Lucky!\|\#Block his stabs at the correct time!<#>
 {Arnold Shpitz}I'm no one in particular.<#>{Арнольд Шпиц}Никто особенный.

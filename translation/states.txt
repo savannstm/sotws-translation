@@ -2,6 +2,7 @@ KO'ed<#>Нокаут
 has fallen!<#>нокаутирован!
 is out!<#>в ауте!
 revives!<#>приходит в себя!
+State #1 will be automatically added when\#HP reaches 0.\#\#<popup hide add>\#<popup hide rem>\#<popup hide dur><#>
 Poison<#>Отравление
 is poisoned!<#>отравлен!
 is aching real bad.<#>испытывает сильную боль.
@@ -35,6 +36,7 @@ Guard<#>Защита
 puts his guard up.<#>встаёт в защиту.
 is protecting himself.<#>защищается.
 drops their guard.<#>ослабляет бдительность.
+Alive<#>
 Cover<#>Прикрытие
 is shielding his friends.<#>защищает своих друзей.
 is being heroic.<#>геройствует.
@@ -74,6 +76,7 @@ Spooked<#>Испуг
 is startled!<#>пугается!
 is shivering.<#>дрожит.
 regains his composure.<#>восстанавливает самообладание.
+Bellow Threshold<#>
 Geared Up<#>Наготове
 is ready to do some damage!<#>готов устроить взбучку!
 teems with power!<#>разит силой!
@@ -228,6 +231,10 @@ Bullied<#>Травля
 is being picked on!<#>становится целью травли!
 is a target of abuse.<#>- цель травли.
 was left alone.<#>оставлен в покое.
+Hidden Prio<#>
+Hidden DePrio<#>
+Secondary Threshold<#>
+Tertiary Threshold<#>
 Presence<#>Присутствие
 's got a dominating aura.<#>обладает тяжёлой аурой.
 is sinister.<#>навевает жуть.
@@ -237,6 +244,8 @@ Twisted<#>Закрученность
 contorts.<#>закручивается.
 is coiled like a snake.<#>скручен, как змея.
 loosens up.<#>восстанавливает форму.
+Swelter<#>
+KO'ed fake<#>
 Brave<#>Храбрость
 embraces courage!<#>наполняется храбростью!
 is unwavering.<#>непоколебим.
@@ -279,6 +288,7 @@ is worn out!<#>истощился!
 is worn out.<#>истощён.
 feels weak.<#>чувствует слабость.
 regained his strength.<#>вернул себе силы.
+Hidden Hit Rate<#>
 Blazing<#>Пламя
 is fired up!<#>в огне!
 is feeling the burn!<#>чувствует жжение!
@@ -291,6 +301,7 @@ Pretending<#>Притворство
 has "fallen."<#>"в нокауте".
 is playing dead.<#>притворяется мёртвым.
 is back in the game!<#>снова в игре!
+Stacheless<#>
 Loaded<#>Снаряжён
 is packing heat!<#>держит ствол!
 's gun is primed and loaded.<#>зарядил и взвёл пушку.
@@ -319,6 +330,7 @@ simmered down.<#>остыл.
 Fortified<#>Укрепление
 is rock-steady.<#>твёрд как камень.
 drops his defenses.<#>ослабляет защиту.
+Rearm Lock<#>
 Fierce<#>Пыл
 is ready to throw down!<#>готов броситься в бой!
 is on a warpath!<#>вышел на тропу войны!
@@ -333,3 +345,119 @@ is hungover.<#>с похмелья.
 Itchy<#>Зуд
 's body feels strange.<#>испытывает странный зуд.
 itches all over.<#>зудится по всему телу.
+Elbow Penalty<#>
+Adrenaline<#>
+braces himself!<#>
+is not backing down!<#>
+loses his mojo.<#>
+Arnold Stun<#>
+Heatstroke<#>
+got a little spicy!<#>
+has a heat fever.<#>
+'s hyperthermia went away!<#>
+dies<#>
+is feeling vicious...<#>
+is in a violent trance!<#>
+will shoot.<#>
+Disoriented<#>
+is puzzled!<#>
+doesn't understand what's going on!<#>
+came to his senses.<#>
+Friends Phase 1 Buff<#>
+Joel Fight with S. Coat<#>
+Joel Fez<#>
+S. Coat Shadow Buff<#>
+falls down.<#>
+Cart Down<#>
+Geen Combat Knife<#>
+is armed!<#>
+Geen Rainbow Painter<#>
+Comfy<#>
+Armed Nerf<#>
+Friends Phase 3 DeBuff<#>
+Joel Slight nerf<#>
+Joel Solo Buff<#>
+Joel Solo Buff lesser<#>
+Geen nerf<#>
+Folds Buff<#>
+Core Buff<#>
+Eaten<#>
+Speed Buff<#>
+beezy buff<#>
+Geen buff no rainbow<#>
+davy resist<#>
+Churchland fight (Jersey)<#>
+Churchland fight<#>
+No rng<#>
+Bellow Threshold 2<#>
+has the party spirit!<#>
+alive mud<#>
+Grabbed (Penalty)<#>
+Grabbed<#>
+was caught!<#>
+is struggling to escape.<#>
+freed himself from its grasp!<#>
+Hidden Prio 2<#>
+Hidden Deprio 2<#>
+Energized<#>
+crackles with energy.<#>
+lost their energy.<#>
+Bellow Threshold 4<#>
+Bellow Threshold 3<#>
+Slow asf<#>
+resist rage<#>
+Hidden Prio 3<#>
+kirk dangerous<#>
+kick the bucket<#>
+is ready to beat your ass!<#>
+Armed buff hidden<#>
+resist fallen<#>
+tok needs heal<#>
+rusty needs heal<#>
+loyd needs heal<#>
+laser needs heal<#>
+gin needs heal<#>
+shurik needs heal<#>
+is being a nerd!<#>
+was caught by the pincers!<#>
+donovan aggro<#>
+resist fallen alex<#>
+dies from boredom.<#>
+bite<#>
+knuckle<#>
+petunia<#>
+Lead heel<#>
+Dropkick<#>
+coffee chad<#>
+Geen goth painter<#>
+Geen warfare scimitar<#>
+geen scorp stinger<#>
+geen shiv<#>
+salt devil gloves<#>
+salt wretched glove<#>
+joel topper<#>
+joel davy glasses<#>
+joel raincoat<#>
+chad water<#>
+atk buff<#>
+Resist scared<#>
+liquor shit<#>
+he cannot crit<#>
+killjoy full party<#>
+resist fluster<#>
+tires himself out!<#>
+bleeded<#>
+is the coolest!<#>
+is particularly awesome!<#>
+feels like an All-Star!<#>
+is the boss!<#>
+is absolutely golden!<#>
+'s got the bling!<#>
+'s confidence rose!<#>
+feels world-famous!<#>
+advancing stance<#>
+tibs buff<#>
+tibs buff 2<#>
+mud charm counter<#>
+helmet counter<#>
+francis gang buff<#>

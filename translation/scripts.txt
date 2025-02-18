@@ -41,6 +41,495 @@ Missed! %s took no damage!<#>Промах! %s не получает урона!
 %s's %s went down!<#>%s уменьшает %s!
 %s's %s returned to normal.<#>%s возвращает %s в нормальное состояние.
 There was no effect on %s!<#>%s игнорирует!
+Player's starting position is not set.<#>
+Common event calls exceeded the limit.<#>
+ A<#>
+ B<#>
+ C<#>
+ D<#>
+ E<#>
+ F<#>
+ G<#>
+ H<#>
+ I<#>
+ J<#>
+ K<#>
+ L<#>
+ M<#>
+ N<#>
+ O<#>
+ P<#>
+ Q<#>
+ R<#>
+ S<#>
+ T<#>
+ U<#>
+ V<#>
+ W<#>
+ X<#>
+ Y<#>
+ Z<#>
+Ａ<#>
+Ｂ<#>
+Ｃ<#>
+Ｄ<#>
+Ｅ<#>
+Ｆ<#>
+Ｇ<#>
+Ｈ<#>
+Ｉ<#>
+Ｊ<#>
+Ｋ<#>
+Ｌ<#>
+Ｍ<#>
+Ｎ<#>
+Ｏ<#>
+Ｐ<#>
+Ｑ<#>
+Ｒ<#>
+Ｓ<#>
+Ｔ<#>
+Ｕ<#>
+Ｖ<#>
+Ｗ<#>
+Ｘ<#>
+Ｙ<#>
+Ｚ<#>
+Balloon<#>
+Shadow<#>
+Wasteland<#>
+DirtField<#>
+Desert<#>
+Lava1<#>
+Lava2<#>
+Snowfield<#>
+Clouds<#>
+PoisonSwamp<#>
+Forest1<#>
+Cliff<#>
+Lava<#>
+Grassland<#>
+Ship<#>
+\e<#>
+C<#>
+I<#>
+\e{<#>
+\e}<#>
+あ<#>
+A<#>
+B<#>
+D<#>
+E<#>
+a<#>
+b<#>
+c<#>
+e<#>
+F<#>
+G<#>
+H<#>
+J<#>
+f<#>
+g<#>
+h<#>
+i<#>
+j<#>
+K<#>
+L<#>
+M<#>
+N<#>
+O<#>
+k<#>
+l<#>
+m<#>
+n<#>
+o<#>
+P<#>
+Q<#>
+R<#>
+S<#>
+T<#>
+p<#>
+q<#>
+r<#>
+s<#>
+t<#>
+U<#>
+V<#>
+W<#>
+X<#>
+Y<#>
+u<#>
+v<#>
+w<#>
+x<#>
+y<#>
+Z<#>
+z<#>
+Page<#>
+OK<#>
+Á<#>
+É<#>
+Í<#>
+Ó<#>
+Ú<#>
+á<#>
+é<#>
+í<#>
+ó<#>
+ú<#>
+À<#>
+È<#>
+Ì<#>
+Ò<#>
+Ù<#>
+à<#>
+è<#>
+ì<#>
+ò<#>
+ù<#>
+Â<#>
+Ê<#>
+Î<#>
+Ô<#>
+Û<#>
+â<#>
+ê<#>
+î<#>
+ô<#>
+û<#>
+Ä<#>
+Ë<#>
+Ï<#>
+Ö<#>
+Ü<#>
+ä<#>
+ë<#>
+ï<#>
+ö<#>
+ü<#>
+Ā<#>
+Ē<#>
+Ī<#>
+Ō<#>
+Ū<#>
+ā<#>
+ē<#>
+ī<#>
+ō<#>
+ū<#>
+Ã<#>
+Å<#>
+Æ<#>
+Ç<#>
+Ð<#>
+ã<#>
+å<#>
+æ<#>
+ç<#>
+ð<#>
+Ñ<#>
+Õ<#>
+Ø<#>
+Š<#>
+Ŵ<#>
+ñ<#>
+õ<#>
+ø<#>
+š<#>
+ŵ<#>
+Ý<#>
+Ŷ<#>
+Ÿ<#>
+Ž<#>
+Þ<#>
+ý<#>
+ÿ<#>
+ŷ<#>
+ž<#>
+þ<#>
+Ĳ<#>
+Œ<#>
+ĳ<#>
+œ<#>
+ß<#>
+い<#>
+う<#>
+え<#>
+お<#>
+が<#>
+ぎ<#>
+ぐ<#>
+げ<#>
+ご<#>
+か<#>
+き<#>
+く<#>
+け<#>
+こ<#>
+ざ<#>
+じ<#>
+ず<#>
+ぜ<#>
+ぞ<#>
+さ<#>
+し<#>
+す<#>
+せ<#>
+そ<#>
+だ<#>
+ぢ<#>
+づ<#>
+で<#>
+ど<#>
+た<#>
+ち<#>
+つ<#>
+て<#>
+と<#>
+ば<#>
+び<#>
+ぶ<#>
+べ<#>
+ぼ<#>
+な<#>
+に<#>
+ぬ<#>
+ね<#>
+の<#>
+ぱ<#>
+ぴ<#>
+ぷ<#>
+ぺ<#>
+ぽ<#>
+は<#>
+ひ<#>
+ふ<#>
+へ<#>
+ほ<#>
+ぁ<#>
+ぃ<#>
+ぅ<#>
+ぇ<#>
+ぉ<#>
+ま<#>
+み<#>
+む<#>
+め<#>
+も<#>
+っ<#>
+ゃ<#>
+ゅ<#>
+ょ<#>
+ゎ<#>
+や<#>
+ゆ<#>
+よ<#>
+わ<#>
+ん<#>
+～<#>
+☆<#>
+ら<#>
+り<#>
+る<#>
+れ<#>
+ろ<#>
+ゔ<#>
+を<#>
+　<#>
+カナ<#>
+決定<#>
+ア<#>
+イ<#>
+ウ<#>
+エ<#>
+オ<#>
+ガ<#>
+ギ<#>
+グ<#>
+ゲ<#>
+ゴ<#>
+カ<#>
+キ<#>
+ク<#>
+ケ<#>
+コ<#>
+ザ<#>
+ジ<#>
+ズ<#>
+ゼ<#>
+ゾ<#>
+サ<#>
+シ<#>
+ス<#>
+セ<#>
+ソ<#>
+ダ<#>
+ヂ<#>
+ヅ<#>
+デ<#>
+ド<#>
+タ<#>
+チ<#>
+ツ<#>
+テ<#>
+ト<#>
+バ<#>
+ビ<#>
+ブ<#>
+ベ<#>
+ボ<#>
+ナ<#>
+ニ<#>
+ヌ<#>
+ネ<#>
+ノ<#>
+パ<#>
+ピ<#>
+プ<#>
+ペ<#>
+ポ<#>
+ハ<#>
+ヒ<#>
+フ<#>
+ヘ<#>
+ホ<#>
+ァ<#>
+ィ<#>
+ゥ<#>
+ェ<#>
+ォ<#>
+マ<#>
+ミ<#>
+ム<#>
+メ<#>
+モ<#>
+ッ<#>
+ャ<#>
+ュ<#>
+ョ<#>
+ヮ<#>
+ヤ<#>
+ユ<#>
+ヨ<#>
+ワ<#>
+ン<#>
+ラ<#>
+リ<#>
+ル<#>
+レ<#>
+ロ<#>
+ヴ<#>
+ヲ<#>
+英数<#>
+ａ<#>
+ｂ<#>
+ｃ<#>
+ｄ<#>
+ｅ<#>
+ｆ<#>
+ｇ<#>
+ｈ<#>
+ｉ<#>
+ｊ<#>
+ｋ<#>
+ｌ<#>
+ｍ<#>
+ｎ<#>
+ｏ<#>
+ｐ<#>
+ｑ<#>
+ｒ<#>
+ｓ<#>
+ｔ<#>
+ｕ<#>
+ｖ<#>
+ｗ<#>
+ｙ<#>
+＾<#>
+ｚ<#>
+｜<#>
+＄<#>
+＋<#>
+＜<#>
+＞<#>
+かな<#>
+S [%04d-%04d]<#>
+V [%04d-%04d]<#>
+Fadeout Screen<#>
+Liam-LisaCoreMove<#>
+Earth5<#>
+Hammer<#>
+alex default<#>
+alex and joel<#>
+$Alex in rags<#>
+$Alex in rags jumps<#>
+Rustle<#>
+$Alex in rags drop<#>
+$Alex in rags head down<#>
+$Alex and Joel walk<#>
+$Alex and Joel jump<#>
+$Joel Miller1<#>
+$Joel Miller5<#>
+alex endless<#>
+$Alex in rags jump head down<#>
+alex inf.<#>
+$Alex Inf.<#>
+$Alex Inf. Jump<#>
+$Alex Inf. Drop<#>
+alex quiet<#>
+alex inf. quiet<#>
+alex inf. dying<#>
+$Alex Inf. 3<#>
+$Alex Inf. Jump 2<#>
+$Alex Inf. Drop 2<#>
+alex inf. crawling<#>
+$Alex Inf. 4<#>
+the kent bat<#>
+$KENT Kent Walk Bat<#>
+$KENT Kent Jump Bat<#>
+$KENT Kent Fall Bat<#>
+the kent ka<#>
+$KENT Kent Walk Ka<#>
+$KENT Kent Jump Ka<#>
+$KENT Kent Fall Ka<#>
+tibby dobs<#>
+$KENT Tibby Walk<#>
+$KENT Tibby Jump<#>
+$KENT Tibby Fall<#>
+bob normal<#>
+$BOB Bob Walk<#>
+$BOB Bob Jump<#>
+$BOB Bob Fall<#>
+none<#>
+lcmScriptToggle<#>
+lcmFollowerToggle<#>
+lcmPlatformEventsToggle<#>
+lcmSeparateDashingToggle<#>
+mapID- <#>
+ eventID- <#>
+lcmEventMovementToggle<#>
+change to dash<#>
+change to walk<#>
+lcm outfit for situation is <#>
+end phase<#>
+YEA-CoreEngine<#>
+VCR OSD Mono<#>
+Impact<#>
+Arial<#>
+Courier<#>
+×%s<#>
+YSE-BasicModule<#>
+cl<#>
+z8x8273ac<#>
+user32<#>
+MessageBox<#>
+abcdefghjkmnpqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ0123456789<#>
+#{dir}/#{filename}.#{ext}<#>
+YSE-PatchSystem<#>
+YSE - Basic Module<#>
+Salt must have at least 2 characters.<#>
+Unique phrase must have at least 1 character.<#>
+YEA-BattleEngine<#>
 All Foes<#>Все враги
 One Random Foe<#>Один случайный враг
 %d Random Foes<#>%d случайных врагов
@@ -48,6 +537,8 @@ All Allies<#>Все союзники
 All Dead Allies<#>Все мёртвые союзники
 One Random Ally<#>Один случайный союзник
 %d Random Allies<#>%d случайных союзников
+-%s <#>
++%s <#>
 -%s SP<#>-%s ОН
 +%s SP<#>+%s ОН
 -%s TP<#>-%s ОТ
@@ -57,14 +548,93 @@ CRITICAL!<#>КРИТ!
 MISS<#>ПРОМАХ
 EVADE!<#>УКЛОНЕНИЕ!
 FAILED<#>НЕУДАЧА
++%s<#>
+-%s<#>
+%s<#>
 WEAKPOINT<#>СЛАБОЕ МЕСТО
 RESIST<#>СОПРОТИВЛЕНИЕ
 IMMUNE<#>ИММУНИТЕТ
 ABSORB<#>ПОГЛОЩЕНИЕ
+vgasys<#>
+Verdana<#>
+DEFAULT<#>
+CRITICAL<#>
+ADDSTATE<#>
+REMSTATE<#>
+DURSTATE<#>
+POSITIVE<#>
+NEGATIVE<#>
 BUFF<#>БОНУС
 DEBUFF<#>СТАТУС
+YEA-BattleSystem-FTB<#>
+weakness<#>
+resistant<#>
+immune<#>
+absorbed<#>
+state<#>
+critical<#>
+buff<#>
+no zoom<#>
+down<#>
+up<#>
+YEA-BattleCommandList<#>
+YEA-CommandParty<#>
+YEA-LunaticObjects<#>
+YEA-CastAnimations<#>
+YEA-TargetManager<#>
+Custom Name<#>
+ATTACK<#>
+SKILL LIST<#>
+SUBCLASS LIST<#>
+DEFEND<#>
+ITEMS<#>
+EQUIP<#>
 Execute<#>Исполнить
+Custom Text<#>
+YEA-CombatLogDisplay<#>
+YEA-CommandAutobattle<#>
+YEA-PartySystem<#>
+YEA-CommandEquip<#>
+YEA-ClassSystem<#>
+YEA-InputComboSkills<#>
+Skill2<#>
+Skill3<#>
 Input Attacks<#>Ввод атак
+\eC[17]\eC[0] <#>
+\eC[7]<#>
+\eI[%d]<#>
+YEA-AntiFailMessage<#>
+MK-WindowOpacity<#>
+text<#>
+Chime2<#>
+Decision2<#>
+Chime1<#>
+Cancel2<#>
+#{key}=<#>
+#{sym}=<#>
+YEA-MessageSystem<#>
+PX<#>
+\eANIMATION\[#{$1.upcase == <#>
+ ? 0 : 1},#{$2},#{$3}\]<#>
+\eATSMOSE\[#{num}\]<#>
+ATSMOSE<#>
+PLAYSOUND<#>
+Dirt<#>
+Knock<#>
+Water1<#>
+grass<#>
+Bow<#>
+slosh<#>
+squeak<#>
+squish step<#>
+bottle<#>
+dirt echo<#>
+wood echo<#>
+rope echo<#>
+bottle echo<#>
+squish echo<#>
+Damage3<#>
+Conrad huh<#>
 Change<#>Изменить
 Remove<#>Убрать
 Revert<#>Вернуть
@@ -73,14 +643,19 @@ Finish<#>Завершить
 -Remove-<#>- Удалить -
 - No Data -<#>- Нет данных -
 Equipment<#>Снаряжение
+YEA-AceMenuEngine<#>
+YEA-VictoryAftermath<#>
+bleep<#>
 New Skills<#>Новые навыки
 Your gang<#>Ваша группа
 %s won the battle.<#>%s выигрывает битву.
 %s has leveled up!<#>%s повышает уровень!
 Leftovers<#>Добыча
 +%sEXP<#>+%s ОПЫТА
+%1.2f%%<#>
 LEVEL UP!<#>НОВЫЙ УРОВЕНЬ!
 MAX LEVEL<#>МАКС. УРОВЕНЬ
+\e>\eC[6]%s\eC[0]\e<\elb<#>
 "We won! What an exciting fight!"<#>"Мы победили! Какой захватывающий бой!"
 "I didn\'t even break a sweat."<#>"Я даже не вспотел."
 "That wasn\'t so tough."<#>"Было не так тяжело."
@@ -93,10 +668,23 @@ MAX LEVEL<#>МАКС. УРОВЕНЬ
 "To the victor goes the spoils."<#>"Добыча достаётся победителю."
 "The enemies dropped something!"<#>"Враги что-то обронили!"
 "Hey, what\'s this?"<#>"О, что это?"
+YEA-JPManager<#>
+NOTEXT<#>
  NOW<#>ТЕПЕРЬ
+YEA-AdjustLimits<#>
+:%s<#>
+YEA-SystemOptions<#>
 Options/Quit<#>Настройки/Выход
+Custom Switch 1<#>
 OFF<#>ВЫКЛ
 ON<#>ВКЛ
+Help description used for custom switch 1.<#>
+Custom Switch 2<#>
+Help description used for custom switch 2.<#>
+Custom Variable 1<#>
+Help description used for custom variable 1.<#>
+Custom Variable 2<#>
+Help description used for custom variable 2.<#>
 None<#>Ничего
 Window Red<#>Красный цвет
 Change the red colour tone for windows.\n<#>Изменить оттенок красного цвета для окон.\n
@@ -127,6 +715,13 @@ Return to Title Screen<#>Выйти в главное меню
 Go back to the title screen.<#>Вернуться в главное меню.
 Quit Game<#>Выйти из игры
 Quit the game.<#>Выйти из игры.
+keep skills<#>
+keep skill<#>
+s class to class 10 while preserving the actor<#>
+YEA-EnemyHPBars<#>
+YEA-AreaofEffect<#>
+DoubleX RMVXA Percentage Addon to YEA-EnemyHPBars<#>
+shopkeeper<#>
 Welcome! Take a look around!<#>Добро пожаловать! Взгляните на товар!
 Thank you for your purchase!<#>Благодарю за покупку!
 I'll make good use of this.<#>Я найду этому применение.
@@ -143,5 +738,7 @@ In Inventory<#>В инвентаре
 How many?<#>Сколько?
 In Stock<#>в наличии
 Sold Out<#>Распродано
+Book1<#>
+misslisa<#>
 Inflicts<#>Накладывает
 Resists<#>Сопротивление
