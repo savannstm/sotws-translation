@@ -5,14 +5,19 @@ The apocalypse just got lame.<#>Апокалипсис только что ст�
 Iron Ring<#>Железное кольцо
 A knuckle duster worn down to a single ring.<#>Кастет, изношенный до одного единственного кольца.
 Brass Knuckle<#>Латунный кастет
+Brutal jewelry.\#Might inflict bleeding.<#>
 Brutal jewelry.<#>Брутальное ювелирное изделие.
 Combat Knife<#>Боевой нож
+Emerald Ring<#>
+A meaningless piece of jewelry from a failed proposal.\#Enhances attack and defense, boosts max SP.<#>
 Standard-issue Rando Army combat dagger.\#Doubles TP rate for normal attacks.<#>Боевой кинжал армии Рандо стандартной модели.\#Удваивает получаемые ОТ за обычные атаки.
 Diamond Ring<#>Алмазное кольцо
 An old ring from a long-standing relationship.\#Enhances attack, max SP.<#>Старое кольцо из долгосрочных отношений.\#Увеличивает атаку и макс. ОН.
 Bloodstained Dagger<#>Кровавый кинжал
 Geen's trusty dagger. Has served him well for years.\#A bit of fresh blood resides on the tip.<#>Верный кинжал Гина. Он служил ему годами.\#На кончике осталось немного свежей крови.
 Sharpened Glass Fragment<#>Острый кусок стекла
+Scorched Dusters<#>
+A pair of scorched dusters worn out by the heat.\#Still hot since their last usage.<#>
 A particularly deadly shard of glass. Potent as a\#weapon, but hurts to wield.<#>Чрезвычайно смертельный кусок стекла.\#Отличное оружие, которое больно держать.
 Knuckle Duster<#>Кастет
 A full set of stylish spiked knuckles.\#Perfect for weddings and shakedowns.<#>Кастет в отличном состоянии с шипами на наконечниках.\#Идеален для свадеб и потасовок.
@@ -34,5 +39,18 @@ Rando Gloves<#>Перчатки Рандо
 Tough gloves that go gentle on your hands.<#>Прочные перчатки, комфортно облегающие руки.
 Splintered Bat<#>Расколотая бита
 The primordial weapon of man.\#You can never go wrong with a club.<#>Первобытное оружие человека.\#С дубинкой никогда не ошибешься.
+An old ring from a long-standing relationship.\#Increases attack and max SP.<#>
+Warfare Scimitar<#>
+A worn-out scimitar with a long history that can pass\#as a dagger. Particularly powerful but hard to wield.<#>
+Scorpion Stinger<#>
+The stinger of an unusually large scorpion.\#The poison on the tip might make someone vomit.<#>
+Baking Mittens<#>
+Soft and comfy gloves that make you feel at home.\#Grants HP regen and makes items heal more.<#>
+Tiny Devil Gloves<#>
+These look distressing and extremely uncomfortable.\#Itchy to wear, tight to stare. Cripples vitality.<#>
+Boxing Gloves<#>
+Wearing these makes you a certified boxer.\#If only you knew the techiques... Increases defense.<#>
+Barry's Switchblade<#>
+Worn out from years of repeated use. Boosts DEF,\#EXP and mag gain. The blade allows TP preservation.<#>
 Butler's Gloves<#>Перчатки дворецкого
 A pair of pristine white gloves. They're itchy.<#>Пара белых перчаток в идеальном состоянии. Колются.

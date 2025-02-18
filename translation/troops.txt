@@ -8,6 +8,8 @@
 {Richie Cheasedust}Damn, damn, damn it!\#Catch me Roland!<#>{Ричи Чейздаст}Чёрт, чёрт, чёрт возьми!\#Лови меня, Роланд!
 {Richie Cheasedust}You're all gonna pay for this!<#>{Ричи Чейздаст}Вы все заплатите за это!
 {Richie Cheasedust}This is for Roland! Eat shit!<#>{Ричи Чейздаст}Это за Роланда! Поешь говна!
+{Rag Maggot}Don't make me flip out!<#>
+{Rag Maggot}This sucked.<#>
 Don't make me flip out!<#>Не беси меня!
 {Pedro Rodrigez}What you doin' with that bottle, big-hat?\#Don't you dare weaponize that technology!<#>{Педро Родригез}Что ты там делаешь с бутылкой, шляпник?\#Не смей превращать эту технологию в оружие!
 {Pedro Rodrigez}You only won because I let you!<#>{Педро Родригез}Вы победили лишь потому, что я поддался!
@@ -42,7 +44,12 @@ Don't make me flip out!<#>Не беси меня!
 {Chet Blur}I can't do this.<#>{Чет Блюр}Я не могу.
 {Chet Blur}Too rough, dude!<#>{Чет Блюр}Слишком жёстко, чувак!
 {Chet Blur}What did I just say?<#>{Чет Блюр}Что я только что сказал?
+{Arnold Shpitz}...<#>
+{Arnold Shpitz}I...<#>
+{Arnold Shpitz}...really am...<#>
+{Arnold Shpitz}No one in particular.<#>
 {Arnold Shpitz}I'm no one in particular.<#>{Арнольд Шпиц}Никто особенный.
+{Doyle Muscare}Hop into the meat mill!<#>
 {Doyle Muscare}I'll make mincemeat out of you!<#>{Дойль Мускейр}Я тебя в фарш нашинкую!
 {Doyle Muscare}They'll kill you for me.<#>{Дойль Мускейр}Они убьют тебя за меня.
 {Lord Baxter Umpire}Foul!<#>{Лорд Бакстер Умпайр}Нарушение!
@@ -173,12 +180,34 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Flynt Woodpecker}Let's teach these heathens some manners!<#>{Флинт Дятел}Давайте научим этих дикарей манерам!
 {Flynt Woodpecker}You didn't kill me.\.\#You just gave me my wings.<#>{Флинт Дятел}Вы не убили меня.\.\#Вы просто раскрыли мои крылья.
 {Flynt Woodpecker}Now I can fly away to paradise.<#>{Флинт Дятел}Теперь я могу улететь в рай.
+{Richie Cheasedust}Roland!<#>
+{Richie Cheasedust}I'm here, Roland!<#>
+{Roland Von Buckingham}Richie...?<#>
+{Roland Von Buckingham}Watch out!<#>
+{Richie Cheasedust}Roland...<#>
+{Richie Cheasedust}Roland...!\.\#I'm here, Roland!<#>
+{Roland Von Buckingham}Richie...<#>
+{Roland Von Buckingham}You should've never come here...<#>
+{Richie Cheasedust}Wait, is that my pickaxe?\|\#Asshole! \|Give it back!<#>
+The Dull Pickaxe was forcibly taken...<#>
+{Richie Cheasedust}So it was YOU who took\#my pickaxe! \|Motherfuckers!<#>
+{Richie Cheasedust}Get a load of this!<#>
+{Richie Cheasedust}Again with that shit?<#>
+{Richie Cheasedust}You're a motherfuckin' idiot!<#>
+{Augustus Estrada}Why,\| Richie?<#>
 {Roland Von Buckingham}You're not going anywhere.<#>{Роланд фон Бакингем}Вы никуда не пойдёте.
 {Roland Von Buckingham}This isn't your place to interfere, Augustus!<#>{Роланд фон Бакингем}Не вмешивайся, Август!
 {Roland Von Buckingham}Back off!<#>{Роланд фон Бакингем}Проваливай!
 {Augustus Estrada}Augh!<#>{Август Эстрада}Ау!
 {Roland Von Buckingham}Oh...<#>{Роланд фон Бакингем}Ох...
+{Richie Cheasedust}You'll be the one\#eating lead!<#>
 {Roland Von Buckingham}No...\. no no no...\| Augustus...!<#>{Роланд фон Бакингем}Нет...\. нет нет нет...\| Август...!
+{Richie Cheasedust}Fuck it! Catch me, Roland!<#>
+{Richie Cheasedust}F-F-fuck it...!<#>
+{Roland Von Buckingham}I told you to go away!<#>
+{Augustus Estrada}Roland...\|\#Why didn't you listen?<#>
+{Richie Cheasedust}C-catch...\.\.\. me...<#>
+{Gunther Scourge}I ain't gonna keel for you, sackhead!<#>
 {Roland Von Buckingham}Gotta get harder!<#>{Роланд фон Бакингем}Пора поднажать!
 {Gunther Scourge}I ain't gonna keel for you, grease head!<#>{Гюнтер Бич}Я тебе не уступлю, жирная голова!
 {Gunther Scourge}The election was rigged!<#>{Гюнтер Бич}Выборы подстроили!
@@ -222,6 +251,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Sid Bloodheart}Ey,\. ey!\| Stop!\. Stop!<#>{Сид Кровавый}Эй,\. эй!\| Стоп!\. Стоп!
 {Pope Slaughter}Show me what you've got, boys!<#>{Поуп Убойный}Покажите мне, что умеете, ребята!
 {Pope Slaughter}Good hustle, but the oven's heating up now.<#>{Поуп Убойный}Отлично работаете, но я только разогреваюсь.
+{Pope Slaughter}Time to give this outfit\#a new shade of red!<#>
 {Pope Slaughter}It's a party now! Woooo!<#>{Поуп Убойный}Веселимся! Уууу!
 {Pope Slaughter}Not bad, not bad at all...<#>{Поуп Убойный}Неплохо, очень даже неплохо...
 {Palisade Dipper}Think you've got what it takes?<#>{Палисейд Диппер}Думаете, вы сможете?
@@ -344,6 +374,8 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Mikhail "Milo" Zhnebrowski}Brothers...\| pray for me!<#>{Михаил "Мило" Жнебровский}Братья...\| помолитесь за меня!
 {Mikhail "Milo" Zhnebrowski}Augh!<#>{Михаил "Мило" Жнебровский}Ох!
 {Mikhail "Milo" Zhnebrowski}It...\| it was not meant to be...<#>{Михаил "Мило" Жнебровский}Этого...\| этого не должно было...
+{Dwight Boyak}Smooth moves!<#>
+{Dwight Boyak}But lemme show you\#what I can do!<#>
 {Dwight Boyak}Ain't seen nothin' yet!<#>{Дуайт Бояк}Ты ещё ничего не видел!
 {Dwight Boyak}Looks like you were the spicier enchilada.<#>{Дуайт Бояк}Похоже, ты - энчилада поострее.
 {Rodrigo Chainman}Let the blood cleanse you.<#>{Родриго Чейнмэн}Позволь крови очистить тебя.
@@ -384,6 +416,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Scrawny Davy}Is it hot in here,\. or is it just me?<#>{Тощий Дэви}Здесь горячо,\. или мне кажется?
 {Scrawny Davy}Heh...\| heh...<#>{Тощий Дэви}Хе...\| хе...
 {Scrawny Davy}Hey, what's going on back there?!<#>{Тощий Дэви}Эй, что там происходит?!
+{Serjio Oman}Have at you!<#>
 {Scrawny Davy}You guys better not be messing with my-\^<#>{Тощий Дэви}Ребята, вам лучше не портить мой-\^
 {Serjio Oman}In the name of the Elder, I shall cut you down!<#>{Серхио Оман}Во имя Старейшины, я тебя убью!
 {Serjio Oman}I won't be felled by the likes of you!<#>{Серхио Оман}Я не позволю таким, как вы, меня сокрушить!
@@ -411,8 +444,13 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Cecil Flairs}I ate coal as a kid.<#>{Сэсил Находчивый}Я ел уголь, когда был ребёнком.
 {Wily Knight}Maybe that's why you\#were so God damn ugly!<#>{Уили Рыцарь}Может поэтому ты был таким\#уродом!
 {Wily Knight}This is all wrong!<#>{Уили Рыцарь}Это всё неправильно!
+{June the Goon}Boss!<#>
+{Cecil Flairs}Oh\..\..\..<#>
+{Ygor Melody}Non...<#>
+{Scooter Screwloose}Heheheh...<#>
 {Wily Knight}I'm the main character!\. I can't die!<#>{Уили Рыцарь}Я главный герой!\. Я не могу умереть!
 {Ygor Melody}.\..\..\.Fin.<#>{Игор Мелодичный}.\..\..\.Конец.
+{Ygor Melody}Stay away!<#>
 {Wily Knight}So you COULD talk!<#>{Уили Рыцарь}Так ты УМЕЕШЬ говорить!
 {Scooter Screwloose}God,\. I am harder than concrete.<#>{Скутер Беспредельщик}Господи,\. я крепче чем бетон.
 {Wily Knight}You'll be real hard when rigor mortis sets in!<#>{Уили Рыцарь}Ты станешь ещё крепче,  когда\#твой труп окоченеет!
@@ -437,6 +475,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Bepe Stormer}This storm's just started!<#>{Бепе Штормер}Шторм только начался!
 {Bepe Stormer}This is all Tibby's fault.<#>{Бепе Штормер}Это всё вина Тибби.
 {Matty Mack}I'm here, Daddy Mack!<#>{Мэтти Отче}Я здесь, папочка!
+{Jessie Mack}It's all just the same ol' meat.<#>
 {Matty Mack}Right in time for harvestin'!<#>{Мэтти Отче}Прямо к сбору!
 {Jessie Mack}It's all just...\| meat...<#>{Джесси Отче}Это всё лишь...\| мясо...
 {Alejandro Babbage}You can't keep...\| urp...<#>{Алехандро Бэббэдж}Ты не можешь взять...\| ик...
@@ -455,9 +494,79 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Borislav Ragnarok}The Soviet Union will live on forever...<#>{Борислав Рагнарок}Советский Союз будет жить вечно...
 {Borislav Ragnarok}...no matter what happens.<#>{Борислав Рагнарок}...что бы ни случилось.
 {Borislav Ragnarok}Commander...\| I am sorry.<#>{Борислав Рагнарок}Командир...\| Мне жаль.
+{Bepe Stormer}It's you!<#>
+{Bepe Stormer}We're gonna paint your face across\#the pavement, asshole!<#>
+{Tibby Dobs}K-Kent...\|\#Let's just calm down and-\^<#>
+{Tibby Dobs}Fuck you!<#>
+{???}I knew you had it in you.<#>
+{???}You failed.<#>
+{???}This is it.<#>
+{???}This is the end.<#>
+{???}You cannot run away.<#>
+{???}You've been running\#your entire life.<#>
+{???}You will not achieve anything.<#>
+{???}You cannot change anything.<#>
+{???}This is your future now.<#>
+{???}Every failure...\|\#Every hardship endured...\|\|\#Every life taken...<#>
+{???}They all lead to this.\|\#Shaped your current self.<#>
+{???}This is you.\|\|\#The\| REAL you.<#>
+{???}It has to end.<#>
+{???}Your new life begins.<#>
+{???}You alright, Lucky?<#>
+{???}Is there anything wrong?<#>
+{???}Yeah, what's up with you?<#>
+{???}He has lost his senses!\|\#HA HA!<#>
+{Joel Miller}Alex...?<#>
+{Joel Miller}What are you doing?<#>
+{Joel Miller}You're creeping me out...<#>
+{Joel Miller}Lucky,\. STOP IT!<#>
+{Joel Miller}What do you even think\#you're doing?<#>
+{Joel Miller}Come on...<#>
+{Joel Miller}Lucky...?<#>
+{Joel Miller}Don't you remember me?<#>
+{Joel Miller}...<#>
+{Joel Miller}Lucky, come on!<#>
+{Joel Miller}I know you're there!<#>
+{Joel Miller}Please,\. stop this!<#>
+{Joel Miller}Don't make me do this...<#>
+{Joel Miller}I don't want to hurt you...<#>
+{Joel Miller}.\..\..\.\.\.!<#>
+{Joel Miller}But it seems like\#I have no choice...<#>
+{Joel Miller}Lucky...<#>
+{Joel Miller}All I want to ask is...<#>
+{Joel Miller}Why?<#>
+{Joel Miller}I'm sorry for this.<#>
+{Joel Miller}It didn't have to end like t-\^<#>
+{Joel Miller}A-Alex...<#>
+{Joel Miller}G-get your hands off m-\^<#>
+{Geen Jean}He doesn't look\#very good...<#>
+{Geen Jean}We need to snap\#him out of it!<#>
+{Geen Jean}Alex,\. what's gotten into\#you all of a sudden?<#>
+{Joel Miller}Ugh...<#>
+{Geen Jean}Alex, what the hell?!\.\#We are your friends!\. Quit it!<#>
+{Geen Jean}Alex, stop that!<#>
+{Joel Miller}Stay back, Lucky!<#>
+{Geen Jean}The hell happened to him?<#>
+{Geen Jean}His eyes look so empty...<#>
+{Geen Jean}Wait...\.\.\#I have an idea!<#>
+{Geen Jean}Joel, stay behind me!<#>
+{Joel Miller}L-Lucky!<#>
+{Joel Miller}How could you\#do that?!<#>
+{Joel Miller}Last warning!<#>
+{Joel Miller}Don't come any cl-\^<#>
+{Salt Crab}Don't worry!<#>
+{Salt Crab}All he needs is a\#good slap!\. HA HA!<#>
+{Salt Crab}Seems like we gotta smack\#some sense into him!<#>
+{Salt Crab}I'll hold him off!<#>
+{Salt Crab}My shell...<#>
+{Joel Miller}Stay back!<#>
+{Salt Crab}It's a good thing that I always\#bring my salt cart with me for\#situations like these!\.\.\.\. HA HA HA!<#>
+{Salt Crab}Come on!\.\#Hop in!<#>
 {Borislav Ragnarok}Do svidania.<#>{Борислав Рагнарок}До побачення.
+{Benedictus Freeman}Now we're equal.<#>
 I'm no one in particular.<#>Я - никто особенный.
 {Benedictus Freeman}This is fine.<#>{Бенедикт Фриман}Всё в порядке.
+{Frisko Benson}Don't you have anything\#better to do?<#>
 {Frisko Benson}God damn...<#>{Фриско Бенсон}Чёрт возьми...
 {Silvester de Maistre}Bah, this is childs' play!<#>{Сильвестр де Мейстр}Ба, это детские игры!
 {Silvester de Maistre}Let's make this more interesting!<#>{Сильвестр де Мейстр}Давай сделаем поинтереснее!
@@ -468,4 +577,304 @@ I'm no one in particular.<#>Я - никто особенный.
 {Silvester de Maistre}I should have... seen this coming.<#>{Сильвестр де Мейстр}Я должен был... предвидеть это.
 {Silvester de Maistre}But you know...<#>{Сильвестр де Мейстр}Но знаешь...
 {Silvester de Maistre}Dying with regrets, doesn't seem so bad.<#>{Сильвестр де Мейстр}Умирать с сожалением - не так уж плохо.
+{Aron Richter}Checkmate!<#>
+{Aron Richter}Again.<#>
+{Aron Richter}Who pulls a knife\#on a dying man?<#>
+{Aron Richter}The hell you think\#you're doing, man?<#>
+{Aron Richter}You pulled my leg!<#>
+{Aron Richter}What you doin' with that pistol, big-hat?\|\#Don't you dare weaponize that technology!<#>
+{Aron Richter}I'm dead, I guess.<#>
+{Pete Harper}Stay behind me!<#>
+{Mathew Harper}Please!<#>
+{Mathew Harper}We haven't done anything!<#>
+{Pete Harper}Don't touch him!<#>
+{Risky Richmond}Stop that!<#>
+{Risky Richmond}We aren't looking for trouble!<#>
+{Pete Harper}It's no use, Risky.<#>
+{Boy Trent}Way to kick a man\#while he's down...<#>
+{Pete Harper}Trent!\.\#Stay back!<#>
+{Pete Harper}Bastard!<#>
+{Pete Harper}You're gonna eat shit!<#>
+{Pete Harper}I'm\..\..\..\#I'm sorry guys...<#>
+{Pete Harper}Save yourselves...<#>
+{Boy Trent}No way...<#>
+{Boy Trent}I was so useless...<#>
+{Mathew Harper}Pete...?<#>
+{Mathew Harper}It can't be...<#>
+{Mathew Harper}He really is...<#>
+{Mathew Harper}...<#>
+{Risky Richmond}Oh...\|\#Oh god...<#>
+{Risky Richmond}No...<#>
+{Risky Richmond}Not him...<#>
+{Risky Richmond}What are we gonna\#do now without him?<#>
+{Boy Trent}Ah...\|\#Can't say I didn't\#expect this...<#>
+{Pete Harper}Motherfucker!<#>
+{Pete Harper}Now you're gonna get it!<#>
+{Mathew Harper}P-\|Pete?\|\#I...<#>
+{Risky Richmond}That was risky.<#>
+{Sholo Liberty}.\.\..\.\..<#>
+{Sholo Liberty}\..\..\..\.\.Why?<#>
+{Fecal Rusher}You don't know when to quit!<#>
+{Bronson Irons}What the FUCK, man?!<#>
+{Bronson Irons}We haven't done anything\#to you!<#>
+{Fecal Rusher}Stand your ground, Bronson!<#>
+{Bronson Irons}Some liquor to numb the pain...<#>
+{Fecal Rusher}S-stay back!<#>
+{Fecal Rusher}I've had a goon run.<#>
+{Bronson Irons}I'll miss you man...<#>
+{Bronson Irons}This one is for you!<#>
+{Bronson Irons}No regrets.<#>
+{Fecal Rusher}No!\.\.\#Bronson!\.\.\#Not you too...<#>
+{Fecal Rusher}You'll pay for that!<#>
+{Slim Hartmann}Come on now!\.\.\#One at a time!<#>
+{Slim Hartmann}Nothing personal.\.\.\#This is just business.<#>
+{Slim Hartmann}THANK GOD FOR\#THE JOY!!<#>
+{Slim Hartmann}It makes me feel like\#a kid again!<#>
+{Slim Hartmann}You resist the joy.<#>
+{Slim Hartmann}But taking even a single pill\#will be the\. BEST moment of your life.<#>
+{Slim Hartmann}Allow me to make\#a demonstration, gentlemen...<#>
+{Slim Hartmann}Can't escape outta\#this one!<#>
+{Slim Hartmann}Ouch.<#>
+{Slim Hartmann}This is\..\..\..\#rather unfortunate.<#>
+{Slim Hartmann}I'll see myself out.<#>
+{Slim Hartmann}NO MERCY!<#>
+{Slim Hartmann}You are the worst.<#>
+{Slim Hartmann}...<#>
+{Slim Hartmann}Rusher...<#>
+{Slim Hartmann}Irons...<#>
+{Slim Hartmann}This is for you.<#>
+{Donovan Whitehouse}I feel motivated.<#>
+{Donovan Whitehouse}What was I supposed\#to do again?<#>
+{Donovan Whitehouse}Oh yeah.<#>
+{Donovan Whitehouse}Nice.\|\#115 more to go.<#>
+{Donovan Whitehouse}Now where was I?<#>
+{Donovan Whitehouse}This got boring real fast.<#>
+{Donovan Whitehouse}Let me find something\#else to bash our heads with.<#>
+{Donovan Whitehouse}Hmm...<#>
+{Donovan Whitehouse}How about this one?<#>
+{Donovan Whitehouse}Cold War Documentary, Volume 1.<#>
+{Donovan Whitehouse}Introduction:\|\#The Cold War refers to a period of geopoliti-\^<#>
+{Donovan Whitehouse}Hey!\|\#Don't doze off!<#>
+{Donovan Whitehouse}It was about to get interesting!<#>
+{Donovan Whitehouse}So much for nourishing my brain.<#>
+{Donovan Whitehouse}It's no longer functional.<#>
+{Francis Peteywheat}I'm so sick of shit!<#>
+{Francis Peteywheat}Nothing better than a\#cup of coffee before the\#killing marathon.<#>
+{Francis Peteywheat}Stop with that shit!<#>
+{Francis Peteywheat}No way you just\#did that!<#>
+{Francis Peteywheat}No one stands between\#me and my rights!<#>
+{Francis Peteywheat}Okay.<#>
+{Francis Peteywheat}I think that\#calmed me down.<#>
+{El Kobra}Morirás esta noche.<#>
+{El Kobra}Quémalo todo!<#>
+{El Kobra}Have you seen a\#flaming snake?<#>
+{El Kobra}I was skinned!<#>
+{Clark Cunningham}Let me show you how\#we did 'em back in Kansas, son.<#>
+{Clark Cunningham}Say goodbye to\#your limbs.<#>
+{Clark Cunningham}Alright.\|\#You asked for it.<#>
+{Clark Cunningham}You takin' me\#for a fool?<#>
+{Clark Cunningham}If this Infinity shit's got a\#highscore then I'll be the one to beat it!<#>
+{Clark Cunningham}I'll be damned.<#>
+{Scrawny Davy}HAH!\.\. As if I would\#ever fall for that!<#>
+{Mikhail "Milo" Zhnebrowski}Alex.<#>
+{Mikhail "Milo" Zhnebrowski}I can see it in your eyes.<#>
+{Mikhail "Milo" Zhnebrowski}I didn't believe your lies.\.\..\.\..\#You are a killing machine.<#>
+{Mikhail "Milo" Zhnebrowski}Our conversation was...<#>
+{Mikhail "Milo" Zhnebrowski}...an experience most enlightening.<#>
+{Mikhail "Milo" Zhnebrowski}You cannot change things now.<#>
+{Mikhail "Milo" Zhnebrowski}Peace and hope do not exist\#in a world of violence!<#>
+{Mikhail "Milo" Zhnebrowski}Brothers.\..\..<#>
+{Mikhail "Milo" Zhnebrowski}Augh...<#>
+{Mikhail "Milo" Zhnebrowski}It...\| it was never meant to be...<#>
+{Floyd Burnside}Bring it on.<#>
+{Floyd Burnside}The spirit of Infinity burns\#in my very soul!<#>
+{Floyd Burnside}You cannot prevent\#your fate.<#>
+{Floyd Burnside}Look into my eyes\#and face it.<#>
+{Floyd Burnside}S-still\..\..\..\#going?<#>
+{Floyd Burnside}L-look into.\..\..\#Into...<#>
+{Floyd Burnside}I...<#>
+{Floyd Burnside}...deserve this.<#>
+{Floyd Burnside}I'm coming,\| Will...<#>
+{Jeremy Denkins}You know how we do things now.<#>
+{Jeremy Denkins}Let's just get straight to the point.<#>
+{Jeremy Denkins}And boy...<#>
+{Jeremy Denkins}That someone's got us all\#under control...<#>
+{Francis Gizmo Jr.}Let me demonstrate.<#>
+{Wallaby Whitaker}Yeah, yeah...<#>
+{Francis Gizmo Jr.}Now calm down...<#>
+{Francis Gizmo Jr.}Take a deep breath...<#>
+{Francis Gizmo Jr.}I'm so sorry,\. boys.<#>
+{Francis Gizmo Jr.}You really were the very best...<#>
+{Francis Gizmo Jr.}...and you meant the\#world to me.<#>
+{Kroger Cleveland}Motherfucker!<#>
+{Wallaby Whitaker}Why?\| Why??\|\#Why did this happen!?<#>
+{Raymund Ripe}You wait, you live.\| You fig-\^<#>
+{Raymund Ripe}\|.\|.\|.<#>
+{Raymund Ripe}Is that how it is?<#>
+{Raymund Ripe}...<#>
+{Raymund Ripe}Heh...<#>
+{Raymund Ripe}Let's not stop the fun now,\#shall we?<#>
+{Raymund Ripe}This felt like heaven.<#>
+{Borislav Ragnarok}...\|Huh?<#>
+{Borislav Ragnarok}You are a mighty foe indeed...<#>
+{Borislav Ragnarok}But I will not capitulate!<#>
+{Borislav Ragnarok}Need...\| much more power!<#>
+{Borislav Ragnarok}I will never surrender...\|\#...to someone like you!<#>
+{Borislav Ragnarok}It can't be!<#>
+{Borislav Ragnarok}You are not human!<#>
+{Borislav Ragnarok}But...<#>
+{Borislav Ragnarok}...can the Soviet Union really\#live forever?<#>
+{Borislav Ragnarok}Prashai.<#>
+{Cormack Rex}You want my kit?\|\#Come and take it, you rascal!<#>
+{Cormack Rex}Savage, can't leave an old man alone.<#>
+{Torque Homer}The taste is so dazing...<#>
+{Torque Homer}You're asking for it!<#>
+{Torque Homer}It's a homerun!<#>
+{Torque Homer}Now you've done it.<#>
+{Torque Homer}Blood is fuel...\|\#and Hell is full.<#>
+{Joel Miller}Uhh...<#>
+{Joel Miller}Guys...\|\#The hell is that thing\#on the wall?<#>
+{Barry Twister}You think I'm fucking around?<#>
+{Barry Twister}Chop! Chop!\|\#Here comes the gutter!<#>
+{Barry Twister}Need the good stuff...<#>
+{Barry Twister}...<#>
+{Barry Twister}It's not the same anymore...<#>
+{Barry Twister}Ugh...<#>
+{Barry Twister}I'll...<#>
+{Barry Twister}I'll fuck you up!<#>
+{Earnest}Do you like to...\| party?<#>
+{Earnest}I like to party.<#>
+{Chandler Sinclair}\..\..\..FUCK THIS!<#>
+{Chandler Sinclair}I'm sick of carrying\#this fatass around\#for hours on end!<#>
+{Chandler Sinclair}Y'all are gonna\#fuckin' pay!<#>
+{Stefan Kindchild}Who, squatting upon the ground,\#Held his hear-\^<#>
+{Chandler Sinclair}SHUT\| THE\| FUCK\| UP!<#>
+{Chandler Sinclair}God...\|\#FUCKING DAMN IT!<#>
+{Rutherford Headstrong}No one can\#take me down!<#>
+{Rutherford Headstrong}I thought that\#you'd learn\#your lesson!<#>
+{Rutherford Headstrong}Again with this?\|\#How many times do I\#gotta kick your ass?<#>
+{Rutherford Headstrong}Nope.\|\#Enough of this.<#>
+{Rutherford Headstrong}I'll beat the shit outta\#you for real this time!<#>
+{Rutherford Headstrong}This was just a warm-up!<#>
+{Rutherford Headstrong}Get ready for\#a knockout!<#>
+{Rutherford Headstrong}But...<#>
+{Rutherford Headstrong}I thought I was\#the very best...<#>
+{Rutherford Headstrong}Have I been living\#a lie all along?<#>
+{Georgy Hernandez}Someone's gotta teach\#you a lesson, shitheads!<#>
+{Georgy Hernandez}Ugh\..\..\..\#I need my meds...<#>
+{Georgy Hernandez}Alright, scumbags.<#>
+{Georgy Hernandez}It's Hernandez time!<#>
+{Georgy Hernandez}Ow!\|\#FINE!<#>
+{Georgy Hernandez}You fucking shitheads...<#>
+{Georgy Hernandez}Hah!<#>
+{Georgy Hernandez}Shouldn't have\#messed with me!<#>
+{Hugo Leopardi}.\..\..<#>
+{Hugo Leopardi}If this is how you want\#to do things,\| then I don't mind.<#>
+{Hugo Leopardi}Worry not...\|\#for The Doctor has arrived.<#>
+{Hugo Leopardi}Let's end this.<#>
+{Joel Miller}Hold it, Lucky!<#>
+{Joel Miller}You can't do this alone!<#>
+{Joel Miller}Let's get this freak!<#>
+{Alex Churchland}...<#>
+{Joel Miller}Come on, Lucky!<#>
+{Hugo Leopardi}\|.\|.\|.<#>
+{Hugo Leopardi}I...\|\#I can't...<#>
+{Hugo Leopardi}J-Jason...<#>
+{Hugo Leopardi}...<#>
+{Rister Syrup}You are an idiot.<#>
+{Kirk Fuseman}Flame...\|\#Grant me strength...<#>
+{Kirk Fuseman}Burn my mind.\|\#I wish to think no more.<#>
+{Kirk Fuseman}In the end,\. it was all\#devoured by the flames of Hell.<#>
+{Kirk Fuseman}There's really no salvation\#from this damnation.<#>
+{Kirk Fuseman}It's about time I\#bite the dust.<#>
+{Kirk Fuseman}The final hour strikes.<#>
+{Kirk Fuseman}Good night.<#>
+{Kirk Fuseman}There's nothing here\#worth living for.<#>
+{Kirk Fuseman}It ends here.<#>
+{Eli Trackstar}Should've just left\#me alone!<#>
+{Eli Trackstar}Now you're being\#really annoying!<#>
+{Eli Trackstar}Wait, am I bothering you?<#>
+{Eli Trackstar}Perhaps I was wrong...<#>
+{Eli Trackstar}Seems like I was the\#annoying one all along.<#>
+{Carlton Guiles}It's time to take things\#into my own hands!<#>
+{Carlton Guiles}Literally.<#>
+{Carlton Guiles}Let's get it on.<#>
+{Carlton Guiles}I changed my mind.<#>
+{Carlton Guiles}If you think I'll just lay\#down like a dog and die then\#you're DEAD WRONG!<#>
+{Carlton Guiles}I'm taking this\#shit off me!<#>
+{Carlton Guiles}Much better.<#>
+{Carlton Guiles}I'll give you a\#real beating!<#>
+{Carlton Guiles}I was doing this unironically.<#>
+{Carlton Guiles}Fuck you.<#>
+{Krishna Ishmael}Dinner time!<#>
+{Maximus Bull}Ain't gonna miss this one!<#>
+{Krishna Ishmael}We can't eat it raw!<#>
+{Krishna Ishmael}It's all sorts\#of wrong!<#>
+{Maximus Bull}Kris!\|\#You fuckin' idiot!<#>
+{Maximus Bull}Help me out!<#>
+{Maximus Bull}We gotta take\#them down!<#>
+{Krishna Ishmael}Ready whenever you are!<#>
+{Krishna Ishmael}Max?\|\#A little assistance?<#>
+{Krishna Ishmael}If you don't mind\#of course.<#>
+{Maximus Bull}Sure thing.<#>
+{Maximus Bull}Why did I agree to\#this again?<#>
+{Krishna Ishmael}The taste of death isn't\#very appetizing...<#>
+{Geronimo Phantasmata}Now you're the\#punchline.<#>
+{Geronimo Phantasmata}Time for you to\#chill out!<#>
+{Geronimo Phantasmata}Tell my brother I said goodbye.<#>
+{Prizmik}I can't miss\#this call.<#>
+{Prizmik}So just don't.<#>
+{Prizmik}Listen, Friend.\|\#I'm very busy.<#>
+{Prizmik}I don't want to\#fight you...<#>
+{Prizmik}Really!<#>
+{Prizmik}...<#>
+{Prizmik}All I wanted was some\#peace and quiet...<#>
+{Prizmik}That's it.<#>
+{Prizmik}I'm sick of this.<#>
+{Prizmik}Time to end this.<#>
+{Prizmik}You little...!<#>
+{Prizmik}It's not worth it.<#>
+{Prizmik}In the end, infinity\#always comes on top.<#>
+{Prizmik}But I have more important\#matters to attend.<#>
+{Prizmik}Farewell.<#>
+{Loyd Basilisk }Look!\|\#He's one of them!<#>
+{Tok Bim }Can't be...<#>
+{Rusty Davidson }B-but...\|\#We already went through\#so much...<#>
+{Jason Pike }Everyone, stay calm!<#>
+{Gin Hanks }I'm not gonna\#stay fuckin' calm!<#>
+{Gin Hanks }I'm gonna beat the\#shit outta this damn vermin!<#>
+{Laser Eye Guy }Let's do it Gin.\|\#Just like old times.<#>
+{Jason Pike }...<#>
+{Gin Hanks }Your face is kissing\#the ground!<#>
+{Laser Eye Guy }Time to get back\#into gear.<#>
+{Tok Bim}All for nothing...<#>
+{Loyd Basilisk}This is the end of\#the road for me.<#>
+{Rusty Davidson}I thought that this\#was my salvation...<#>
+{Shurik Caukaz}Okay...<#>
+{Shurik Caukaz}NOW Neu Crew is\#officially dead.<#>
+{Gin Hanks}I... I can't anymore...\|\#S-sorry guys...<#>
+{Laser Eye Guy}Gin!<#>
+{Laser Eye Guy}Time for my eternal rest.<#>
+{Gin Hanks}Oh brother!<#>
+{Jason Pike}...<#>
+{Jason Pike}I lied.<#>
+{Tibby Dobs}It's Tibby ti-\^<#>
+{Tibby Dobs}Oh, come on...<#>
+{Hugo Leopardi}You're persistent...<#>
+{Hugo Leopardi}And you killed so many\..\..\..<#>
+{Hugo Leopardi}It's not surprising.<#>
+{Hugo Leopardi}But with those open wounds...\|\|\#How are you still standing?<#>
+{Hugo Leopardi}You were right.\|\#None of this matters.<#>
+{Hugo Leopardi}I...\|\#I failed...<#>
+{Hugo Leopardi}Goodbye,\| Jason.<#>
+{Hugo Leopardi}This isn't worth it.<#>
+{Chao Bree}Another one into the grinder.<#>
+{Chao Bree}Get him, boys!<#>
+{Chao Bree}Useless... USELESS!<#>
+{Chance Sassy}Took a chance with this...\|\#And it flew right back into my face!<#>
+{Rins Sagitarius}Bury me somewhere nice.<#>
+{Jamie Diggins}Those archery classes ain't shit.<#>
+{Karl Siege}Spinning a huge rock is the\#best kind of exercise.<#>
+{Barny Kettle}I may be a psychopath, but\..\..\..\|\#Nevermind,\| that's it.<#>
+{El Elephante Vintchenso}...<#>
 {Hugo Leopardi}Enough of this.<#>{Хьюго Леопарди}Достаточно.
