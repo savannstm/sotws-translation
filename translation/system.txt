@@ -1,55 +1,8 @@
-Rags<#>
-Nude<#>
-Coat<#>
-Hat<#>
-Jewelry<#>
-Wraps<#>
 Mags<#>Журналы
-Bullet<#>
-Neckwear<#>
-Ponchos<#>
-Pants<#>
-Materials<#>
-Crystals<#>
-Jerseys<#>
-Censer<#>
-Robes<#>
-Physical<#>
-Absorb<#>
-Fire<#>
-Heavy Armor<#>
-Pierce<#>
-Slice<#>
-Airborne<#>
-Crushing<#>
-Holy<#>
-Dark<#>
-Gentle<#>
-Rough<#>
-Loving<#>
-Animal<#>
-Basic<#>
-Unknown<#>
-Electric<#>
-Slash<#>
-Bloodletting<#>
-Bite<#>
 Flourish<#>Доп.
-Killer Moves<#>
 Techniques<#>Техники
 Hints<#>Подсказки
-Dozing<#>
-Seduction<#>
-Punjabi Poke<#>
-Songs<#>
-Peckings<#>
-Advisory<#>
-Blades<#>
-Dance<#>
 Topics<#>Темы
-Draw<#>
-Kat<#>
-Critters<#>
 Magic<#>Магия
 Gunplay<#>Пушка
 Stances<#>Стойки
@@ -58,14 +11,6 @@ Smooth Moves<#>Плавные движения
 Investments<#>Инвестиции
 Moves<#>Движения
 Artistry<#>Артистичность
-Batting<#>
-Horseplay<#>
-Neu Style<#>
-Desperation<#>
-Stretch<#>
-Headbutt<#>
-Stretch 2<#>
-Headbutt 2<#>
 Skulduggery<#>Надувательство
 MaxHP<#>Макс. ОЗ
 MaxSP<#>Макс. ОН
@@ -116,4 +61,3 @@ Knife<#>Нож
 Hands<#>Руки
 Bats<#>Биты
 LISA: The Pointless - SOTWS - Infinity Unfolds<#>
-LISA: The Pointless - Scholar of the Wilbur Sin<#>
