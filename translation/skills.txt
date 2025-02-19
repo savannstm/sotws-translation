@@ -1,1006 +1,357 @@
 Attack<#>Атака
-Damages the enemy.<#>
 attacks!<#>атакует!
 Guard<#>Защита
-Protects user and reduces damage taken.\#Restores some SP.<#>
 guards.<#>защищается.
-Skill #2 will be used when you select\#the Guard command.<#>
-Dual Attack<#>
-Hits an enemy twice!<#>
-Double Attack<#>
-Attacks two random enemies.<#>
-Triple Attack<#>
-Attacks three random enemies.<#>
 Escape<#>Побег
-Enemy action. Causes enemy to flee from battle.<#>
 flees.<#>сбегает.
-Wait<#>
-Does nothing.<#>
 waits.<#>ожидает.
-Unnerving Laugh (Slim)<#>
-Confidence in the face of danger can be one\#of the most unnerving things.<#>
 sings Confusion Song!<#>поёт песню замешательства!
-Painted Red (Slim)<#>
 paints you red!<#>
-Slice 'n' Dice (Slim)<#>
-Three slashes, hot and ready!<#>
 uses Sleep Breath!<#>использует дыхание сна!
-Slice 'n' Dice (Slim2)<#>
-Joy (Slim)<#>
-Do you joy?<#>
 takes some joy!<#>
-Brandish (Slim)<#>
-Everyone's getting nicked by this.<#>
 uses Sleep Pollen.<#>использует сон-пыльцу!
-Power Fist (Slim)<#>
-Builds up for a devastating assault.<#>
 uses Paralyze Breath!<#>использует парализующее дыхание!
-Pick Whirl (Richie)<#>
 whirls like a tornado!<#>
-Sleep Breath<#>
-Puts all enemies to sleep.<#>
 uses Paralyze Stare!<#>использует парализующий взгляд!
-Rage build! (Richie)<#>
-Enemy realizes he's outnumbered.<#>
 bites down hard!<#>больно кусает!
-Club Swing (Homer)<#>
 swings and scores!<#>
-Pick Swings (Richie)<#>
 goes wild with his pickaxe!<#>
-Bite<#>
-A big chomp<#>
 barks at you!<#>лает на вас!
-Poison Bite<#>
-Bark<#>
-Stuns all enemies.<#>
 uses Vampire!<#>использует вампиризм!
-Vampire<#>
-Absorbs enemy's HP.<#>
 uses Meditate!<#>медитирует!
-Meditate<#>
-Recovers user's HP.<#>
 bit at your nerves!<#>кусает за нерв!
-Paralyzing Bite<#>
 gets inventive!<#>проявляет изобретательность!
-Break Bottle<#>
-Break a bottle for a nifty sharp weapon!<#>
 gets his mojo back!<#>снова обретает пыл!
-Pick weapon up<#>
-Pick it back up!<#>
 chews at your flesh!<#>жуёт вашу кожу!
-Rag Maggot Bite<#>
-Pick weapon up (No Anim)<#>
-Maggot Bites<#>
-Itty bitty bites from itty bitty mouths.<#>
 spits some funky shit on you!<#>плюёт в вас какой-то хренью!
-<one animation>.\#<Motion Action = 4><#>
-Maggot Spit<#>
-Eeeeeeewwwwwwwwwwww.<#>
 is squirming.<#>извивается.
-Squirm<#>
-Wriggle wriggle.<#>
 is eating maggots!<#>ест опырашей!
-Eat Maggots<#>
-Mmmmm.<#>
 licks you...<#>лижет вас...
-Cane Smack<#>
-Punish the enemy.<#>
-smacks you with his cane!<#>
-Pick weapon up (Earheart)<#>
-Heat Fever<#>
-HOT!!<#>
 heats you up!<#>
-Firebomb Prepare<#>
-Ends lives<#>
 prepares something explosive.<#>
-Power Fist<#>
-Raymund Taste<#>
-Lick<#>
 chomps away!<#>грызётся!
-Double Bite<#>
-Someone's hungry.<#>
 unleashes a foul odor!<#>испускает ужасную вонь!
-Deep Poison Bite<#>
-Gas Blast<#>
-Unleash your foul odor unto the world.<#>
 opens wide.<#>широко раскрывается.
-Gearing Up for Chomp<#>
-Open wide.<#>
 causes an abominable regeneration!<#>начинает ужасающую регенерацию!
-Gas Blast (Single Target)<#>
-Knife Hand (Slim)<#>
 gives an encouraging cry!<#>произносит воодушевляющий клич!
-Blade Retrieval (Beezy)<#>
-A sucker punch maneuver to take back their weapon.<#>
 hurled his pickaxe!<#>швыряет свою кирку!
-Knife Intimidate (Beezy)<#>
-Dreaming about it<#>
-threatens you with his blade!<#>
-Pick Throw 2<#>
-Richie's second signature.<#>
 grinds your flesh into pulp!<#>рубит вашу плоть в фарш!
-Reform<#>
-Reforms.<#>
 cuts you up!<#>режет вас!
-Encourage 2<#>
-Give your team some much needed motivation.<#>
 unleashes a blast of flames!<#>испускает поток пламени!
-Pick Throw<#>
-Richie's signature.<#>
-Jaw Grinder<#>
-Ouch.<#>
 punches, and retrieves his blade!<#>атакует и возвращает своё оружие!
-Slice 'n' Dice (Lester)<#>
-Brandish (Beezy)<#>
-Flame Burst<#>
-A blast of fire that burns everyone.<#>
 brandishes his blade!<#>размахивает своим клинком!
-Blade Retrieval<#>
-Brandish<#>
-Deadly Stab<#>
-A precarious shank aimed for the vitals.<#>
 stabs into your flesh!<#>протыкает вашу плоть!
-Prepare<#>
-You know what happens next...<#>
 readies his lighter.<#>готовит свою зажигалку.
-Joel Throw<#>
-Joel's coming in like a cannonball!<#>
 tossed Joel back at you!<#>бросает Джоэла обратно в вас!
-Joel Stroke<#>
-You feel weird just watching this.<#>
 is stroking Joel...<#>сжимает Джоэла...
-Joel Shield<#>
-Don't hurt him...<#>
 is using Joel as a shield!<#>использует Джоэла, как щит!
-Slice 'n' Dice<#>
-Hand Slash<#>
-Rip them apart.<#>
 tears you apart!<#>разрывает вас!
-Fire Punch<#>
-A flaming fist to the face!<#>
 unleashes a fiery fist!<#>высвобождает кулак ярости!
-Electric Claw<#>
-Crackle slash!<#>
 flays you like a chicken!<#>снимает с вас кожицу, как с помидора!
-Charge Claws<#>
-Get juiced before tearing them apart.<#>
 is generating a current!<#>генерирует ток!
-Neck Bite<#>
-Nom nom nom.<#>
 bites down on your neck!<#>кусает вас за шею!
-Eyes Amongst Us<#>
 They're watching...<#>За вами наблюдают...
 is staring ominously...<#>угрожающее наблюдает...
-Psycho Laugh<#>
-Only a real looney could cackle like this.<#>
 cackles maniacally!<#>маникально смеётся!
-Double Scratch<#>
-A one and a two!<#>
 lashes out!<#>набрасывается!
-Pipe Joust<#>
 rams you with his pipe!<#>ударяет вас своей трубой!
-Struggle<#>
-This thing's a little heavy...<#>
 is struggling to lift his pipe...<#>пытается поднять трубу...
-Lash<#>
-Crack the whip on a poor fool.<#>
 swings his flail!<#>машет цепью!
-Tire Swing<#>
-Not your everyday tire swing.<#>
 swings his tire!<#>машет покрышкой!
-Friendly Fire Stomp<#>
-Stomp a mudhole in your ass.<#>
 stomps him out!<#>вышибает его!
-Encourage<#>
-Spit Poison<#>
-Dispense the contents of your stomach on their face.<#>
 coughs up some toxic gunk!<#>кашляет какой-то токсичной дрянью!
-Demon Eye<#>
-Foresee their demise in your eyes...<#>
 stares into your soul!<#>глядит в вашу душу!
-Charge Up<#>
-Gather power for a devastating blast.<#>
 is gathering power...<#>собирается с силами...
-Bring Down the Thunder<#>
-Bring down the wrath of the gods on their bitch asses.<#>
 summons a bolt of lightning!<#>призывает удар молнии!
-Spray Water<#>
-Get under cover, 'cause it's about to rain.<#>
 sprays water all over the place!<#>разливает повсюду воду!
-Watery Whap<#>
-Feels like getting slapped by a fish.<#>
 gives you a whack!<#>задаёт вам взбучку!
-Peck<#>
-A uniquely avian technique<#>
 pecks at your face!<#>клюёт вас в лицо!
-Unnerving Laugh<#>
-Rupturing Stab<#>
-This one cuts deep.<#>
 laughs at your face.<#>смеётся вам в лицо.
-Power Fist (Earheart)<#>
-Drop Kick (Kein)<#>
-A double foot press to the chest!<#>
 eviscerates you.<#>потрошит вас.
-Power Fist (NOIP)<#>
 is handling true power!<#>
-Tenderize (You know who)<#>
-Pulverize their flesh.<#>
 delivers a venomous combo!<#>производит ядовитое комбо!
-Anaconda Assault<#>
-Anaconda's pulling out all the stops!<#>
 launches your useless form!<#>запускает ваше беспомощное тело!
-Catapult Christening<#>
-A violent toss of the opponent's helpless form.<#>
 has got you!<#>хватает вас!
-Grab<#>
-Stops the opponent midair!<#>
 will deny you!<#>прикончит вас!
-The Punch<#>
 sees no hope.<#>не видит надежды.
-See no hope<#>
-In the face of hopelessness there is always...<#>
 emits a fleshy hum.<#>издает мясистый гул.
-Meat Signal<#>
-Heals all who hear the sound.<#>
 hoses you with meat!<#>ударяет вас мясом!
-Meat Hose<#>
-A huge swing to destroy the opposition.<#>
 emits a disturbing hum.<#>издаёт тревожный гул.
-<one animation>.\#<Motion Action = 5><#>
-Kill Signal<#>
-Fills hearts with lust for murder.<#>
 steals your soul.<#>крадёт вашу душу.
-Choirboy's Screach<#>
-Enemy cries<#>
 spits up!<#>плюёт!
-Gasoline Spew<#>
-Spit highly flammable liquid all over your\#opponent.<#>
 clubs at him!<#>ударяет дубинкой!
-Friendly Fire Club Strike<#>
 throws a fireball!<#>бросает огненный шар!
-Twin Fireballs<#>
-Deals fire damage to one enemy.<#>
 is feeding. It's gross.<#>кормит. Это отвратительно.
-Gasoline Spit<#>
-Feed Friend<#>
-Restores HP to one ally.<#>
 paddles you!<#>шлёпает вас!
-Feed<#>
-Paddle<#>
 is pushy.<#>толкается.
-Shove<#>
 does the Infinite Deathmaker!<#>использует бесконечный смертоносец!
-Infinite Deathmaker<#>
 parties like it's 1999.<#>веселится, будто это 90-е.
-Party Stance<#>
-Party mode activate<#>
 chose a victim.<#>нашёл жертву.
-Do Nothing<#>
-Bully<#>
-Picks a victim.<#>
 rams you with his bat!<#>бьёт вас своей битой!
-Club Joust<#>
 figured it out!<#>осознаёт!
-RealizationII<#>
-Realize you're in a fight.<#>
 is handling real power!<#>обуздывает настоящую силу!
-Feel The Hurt<#>
-Hit yourself, let it hurt the more.<#>
 is feeling the hurt.<#>чувствует боль.
-Finger Beam<#>
-A concentration of energy blasted from the finger.<#>
 fires a beam!<#>выстреливает луч!
-Pure of Flesh<#>
-Rub meat into your friend.<#>
 spreads the meat.<#>размазывает мясо.
-Vision of Violance<#>
-Preach of liberation in violance!<#>
 is raving mad!<#>буйствует!
-Meat Chant<#>
-No one is anything more or less than meat.<#>
 knows a freaky chant.<#>знает жуткую песню.
-Visceral Bathe<#>
-Meat toss.<#>
 showers in viscera!<#>купается во внутренностях!
-Power Fist (Danger)<#>
-Double Joust<#>
-Strike one, strike two! They're out!<#>
 and Lin ram you with their bats!<#>и Лин бьют вас битами!
-Aikido Stance<#>
-Makes you hard to grasp!<#>
 adopts an Aikido stance!<#>встаёт в стойку айкидо!
-Boxer's Stance<#>
-Prevents easy knockouts!<#>
 adopts a boxing stance!<#>встаёт в стойку боксёра!
-B-Ball Bash<#>
-What goes around comes around!<#>
 launches a basketball!<#>кидает баскетбольный мяч!
-Screams of the Past<#>
-Their bodies are still, but their voices are ceaseless.<#>
 unleashes a haunting scream.<#>разражается ужасающим криком.
-Crystal Spew<#>
-One whiff of this, and it's game over...<#>
 spews noxious fumes!<#>извергает ядовитые пары!
-Crystal Spear<#>
-Stabs at your heart.<#>
 stabs into you!<#>пронзает вас!
-X Slice<#>
-Damages the enemy, twice.<#>
 swings!<#>замахивается!
-Breathe In<#>
-Take a deep breath to relieve some tension.<#>
 takes a deep breath.<#>глубоко вздыхает.
-Drop Kick<#>
-Bellucci Buster<#>
-Chriss's signature move. You won't get up after\#this one.<#>
 performs a drop kick!<#>ударяет в полёте!
-Feed (Lester)<#>
 does the Bellucci Buster!<#>использует разрушителя Белуччи!
-Double Finger Beam<#>
-Two muthafuckin lasers!<#>
 passes you some meat!<#>передаёт вам мясо!
-Spit<#>
-The ultimate disrespect.<#>
 fires a pair of beams!<#>стреляет парой лучей!
-Stretch<#>
-Stretch that bod, get limber!<#>
 spat in your face!<#>плюёт вам в лицо!
-Hiss<#>
-Show them how pissed you are.<#>
 stretches real good!<#>неплохо растягивается!
-Tenderize<#>
-Blood Spit<#>
-The ultimate disrespect made\#even more disrespectful.<#>
 is hissing...<#>шипит...
-Gear Up for Bone Snap<#>
-Locked on.<#>
 tenderizes your body!<#>размягчает ваше тело!
-Boomerang Toss<#>
-An Australian classic<#>
 spat blood in your face!<#>плюёт кровью вам в лицо!
-Boomerang Combo<#>
-An Australian classic.<#>
 gets ready.<#>готовится.
-Double Thumb Jab<#>
-Aim for the eyes!<#>
 tosses a boomerang!<#>бросает бумеранг!
-Thumb Stab<#>
-A piercing blow with a thumb.<#>
 performs a boomerang combo!<#>исполняет комбо с бумерангом!
-Infinite Hypnosis<#>
-Stare into the spiral... embrace the cycle.<#>
 jabs at your eyes!<#>бьёт вам по глазам!
-Boxer's Rushdown<#>
-A modern martial art.<#>
 stabs you with a thumb!<#>ударяет вас большим пальцем!
-Power Clothesline<#>
-No one is safe.<#>
 emits a strange aura...<#>испускает странную ауру...
-Double Finger Beam (Howard)<#>
-Executioner Slam<#>
-Leaves an Alex-shaped hole in the ground.<#>
 knocks the stuffing out of you!<#>выбивает из вас всё дерьмо!
-Fire Spit<#>
-Speak the lanuage of flames.<#>
 reels back and swings out!<#>откидывается и машет!
-ENEMY ATTACKS<#>
-Grin<#>
 beats you into the dirt!<#>втаптывает вас в грязь!
-Grope<#>
-Grope the enemy<#>
 spat out a volley of flames!<#>выплёвывает залп пламени!
-Yell<#>
 is grinning at you.<#>ухмыляется вам.
-Cry<#>
 strokes you...<#>обнимает вас...
-Glare<#>
 screams.<#>кричит.
-Blood cough<#>
-Cough up blood<#>
 is crying deeply.<#>горько плачет.
-Realization<#>
 is glaring at you...<#>глядит на вас...
-Flail<#>
 coughed up blood!<#>кашляет кровью!
-Rage build!<#>
-Bottle Throw<#>
-A strong attack against one enemy.<#>
 realized he's outnumbered!<#>понял, что он в меньшинстве!
-Petroleum Firebomb<#>
-Deals fire damage to all enemies.<#>
 flails!<#>замахивается!
-Slice<#>
-Solid Punch<#>
 vibrates with rage!<#>наполняется яростью!
-Big Swing<#>
 threw a bottle!<#>кидает бутылку!
-Pick Swing<#>
 threw a petroleum firebomb!<#>кидает бензиновую бомбу!
-Liquor Swig<#>
-Drink 'em up.<#>
 unleashes a direct hit!<#>наносит прямой удар!
-Anaconda Assault 2<#>
-Eat<#>
 swings with full force!<#>замахивается со всей силой!
-Hair slick<#>
 swings his pickaxe!<#>размахивает киркой!
-Big slice<#>
-Damages enemy<#>
-Fireball<#>
-Club Strike<#>
 takes a swig of some good stuff.<#>делает глоток крепкого напитка.
-Shoot<#>
-Shoots at you!<#>
-Cool Pose<#>
-Makes you feel like you're cool,\#but you're really not.<#>
 stuffs something in his mouth.<#>засовывает что-то в рот.
-Hair whip<#>
-The hair whips at you!<#>
-Scythe Slash<#>
 checks his hair!<#>проверяет свои волосы!
-Reignite<#>
-Anaconda gets his flame on.<#>
 clubs at you!<#>ударяет вас битой!
-Spear Slash<#>
 strikes a pose!<#>встаёт в позу!
-Breath of Life (1)<#>
-A breath of fresh air to get them back in order.<#>
 brandishes a scythe!<#>размахивает косой!
-Breath of Life Heal<#>
-Helicopter Kick<#>
-'Round and 'round it goes...<#>
 reignites!<#>вновь воспламеняется!
-Leg Clamp<#>
-Slam those heels on their throat.<#>
 swings his spear!<#>замахивается копьём!
-Crowd Slash<#>
 breathes some life back into you!<#>вдыхает в вас жизнь!
-Reignite (Gremory)<#>
-*Gremory* gets his flame on.<#>
-Self-Flagellation<#>
-Blood for blood!<#>
 kicks you over and over again!<#>пинает вас снова и снова!
-Choke Rush<#>
-Get that throat!<#>
 clamps his legs on your throat!<#>сжимает ногами ваше горло!
-Eerie Stare<#>
-A little too close for comfort.<#>
 swings at the crowd!<#>замахивается в толпу!
-Blood Heal<#>
-Tastes like cherry soda.<#>
 is self-flagellating!<#>бичует себя!
-Basto Swing<#>
-Watch out watch out WATCH OUT!<#>
 goes for the throat!<#>целит в горло!
-Basto Slam<#>
 is gazing right through you...<#>глядит прямо сквозь вас...
-Basto Swing Damage<#>
 is drinking blood...<#>пьёт кровь...
-Basto Slam Damage<#>
 swings Basto like a ragdoll!<#>размахивает Басто, как куклой!
-Wilbur Feed<#>
-Noxious Fireball<#>
 slams Basto into the dirt!<#>швыряет Басто в грязь!
-Noxious Breath<#>
 feels like a used punching bag...<#>чувствует себя, как боксёрская груша...
-Wilbur's Inferno<#>
 done.<#>
 feels numb in the face...<#>чувствует онемение лица...
-Wilbur's Curse<#>
-Behold, the power of Hell.<#>
 throws a noxious fireball!<#>бросает ядовитый огненный шар!
-Paralysis Curse<#>
 breathes a stream of noxious fire!<#>дышит струей ядовитого огня!
-Debuff Curse<#>
 burns you to the ground.<#>сжигает вас до основания.
-Winded Curse<#>
 is casting some strange magic...<#>колдует какую-то странную магию...
-Pissed Curse<#>
 Everyone is suddenly paralyzed!<#>Всех внезапно парализовало!
-Heal Curse<#>
 Attack and defense suddenly dropped!<#>Атака и защита внезапно упали!
-Buff Curse<#>
 Someone suddenly became winded!<#>Кто-то внезапно выдохся!
-Limber Curse<#>
 Someone suddenly became pissed off!<#>Кто-то внезапно впал в гнев!
-Solid Curse<#>
 The enemy party was suddenly healed!<#>Вражеская команда внезапно исцелилась!
-Wilbur Prepare<#>
-Ready to wreck your world.<#>
 The enemy party was suddenly buffed!<#>Вражеская команда внезапно усилилась!
-Scorpion Sting<#>
-Better watch out.<#>
 An enemy suddenly became limber!<#>Враг внезапно стал гибче!
-Scorpion Pinch<#>
-Snip snip!<#>
 An enemy suddenly became solid!<#>Враг внезапно укрепился!
-Sparkler Slash<#>
-Slice with a chance of burning!<#>
 prepares for his next attack...<#>готовится к следующей атаке...
-Cord Lash<#>
 stabs with a poisonous stinger!<#>колит ядовитым жалом!
-Magnifying Glass Burn<#>
-Burn, baby, burn.<#>
 pinches your skin!<#>щипает вашу кожу!
-Quick Draw<#>
-A lightning fast slash guaranteed to go first.<#>
 swung a sparkler!<#>машет бенгальским огнём!
-Wide Slash<#>
-One gash for every member!<#>
 lashes with a cord!<#>взмахивает кабелем!
-Gainer<#>
-A quick kick with a chance to make you fall.<#>
 shines his magnifying glass!<#>целится лупой!
-Shock Strike<#>
-strikes with his stunner!<#>
-Fried Skin<#>
 Shock 'em black!<#>
 draws his blade in a flash!<#>мгновенно выхватывает свой клинок!
-Firearchy<#>
-Everyone is fired!<#>
 slashes all across!<#>размахивает повсюду!
-Triple Fireball<#>
 does a gainer!<#>делает гейнер!
-Force Gear<#>
-Get them pumped up!<#>
 zaps the life out of you!<#>высасывает из вас всю жизнь!
-Drilled<#>
-A boring attack.<#>
 lets loose a wave of flames!<#>выпускает волну пламени!
-Heal Chord<#>
-A healing song.<#>
 throws fireball after fireball!<#>бросает огненные шары один за другим!
-Bleed Chord<#>
-An unhealing song.<#>
 gets them geared up!<#>готовится к действию!
-Buff Chord<#>
-An empowering song.<#>
 drills into you!<#>сверлит вас!
-Debuff Chord<#>
-A demotivating song.<#>
 plays a healing tune.<#>играет целебную мелодию.
-Symphonic Bliss<#>
-A totally kickass song.<#>
 plays a shrill note.<#>играет пронзительную ноту.
-Tune Violin<#>
-Get those strings in order.<#>
 plays an empowering melody.<#>играет вдохновляющую мелодию.
-Talon Rush<#>
-A vicious series of talon slashes.<#>
 plays a terrible melody.<#>играет ужасную мелодию.
-Beak Stab<#>
-Eye Gouge<#>
-Ouch...<#>
 plays a truly beautiful song.<#>играет воистину прекрасную песню.
-Swoop<#>
-Claws for everyone!<#>
 is tuning his violin.<#>настраивает свою скрипку.
-Shriek<#>
-An assault on the ears.<#>
 tore you to shreds!<#>разрывает вас в клочья!
-Roost<#>
-Rest but for birds.<#>
 stabbed at your eyes!<#>ударяет вас по глазам!
-Divebomb<#>
-a tackle<#>
 swooped for your heads!<#>проходится по вашей голове!
-Channel Power (3 Sat)<#>
-Receive the signal and become divine.<#>
 lets out a piercing shriek!<#>издаёт пронзительный крик!
-Channel Power (2 Sat)<#>
-Channel Power (1 Sat)<#>
-Eye Beam<#>
-A concentration of energy blasted from the eye.<#>
-Power Fist (Borislav)<#>
-Charge Up (Borislav)<#>
 is roosting.<#>гнездится.
 comes in with a divebomb!<#>кидается с прогибом!
 is receiving a mysterious signal...<#>получает странный сигнал...
-Intimidation<#>
-Watch me shank bruv!<#>
 Disarming Slap<#>Обезоруживающий удар
-Salt in the Eyes<#>
-A crying shame...<#>
 Takes the "edge" off a wily assailant.\#Disarms an armed opponent.<#>"Притупляет" острый напор коварного агрессора.\#Обезоруживает вооружённого противника.
-Pistol Aim<#>
-Gun.<#>
 slaps at your wrists!<#>бьёт по запястью!
-<anti fail>.\#<Motion Action = 5><#>
-Pistol Ready<#>
-Gun?<#>
 is trying to intimidate you.<#>пытается вас запугать.
-Pistol FIRE<#>
-GUN!<#>
-<anti fail>.\#<Motion Action = 4><#>
-No Hope<#>
-At this point, it's already over.<#>
 flung salt in your eyes!<#>бросает соль вам в глаза!
-Softener Hook<#>
-Pawnch.<#>
 aims between your eyes.<#>целится вам в голову.
-Catapult Christening (Pete)<#>
-Pick Swing (Richie)<#>
-Sword Slash<#>
-Serjio chad<#>
-cuts you open!<#>
-Bludgeon (Donovan)<#>
-bludgeons you!<#>
-Anaconda's Inferno<#>
-Triple Bottle<#>
-Combo breaker!<#>
 cocks the hammer...<#>взводит курок...
-Shag (Enemy)<#>
-A lover's forbidden touch... Can make enemies feel\#nasty, flustered, and occasionally nauseated.<#>
 has given up.<#>сдался.
-Core Fireball<#>
 softens you up!<#>смягчает вас!
-Gainer (Kein)<#>
-Rage build! 2<#>
 vibrates with fury!<#>
-Helicopter Kick (Zill)<#>
-ENEMY ATTACKS!!!!<#>
-Tiger Suplex<#>
-A fearful belly to back slam!<#>
 grabs at your weapon!<#>хватает ваше оружие!
-Mongolian Chop<#>
-A double chop to the neck<#>
 stole your bat!<#>крадёт вашу биту!
-Wizard Poke<#>
-A poke at your vitals.<#>
 couldn't break your grip!<#>не может вырваться из вашей хватки!
-Pray<#>
 throws bottles everywhere!<#>бросает повсюду бутылки!
-Stomp<#>
 copulates fiercely!<#>яростно совокупляется!
-Kick<#>
 spews out a fireball!<#>извергает огненный шар!
-Gator Clamp<#>
-A big hand clamp<#>
 performs a Tiger Suplex!<#>выполняет тигровый суплес!
-Chop<#>
 performs a Mongolian Chop!<#>выполняет монгольский удар!
 pokes at the vital points!<#>ударяет в жизненно важные точки!
-smoke bomb<#>
 looks to the Heavens...<#>смотрит в небеса...
-Scratch<#>
 stomps you out!<#>пинает вас!
-Exhaust<#>
-Blow some exhuast in your enemies\#face, it can be painful to the eyes.<#>
 kicks!<#>пинается!
-Ram<#>
-Slam into the enemy.<#>
 does a Gator Clamp!<#>выполняет зажим аллигатора!
-Jeremy Gun Smack<#>
-shatters your posture!<#>
-Jeremy Gun Slam<#>
 causes a concussion!<#>
-Confused?<#>
 chops!<#>рубит!
-Apologizes<#>
 is shrouded in smoke!<#>окутан дымом!
-Blow some exhaust in your enemies\#face, it can be painful to the eyes.<#>
 scratches!<#>царапает!
-Grasp<#>
-Whales on you!<#>
-Laugh<#>
-Ramble<#>
 blew forth exhaust!<#>выдувает выхлоп!
-Hide<#>
-Protects user and reduces damage taken.<#>
 rams full speed ahead!<#>таранит на полной скорости!
-Cross Chop<#>
 loses control of the bulldozer!<#>теряет контроль над бульдозером!
-Tsunami Driver<#>
 stalls his bulldozer!<#>останавливает свой бульдозер!
-Peer<#>
-A glare<#>
 is fidgeting with the controls...<#>возится с элементами управления...
-Knife Hand<#>
-Hook Kick<#>
 apologizes profusely!<#>приносит искренние извенения!
-Sweep<#>
 blew forth exhuast!<#>выдувает выхлоп!
-Deer Horn<#>
-Heaven's Fist<#>
-A raining fist from above.<#>
 is begging Wally for forgiveness.<#>умоляет Валли о прощении.
-Heaven's Fist (Birch)<#>
 strikes a fist from above!<#>
-Head Twist<#>
-Twist those heels on their head.<#>
 twists your head around.<#>
-Reignite (Kobra)<#>
-Arnold gets his flame on.<#>
-Catapult Christening (Birch)<#>
-Rage build! (Scorp)<#>
 is getting really pissed!<#>
-Boxer's Stance (NOIP)<#>
 adopts a flaming boxing stance!<#>
-Club Strike (Homer)<#>
-Power Fist (Howard)<#>
 is handling real magic!<#>
-Reignite (Arnold)<#>
-Spit (Rag)<#>
-Talon Rush (Conrad)<#>
-Club Strike (but epic)<#>
 jumps and clubs at you!<#>
-See no future<#>
-In the face of hopelessness there is always nothing.<#>
 sees your reality.<#>
-Boxer's Stance (Birch)<#>
-boxer stance but sideways<#>
-Electric Claw (Borislav)<#>
-Dirty Bottle Throw<#>
 threw a bottle of dirty water!<#>
-Scorpion Pinch (Alt)<#>
-Petroleum Firebomb (Certain)<#>
-Triple Bottle (Earheart)<#>
-Power Clothsline (Homer)<#>
-Violin Bow<#>
 slices you with his violin bow!<#>
-Back Rub<#>
-A loving back massage...<#>
 hides behind a bush.<#>прячется за кустом.
-Knife Hand (Borislav)<#>
-Rupturing Stab (Pope)<#>
 punctures you.<#>
-Eat (Arnold)<#>
-Eat 2(Arnold)<#>
-Steel Chair<#>
-A fearful chair slam!<#>
 flys at you with a Cross Chop!<#>летит на вас с перекрёстным ударом!
-Brain Chop<#>
-brain chop<#>
 performs a Tsunami Driver!<#>исполняет прогиб цунами!
-Power Bomb<#>
-A fearful slam!<#>
 is gathering strength...<#>собирается с силами...
-Cosmic Chop<#>
 cuts like a knife!<#>режет, словно нож!
-Poison Mist<#>
 hook kicks!<#>ударяет крюком!
 sweeps at your legs!<#>бьёт по вашим ногам!
-Cinderblock<#>
 fist from above!<#>ударяет сверху!
-Glassing Attack (Darry)<#>
 beats you over the head!<#>
-Howling Gyser<#>
-The wolfs blast<#>
 gives a massage...<#>массажирует...
-Buffalo Charge!<#>
 has a foriegn object!<#>держит какую-то вещь!
-Stiff Arm<#>
-A stiff push<#>
 performs a brain chop!<#>ударяет по мозгам!
-Brust Fire<#>
-A burst of bullets<#>
 performs a Power Bomb!<#>исполняет силовую бомбу!
-Smile<#>
-A big smile.<#>
 performs a Cosmic Chop!<#>исполняет космический удар!
-Wild Strike!<#>
-a lame looking slap type thing.<#>
 a spit of mist.<#>плюётся туманом.
 sprays a mist!<#>распыляет туман!
 swings his cinderblock!<#>размахивает своим шлакоблоком!
 strikes into your soul!<#>поражает вашу душу!
-Hollywood Hustle<#>
-A series of wild strikes.<#>
 performs his Hollywood Hustle!<#>
-Lost in thought<#>
-Space case<#>
 charges you!<#>делает в вас рывок!
-Seriously?<#>
 gives a stiff arm!<#>машет сильнее!
-Think<#>
 unloads into you!<#>решетит вас!
-Piledriver<#>
-A fearsome slam!<#>
 flashes a disingenuous smile...<#>неискренне улыбается...
-Dirt Kick<#>
-kick dirt in the eyes of the enemy<#>
 backhands you!<#>бьёт слева!
-Holiday Slam<#>
 performs his Holiday Slam!<#>
-Atlanta Slam<#>
 performs his Atlanta Slam!<#>
-Trash Talk<#>
-Talk mad trash.<#>
 gets a party started!<#>начинает вечеринку!
-Block<#>
-Defend yourself<#>
 Woo!<#>Уу!
-Arrow<#>
-A swift arrow<#>
 is lost...<#>потерян...
-Corps Crasher<#>
 Wooooooo!!!<#>Ууууууу!!!
-Stefan Prepare<#>
 is astounded by your stupidity.<#>ошеломлён вашей тупостью.
-Anaconda Prepare<#>
 is thinking...<#>думает...
-Arnold Prepare<#>
 performs a Piledriver!<#>бросает на прогиб!
-Dwight Prepare<#>
 gets ready to twist you around.<#>
-Softener Hook (Petey)<#>
 fires a powerful beam!<#>
-X Slice (Slim)<#>
-X Slice (Scorpion)<#>
 claws you with his pincers!<#>
-Pete Prepare<#>
 gets ready to end you.<#>
-Gainer (Petey)<#>
-Bludgeon (Homer)<#>
-Pipe Joust (Clark)<#>
 rams you with his golf stick!<#>
-Double Eye Beam (Borislav)<#>
-A blast from the corneas to your ass.<#>
 kicks up dirt!<#>бросает грязь!
-Scorpion Grab (Alt)<#>
 grabs you with his pincers.<#>
-Club Joust (Homer)<#>
-Scorpion Sting 2<#>
 stabs with a venomous stinger!<#>
-Plead<#>
-Enemy pleads<#>
 is pleading for mercy...<#>
-Big slice (Scorpion)<#>
 slashes with his claw!<#>
-Struggle (Floyd)<#>
 is struggling to lift his weapon...<#>
-flesh heal 2(torque)<#>
 tastes blood.<#>
-Double Bite (Torque)<#>
 tears your flesh!<#>
-flesh heal (torque)<#>
 is talking serious trash!<#>сильно оскорбляет!
-X Chop<#>
-A fearful X chop<#>
 is defending himself...<#>защищается...
-Joyous Fist<#>
 looses an arrow!<#>пускает стрелу!
-Wait (Friends)<#>
 tries to get up...<#>
-Smile (Rag)<#>
 flashes a disingenuous smile!<#>
-Super Finger Beam<#>
-Tackle (Pete)<#>
-Choke To Death (Pete)<#>
-Revenge.<#>
 strangles you!<#>
 chokes you to death.<#>
-Neck Bite (Rag)<#>
-Steel Chair (Wily)<#>
 smacks you with a metal chair!<#>
-Pray (Rag)<#>
 is looking on the bright side...<#>
-Aim<#>
-Space case.<#>
 performs the Corps Crasher!<#>исполняет "сокрушителя Корпов"!
-Claw Attack<#>
-Slice and dice!<#>
 prepares a deadly technique...<#>готовит смертельный приём...
-Taste Blood<#>
 takes a deep breath...<#>глубоко вдыхает...
-Taste<#>
-Ironbody<#>
 gets ready to end it.<#>готовится покончить с этим.
-Familiar Song<#>
 performs a devilish chop!<#>дьявольски ударяет!
-Scared<#>
 wrecks you!<#>размазывает вас!
-Run away<#>
 is aiming...<#>целится...
-Horrified<#>
 slashes wildly!<#>дико размахивает!
-Tackle<#>
-Pump Up<#>
-Hit yourself and go nuts!<#>
 licks his wounds...<#>зализывает раны!
-Defend Friend<#>
 is flexing hard!<#>сильно напрягается!
 plays a familiar song...<#>играет знакомую песню...
-Yoke up<#>
 is scared of you...<#>боится вас...
-Graveyard Bomb<#>
-Send him to Hell!<#>
 ran away in fear.<#>убегает в страхе.
-Decapitate<#>
-Chop his head off.<#>
 is horrified...<#>в ужасе...
-Power Fist (Petey)<#>
-Taste Blood (Homer)<#>
 takes a sip of your blood...<#>
-Double Bite (Kobra)<#>
-Charge Up 2 (Borislav)<#>
-Triple Bottle (Kobra)<#>
-Tackle (Rag)<#>
-Finger Beam (Georgy 1)<#>
 fires a golden beam!<#>
-Stomp (Pete)<#>
-Violin Strike (Ygor)<#>
 smacks you with his violin!<#>
-Finger Beam 2 (Georgy 1)<#>
-Drop Kick (Raymund)<#>
-Power Fist (Kirk)<#>
 is ready to heat things up.<#>
-Pray 2(Rag)<#>
 is watchful!<#>
-Kick (Georgy)<#>
-The Major Iris (Enemy)<#>
 is going crazy.<#>сходит с ума.
 tears you apart.<#>
 defend a pal.<#>защищает приятеля.
 is trying to defend his friend.<#>пытается защитить своего друга.
-Fire Beam (Laser Eye)<#>
 lets loose a fire beam!<#>
-Dirty Bottle Throw (Kind)<#>
 is aiming with a bottle...<#>
-Smart Tackle<#>
-Fire Beam (Clown)<#>
-Deadly Prepare (Pope)<#>
 prepares to perforate you.<#>
-Softener Hook (Hugo)<#>
-Party Stance (Rag)<#>
 parties like it's 2000.<#>
-Deadly Prepare (Hugo)<#>
 prepares to cut you open.<#>
-Super Brain Chop<#>
-Full Thrust (Petey)<#>
 is getting yoked!<#>напрягается!
 sends you to Hell!<#>посылает вас в ад!
-Deadly Combo (Hugo)<#>
 prepares to perforate you!<#>
-Fire Spit (Borislav)<#>
-Iced Coffee (Enemy)<#>
-Need a little juice...<#>
 is drinking his morning coffee...<#>
-Tiger Suplex (Gin)<#>
-Launching Uppercut (Ruth)<#>
-Send them to the clouds.<#>
 chopped your head off.<#>отрубает вам голову.
-Solid Punch (Carlton)<#>
-Fire Beam<#>
-Trowel Ravage (Enemy)<#>
 smacks you with his trowel!<#>
-Shock Strike (Borislav)<#>
 blasts you with electricity!<#>
-TV Beam (Green)<#>
 fires a green beam!<#>
-TV Beam (Red)<#>
 fires a red beam!<#>
-TV Flash<#>
 flashes brightly!<#>
-BASH (Cunningham)<#>
 knocks you unconscious!<#>
-Eat (Francis)<#>
-Lash (Cunningham)<#>
 swings his golf stick!<#>
-Full Charge 2<#>
 stomps with devastating force!<#>пинает с сокрушительной силой!
-Charge<#>
-Stefan Throw<#>
 catapults Stefan off!<#>
-Double Joust (Cunningham)<#>
 does a one-two strike!<#>
-Silken Wrist (Axe Kick)<#>
 Practiced wrist fling.<#>
 swings like a wrecking ball!<#>размахивает, как таран!
-Side Kick (Goat Kick)<#>
-An extended kick.<#>
 spews oil every which way!<#>разбрызгивает масло во все стороны!
-Ascending Claw (Headbutt)<#>
-Backwards thrust.<#>
 lets loose a storm of bolts!<#>выпускает ураган молний!
-Silken Wrist (Thrust)<#>
 discharges sparks!<#>разряжает искры!
 is gathering energy...<#>набирает энергию...
 crushed your windpipe!<#>давит вашу трахею!
 punched with an iron fist!<#>ударяет железным кулаком!
 burns you down.<#>сжигает вас.
 gathers energy...<#>набирает энергию...
-Focused thrust.<#>
 looks over his gun...<#>смотрит через прицел...
 pierces your soul!<#>стреляет вам в душу!
 is lining up his shot...<#>готовит свой удар...
@@ -1017,248 +368,97 @@ launches you skyward!<#>запускает вас в небо!
 brought you back down!<#>возвращает вас!
 sprayed paint in your eyes!<#>брызгает краской вам в глаза!
 is observing...<#>наблюдает...
-Psycho Chop (Laser<#>
 is barking orders!<#>выкрикивает приказы!
-Full Thrust (Enemy)<#>
 slaps some sense into them!<#>вбивает здравомыслие!
-Beast Claw<#>
 claws across your face!<#>
-Psycho Kick (Laser)<#>
 sprayed paint every which-way!<#>разбрызгивает краску во все стороны!
-Chopper Slash (S. Floyd)<#>
-This is the end.<#>
 protects his comrades!<#>защищает своих товарищей!
-Chopper Crush (S. Floyd)<#>
 lines up his barrel...<#>направляет ствол...
-Club Strike (Clark)<#>
 clubs you with his stick!<#>
-Spark Spit (Weaker)<#>
 An attack that looks like a malfunction.<#>
 shot out a burst of fire!<#>выстреливает очередью!
-Floyd Prepare (S. Floyd)<#>
 steels himself.<#>
-Hydraulic Foot (Weaker)<#>
-The weight of a tank pressing down on you.<#>
 Silken Wrist<#>Шёлковое запястье
-Pulverizer Fist (Weaker)<#>
-Your face was in the way.<#>
 smacks with his wrist!<#>ударяет запястьем!
-Thunderstorm (Weaker<#>
-You'll find this one quite shocking.<#>
 Ascending Claw<#>Восходящий коготь
-Calamity Claw (Weaker)<#>
-Five-fingered demise.<#>
 thrusts up!<#>ударяет ввысь!
-TV Noise<#>
 emits an ear-piercing soundwave!<#>
-Super Charge<#>
-Charge (Weaker)<#>
 is gathering some energy...<#>
-Double Sweep<#>
-Scalpel Iris<#>
-The final supreme technique.\#Fucks you up.<#>
 tears you piece by piece!<#>
-Hydraulic Foot<#>
-Calamity Claw<#>
-Oil Shower<#>
-Someone's got a leak.<#>
 Descending Claw<#>Нисходящий коготь
-Thunderstorm<#>
-Spark Spit<#>
-Full Charge<#>
-Windpipe Crusher<#>
-Will be hard to breathe after this one.<#>
 thrusts down!<#>ударяет вниз!
-Pulverizer Fist<#>
-Chest Burst<#>
-Packing heat in the most literal way.<#>
 Side Kick<#>Удар ногой
-Borislav Prepare<#>
 performs a side kick!<#>делает сайд-кик!
-Power Down<#>
-Outta gas...<#>
-Bite (Borislav)<#>
-Glare (Borislav)<#>
-Poison Bite (Borislav)<#>
 gives you tetanus!<#>
-G. Petunia<#>
-Inspect<#>
-Making sure everything is in order.<#>
 Flying Axe Kick<#>Удар летящего топора
 (WWD) Works your leg like a guillotine.\#Has a low chance of bleeding the enemy.<#>(WWD) Работайте ногой, как гильотиной.\#Имеет низкий шанс вызвать у врага кровотечение.
-No one likes being pointed at.<#>
 hacks through air!<#>прорубает сквозь воздух!
-Aim Down<#>
-You're in trouble now.<#>
 Goat Kick<#>Козлиный удар
-Shotgun Load<#>
-Preparation for devastation.<#>
 (DDD) A no-nonsense, double back kick.\#May launch enemy into the air. Costs 70 HP.<#>(DDD) Серьёзный удар обеими ногами.\#Может подбросить врага в воздух. Стоит 70 ОЗ.
-Shotty Blast<#>
-Joel's gun would never do this.<#>
 delivers a goat-like buck!<#>лягает, словно козёл!
-Shotty Jam<#>
 The Minor Iris<#>Малый Ирис
-Flame Sweep<#>
-Spread the wildfire.<#>
 (WAS) The first supreme technique of the Velvet\#Style. Pierces defenses, but puts you off balance.<#>(WAS) Первая продвинутая техника Вельветового\#стиля. Пробивает защиту, но вы теряете равновесие.
-Chopper Slash<#>
-Cranium Crusher<#>
 thrashes about like mad!<#>мечется как сумасшедший!
-Jeremy Prepare<#>
-Moment of truth.<#>
 Receding Stance<#>Стойка отклонения
-Chopper Crush<#>
-Floyd Prepare<#>
 A disengaging stance, that helps regain focus.\#Recovers some SP.<#>Стойка выхода из боя, способствующая\#концентрации. Также восстанавливает немного ОН.
-Launching Uppercut<#>
-Return to Earth<#>
-What goes up...<#>
 gives some space!<#>отходит в сторону!
-Spray<#>
-A real sight for sore eyes.<#>
 is refueling!<#>заправляется!
-Observe<#>
-Watch it all transpire.<#>
 is sending Mikhail strength!<#>посылает Михаилу силу!
-Command<#>
-Tell these dipshits what to do!<#>
 unleashes a psychic chop!<#>обрушивает психический удар!
-Wake-Up Call<#>
-Snap out of it, dumbass!<#>
 attacks with a psychic kick!<#>атакует психическим пинком!
-Super Spray<#>
 stomps with psychic power!<#>топчет психической силой!
-Keep that moron safe!<#>
 tried to drain your SP!<#>пытается высосать ваши ОН!
-Davy Prepare<#>
-Burn, baby, BURN!<#>
 fires beams from his eyes!<#>стреляет лучами из глаз!
-Davy Fireball<#>
 throws a mystic fireball!<#>кидает мистический огненный шар!
-Kick The Bucket<#>
-kicks the bucket.<#>
 gathers power...<#>собирается с силой...
 brings them back!<#>возвращает к жизни!
 loads his cannon and aims!<#>заряжает пушку и целится!
-Refuel<#>
-Gas 'er up!<#>
 whacks 'em good!<#>задаёт хорошую взбучку!
-Rage build! (Kent)<#>
 vibrates with ferocity!<#>
-Mikhail Boost (ATK)<#>
-Give him your power.<#>
 Homerun Swing<#>Взмах хоум-рана
-Mikhail Boost (DEF)<#>
-Mikhail Boost (MAT)<#>
-Mikhail Boost (MDF)<#>
-Mikhail Boost (AGI)<#>
-Mikhail Boost (MP)<#>
-Psycho Chop<#>
-Psycho Kick<#>
-Psycho Stomp<#>
 goes for a homerun!<#>выбивает хоум-ран!
-SP Drain<#>
-Slurrrrrrrp.<#>
 slams them again and again!<#>бьёт снова и снова!
-Double Eye Beam<#>
-Purple Flair<#>
 flashes a menacing look.<#>бросает угрожающий взгляд.
-Mikhail Prepare<#>
 prepares to swing...<#>готовится к удару...
-Breath of Life (2)<#>
 hurls his bat forward!<#>швыряет биту!
-Load and Aim<#>
 is going crazy!<#>сходит с ума!
-Double Eye Beam (Shurik)<#>
-Takedown (Clark)<#>
 takes you down!<#>
-Deer Horn Ex.<#>
 disrupts your nerves!<#>
-Frown<#>
 is frowning...<#>
 reels back and heats everything!<#>
-Boxer's Rushdown (NOIP)<#>
 knocks the life out of you!<#>
-Launching Uppercut (NOIP)<#>
 blasts you skyward!<#>
-Double Sweep (Hugo)<#>
-Francis Combo 1<#>
-Francis Combo 2<#>
-Goat Kick (Enemy)<#>
-Punch<#>
-When in doubt, punch it out.\#Has a chance to restore a small amount of SP.<#>
-Political Bore<#>
 is being boring as fuck.<#>
-Tackle (Georgy)<#>
 takes hold of Tibby.<#>держит Тибби.
-A strong swing sure to knock your\#opponent out of the park... if it hits.<#>
 throws Tibby like a ragdoll!<#>бросает Тибби, как куклу!
-Davy Meteor Shower<#>
 flings fire everywhere!<#>
-Davy Fireball 2<#>
 roasts you like a chicken!<#>
-Solid Punch (Alex)<#>
 whirls Tibby all around!<#>вращает Тибби по кругу!
-Crowd Lash<#>
 swings the flail across the room!<#>
-Richie Grab<#>
 is retrieving his weapon!<#>
-Advancing Stance (Enemy)<#>
 gets pushy!<#>толкается!
-Tibby Toss<#>
-Launch Tibby like a missile at one opponent.\#High chance to stun. Also stuns and damages Tibby.<#>
 spits up some phlegm!<#>отрыгивает мокроту!
-Softener Hook (Hugo 3)<#>
-Fire Everywhere (Wallaby)<#>
 sets everything ablaze!<#>
-Energy Beams<#>
 channels energy into your eyeballs!<#>
-Double Jump Kick<#>
 wrecks your balance!<#>
-Car Slam<#>
-car slam<#>
 slams the car onto you!<#>
-Grab 2(Hugo)<#>
 thrashes you!<#>
-Davy Intimidate<#>
 hits them where it hurts!<#>бьёт по больному месту!
-Rearm<#>
-Pick that shit up!<#>
 goes berserk! Watch out!<#>сходит с ума! Осторожно!
-Wallaby Fireball<#>
 launches a fireball!<#>
-Goat Headbutt (Ruth)<#>
 does a cranial collision!<#>
-Elephant Gun<#>
 calls forth a fume cloud!<#>
-Pummel (Richie)<#>
 pummels you!<#>
-Foul Ball Fail<#>
-Oops...<#>
 gets his mojo back on!<#>снова обретает пыл!
 relieved some stress.<#>снимает стресс.
-Aim For the Eyes<#>
 aims for the eyes!<#>
-KABOOM<#>
 turns everything into ash.<#>
-KABOOM (Start)<#>
 thinks...<#>
-Grope (Raymund)<#>
-Bully (Gin)<#>
-Stomp (Petey)<#>
 crushes your useless form!<#>
-Slice 'n' Dice (Unspoken)<#>
-Arnold Regen<#>
 channels his fire!<#>
-Knockout Roulette<#>
-A simple yet decisive display of carnage.<#>
 swings...<#>замахивается...
-<anti fail>\#<combo max: 4>\## <combo skill X: 592>\## <combo skill Y: 593>\## <combo skill Z: 594>\## <combo special YYX: 595>\## <combo special XYZZ: 597>\## <combo special XZXY: 598>\## <combo special YYZX: 599>\## <combo special ZXYX: 602>\## <combo special YZZY: 603>\#\#<#>
-Poison Dart (Daemon)<#>
 ...and knocks it out of the park!<#>...и выбивает!
 ...and strikes out!<#>...и наносит удар!
-Deep Stab (Daemon)<#>
 pierces your gut!<#>
 Uppercut<#>
 A blow from down under.<#>
@@ -1305,269 +505,112 @@ This is your last chance. Show them you are still\#standing. Grants use of Denie
 Denier Fist<#>
 Refuse to surrender. End their life.<#>
 creates some distance.<#>держится на дистанции.
-Enter NOiP<#>
-We're not done yet.<#>
 unleashes a whirlwind of pain!<#>обрушивает водоворот боли!
-Bludgeon (Max)<#>
-Dirty Bottle Throw (Clown)<#>
-The Punch (NOIP)<#>
 will send you to hell!<#>
-Stomp (Carlton)<#>
-Solid Punch (No crit)<#>
-Loose Sparks (Borislav)<#>
 lets loose some sparks!<#>
-Twin Fireballs (NOIP Boss)<#>
 throws noxious fireballs!<#>
 throws bloody fireballs!<#>
-Choke To Death (Hugo)<#>
-Firecracker<#>
 lobs the firecrackers!<#>
-Party Pack (Enemy)<#>
-Cheers!<#>
 opens a party pack!<#>
-Carnage Whirl (Cool)<#>
-Total Mutilation 2<#>
-dead<#>
 gets ready...<#>
-Eat (Wily)<#>
 scarfs down some jerky!<#>
-Blood Whirpool (Hugo 2)<#>
 paints the room red!<#>
-Choke (Pete)<#>
-Demon Eye (Shurik)<#>
-Hugo Taunt<#>
 can do this all day.<#>
-Wake-Up Call (Salt)<#>
 slaps some sense into you!<#>
-Swat (Enemy)<#>
 crushed their skull.<#>разбивает череп.
 gives you a slap!<#>
-Reason<#>
 is trying to reason with you...<#>
-Perfume<#>
-Heals.<#>
 uses some fancy perfume!<#>
-Shove (Joel)<#>
-Bottle Throw (Joel)<#>
-Pistol Ready (Joel)<#>
 spat blood in their face!<#>плюёт кровью в лицо!
-Shove (Geen Start)<#>
 knocks some sense into you!<#>
-Single Out (Joel)<#>
-Salt in the eyes<#>
 threw salt in your eyes!<#>
-Takedown (Salt)<#>
-Spew (Salt)<#>
 spat some weird stuff in your face!<#>
-Ingest (Salt)<#>
-Chomp down on some tasty salt.<#>
 scarfs down some salt.<#>
-Demon Eye (Laser)<#>
-Steady Aim (Joel)<#>
 has you in his sights!<#>
-Salt Shield<#>
-salty day<#>
 makes a stand for Joel!<#>
-Eat (Joel)<#>
-Loose Sparks<#>
-Pick weapon up (Joel)<#>
-Ram (Salt Cart)<#>
-Steady Aim (Joel Cutscene)<#>
 aims the gun at your vitals!<#>
-Joel Strangle<#>
-You feel bad just watching this.<#>
 strangles him.<#>
-Joel Throw Off<#>
 throws him off the cliff.<#>
-Cart Eject (Joel)<#>
 its a minecart<#>
 ejects Joel.<#>
-Cart Eject (Salt)<#>
 ejects Salt Crab.<#>
-Perfume (Grammar)<#>
-Paint Streak<#>
 paints your face!<#>
 puts up his guard.<#>защищается.
 is breathing heavily.<#>тяжело дышит.
 will deny them!<#>схлопывает их!
-Finisher<#>
-End his life.<#>
 finishes you off.<#>
 breaks your ankles!<#>
 is done for...<#>готов...
-Slits your throat!<#>
 slits your throat!<#>
 is furious!<#>
 Trim<#>Подровнять
 mutilates you!<#>
 Give that lip caterpillar what for.<#>Дайте этим усикам то, что они заслуживают.
-shanks<#>
 shanks you!<#>
-Blade Retrieval (Geen)<#>
-Poison Shank<#>
-poison shanks<#>
 's knife was imbued with poison!<#>
-Steady Aim (Joel Shadow)<#>
-Heal<#>
 switches on the trimmer!<#>включаем триммер!
 slams you down.<#>бросает вас.
 thinks of a plan!<#>
 stabs through your chest!<#>ударяет вам в грудь!
 doesn't want to do this...<#>не хочет этого делать...
 snaps your bones.<#>ломает ваши кости.
-Dirty Bottle Throw (Joel)<#>
-Sweep (Geen Shadow)<#>
-Painted Red (Geen Shadow)<#>
-Gun Slam<#>
-slams<#>
 slams you with his gun!<#>
-Total Mutilation<#>
-Talon Rush (Krishna)<#>
-Softener Hook (Hugo 2)<#>
-Power Fist (Zill)<#>
-Power Fist (Tenderizer)<#>
-Power Fist (Kein)<#>
-Power Fist (Beezy)<#>
-Patch Up (Jason Gear)<#>
 patches everyone up!<#>
-Jerky (Enemy)<#>
-Eats jerks<#>
 chews on some jerky!<#>
-Water Splash (Enemy)<#>
-splashes<#>
 splashes himself with some water!<#>
-Nightmare Bile (Conrad)<#>
-uuuuuuh<#>
 chugs some nightmare bile...<#>
-Condition Killer (Zill)<#>
 does not kill all conditions<#>
 applies a condition killer!<#>
-Patch Up (Jason)<#>
 patches him up!<#>
-Grab (pete)<#>
 is about to end you...<#>
-D. Jerky (Enemy)<#>
 chews on some domestic jerky!<#>
-Horse Jerky (Enemy)<#>
 scarfs down an entire horse jerky!<#>
-Heal Shurik<#>
 gets the bandages!<#>
-\#<anti fail><#>
-Yell (Alt)<#>
-Jump Bite<#>
 jumps at you and bites!<#>
-Sniff<#>
-Sniffs<#>
 sniffs you...<#>
-Heal Laser<#>
-Single Out (Rag)<#>
 singles you out!<#>
-Green Splash<#>
 barfs all over you!<#>
-Heal Tok<#>
-Heal Loyd<#>
-Heal Rusty<#>
-Heal Gin<#>
-visual<#>
 charges it up...<#>
-Accept<#>
-Fire Spit (Kirk)<#>
-Grab (Hugo)<#>
 grabs you and lifts you up!<#>
-Unnerving Laugh (Kein)<#>
 laughs at your hopelessness.<#>
-Adjust Glasses(Kein)<#>
-To see better<#>
 adjusts his glasses.<#>
-Windpipe Crusher (Jeremy)<#>
 crushes you with his hand!<#>
-Power Clothesline (Max)<#>
-Grab (Warning)<#>
 is about to beat your ass!<#>
-Magic Stab (Prizmik)<#>
 zaps through your chest!<#>
-Weaken (Prizmik)<#>
 weakens your body!<#>
-Guillotine Choke (Gin)<#>
 does the guillotine choke!<#>
-Lash Arms(Cunningham)<#>
 breaks your wrists!<#>
-Lash Legs(Cunningham)<#>
 breaks your kneecaps!<#>
-Phone Slam (Start)<#>
 is buzzing...<#>
-Phone Swing (Start)<#>
-Double Bite (Max)<#>
-Executioner Slam (Carlton)<#>
-Trash (Swing 2)<#>
 breaks your footing!<#>
-Guillotine Choke<#>
-Trash (Swing)<#>
-Trash (Slam)<#>
 slams you with the trashcan!<#>
-Double Bite (Krishna)<#>
-Plank Slash (Krishna)<#>
 goes all out!<#>
-Perforate (Hugo 2)<#>
 perforates you!<#>
-Quad Fireball<#>
 grabs you by the throat!<#>
-Power Fist (Prizmik)<#>
-Trash Throw<#>
 threw a trashbag at you!<#>
-Phone Slam<#>
 is being controlled!<#>
-Flame Burst (Prizmik)<#>
 unleashes a blast of magic!<#>
-Phone Swing<#>
-Slice (No crit)<#>
-Kick (No crit)<#>
-Bottle Throw (No crit)<#>
-Flail (No crit)<#>
-Eat (Fecal)<#>
-Lobotomy After (Hugo)<#>
 makes your brain go numb!<#>
-Prizmik Combo 1<#>
 lifts you up!<#>
-Prizmik Combo 2<#>
 blasts you with a magic wave!<#>
-Lobotomy (Hugo)<#>
 lobotomizes you!<#>
-Calamity Claw (Borislav)<#>
 ruins your face!<#>
-Infinite Deathmaker (Borislav)<#>
-The Punch (Borislav)<#>
 sets you ablaze!<#>
-Super Eye Beam<#>
 fires a giant red beam!<#>
-Slice (Apeshit 2)<#>
 wounds everyone!<#>
-Slice (Apeshit)<#>
 goes apeshit!<#>
-Slice (Swing)<#>
 swings his machete!<#>
-Slice (Chop)<#>
 chops you up!<#>
-Slice (Krishna)<#>
 prepares the meat!<#>
-Reignite (Kirk)<#>
 's fate is sealed.<#>
-Deep Stab (Hugo)<#>
 pierces your vitals!<#>
-Scalpel Draw (Hugo)<#>
 slits your wrists!<#>
-Blood Whirpool (Hugo)<#>
-Inf Heal<#>
 's body is feeling strange...<#>
-Inf Heal 2<#>
-Inf Heal 3<#>
 stopped your heart.<#>останавливает ваше сердце.
-Purple Flair (Prizmik)<#>
 throws magical fireballs!<#>
 bites your head.<#>откусывает вашу голову.
 Velvet-fu<#>Вельвет-фу
 does Velvet Style Kung Fu!<#>
-Hugo Block<#>
 becomes immovable!<#>
 Urban legends say, this style, of Zhang Xianzhong,\#was lost after being banned off the infomercial scene.<#>Городские легенды гласят, что этот стиль - стиль Чжан Сяньчжуна - \#был утерян после запрета в рекламных роликах.
 Velvet Style Kung Fu!<#>использует вельветовый стиль Кунг-фу!
@@ -1587,48 +630,25 @@ The Major Iris<#>Большой ирис
 tears them apart!<#>разрывает на куски!
 Twisted Stance<#>Закрученная стойка
 Can your joints handle it? Recovers 70 SP.\#Costs 150 HP, or 50 HP if already twisted.<#>Выдержат ли ваши суставы? Восстанавливает 70 ОН.\#Стоит 150 ОЗ, или 50 ОЗ, если вы уже закручены.
-Perforate (Hugo)<#>
-Conrad Claw<#>
 nails you to the ground!<#>
-Bear Claw (Nofold)<#>
-Bear Claw (Homer)<#>
-Red Lick (Hugo)<#>
 licks the blood off his scalpel...<#>
-richie shield<#>
 makes a stand for Roland!<#>
-Chop (Krishna)<#>
 chops you with a huge-ass plank!<#>
-Decapitate (Krishna)<#>
 puts you on the guillotine!<#>
-Limb Twist<#>
 twists your limbs.<#>
-Star Stab (Hugo)<#>
 hacks swiftly across your face!<#>
 coils up!<#>скручивается!
 Disarming Chop<#>Обезоруживающий удар
 chops at the wrist!<#>удярет по запястью!
-Rando Bomb (Will)<#>
 Dive<#>Нырок
-Rando Stab (Floyd)<#>
 A classic evasive maneuver. Can still use items.\#Prevents most forms of damage, but staggers.<#>Классический манёвр уклонения. Позволяет использовать предметы.\#Защищает от большинства видов урона, но вы теряете равновесие.
-Hand Slam (Benedictus)<#>
 brings you down with him!<#>
-Rando Bomb<#>
-Rando Buster<#>
-Buster Punches<#>
 does his Buster Punches!<#>
-Rando Stab (Will)<#>
-Clip Dump<#>
-Stall<#>
 got outta there!<#>убирается подальше!
-Bone Break<#>
 Iron Hoof<#>Стальное копыто
-Heart Squeeze<#>
 A stampede's worth of stompin' power.\#Crushing damage against fallen enemies!<#>Сокрушительная сила топчущих копыт.\#Наносит смертельный урон упавшим врагам!
-Devastating Chomp<#>
 crashes down bad!<#>обрушивается с безумной силой!
 Steadfast Stance<#>Твёрдая стойка
-Carnage Whirl (Max)<#>
 Stand your ground. Defense up, HP regen, immunity\#to stuns. Other stances cancel the effect.<#>Стойте на своём. Повышает защиту, даёт регенерацию ОЗ и\#иммунитет к оглушению. Другие стойки отменяют эффект.
 assumes an unbreakable stance!<#>встаёт в несокрушимую стойку!
 Thunder Palm<#>Громовая ладонь
@@ -1671,7 +691,6 @@ Hatch a master plot.\#Lowers skill costs for your entire party.<#>Сообраз
 is thinking of a plan...<#>придумывает план...
 Cowboy Stance<#>Ковбойская стойка
 Harness the ways of the Wild West. Draw your gun\#and scare them senseless. Increases bottle power.<#>Освойте пути дикого запада. Обнажите своё оружие\#и досмерти напугайте врагов. Повышает силу бутылок.
-Hugo Stab Series<#>
 gets ready to draw!<#>готовится обнажить оружие!
 Gun Spin<#>Вращение пистолета
 A cockier gun trick. Taunt the enemy and look\#Cool while doing it. Removes Presence.<#>Более дерзкий трюк с оружием. Привлекает внимание\#врага крутым видом. Убирает присутствие.
@@ -1686,9 +705,7 @@ Urban legends say, this style, of  Zhang Xianzhong,\#was lost after being banned
 smacks with wrist!<#>бьёт запястьем!
 Trick Kick<#>Трюк-кик
 A feint attack, that delivers a kick to the groin.<#>Ложная атака, заключающаяся в ударе ногой в пах.
-Skin (Hugo)<#>
 slices across your chest!<#>
-Fruit Throw (Darry)<#>
 threw a rotten fruit at you!<#>
 delivers a groin kick!<#>наносит удар ногой в пах!
 (DDD) A no-nonsense, double back kick.\#May launch enemy into the air.<#>(DDD) Совершенно серьёзный двойной удар ногами.\#Может запустить врага в воздух. Стоит 120 ОЗ.
@@ -1709,8 +726,6 @@ Shag<#>Трахать
 Jiggy Jig<#>Джига-дрыга
 A basic dance. Boosts your confidence (and\#your attack).<#>Простой танец. Повышает вашу уверенность (и\#атаку).
 gets down with his bad self!<#>выпускает свою злую сущность!
-Glass Breaker Backfire<#>
-That's what you get for playing with broken glass.<#>
 Glass Breaker<#>Стеклобой
 Put your back into this one. Deals good damage,\#but can backfire. Chance to bleed.<#>Придётся поднапрячь спину. Наносит высокий урон,\#но может прилететь и вам. Шанс вызвать кровотечение.
 beats them over the head!<#>бьёт по голове!
@@ -1721,15 +736,9 @@ Bottle Juggle<#>Жонглирование бутылками
 A classic party trick. Shame that you're not very\#good at it. Hits three random enemies.<#>Классический трюк для вечеринок. Жаль, что вы не очень\#хороши в нём. Попадает по трём случайным врагам.
 juggles! Poorly.<#>жонглирует! Плохо.
 cut himself on accident!<#>случайно порезался!
-Aim (Jamie)<#>
-Rock Swing<#>
 swings the huge boulder!<#>
-Artery Pop (Hugo)<#>
 ruptures an artery!<#>
-T. Edge Penalty<#>
-Didn't your mother tell you not to play with knives?<#>
 Wasted Rave<#>Дикий рейв
-Rupturing Stab (Combo)<#>
 will kill.<#>
 Play dirtier. Makes your whole team party hard.\#You'll feel cooler, too.<#>Играйте грязнее. Заставляет всю команду дико\#веселиться. Вы тоже почувствуете себя круто.
 parties like it's 1999!<#>веселится, будто это 90-е!
@@ -1745,7 +754,6 @@ Let the Midas touch turn all it blasts, into gold.\#The beauty of such a move ca
 fires the ultimate beam!<#>стреляет ультимативным лучом!
 Bedazzle<#>Светануть
 Show off your bling to dazzle an opponent.\#The beauty will often reduce them to tears.<#>Светаните своими цацками и ослепите оппонента.\#Красота, скорее всего, заставит его плакать.
-Parry Failed (Hugo)<#>
 spills your blood!<#>
 displays his jewelry!<#>показывает украшения!
 Trowel Ravage<#>Разрушительная лопатка
@@ -1768,7 +776,6 @@ gets in a good stretch!<#>хорошенько растягивается!
 White Streak<#>Белая полоса
 A slap of paint that's sure to disorient. Sets foes\#off balance and can even make them cry.<#>Красочный мазок, который точно дезориентирует врагов.\#Выбивает их из равновесия и заставляет плакать.
 slaps with his paintbrush!<#>проводит своей кистью!
-Car Noise<#>
 sounds the horn!<#>
 White Splash<#>Белый всплеск
 Dispense the whole bucket's worth onto their face.\#Gets them wet. Small chance to piss them off.<#>Выплесните всё ведро краски на лицо оппонента. Мочит врагов.\#Имеет маленький шанс взбесить.
@@ -1796,8 +803,6 @@ Let your foes know that you will bathe in their blood!\#Empowers your team, boos
 bellows a warcry!<#>издаёт боевой клич!
 Swat<#>Шлепок
 A quick smack to the cheek.<#>Быстрый шлепок по щеке.
-Ingest 2<#>
-Nom nom nom<#>
 gives 'em a slap!<#>шлёпает по щеке!
 Spew<#>Рвота
 Cough up some gunk onto an enemy. Gets them\#wet and has a chance to make them feel nasty.<#>Плюньте дрянью на врага. Мочит противников\#и имеет шанс заставить их чувствовать себя мерзко.
@@ -1805,11 +810,8 @@ spits up some weird stuff!<#>изрыгает нечто странное!
 Aromatherapy<#>Ароматерапия
 Fill the air with the aroma of exotic salts.\#Heals many ailments and raises special defense.<#>Наполните воздух ароматом экзотических солей.\#Лечит множество недугов и повышает специальную защиту.
 sways his censer...<#>качает кадилом...
-Glass Shard Recoil<#>
 Ingest<#>Поглощение
-Solid Punch (Ruth)<#>
 bashes you in the face!<#>
-Shank (Hugo)<#>
 Chomp down on some tasty salt. Restores HP\#and SP, but only if you have salt in your inventory.<#>Сожрите немного вкусной соли. Восстанавливает\#ОЗ и ОН, но только если у вас в инвентаре есть соль.
 gets ready to eat.<#>готовится есть.
 Salt Wall<#>Соляная стена
@@ -1819,27 +821,19 @@ crashes his head!<#>
 Single Out Ex.<#>
 Harass a particular foe.\#Stresses them out and might make them blind.<#>
 is being frightening!<#>
-Team Play<#>
-Let's do this!<#>
 isn't going down!<#>
-Special Hide 2<#>
-SPECIAL HIDE FOR USE IN CROWD FIGHT<#>
 hides among the crowd.<#>
 Left Slash (Hugo)<#>
 swipes left!<#>
 Finger Gun<#>
 When you can't shoot with your gun,\#you can always use your fingers.<#>
 blasts them off!<#>
-Jab Combo (NOIP)<#>
 delivers flaming jabs!<#>
-Right Slash (Hugo)<#>
 slashes recklessly!<#>
-Bear Claw (NOIP)<#>
 mutilates your face!<#>
 Gun Whirl<#>
 The final ancient gun technique. Use the pistol as a\#blunt weapon, give them a good smack! Shreds DEF.<#>
 pistol-whips his way through!<#>
-Jab Combo (Birch)<#>
 Deploy your impenetrable hide to protect your team!\#Redirects all damage to the user.<#>Разверните свой непробиваемый панцирь, чтобы защитить\#команду! Перенаправляет весь урон на краба.
 Swat Ex.<#>
 Two devastating smacks to the cheek.<#>
@@ -1869,28 +863,16 @@ Blessed Rain<#>Благословенный дождь
 Expel a restorative droplet onto a KO'd ally,\#bringing them back to the battle. Gets them wet.<#>Выплесните исцеляюшую каплю на нокаутированного\#союзника, возвращая его в бой. Мочит его.
 (AWAW) Supreme fist technique. Annihilate their\#face so much they cannot see. Costs 250 HP.<#>
 gets them back on their feet!<#>поднимает на ноги!
-Cut (Hugo)<#>
 cuts deep!<#>
-Alex Escape<#>
 frees himself!<#>
-Elbow Hit (Nofold)<#>
 gives you an elbow!<#>
 claws your face!<#>
-Solid Punch (Nofold)<#>
 bashes your skull!<#>
-Solid Punch (Arnold)<#>
-Solid Punch (Hugo)<#>
 sends you across the room!<#>
-Jab Combo (Carlton)<#>
 boxes with the trash.<#>
-Special Hide<#>
 scarfs down some salt!<#>съедает немного соли!
-Finger Beam (Prizmik)<#>
-Magic Geyser<#>
 shatters the ground!<#>
-Spanks Laugh<#>
 laughs like a maniac!<#>
-Rock Slam<#>
 slams you into the dirt!<#>
 Pocket Salt<#>Карманная соль
 A nasty surprise for the eyes. Can inflict crying and\#spooked. Low chance to blind.<#>Неприятный сюрприз для глаз. Может вызвать слёзы\#и страх. Имеет маленький шанс ослепить.
@@ -1904,42 +886,19 @@ Display your blade in a last-ditch attempt to\#frighten the enemy. Results may v
 attempts to be threatening.<#>пытается угрожать.
 bland, straightforward brutality!<#>безвкусная, прямолинейная жестокость!
 smacks with his palm!<#>бьёт ладонью!
-Jamie Restock<#>
 prepares his arrows!<#>
-250<#>
 uppercuts up!<#>делает апперкот!
-triple bottle<#>
 needs more bottles...<#>
-Bite (creep)<#>
-Jaw Grinder (Creep)<#>
-Double Bite (Creep)<#>
-Claw Attack (Creep)<#>
-Yell (Creep)<#>
-Triple Arrow<#>
 looses arrow after arrow!<#>
-200<#>
 performs a gut kick!<#>ударяет в живот!
 Flying Dropkick<#>Удар в полёте
-Augustus sprays<#>
-Revive animation.<#>
 (WWD) Go flying with both of your feet forward.\#Has a chance to fell the enemy. Costs 50 HP.<#>(WWD) Летите, вытянув обе ноги вперед.\#Есть шанс сбить врага с ног. Стоит 50 ОЗ.
-Receive the scent<#>
-Smell the sweet scent of life.<#>
 Lead Heel<#>Железная пятка
-150<#>
 Taste of Flesh<#>Вкус плоти
-50<#>
-120<#>
-300<#>
-+50<#>
-70 Bleed<#>
 (AAD) Use your mishapen teeth to tear them apart.\#Takes Fluid Enemies off guard. Heals 50 HP.<#>(AAD) Используйте свои кривые зубы, чтобы разорвать врага.\#Застаёт жидкостных врагов врасплох. Восстанавливает 50 ОЗ.
 takes a big bite!<#>сильно кусает!
 Knuckle Cracker<#>Костолом
-Mind game chain<#>
 (AWW) A solid slug to the enemy's head. Can stun.\#Costs 70 HP and begins bleeding.<#>(AWW) Сильный рывок в сторону вражеской головы.\#Может оглушить. Стоит 70 ОЗ и накладывает кровотечение.
-Tenchi Nage<#>
-Throws an enemy<#>
 delivers a wrist-shattering blow!<#>наносит сокрушительный удар!
 Gouged Petunia<#>Вырванная петуния
 (AWAW) Supreme fist technique. Annihilate their\#face so much they cannot see. Costs 300 HP.<#>(AWAW) Высшая кулачная техника. Аннгилируйте лицо врага,\#чтобы ему нечем было больше смотреть. Стоит 300 ОЗ.
