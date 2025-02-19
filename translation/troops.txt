@@ -48,7 +48,7 @@ Don't make me flip out!<#>Не беси меня!
 {Arnold Shpitz}I...<#>
 {Arnold Shpitz}...really am...<#>
 {Arnold Shpitz}No one in particular.<#>
-{Arnold Shpitz}I'm no one in particular.<#>{Арнольд Шпиц}Никто особенный.
+{Arnold Shpitz}I'm no one in particular.<#>{Арнольд Шпиц}Я - никто особенный.
 {Doyle Muscare}Hop into the meat mill!<#>
 {Doyle Muscare}I'll make mincemeat out of you!<#>{Дойль Мускейр}Я тебя в фарш нашинкую!
 {Doyle Muscare}They'll kill you for me.<#>{Дойль Мускейр}Они убьют тебя за меня.

@@ -149,8 +149,8 @@ Exchanged ten jerseys for a Cocola Cola!<#>10 маек были обменяны
 Use the instant coffee tin\#with your bottle of water?<#>Вылить воду из бутылки в банку растворимого\#кофе?
 Made some cold coffee!<#>Получен холодный кофе!
 You got three empty bottles.<#>Вы получили три пустые бутылки.
-You felt something warm inside your heart.<#>
-Stats increased!<#>
+You felt something warm inside your heart.<#>Вы чувствуете тепло в сердце.
+Stats increased!<#>Характеристики повышены!
 The cat on the postcard is incredibly cute.<#>Кошка на открытке невероятно милая.
 Joel is reading the torn page.<#>Джоэл читает вырванную страницу.
 Joel learned Scheme!<#>Джоэл изучил Планирование!
@@ -210,4 +210,4 @@ Lavender Harvest<#>
 Meaningless Honors<#>
 {Joel Miller}Get away from him!<#>
 {Joel Miller}U-Ugh...\| Lucky!\|\#Block his stabs at the correct time!<#>
-{Arnold Shpitz}I'm no one in particular.<#>{Арнольд Шпиц}Никто особенный.
+{Arnold Shpitz}I'm no one in particular.<#>{Арнольд Шпиц}Я - никто особенный.
