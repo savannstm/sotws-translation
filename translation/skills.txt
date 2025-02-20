@@ -27,8 +27,8 @@ spits some funky shit on you!<#>плюёт в вас какой-то хрень�
 is squirming.<#>извивается.
 is eating maggots!<#>ест опырашей!
 licks you...<#>лижет вас...
-heats you up!<#>
-prepares something explosive.<#>
+heats you up!<#>разогревает вас!
+prepares something explosive.<#>готовит что-то взрывное.
 chomps away!<#>грызётся!
 unleashes a foul odor!<#>испускает ужасную вонь!
 opens wide.<#>широко раскрывается.
@@ -68,7 +68,7 @@ gives you a whack!<#>задаёт вам взбучку!
 pecks at your face!<#>клюёт вас в лицо!
 laughs at your face.<#>смеётся вам в лицо.
 eviscerates you.<#>потрошит вас.
-is handling true power!<#>
+is handling true power!<#>обретает истинную силу!
 delivers a venomous combo!<#>производит ядовитое комбо!
 launches your useless form!<#>запускает ваше беспомощное тело!
 has got you!<#>хватает вас!
@@ -157,7 +157,6 @@ is drinking blood...<#>пьёт кровь...
 swings Basto like a ragdoll!<#>размахивает Басто, как куклой!
 slams Basto into the dirt!<#>швыряет Басто в грязь!
 feels like a used punching bag...<#>чувствует себя, как боксёрская груша...
-done.<#>
 feels numb in the face...<#>чувствует онемение лица...
 throws a noxious fireball!<#>бросает ядовитый огненный шар!
 breathes a stream of noxious fire!<#>дышит струей ядовитого огня!
@@ -177,7 +176,6 @@ pinches your skin!<#>щипает вашу кожу!
 swung a sparkler!<#>машет бенгальским огнём!
 lashes with a cord!<#>взмахивает кабелем!
 shines his magnifying glass!<#>целится лупой!
-Shock 'em black!<#>
 draws his blade in a flash!<#>мгновенно выхватывает свой клинок!
 slashes all across!<#>размахивает повсюду!
 does a gainer!<#>делает гейнер!
@@ -208,7 +206,7 @@ aims between your eyes.<#>целится вам в голову.
 cocks the hammer...<#>взводит курок...
 has given up.<#>сдался.
 softens you up!<#>смягчает вас!
-vibrates with fury!<#>
+vibrates with fury!<#>наполняется яростью!
 grabs at your weapon!<#>хватает ваше оружие!
 stole your bat!<#>крадёт вашу биту!
 couldn't break your grip!<#>не может вырваться из вашей хватки!
@@ -222,7 +220,7 @@ looks to the Heavens...<#>смотрит в небеса...
 stomps you out!<#>пинает вас!
 kicks!<#>пинается!
 does a Gator Clamp!<#>выполняет зажим аллигатора!
-causes a concussion!<#>
+causes a concussion!<#>вызывает сотрясение!
 chops!<#>рубит!
 is shrouded in smoke!<#>окутан дымом!
 scratches!<#>царапает!
@@ -234,17 +232,17 @@ is fidgeting with the controls...<#>возится с элементами уп�
 apologizes profusely!<#>приносит искренние извенения!
 blew forth exhuast!<#>выдувает выхлоп!
 is begging Wally for forgiveness.<#>умоляет Валли о прощении.
-strikes a fist from above!<#>
-twists your head around.<#>
-is getting really pissed!<#>
-adopts a flaming boxing stance!<#>
-is handling real magic!<#>
-jumps and clubs at you!<#>
-sees your reality.<#>
-threw a bottle of dirty water!<#>
-slices you with his violin bow!<#>
+strikes a fist from above!<#>бьёт сверху!
+twists your head around.<#>сворачивает вашу голову.
+is getting really pissed!<#>очень злиться!
+adopts a flaming boxing stance!<#>встаёт в пламенную боксёрскую стойку!
+is handling real magic!<#>обретает истинную магию!
+jumps and clubs at you!<#>прыгает и ударяет вас!
+sees your reality.<#>видит вашу реальность.
+threw a bottle of dirty water!<#>кидает бутылку грязной воды!
+slices you with his violin bow!<#>режет вас струной скрипки!
 hides behind a bush.<#>прячется за кустом.
-punctures you.<#>
+punctures you.<#>пронзает вас.
 flys at you with a Cross Chop!<#>летит на вас с перекрёстным ударом!
 performs a Tsunami Driver!<#>исполняет прогиб цунами!
 is gathering strength...<#>собирается с силами...
@@ -252,7 +250,7 @@ cuts like a knife!<#>режет, словно нож!
 hook kicks!<#>ударяет крюком!
 sweeps at your legs!<#>бьёт по вашим ногам!
 fist from above!<#>ударяет сверху!
-beats you over the head!<#>
+beats you over the head!<#>бьёт вас по голове!
 gives a massage...<#>массажирует...
 has a foriegn object!<#>держит какую-то вещь!
 performs a brain chop!<#>ударяет по мозгам!
@@ -277,28 +275,28 @@ Wooooooo!!!<#>Ууууууу!!!
 is astounded by your stupidity.<#>ошеломлён вашей тупостью.
 is thinking...<#>думает...
 performs a Piledriver!<#>бросает на прогиб!
-gets ready to twist you around.<#>
-fires a powerful beam!<#>
-claws you with his pincers!<#>
-gets ready to end you.<#>
-rams you with his golf stick!<#>
+gets ready to twist you around.<#>готовится свернуть вас.
+fires a powerful beam!<#>выстреливает мощным лучом!
+claws you with his pincers!<#>вцепляется в вас своими клешнями!
+gets ready to end you.<#>готовится прикончить вас.
+rams you with his golf stick!<#>бьёт вас своей палкой для гольфа!
 kicks up dirt!<#>бросает грязь!
-grabs you with his pincers.<#>
-stabs with a venomous stinger!<#>
-is pleading for mercy...<#>
-slashes with his claw!<#>
-is struggling to lift his weapon...<#>
-tastes blood.<#>
-tears your flesh!<#>
+grabs you with his pincers.<#>хватает вас своими клешнями.
+stabs with a venomous stinger!<#>пронзает ядовитым жалом!
+is pleading for mercy...<#>умоляет о пощаде...
+slashes with his claw!<#>режет клешнёй!
+is struggling to lift his weapon...<#>с трудом держит оружие...
+tastes blood.<#>пробует кровь.
+tears your flesh!<#>разрывает вашу плоть!
 is talking serious trash!<#>сильно оскорбляет!
 is defending himself...<#>защищается...
 looses an arrow!<#>пускает стрелу!
-tries to get up...<#>
-flashes a disingenuous smile!<#>
-strangles you!<#>
-chokes you to death.<#>
-smacks you with a metal chair!<#>
-is looking on the bright side...<#>
+tries to get up...<#>пытается встать...
+flashes a disingenuous smile!<#>сверкает неискренней улыбкой!
+strangles you!<#>душит вас!
+chokes you to death.<#>душит вас до смерти.
+smacks you with a metal chair!<#>ударяет вас железным стулом!
+is looking on the bright side...<#>смотрит на это с оптимизмом...
 performs the Corps Crasher!<#>исполняет "сокрушителя Корпов"!
 prepares a deadly technique...<#>готовит смертельный приём...
 takes a deep breath...<#>глубоко вдыхает...
@@ -313,36 +311,35 @@ plays a familiar song...<#>играет знакомую песню...
 is scared of you...<#>боится вас...
 ran away in fear.<#>убегает в страхе.
 is horrified...<#>в ужасе...
-takes a sip of your blood...<#>
-fires a golden beam!<#>
-smacks you with his violin!<#>
-is ready to heat things up.<#>
-is watchful!<#>
+takes a sip of your blood...<#>делает глоток вашей крови...
+fires a golden beam!<#>стреляет золотым лучом!
+smacks you with his violin!<#>бьёт вас скрипкой!
+is ready to heat things up.<#>готов разогреть обстановку.
+is watchful!<#>наблюдает!
 is going crazy.<#>сходит с ума.
-tears you apart.<#>
+tears you apart.<#>разрывает вас на куски.
 defend a pal.<#>защищает приятеля.
 is trying to defend his friend.<#>пытается защитить своего друга.
-lets loose a fire beam!<#>
-is aiming with a bottle...<#>
-prepares to perforate you.<#>
-parties like it's 2000.<#>
-prepares to cut you open.<#>
+lets loose a fire beam!<#>выпускает луч огня!
+is aiming with a bottle...<#>целиться бутылкой...
+prepares to perforate you.<#>готовится пронзить вас.
+parties like it's 2000.<#>веселиться, будто это нулевые.
+prepares to cut you open.<#>готовится вскрыть вас.
 is getting yoked!<#>напрягается!
 sends you to Hell!<#>посылает вас в ад!
-prepares to perforate you!<#>
-is drinking his morning coffee...<#>
+prepares to perforate you!<#>готовится пронзить вас!
+is drinking his morning coffee...<#>пьёт утренний кофе...
 chopped your head off.<#>отрубает вам голову.
-smacks you with his trowel!<#>
-blasts you with electricity!<#>
-fires a green beam!<#>
-fires a red beam!<#>
-flashes brightly!<#>
-knocks you unconscious!<#>
-swings his golf stick!<#>
+smacks you with his trowel!<#>бьёт вас своей лопаткой!
+blasts you with electricity!<#>посылает порыв электричества!
+fires a green beam!<#>выстреливает зелёным лучом!
+fires a red beam!<#>выстреливает красным лучом!
+flashes brightly!<#>ярко свветится!
+knocks you unconscious!<#>вырубает вас!
+swings his golf stick!<#>размахивает палкой для гольфа!
 stomps with devastating force!<#>пинает с сокрушительной силой!
-catapults Stefan off!<#>
-does a one-two strike!<#>
-Practiced wrist fling.<#>
+catapults Stefan off!<#>катапультирует Стефана!
+does a one-two strike!<#>делает двоечку!
 swings like a wrecking ball!<#>размахивает, как таран!
 spews oil every which way!<#>разбрызгивает масло во все стороны!
 lets loose a storm of bolts!<#>выпускает ураган молний!
@@ -370,26 +367,25 @@ sprayed paint in your eyes!<#>брызгает краской вам в глаз
 is observing...<#>наблюдает...
 is barking orders!<#>выкрикивает приказы!
 slaps some sense into them!<#>вбивает здравомыслие!
-claws across your face!<#>
+claws across your face!<#>царапает ваше лицо!
 sprayed paint every which-way!<#>разбрызгивает краску во все стороны!
 protects his comrades!<#>защищает своих товарищей!
 lines up his barrel...<#>направляет ствол...
-clubs you with his stick!<#>
-An attack that looks like a malfunction.<#>
+clubs you with his stick!<#>бьёт вас палкой!
 shot out a burst of fire!<#>выстреливает очередью!
-steels himself.<#>
+steels himself.<#>укрепляется.
 Silken Wrist<#>Шёлковое запястье
 smacks with his wrist!<#>ударяет запястьем!
 Ascending Claw<#>Восходящий коготь
 thrusts up!<#>ударяет ввысь!
-emits an ear-piercing soundwave!<#>
-is gathering some energy...<#>
-tears you piece by piece!<#>
+emits an ear-piercing soundwave!<#>издаёт пронзающую волну!
+is gathering some energy...<#>собирается с силой...
+tears you piece by piece!<#>разрывает вас по кусочкам!
 Descending Claw<#>Нисходящий коготь
 thrusts down!<#>ударяет вниз!
 Side Kick<#>Удар ногой
 performs a side kick!<#>делает сайд-кик!
-gives you tetanus!<#>
+gives you tetanus!<#>заражает вас столбняком!
 Flying Axe Kick<#>Удар летящего топора
 (WWD) Works your leg like a guillotine.\#Has a low chance of bleeding the enemy.<#>(WWD) Работайте ногой, как гильотиной.\#Имеет низкий шанс вызвать у врага кровотечение.
 hacks through air!<#>прорубает сквозь воздух!
@@ -414,7 +410,7 @@ gathers power...<#>собирается с силой...
 brings them back!<#>возвращает к жизни!
 loads his cannon and aims!<#>заряжает пушку и целится!
 whacks 'em good!<#>задаёт хорошую взбучку!
-vibrates with ferocity!<#>
+vibrates with ferocity!<#>наполняется яростью!
 Homerun Swing<#>Взмах хоум-рана
 goes for a homerun!<#>выбивает хоум-ран!
 slams them again and again!<#>бьёт снова и снова!
@@ -422,77 +418,54 @@ flashes a menacing look.<#>бросает угрожающий взгляд.
 prepares to swing...<#>готовится к удару...
 hurls his bat forward!<#>швыряет биту!
 is going crazy!<#>сходит с ума!
-takes you down!<#>
-disrupts your nerves!<#>
-is frowning...<#>
-reels back and heats everything!<#>
-knocks the life out of you!<#>
-blasts you skyward!<#>
-is being boring as fuck.<#>
+takes you down!<#>бросает вас!
+disrupts your nerves!<#>нарушает работу ваших нервов!
+is frowning...<#>хмурится...
+reels back and heats everything!<#>отпрыгивает и разогревает ситуацию!
+knocks the life out of you!<#>выбивает из вас здоровье!
+blasts you skyward!<#>запускает вас в небо!
+is being boring as fuck.<#>пиздец какой скучный.
 takes hold of Tibby.<#>держит Тибби.
 throws Tibby like a ragdoll!<#>бросает Тибби, как куклу!
-flings fire everywhere!<#>
-roasts you like a chicken!<#>
+flings fire everywhere!<#>распрострянет огонь повсюду!
+roasts you like a chicken!<#>жарит вас, как курицу!
 whirls Tibby all around!<#>вращает Тибби по кругу!
-swings the flail across the room!<#>
-is retrieving his weapon!<#>
+swings the flail across the room!<#>размахивает хлыстом по всей комнате!
+is retrieving his weapon!<#>возвращает своё оружие!
 gets pushy!<#>толкается!
 spits up some phlegm!<#>отрыгивает мокроту!
-sets everything ablaze!<#>
-channels energy into your eyeballs!<#>
-wrecks your balance!<#>
-slams the car onto you!<#>
-thrashes you!<#>
+sets everything ablaze!<#>поджигает всё!
+channels energy into your eyeballs!<#>напрявляет энергию в ваши глаза!
+wrecks your balance!<#>расшатывает вас баланс!
+slams the car onto you!<#>въезжает в вас!
+thrashes you!<#>лупит вас!
 hits them where it hurts!<#>бьёт по больному месту!
 goes berserk! Watch out!<#>сходит с ума! Осторожно!
-launches a fireball!<#>
-does a cranial collision!<#>
-calls forth a fume cloud!<#>
-pummels you!<#>
+launches a fireball!<#>запускает огненный шар!
+does a cranial collision!<#>ударяет головой!
+calls forth a fume cloud!<#>создаёт облако дыма!
+pummels you!<#>ударяет вас!
 gets his mojo back on!<#>снова обретает пыл!
 relieved some stress.<#>снимает стресс.
-aims for the eyes!<#>
-turns everything into ash.<#>
-thinks...<#>
-crushes your useless form!<#>
-channels his fire!<#>
+aims for the eyes!<#>целит в глаза!
+turns everything into ash.<#>превращает всё в пепел.
+thinks...<#>думает...
+crushes your useless form!<#>ломает ваше беспомощное тело!
+channels his fire!<#>направляет огонь!
 swings...<#>замахивается...
 ...and knocks it out of the park!<#>...и выбивает!
 ...and strikes out!<#>...и наносит удар!
-pierces your gut!<#>
-Uppercut<#>
-A blow from down under.<#>
+pierces your gut!<#>пронзает вас насквозь!
 Fortify<#>Укрепление
-Jab Combo<#>
-(SSA) The ol' one-two-three.<#>
 Shield that handsome face. Raises defense, resists\#statuses, prevents disarming, restricts movement.<#>Защитите своё красивое лицо. Повышает защиту, даёт сопротивление\#к статусам и обезоруживанию, ограничивает движение.
-Prevents easy knockouts.\#Increased defense and TP gain.<#>
-Knuckle Breaker<#>
-(ADAS) An illegal move in boxing, but all is fair\#in the Franchise. Disarms Armed opponents.<#>
 goes on guard!<#>защищается!
-(ASDD) Send them to the clouds. Launches the\#target into the air, but misses often.<#>
 gets ready to box.<#>готовится боксировать.
-Blood Punch<#>
-(SSDA) Hit them so hard their blood comes out.\#Deals a small amount of recoil damage.<#>
 punches from the left!<#>бьёт слева!
-Blood Punch Penalty<#>
 jabs from the right!<#>бьёт справа!
-Back Off<#>
-An evasive maneuver. Applies Dodged and gains\#50 TP. Can only be used while Solid.<#>
 hits them from below!<#>бьёт снизу!
-(DASA) No one is safe. Can inflict\#Off-Balance and Fallen.<#>
-Carnage Whirl<#>
-(SDDS) The unholy matrimony of a tornado and\#bloody fists. Applies Off-Balance to the user.<#>
 boxes.<#>боксирует.
-Danger Special<#>
-Prepare for true brutality.\#Grants use of Migraine Maker. Removes Solid.<#>
-Migraine Maker<#>
-The ultimate headache.\#No one has ever survived this technique.<#>
 brings down the elbow!<#>ударяет локтем!
-Car Slam start<#>
 grabs the car!<#>
-A weak punch. Builds 10 TP.<#>
-Hock a bloody loogie in their eyes to inflict\#blindness. They can't hit what they can't see.<#>
 knocked them upward!<#>подбрасывает вверх!
 Solid Guard<#>
 Defend yourself. Grants Solid temporarily, reducing\#all damage taken for one turn.<#>
@@ -504,120 +477,118 @@ Gear Up<#>
 This is your last chance. Show them you are still\#standing. Grants use of Denier Fist.<#>
 Denier Fist<#>
 Refuse to surrender. End their life.<#>
-creates some distance.<#>держится на дистанции.
+creates some distance.<#>держится на расстоянии.
 unleashes a whirlwind of pain!<#>обрушивает водоворот боли!
-will send you to hell!<#>
-lets loose some sparks!<#>
-throws noxious fireballs!<#>
-throws bloody fireballs!<#>
-lobs the firecrackers!<#>
-opens a party pack!<#>
-gets ready...<#>
-scarfs down some jerky!<#>
-paints the room red!<#>
-can do this all day.<#>
-slaps some sense into you!<#>
+will send you to hell!<#>пошлёт вас в ад!
+lets loose some sparks!<#>искрит!
+throws noxious fireballs!<#>бросает ядовитые огненные шары!
+throws bloody fireballs!<#>бросает кровавые огненные шары!
+lobs the firecrackers!<#>запускает петарды!
+opens a party pack!<#>открывает праздничный набор!
+gets ready...<#>готовится...
+scarfs down some jerky!<#>съедает немного мяса!
+paints the room red!<#>окрашивает стены в красный!
+can do this all day.<#>может делать это целыми днями.
+slaps some sense into you!<#>вбивает в вас разум!
 crushed their skull.<#>разбивает череп.
-gives you a slap!<#>
-is trying to reason with you...<#>
-uses some fancy perfume!<#>
+gives you a slap!<#>даёт вам пощёчину!
+is trying to reason with you...<#>пытается убедить вас...
+uses some fancy perfume!<#>использует изысканные духи!
 spat blood in their face!<#>плюёт кровью в лицо!
-knocks some sense into you!<#>
-threw salt in your eyes!<#>
-spat some weird stuff in your face!<#>
-scarfs down some salt.<#>
-has you in his sights!<#>
-makes a stand for Joel!<#>
-aims the gun at your vitals!<#>
-strangles him.<#>
-throws him off the cliff.<#>
-its a minecart<#>
-ejects Joel.<#>
-ejects Salt Crab.<#>
-paints your face!<#>
+knocks some sense into you!<#>вбивает в вас разум!
+threw salt in your eyes!<#>кидает соль вам в глаза!
+spat some weird stuff in your face!<#>плюёт странной хренью вам в лицо!
+scarfs down some salt.<#>глотает немного соли.
+has you in his sights!<#>замечает вас!
+makes a stand for Joel!<#>защищает Джоэла!
+aims the gun at your vitals!<#>направляет оружие на вас!
+strangles him.<#>душит его.
+throws him off the cliff.<#>кидает его со скалы.
+ejects Joel.<#>выбрасывает Джоэла.
+ejects Salt Crab.<#>выбрасывает солевого краба.
+paints your face!<#>окрашивает ваше лицо!
 puts up his guard.<#>защищается.
 is breathing heavily.<#>тяжело дышит.
 will deny them!<#>схлопывает их!
-finishes you off.<#>
-breaks your ankles!<#>
+finishes you off.<#>кончает вас.
+breaks your ankles!<#>ломает ваши колени!
 is done for...<#>готов...
-slits your throat!<#>
-is furious!<#>
+slits your throat!<#>вспарывает вашу глотку!
+is furious!<#>в ярости!
 Trim<#>Подровнять
-mutilates you!<#>
+mutilates you!<#>уродует вас!
 Give that lip caterpillar what for.<#>Дайте этим усикам то, что они заслуживают.
-shanks you!<#>
-'s knife was imbued with poison!<#>
+shanks you!<#>пыряет вас!
+'s knife was imbued with poison!<#>наносит яд на оружие!
 switches on the trimmer!<#>включаем триммер!
 slams you down.<#>бросает вас.
-thinks of a plan!<#>
+thinks of a plan!<#>придумывает план!
 stabs through your chest!<#>ударяет вам в грудь!
 doesn't want to do this...<#>не хочет этого делать...
 snaps your bones.<#>ломает ваши кости.
-slams you with his gun!<#>
-patches everyone up!<#>
-chews on some jerky!<#>
-splashes himself with some water!<#>
-chugs some nightmare bile...<#>
-does not kill all conditions<#>
-applies a condition killer!<#>
-patches him up!<#>
-is about to end you...<#>
-chews on some domestic jerky!<#>
-scarfs down an entire horse jerky!<#>
-gets the bandages!<#>
-jumps at you and bites!<#>
-sniffs you...<#>
-singles you out!<#>
-barfs all over you!<#>
-charges it up...<#>
-grabs you and lifts you up!<#>
-laughs at your hopelessness.<#>
-adjusts his glasses.<#>
-crushes you with his hand!<#>
-is about to beat your ass!<#>
-zaps through your chest!<#>
-weakens your body!<#>
-does the guillotine choke!<#>
-breaks your wrists!<#>
-breaks your kneecaps!<#>
-is buzzing...<#>
-breaks your footing!<#>
-slams you with the trashcan!<#>
-goes all out!<#>
-perforates you!<#>
-grabs you by the throat!<#>
-threw a trashbag at you!<#>
-is being controlled!<#>
-unleashes a blast of magic!<#>
-makes your brain go numb!<#>
-lifts you up!<#>
-blasts you with a magic wave!<#>
-lobotomizes you!<#>
-ruins your face!<#>
-sets you ablaze!<#>
-fires a giant red beam!<#>
-wounds everyone!<#>
-goes apeshit!<#>
-swings his machete!<#>
-chops you up!<#>
-prepares the meat!<#>
+slams you with his gun!<#>бьёт вас своим оружием!
+patches everyone up!<#>залатывает всех!
+chews on some jerky!<#>жуёт мясо!
+splashes himself with some water!<#>льёт на себя воду!
+chugs some nightmare bile...<#>глотает кошмарную желчь...
+applies a condition killer!<#>использует убийцу недугов!
+patches him up!<#>латает его!
+is about to end you...<#>сейчас прикончит вас...
+chews on some domestic jerky!<#>жуёт домашнеее мясо!
+scarfs down an entire horse jerky!<#>целиком проглатывает лошадиное мясо!
+gets the bandages!<#>достаёт бинты!
+jumps at you and bites!<#>прыгает на вас и кусает!
+sniffs you...<#>обнюхивает вас...
+singles you out!<#>направляет на вас пистолетик!
+barfs all over you!<#>обблёвывает вас!
+charges it up...<#>бросается...
+grabs you and lifts you up!<#>хватает и поднимает вас!
+laughs at your hopelessness.<#>смеётся над вашей беспомощностью.
+adjusts his glasses.<#>поправляет очки.
+crushes you with his hand!<#>бьёт вас рукой!
+is about to beat your ass!<#>сейчас надерёт вам зад!
+zaps through your chest!<#>пронзает вашу грудь!
+weakens your body!<#>ослабляет ваше тело!
+does the guillotine choke!<#>душит, как гильотиной!
+breaks your wrists!<#>ломает ваши запястья!
+breaks your kneecaps!<#>ломает ваши колени!
+is buzzing...<#>жужжит...
+breaks your footing!<#>нарушает вашу стойку!
+slams you with the trashcan!<#>бьёт вас мусорным баком!
+goes all out!<#>идёт ва-банк!
+perforates you!<#>пронзает вас!
+grabs you by the throat!<#>хватает вас за горло!
+threw a trashbag at you!<#>кидает в вас мешок с мусором!
+is being controlled!<#>подвергается контролю!
+unleashes a blast of magic!<#>обрушивает поток магии!
+makes your brain go numb!<#>поражает ваш мозг!
+lifts you up!<#>поднимает вас!
+blasts you with a magic wave!<#>взрывает вас магической волной!
+lobotomizes you!<#>делает вам лоботомию!
+ruins your face!<#>ломает вам лицо!
+sets you ablaze!<#>поджигает вас!
+fires a giant red beam!<#>выстреливает огромным красным лучом!
+wounds everyone!<#>всех калечит!
+goes apeshit!<#>обезьянничает!
+swings his machete!<#>размахивает мачете!
+chops you up!<#>рубит вас!
+prepares the meat!<#>готовит мясо!
 's fate is sealed.<#>
-pierces your vitals!<#>
-slits your wrists!<#>
-'s body is feeling strange...<#>
+pierces your vitals!<#>пронзает ваши органы!
+slits your wrists!<#>вскрывает ваши вены!
+'s body is feeling strange...<#>чувствует себя странно...
 stopped your heart.<#>останавливает ваше сердце.
-throws magical fireballs!<#>
+throws magical fireballs!<#>бросает магические огненные шары!
 bites your head.<#>откусывает вашу голову.
 Velvet-fu<#>Вельвет-фу
-does Velvet Style Kung Fu!<#>
-becomes immovable!<#>
+does Velvet Style Kung Fu!<#>использует вельветовый стиль Кунг-фу!
+becomes immovable!<#>становится недвижимым!
 Urban legends say, this style, of Zhang Xianzhong,\#was lost after being banned off the infomercial scene.<#>Городские легенды гласят, что этот стиль - стиль Чжан Сяньчжуна - \#был утерян после запрета в рекламных роликах.
 Velvet Style Kung Fu!<#>использует вельветовый стиль Кунг-фу!
 Full Thrust<#>Мощный тычок
 (WWA) Get your fingers up in their business.\#Will probably set the opponent Off Balance.<#>(WWA) Ткните в оппонента пальцем.\#Вероятно, выведет противника из равновесия.
 thrusts forward!<#>совершает рывок вперёд!
-A stampede's worth of stompin' power.\#Crushing damage against fallen enemies.<#>
+A stampede's worth of stompin' power.\#Crushing damage against fallen enemies.<#>Сокрушительная сила топчущих копыт.\#Наносит смертельный урон упавшим врагам.
 (WWD) Works your leg like a guillotine.\#Has a chance of bleeding the enemy.<#>(WWD) Работайте ногой, как гильотиной.\#Шанс вызвать кровотечение у противника.
 (DDD) A no-nonsense, double back kick.\#May launch enemy into the air. Costs 120 HP.<#>(DDD) Совершенно серьёзный двойной удар ногами.\#Может запустить врага в воздух. Стоит 120 ОЗ.
 Goat Headbutt<#>Удар козьей головы
@@ -630,20 +601,20 @@ The Major Iris<#>Большой ирис
 tears them apart!<#>разрывает на куски!
 Twisted Stance<#>Закрученная стойка
 Can your joints handle it? Recovers 70 SP.\#Costs 150 HP, or 50 HP if already twisted.<#>Выдержат ли ваши суставы? Восстанавливает 70 ОН.\#Стоит 150 ОЗ, или 50 ОЗ, если вы уже закручены.
-nails you to the ground!<#>
-licks the blood off his scalpel...<#>
-makes a stand for Roland!<#>
-chops you with a huge-ass plank!<#>
-puts you on the guillotine!<#>
-twists your limbs.<#>
-hacks swiftly across your face!<#>
+nails you to the ground!<#>прибивает вас к земле!
+licks the blood off his scalpel...<#>слизывает кровь со скальпеля...
+makes a stand for Roland!<#>защищает Роланда!
+chops you with a huge-ass plank!<#>бьёт вас огромной доской!
+puts you on the guillotine!<#>ложит вас под гильотину!
+twists your limbs.<#>скручивает ваши руки.
+hacks swiftly across your face!<#>быстро ударяет вас в лицо!
 coils up!<#>скручивается!
 Disarming Chop<#>Обезоруживающий удар
 chops at the wrist!<#>удярет по запястью!
 Dive<#>Нырок
 A classic evasive maneuver. Can still use items.\#Prevents most forms of damage, but staggers.<#>Классический манёвр уклонения. Позволяет использовать предметы.\#Защищает от большинства видов урона, но вы теряете равновесие.
 brings you down with him!<#>бросает вас на прогиб!
-does his Buster Punches!<#>
+does his Buster Punches!<#>использует разрушительные удары!
 got outta there!<#>убирается подальше!
 Iron Hoof<#>Стальное копыто
 A stampede's worth of stompin' power.\#Crushing damage against fallen enemies!<#>Сокрушительная сила топчущих копыт.\#Наносит смертельный урон упавшим врагам!
@@ -811,36 +782,36 @@ Aromatherapy<#>Ароматерапия
 Fill the air with the aroma of exotic salts.\#Heals many ailments and raises special defense.<#>Наполните воздух ароматом экзотических солей.\#Лечит множество недугов и повышает специальную защиту.
 sways his censer...<#>качает кадилом...
 Ingest<#>Поглощение
-bashes you in the face!<#>
+bashes you in the face!<#>бьёт вас в лицо!
 Chomp down on some tasty salt. Restores HP\#and SP, but only if you have salt in your inventory.<#>Сожрите немного вкусной соли. Восстанавливает\#ОЗ и ОН, но только если у вас в инвентаре есть соль.
 gets ready to eat.<#>готовится есть.
 Salt Wall<#>Соляная стена
 Goat Headbutt Ex.<#>
 (ADDS) Destructive cranial collision.\#May stun, but mediocre damage against good def.<#>
-crashes his head!<#>
+crashes his head!<#>обрушивает свою голову!
 Single Out Ex.<#>
 Harass a particular foe.\#Stresses them out and might make them blind.<#>
-is being frightening!<#>
-isn't going down!<#>
-hides among the crowd.<#>
+is being frightening!<#>запугивает!
+isn't going down!<#>не собирается умирать!
+hides among the crowd.<#>прячется в толпе!
 Left Slash (Hugo)<#>
-swipes left!<#>
-Finger Gun<#>
-When you can't shoot with your gun,\#you can always use your fingers.<#>
-blasts them off!<#>
-delivers flaming jabs!<#>
-slashes recklessly!<#>
-mutilates your face!<#>
-Gun Whirl<#>
-The final ancient gun technique. Use the pistol as a\#blunt weapon, give them a good smack! Shreds DEF.<#>
-pistol-whips his way through!<#>
+swipes left!<#>махает влево!
+Finger Gun<#>Пальцелет
+When you can't shoot with your gun,\#you can always use your fingers.<#>Когда вы неспособны стрелять своим оружием,\#всегда можно использовать пальцы.
+blasts them off!<#>взрывает!
+delivers flaming jabs!<#>бьёт огненными джебами!
+slashes recklessly!<#>безумно размахивает!
+mutilates your face!<#>уродует ваше лицо!
+Gun Whirl<#>Ураганный пистолет
+The final ancient gun technique. Use the pistol as a\#blunt weapon, give them a good smack! Shreds DEF.<#>Высшая древняя пистолетная техника. Исползуйте пистолет\#в качестве тупого оружия, и задайте врагам взбучку! Понижает защиту.
+pistol-whips his way through!<#>пистолирует себе дорогу!
 Deploy your impenetrable hide to protect your team!\#Redirects all damage to the user.<#>Разверните свой непробиваемый панцирь, чтобы защитить\#команду! Перенаправляет весь урон на краба.
 Swat Ex.<#>
 Two devastating smacks to the cheek.<#>
-gives 'em a double slap!<#>
+gives 'em a double slap!<#>даёт двойную оплеуху!
 Leg Stretches Ex.<#>
 Stretch those calves good. Recovers TP and relieves\#tension. If tension is removed, TP is fully restored.<#>
-gets in a perfect stretch!<#>
+gets in a perfect stretch!<#>идеально растягивается!
 Vicious Combo<#>
 No style. Only pure violence.<#>
 makes a stand!<#>встаёт в стойку!
@@ -856,12 +827,12 @@ Solidify<#>Укрепление
 Get hard, harder! Grants the Solid status, but\#restricts your skill usage.<#>Крепче, крепче! Даёт статус укрепления, но ограничивает\#возможность использования навыков.
 gets real hard!<#>сильно укрепляется!
 Show No Fear<#>Бесстрашие
-(AAD) Use your mishapen teeth to tear them apart.\#Takes Fluid Enemies off guard. Heals 88 HP.<#>
+(AAD) Use your mishapen teeth to tear them apart.\#Takes Fluid Enemies off guard. Heals 88 HP.<#>(AAD) Используйте свои кривые зубы, чтобы разорвать врага.\#Застаёт жидкостных врагов врасплох. Восстанавливает 88 ОЗ.
 Show them that you won't back down. Inspires the\#rest of your team, making them brave.<#>Покажите, что вы не собираетесь отступать.\#Вдохновляет остальных членов вашей команды и даёт им смелость.
 isn't giving up yet!<#>ещё не сдаётся!
 Blessed Rain<#>Благословенный дождь
 Expel a restorative droplet onto a KO'd ally,\#bringing them back to the battle. Gets them wet.<#>Выплесните исцеляюшую каплю на нокаутированного\#союзника, возвращая его в бой. Мочит его.
-(AWAW) Supreme fist technique. Annihilate their\#face so much they cannot see. Costs 250 HP.<#>
+(AWAW) Supreme fist technique. Annihilate their\#face so much they cannot see. Costs 250 HP.<#>(AWAW) Высшая кулачная техника. Аннгилируйте лицо врага,\#чтобы ему нечем было больше смотреть. Стоит 250 ОЗ.
 gets them back on their feet!<#>поднимает на ноги!
 cuts deep!<#>глубоко режет!
 frees himself!<#>освобождается!

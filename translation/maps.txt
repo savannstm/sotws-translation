@@ -11645,40 +11645,40 @@ Go on.<#>Давай.
 Everything is better left behind.<#>Всё лучше оставить позади.
 <!-- Order: 328 --><#>
 It is dead.<#>Мёртв.
-Fossilized.<#>
-\et[005]I'm my own man.\.\#I refuse to be\#a victim of\#the cycle.<#>
+Fossilized.<#>Окаменел.
+\et[005]I'm my own man.\.\#I refuse to be\#a victim of\#the cycle.<#>Я контролирую\#себя.\. Я отказываюсь\#быть жертвой цикла.
 <!-- Order: 400 --><#>
-Nothing left.<#>
-You found a stash!<#>
-Tissue and 2 Dried Herbs!<#>
-The room is no longer illuminated.<#>
-\et[005]What's up, pops?<#>
-\et[005]What's with that look?<#>
-\et[005]Surprised to see me?<#>
-\et[000]Who are you people?<#>
-\et[000]Why do you keep\#stalking us?<#>
-\et[005]C'mon.\|\#You know how it is.<#>
-\et[005]I gotta pay for\#my meds somehow.<#>
-\et[005]And I get more\#toys to play with...<#>
-\et[000]Meds?\|\#Toys?<#>
-\et[005]It doesn't concern you.\|\#Really.<#>
-\et[005]I just do what I love.<#>
-\et[000]We aren't giving\#you anything.\|\#Just let us go.<#>
-\et[005]Oh.\|\#I will.<#>
-\et[005]Just not in one piece.<#>
-\et[005]Our last encounter ended\#on a bit of a sour note, didn't it?<#>
-\et[005]Soo...\|\#How about...\|\#All of your belongings.<#>
-\et[005]Unless you want to be\#disemboweled,\. of course.<#>
-\et[000]No way.<#>
-\et[005]Yes way.<#>
-\et[005]And don't try anything\#funny or I'll-\^<#>
-\et[005]Oh,\. for fucks sake.<#>
-\et[005]Enough playing around.<#>
+Nothing left.<#>Ничего не осталось.
+You found a stash!<#>Вы нашли схрон!
+Tissue and 2 Dried Herbs!<#>Платок и две высушенные травы!
+The room is no longer illuminated.<#>Комната больше не освещена.
+\et[005]What's up, pops?<#>Чё как, папаша?
+\et[005]What's with that look?<#>Что с лицом?
+\et[005]Surprised to see me?<#>Удивлён меня видеть?
+\et[000]Who are you people?<#>Люди, кто вы?
+\et[000]Why do you keep\#stalking us?<#>Почему вы продолжаете нас\#преследовать?
+\et[005]C'mon.\|\#You know how it is.<#>Ну же.\|\#Ты всё знаешь.
+\et[005]I gotta pay for\#my meds somehow.<#>И мне нужно платить\#за мои лекарства.
+\et[005]And I get more\#toys to play with...<#>И мне нужно больше\#игрушек...
+\et[000]Meds?\|\#Toys?<#>Лекарства?\|\#Игрушки?
+\et[005]It doesn't concern you.\|\#Really.<#>Это всё не должно волновать\#тебя.\| Серьёзно.
+\et[005]I just do what I love.<#>Я просто делаю то, что я люблю.
+\et[000]We aren't giving\#you anything.\|\#Just let us go.<#>Мы тебе ничего не\#дадим.\| Просто отпусти\#нас.
+\et[005]Oh.\|\#I will.<#>Ох.\|\#Отпущу.
+\et[005]Just not in one piece.<#>Просто ногами вперёд.
+\et[005]Our last encounter ended\#on a bit of a sour note, didn't it?<#>Наша последняя встреча\#закончилась на грустной\#ноте, не думаете?
+\et[005]Soo...\|\#How about...\|\#All of your belongings.<#>Итаак...\|\#Как насчёт...\|\#Всех ващих вещей.
+\et[005]Unless you want to be\#disemboweled,\. of course.<#>Если вы,\. конечно,\#не хотите быть выпотрошенными.
+\et[000]No way.<#>Ни за что.
+\et[005]Yes way.<#>За что.
+\et[005]And don't try anything\#funny or I'll-\^<#>И не пытайтесь ничего\#резкого, или я-\^
+\et[005]Oh,\. for fucks sake.<#>О,\. господи блять.
+\et[005]Enough playing around.<#>Хватит играться.
 <!-- Order: 401 --><#>
-You cannot go back.<#>
-The door inside appears to be sealed shut.<#>
+You cannot go back.<#>Вам не вернуться.
+The door inside appears to be sealed shut.<#>Дверь внутрь крепко запечатана.
 \et[032]I think so...<#>Думаю...
-We need to find a safer place.<#>
+We need to find a safer place.<#>Нам нужно найти безопасное место.
 \et[000]Everyone alright...?<#>Все в порядке...?
 \et[032]No idea.<#>Не знаю.
 \et[032]Better catch up.<#>Лучше поспевать.
@@ -11687,29 +11687,29 @@ We need to find a safer place.<#>
 \et[000]Where is he going?<#>Куда он?
 \et[033]No idea.<#>Не знаю.
 \et[033]Better catch up.<#>Лучше поспевать.
-You have lost the Pink Pill.<#>
-\et[160]Here.<#>
-\et[006]That it?<#>
-\et[160]Take it or leave it.\#A deal is a deal.<#>
-\et[006]Hmph.<#>
-\et[004]The hell\#you're going?<#>
-\et[004]This ain't your\#community transport.<#>
-\et[000]We aren't looking\#for trouble.<#>
-\et[004]You're still not\#getting on that bus.<#>
-\et[000]But we were chased\#down by a gr-\^<#>
-\et[000]Please.\|\#We need to get\#out of here.<#>
-\et[004]Are you deaf?<#>
-\et[004]No means no.<#>
-\et[005]We've got\#enough enemies.<#>
-\et[005]Get on,\#we're going.<#>
-\et[005]Didn't you\#hear me?<#>
-\et[000]Thanks...<#>
-\et[005]Hey, Ray!<#>
-\et[006]Ye?<#>
-\et[005]Can a boy get\#some of that\#sweet...<#>
-\et[005]...sweet...<#>
-\et[005]...sound?<#>
-\et[006]Anythin' fo'\#you, Gale.<#>
+You have lost the Pink Pill.<#>Вы потеряли розовую таблетку.
+\et[160]Here.<#>Вот.
+\et[006]That it?<#>И всё?
+\et[160]Take it or leave it.\#A deal is a deal.<#>Берите или уходите.\#Сделка есть сделка.
+\et[006]Hmph.<#>Хмпф.
+\et[004]The hell\#you're going?<#>Куда вы чёрт\#возьми идёте?
+\et[004]This ain't your\#community transport.<#>Это вам не общественный\#транспорт.
+\et[000]We aren't looking\#for trouble.<#>Мы не ищем\#неприятностей.
+\et[004]You're still not\#getting on that bus.<#>Вы всё равно не сядете\#в этот автобус.
+\et[000]But we were chased\#down by a gr-\^<#>Но за нами гонется\#груп-\^
+\et[000]Please.\|\#We need to get\#out of here.<#>Пожалуйста.\|\#Нам нужно выбраться\#отсюда.
+\et[004]Are you deaf?<#>Ты глухой?
+\et[004]No means no.<#>Нет значит нет.
+\et[005]We've got\#enough enemies.<#>У нас достаточно\#врагов.
+\et[005]Get on,\#we're going.<#>Залезайте,\#мы едем.
+\et[005]Didn't you\#hear me?<#>Вы меня\#не расслышали?
+\et[000]Thanks...<#>Спасибо.
+\et[005]Hey, Ray!<#>Эй, Рэй!
+\et[006]Ye?<#>А?
+\et[005]Can a boy get\#some of that\#sweet...<#>Можно парню\#услышать немного\#этого приятного...
+\et[005]...sweet...<#>...приятного...
+\et[005]...sound?<#>звука?
+\et[006]Anythin' fo'\#you, Gale.<#>Чё угодно для\#тебя, Гейл.
 <!-- Map369.rvdata2 --><#>
 <!-- Order: 134 --><#>
 He is dead.<#>Он мёртв.

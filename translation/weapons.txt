@@ -9,7 +9,7 @@ Brutal jewelry.\#Might inflict bleeding.<#>Брутальное ювелирно
 Brutal jewelry.<#>Брутальное ювелирное изделие.
 Combat Knife<#>Боевой нож
 Emerald Ring<#>Изумрудное кольцо
-A meaningless piece of jewelry from a failed proposal.\#Enhances attack and defense, boosts max SP.<#>
+A meaningless piece of jewelry from a failed proposal.\#Enhances attack and defense, boosts max SP.<#>Бесполезный ювелирный предмет, отвергнутый после предложения.\#Повышает атаку и защиту, повышает макс. ОН.
 Standard-issue Rando Army combat dagger.\#Doubles TP rate for normal attacks.<#>Боевой кинжал армии Рандо стандартной модели.\#Удваивает получаемые ОТ за обычные атаки.
 Diamond Ring<#>Алмазное кольцо
 An old ring from a long-standing relationship.\#Enhances attack, max SP.<#>Старое кольцо из долгосрочных отношений.\#Увеличивает атаку и макс. ОН.
@@ -39,18 +39,18 @@ Rando Gloves<#>Перчатки Рандо
 Tough gloves that go gentle on your hands.<#>Прочные перчатки, комфортно облегающие руки.
 Splintered Bat<#>Расколотая бита
 The primordial weapon of man.\#You can never go wrong with a club.<#>Первобытное оружие человека.\#С дубинкой никогда не ошибешься.
-An old ring from a long-standing relationship.\#Increases attack and max SP.<#>
-Warfare Scimitar<#>
-A worn-out scimitar with a long history that can pass\#as a dagger. Particularly powerful but hard to wield.<#>
-Scorpion Stinger<#>
-The stinger of an unusually large scorpion.\#The poison on the tip might make someone vomit.<#>
-Baking Mittens<#>
-Soft and comfy gloves that make you feel at home.\#Grants HP regen and makes items heal more.<#>
-Tiny Devil Gloves<#>
-These look distressing and extremely uncomfortable.\#Itchy to wear, tight to stare. Cripples vitality.<#>
-Boxing Gloves<#>
-Wearing these makes you a certified boxer.\#If only you knew the techiques... Increases defense.<#>
-Barry's Switchblade<#>
-Worn out from years of repeated use. Boosts DEF,\#EXP and mag gain. The blade allows TP preservation.<#>
+An old ring from a long-standing relationship.\#Increases attack and max SP.<#>Старое кольцо из долгосрочных отношений.\#Увеличивает атаку и макс. ОН.
+Warfare Scimitar<#>Боевой скимитар
+A worn-out scimitar with a long history that can pass\#as a dagger. Particularly powerful but hard to wield.<#>Поношенный скимитар с долгой историей, который можно\#использовать вместо клинка. Очень мощный, но тяжёлый в использовании.
+Scorpion Stinger<#>Жало скорпиона
+The stinger of an unusually large scorpion.\#The poison on the tip might make someone vomit.<#>Жало аномально большого скорпиона.\#Яд на кончике может вызвать у кого-нибудь тошноту.
+Baking Mittens<#>Варежки для выпечки
+Soft and comfy gloves that make you feel at home.\#Grants HP regen and makes items heal more.<#>Мягкие и удобные перчатки, пропитанные чувством дома.\#Дают регенерацию ОЗ и повышают восстанавлимое предметами ОЗ.
+Tiny Devil Gloves<#>Крошечные дьявольские перчатки
+These look distressing and extremely uncomfortable.\#Itchy to wear, tight to stare. Cripples vitality.<#>Выглядят устрашающе и очень некомфортно.\#Вызывают зуд, раздражают глаза. Ухудшают здоровье.
+Boxing Gloves<#>Боксёрские перчатки
+Wearing these makes you a certified boxer.\#If only you knew the techiques... Increases defense.<#>Ношение таких сделает вас профессиональным боксёром.\#Если бы вы только знали техники... Повышает защиту.
+Barry's Switchblade<#>Выкидной нож Барри
+Worn out from years of repeated use. Boosts DEF,\#EXP and mag gain. The blade allows TP preservation.<#>Изношенный долгими годами использования. Повышает защиту и\#получение опыта и журналов. Лезвие позволяет сохранять ОТ.
 Butler's Gloves<#>Перчатки дворецкого
 A pair of pristine white gloves. They're itchy.<#>Пара белых перчаток в идеальном состоянии. Колются.

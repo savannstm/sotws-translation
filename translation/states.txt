@@ -291,7 +291,7 @@ Pretending<#>Притворство
 has "fallen."<#>"в нокауте".
 is playing dead.<#>притворяется мёртвым.
 is back in the game!<#>снова в игре!
-Stacheless<#>
+Stacheless<#>Без усов
 Loaded<#>Снаряжён
 is packing heat!<#>держит ствол!
 's gun is primed and loaded.<#>зарядил и взвёл пушку.
@@ -334,40 +334,39 @@ is hungover.<#>с похмелья.
 Itchy<#>Зуд
 's body feels strange.<#>испытывает странный зуд.
 itches all over.<#>зудится по всему телу.
-braces himself!<#>
-is not backing down!<#>
-loses his mojo.<#>
-Heatstroke<#>
-got a little spicy!<#>
-has a heat fever.<#>
-'s hyperthermia went away!<#>
-is feeling vicious...<#>
-is in a violent trance!<#>
-will shoot.<#>
-Disoriented<#>
-is puzzled!<#>
-doesn't understand what's going on!<#>
-came to his senses.<#>
-falls down.<#>
-is armed!<#>
-has the party spirit!<#>
-was caught!<#>
-is struggling to escape.<#>
-freed himself from its grasp!<#>
-Energized<#>
-crackles with energy.<#>
-lost their energy.<#>
-is ready to beat your ass!<#>
-is being a nerd!<#>
-was caught by the pincers!<#>
-dies from boredom.<#>
-tires himself out!<#>
-is the coolest!<#>
-is particularly awesome!<#>
-feels like an All-Star!<#>
-is the boss!<#>
-is absolutely golden!<#>
-'s got the bling!<#>
-'s confidence rose!<#>
-feels world-famous!<#>
-francis gang buff<#>
+braces himself!<#>собирается с духом!
+is not backing down!<#>не отступает!
+loses his mojo.<#>теряет пыл.
+Heatstroke<#>Тепловой удар
+got a little spicy!<#>слегка подгорает!
+has a heat fever.<#>испытывает лихорадку.
+'s hyperthermia went away!<#>охладился!
+is feeling vicious...<#>чувствует жестокость...
+is in a violent trance!<#>в трансе жестокости!
+will shoot.<#>будет стрелять.
+Disoriented<#>Дизориентация
+is puzzled!<#>растерян!
+doesn't understand what's going on!<#>не понимает, что происходит!
+came to his senses.<#>пришёл в чувство.
+falls down.<#>падает.
+is armed!<#>вооружён!
+has the party spirit!<#>- душа компании!
+was caught!<#>был пойман!
+is struggling to escape.<#>борется, чтобы освободиться.
+freed himself from its grasp!<#>освобождается из хватки!
+Energized<#>Ток
+crackles with energy.<#>трещит энергией.
+lost their energy.<#>теряет энергию.
+is ready to beat your ass!<#>готов надрать вам зад!
+is being a nerd!<#>становится ботаном!
+was caught by the pincers!<#>был схвачен клещами!
+dies from boredom.<#>умирает со скуки.
+tires himself out!<#>утомляется!
+is the coolest!<#>- крутейший!
+is particularly awesome!<#>особенно хорош!
+feels like an All-Star!<#>чувствует себя звездой!
+is the boss!<#>- босс!
+is absolutely golden!<#>в полном золоте!
+'s got the bling!<#>светит украшениями!
+'s confidence rose!<#>уверен в себе!
+feels world-famous!<#>словно известен на весь мир!

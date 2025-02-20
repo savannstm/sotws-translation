@@ -43,7 +43,7 @@ Skateboard<#>Скейтборд
 Plank with wheels.<#>Доска с колёсами.
 School Basement Key<#>Ключ от школьного подвала
 It is marked with a letter. The rust\#makes it unreadable.<#>Ключ помечен каким-то словом, но из-за ржавчины прочитать\#невозможно.
-A record comprised of old men groaning. It is rather\#sharp. Perfect for playing Frisbee with your friends.<#>
+A record comprised of old men groaning. It is rather\#sharp. Perfect for playing Frisbee with your friends.<#>Запись старческих стонов. Довольно жуткая.\#Идеальна для игры в Фрисби с друзьями.
 Eerie Record<#>Жуткая запись
 A record comprised of old men groaning.<#>Запись старческих стонов.
 Nightmare Bile<#>Кошмарная желчь
@@ -79,7 +79,7 @@ A set of beautiful memories.<#>Набор прекрасных воспомин�
 Gummy Worm<#>Желейный червяк
 Antique confectionery. Kids' all time favourite.\#Recovers 160 HP. Don't cry now.<#>Антикварное кондитерское изделие, любимое детьми во все времена.\#Восстанавливает 160 ОЗ. Можно пустить ностальгическую слезу.
 Specific Key<#>Особый ключ
-Limited edition gummy worm.\#Recovers 360 HP. Don't cry now.<#>
+Limited edition gummy worm.\#Recovers 360 HP. Don't cry now.<#>Желейный червяк из ограниченной серии.\#Восстанавливает 360 ОЗ. Можно пустить\#ностальгическую слезу.
 A very specific key.<#>Очень особый ключ.
 Exclusive Gummy<#>Особый желейный червяк
 Limited edition gummy worm.\#Recovers 160 HP. Don't cry now.<#>Желейный червяк из ограниченной серии.\#Восстанавливает 160 ОЗ. Можно пустить\#ностальгическую слезу.
@@ -108,11 +108,11 @@ Onion Vodka<#>Луковая водка
 High chance of getting you drunk.\#Recovers 300 HP.<#>Скорее всего, опьянит вас.\#Восстанавливает 300 ОЗ.
 Olathian Whiskey<#>Олейтский виски
 Guaranteed to get you wasted.\#Recovers 500 HP.<#>После него вы будете в стельку.\#Восстанавливает 500 ОЗ.
-Dried squirrel meat.\#Recovers 450 HP.<#>
-Heartfelt Letter<#>
-Meaningless.<#>
-Composite Letter<#>
-The writing is extremely difficult to decipher.\#Seriously, what does it say?<#>
+Dried squirrel meat.\#Recovers 450 HP.<#>Вяленое мясо белки.\#Восстанавливает 450 ОЗ.
+Heartfelt Letter<#>Сердечное письмо
+Meaningless.<#>Бесполезно.
+Composite Letter<#>Составное письмо
+The writing is extremely difficult to decipher.\#Seriously, what does it say?<#>Текст очень тяжело расшифровать.\#Серьёзно, что тут написано?
 Tissue<#>Платок
 The ultimate for drying your tears...\#When you have an issue.<#>Универсальное решение против слёз...\#Когда проблем впрок.
 Squirrel Jerky<#>Мясо белки
@@ -142,13 +142,13 @@ Snuffed out at his prime.\#Deceptively light to carry.<#>Погиб в само�
 Jessie Mack<#>Джесси Отче
 Genetic origins for most Olathian children.\#Sufferer of advanced cranial-bananism.<#>Генетический отец почти всех детей Олейта.\#Страдал острым черепномозговым бананизмом.
 Moe's Special Blend<#>Особая смесь Мо
-More legend than actual food.\#Full party HP, SP and TP restore.<#>
+More legend than actual food.\#Full party HP, SP and TP restore.<#>Больше легедарная вещь, чем настоящая еда.\#Восстанавливает ОЗ, ОН и ОТ всей группы.
 Rumoured to be rich in protein and tomato sauce.\#Recovers 380 HP. 30 SP.<#>По слухам, богата белком и томатной пастой.\#Восстанавливает 380 ОЗ и 30 ОН.
-Primitive weapon of a barbarous age. Can be thrown.\#But why would you even do that?<#>
+Primitive weapon of a barbarous age. Can be thrown.\#But why would you even do that?<#>Примитивное оружие первобытных времён. Можно\#бросить. Но в кого и зачем?
 Tomato Sauce Packet<#>Пакетик томатной пасты
 Chew on it and the tomato flavoured\#dust inside will be your reward. (Bulk Food)<#>Разгрызите его, и пыль со вкусом томата станет\#вашей наградой. (Некачественная еда)
 Antique Ham<#>Антикварный окорок
-A delicious treat made from meat.\#Fully restores SP, but will nauseate.<#>
+A delicious treat made from meat.\#Fully restores SP, but will nauseate.<#>Блюдо-деликатес, сделанное из мяса змеи.\#Полностью восстанавливает ОН, но вызывает тоншоту.
 More legend than actual food.\#Full party HP and SP restore.<#>Больше легедарная вещь, чем настоящая еда.\#Восстанавливает ОЗ и ОН всей группы.
 Crutch<#>Костыль
 Primitive weapon of a barbarous age.<#>Примитивное оружие первобытных времён.
@@ -164,7 +164,7 @@ Forbidden Magazine<#>Запретный журнал
 "Deeply Depraved: True Degeneracy Edition"\#Banned in eighty-seven countries. (Barter Item)<#>"Глубокий разврат: версия истинной деградации" \#Запрещён в восьмидесяти семи странах. (Предмет для обмена)
 Crow Jerky<#>Воронье мясо
 Jerky made from the meat of a crow. It's tough,\#chewy, and generally flavorless. Heals 100 HP.<#>Вяленое мясо ворона. Жёсткое, резиновое,\#и обычно безвкусное. Восстанавливает 100 ОЗ.
-Gone too soon... Restores 800 HP.<#>
+Gone too soon... Restores 800 HP.<#>Ушёл слишком рано... Восстанавливает 800 ОЗ.
 Weird Cassette Tape<#>Странная кассета
 A cassette tape that contains an otherworldly song.\#Valuable to the fishmen. (Barter Item)<#>Кассета, на которую записана потусторонняя песня.\#Ценна для рыболюдов. (Предмет для обмена)
 Baby Fishman<#>Малыш-рыболюд
@@ -230,7 +230,7 @@ The sworn enemy of facial hairs everywhere.\#So rusty it barely even cuts anymor
 Minty Gum<#>Мятная жвачка
 A piece of minty chewing gum. Restores 100 SP\#per chew, but its flavor will fade after five uses.<#>Кусок мятной жвачки. Восстанавливает 100 ОН за раз,\#но вкус пропадёт спустя пять использований.
 Satan's Sauce<#>Соус Сатаны
-Fresh from the sacred earth.\#Restores 100 HP and helps your eyes. (Bulk Food)<#>
+Fresh from the sacred earth.\#Restores 100 HP and helps your eyes. (Bulk Food)<#>Свежесорванная со священной земли. Восстанавливает 100 ОЗ\#и благоприятно влияет на зрение. (Некачественная еда)
 Devilishly hot sauce. Increases attack, but sets you\#ablaze. Three drops left in the bottle.<#>Дьявольски острый соус. Повышает атаку, но буквально\#воспламеняет вас. В бутылке осталось три капельки.
 Rare Fang<#>Редкий клык
 A razor-sharp fang coated with poison. Belonged to a\#species of snake that is now extinct. (Barter Item)<#>Острый как бритва клык, покрытый ядом. Принадлежал\#ныне вымершему виду змей. (Предмет для обмена)
@@ -246,7 +246,7 @@ Cup of Water<#>Стакан воды
 Two and a half swigs of crisp goodness. Splash on\#a party member to remedy fright and burning.<#>Два с половиной глотка освежающей вкуснятины.\#Брызните на члена группы, чтобы снять страх и горение.
 Malicious Stereo<#>Зловредная стереосистема
 A busted car stereo that still makes noise.\#Sometimes talks in unknown tongues. (Barter Item)<#>Сломанная стереосистема из машины, которая всё ещё издаёт\#звук. Иногда разговаривает неизвестным языком. (Предмет для обмена)
-A bag of ice to sooth your aching head. Alleviates\#stun, rage, pissed and cools you down.<#>
+A bag of ice to sooth your aching head. Alleviates\#stun, rage, pissed and cools you down.<#>Мешок льда, чтобы приложить к больной голове.\#Справится с оглушением, яростью, гневом и раздражённостью.
 Blood Wine<#>Кровавое вино
 A life-stealing drink. Cuts maximum HP by 100\#to fully restore HP and SP. Good for three uses.<#>Напиток, похищающий жизнь. Снижает максимальное ОЗ на 100,\#и полностью восстанавливает ОЗ и ОН. Его тут на три глотка.
 Petroleum Firebomb<#>Бензиновая бомба
@@ -254,7 +254,7 @@ A crudely made bomb filled with crude.\#Can cause burning.<#>Кустарно с
 Premium Cigar<#>Премиумная сигара
 A powerful cigar that must be treated with respect.\#Heals most ailments, but makes you winded.<#>Могущественная сигара, заслужившая уважение.\#Исцеляет большинство статусов, но добавляет вам одышку.
 Ice Pack<#>Мешок льда
-A bag of ice to sooth your aching head. Alleviates\#stun, rage, and pissed.<#>Мешок льда, смягчающий головную боль.\#Облегчает оглушение, ярость и раздражённость.
+A bag of ice to sooth your aching head. Alleviates\#stun, rage, and pissed.<#>Мешок льда, чтобы приложить к больной голове.\#Справится с оглушением, яростью и раздражённостью.
 Mack Key<#>Ключ Отче
 An old silver key. Can be used to unlock\#the Mack Shack.<#>Старый серебряный ключ. Им можно\#открыть хижину Отче.
 Spray Can<#>Баллончик с краской
@@ -288,7 +288,7 @@ Tactics: Misdirection<#>Тактика: дезориентация
 Manual Scrap<#>Страница из руководства
 Page torn from a book that mysteriously\#disappeared from shelves across Olathe.<#>Страница, вырванная из книги, которая загадочно\#пропала со всех полок магазинов Олейта.
 Cosmonaut Food Tube<#>Пищевой тюбик
-Sustanence for space men. The labels are all in\#Russian, so eat with caution. (Bulk Food)<#>Субстанция для космонавтов. Вся этикетка на украинском,\#так что ешьте с осторожностью. (Некачественная еда)
+Sustanence for space men. The labels are all in\#Russian, so eat with caution. (Bulk Food)<#>Пища для космонавтов. Вся этикетка на украинском,\#так что ешьте с осторожностью. (Некачественная еда)
 Loitering Ticket<#>Талон за тунеядство
 "By the powers vested in me, by God and Nixon,\#I hereby fine you 10 magazines." - Copper Silver<#>"Властью, данной мне богом и Никсоном, настоящим я\#налагаю на вас штраф в размере 10 журналов." - Сильвер Коппер.
 Suite Key<#>Ключ от номера
@@ -330,24 +330,23 @@ Metal Vase<#>Металлическая ваза
 A reinforced metal vase that comes with a lid.\#Looks like it could survive a high fall.<#>Укреплённая металлическая ваза с крышкой.\#Выглядит так, будто переживёт даже высокое падение.
 Baby Fishman in M. Vase<#>Малыш-рыболюд в метал. вазе
 A protected infant fishman.\#It nows lives rent-free inside a metal vase of water.<#>Малыш-рыболюд в броне.\#Теперь он живёт в вашей металлической вазе, и не платит за аренду.
-Sustanence for space men. The labels are all in\#Russian, but this one looks flavorful.<#>
-test<#>
-Q. Physics For Babies<#>
-You can't even comprehend the contents of this book.\#Makes you feel smart just by carrying it with you.<#>
-Tactics: Perseverance<#>
-An appetizing hunk of viscera. (Bulk Food)<#>
-Teenager Crow<#>
-Crows are very intelligent and this one is a 157 IQ\#genius kid prodigy. Never forgets. Ever.<#>
-Melon Gum<#>
-Melon flavored chewing gum. Restores 60 SP\#per chew, but its flavor will fade after three uses.<#>
-Rusty Wrench<#>
-A mechanic's trusty tool.\#It has seen better days.<#>
-Traveler's Logbook<#>
-A set of memories from your past or those from the\#future yet to be made. Are you willing to look back?<#>
-Speed Changer<#>
-Activate to adjust your in-game walking speed.\#Current speed: 1x<#>
-Activate to adjust your in-game walking speed.\#Current speed: 2x<#>
-Activate to adjust your in-game walking speed.\#Current speed: 4x<#>
+Sustanence for space men. The labels are all in\#Russian, but this one looks flavorful.<#>Пища для космонавтов. Вся этикетка на украинском,\#и этот тюбик выглядит более аппетитно.
+Q. Physics For Babies<#>Квант. физика для чайников
+You can't even comprehend the contents of this book.\#Makes you feel smart just by carrying it with you.<#>Вам и в малейшей степени не осознать наполнение этой\#книги. Придаёт вам умный вид от ношения с собой.
+Tactics: Perseverance<#>Тактика: упорство
+An appetizing hunk of viscera. (Bulk Food)<#>Аппетитный шарик из потрохов. (Некачественная еда)
+Teenager Crow<#>Ворон-подросток
+Crows are very intelligent and this one is a 157 IQ\#genius kid prodigy. Never forgets. Ever.<#>Вороны очень умны, а этот - и вовсе вундеркинд\#с 157-ю IQ. Ничего не забывает. Никогда.
+Melon Gum<#>Арбузная жвачка
+Melon flavored chewing gum. Restores 60 SP\#per chew, but its flavor will fade after three uses.<#>Жвачка со вкусом арбуза. Восстанавливает 60 ОН\#за укус, но вкус пропадёт спустя три использования.
+Rusty Wrench<#>Ржавый ключ
+A mechanic's trusty tool.\#It has seen better days.<#>Верный инструмент механика.\#Видал и лучшие дни.
+Traveler's Logbook<#>Журнал путешественника
+A set of memories from your past or those from the\#future yet to be made. Are you willing to look back?<#>Коллекция воспоминаний из вашего прошлого, которую\#предстоит заполнить будущим. Хотите ли вы взглянуть назад?
+Speed Changer<#>Изменитель скорости
+Activate to adjust your in-game walking speed.\#Current speed: 1x<#>Используйте, чтобы изменить скорость ходьбы.\#Текущая скорость: x1
+Activate to adjust your in-game walking speed.\#Current speed: 2x<#>Используйте, чтобы изменить скорость ходьбы.\#Текущая скорость: x2
+Activate to adjust your in-game walking speed.\#Current speed: 4x<#>Используйте, чтобы изменить скорость ходьбы.\#Текущая скорость: x4
 A key to an unspecified door.<#>Ключ от неизвестной двери.
 Aromatherapy Guide<#>Руководство по ароматерапии
 A booklet promoting the use and benefits of\#aromatherapy. The pages are salty.<#>Буклет, рекламирующий ароматерапию и рассказывающий о её\#преимуществах. Страницы все в соли.

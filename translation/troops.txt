@@ -579,10 +579,10 @@ I'm no one in particular.<#>Я - никто особенный.
 {Silvester de Maistre}Dying with regrets, doesn't seem so bad.<#>{Сильвестр де Мейстр}Умирать с сожалением - не так уж плохо.
 {Aron Richter}Checkmate!<#>{Арон Рихтер}Шах и мат!
 {Aron Richter}Again.<#>{Арон Рихтер}Снова.
-{Aron Richter}Who pulls a knife\#on a dying man?<#>
+{Aron Richter}Who pulls a knife\#on a dying man?<#>{Арон Рихтер}Кто направляет нож\#на умирающего?
 {Aron Richter}The hell you think\#you're doing, man?<#>{Арон Рихтер}Какого чёрта ты делаешь,\#мужик?
-{Aron Richter}You pulled my leg!<#>
-{Aron Richter}What you doin' with that pistol, big-hat?\|\#Don't you dare weaponize that technology!<#>
+{Aron Richter}You pulled my leg!<#>{Арон Рихтер}Ты дёрнул меня за ногу!
+{Aron Richter}What you doin' with that pistol, big-hat?\|\#Don't you dare weaponize that technology!<#>{Арон Рихтер}Что ты делаешь с этим пистолетом, шляпник?\|\#Не смей превращать эту технологию в оружие!
 {Aron Richter}I'm dead, I guess.<#>{Арон Рихтер}Похоже, мне конец.
 {Pete Harper}Stay behind me!<#>{Пит Харпер}За мной!
 {Mathew Harper}Please!<#>{Мэтью Харпер}Пожалуйста!
@@ -612,269 +612,269 @@ I'm no one in particular.<#>Я - никто особенный.
 {Pete Harper}Now you're gonna get it!<#>{Пит Харпер}Теперь тебе конец!
 {Mathew Harper}P-\|Pete?\|\#I...<#>{Мэтью Харпер}П-\|Пит?\|\#Я...
 {Risky Richmond}That was risky.<#>{Риски Ричмонд}Я был рисковым.
-{Sholo Liberty}.\.\..\.\..<#>
-{Sholo Liberty}\..\..\..\.\.Why?<#>
-{Fecal Rusher}You don't know when to quit!<#>
-{Bronson Irons}What the FUCK, man?!<#>
-{Bronson Irons}We haven't done anything\#to you!<#>
-{Fecal Rusher}Stand your ground, Bronson!<#>
-{Bronson Irons}Some liquor to numb the pain...<#>
-{Fecal Rusher}S-stay back!<#>
-{Fecal Rusher}I've had a goon run.<#>
-{Bronson Irons}I'll miss you man...<#>
-{Bronson Irons}This one is for you!<#>
-{Bronson Irons}No regrets.<#>
-{Fecal Rusher}No!\.\.\#Bronson!\.\.\#Not you too...<#>
-{Fecal Rusher}You'll pay for that!<#>
-{Slim Hartmann}Come on now!\.\.\#One at a time!<#>
-{Slim Hartmann}Nothing personal.\.\.\#This is just business.<#>
-{Slim Hartmann}THANK GOD FOR\#THE JOY!!<#>
-{Slim Hartmann}It makes me feel like\#a kid again!<#>
-{Slim Hartmann}You resist the joy.<#>
-{Slim Hartmann}But taking even a single pill\#will be the\. BEST moment of your life.<#>
-{Slim Hartmann}Allow me to make\#a demonstration, gentlemen...<#>
-{Slim Hartmann}Can't escape outta\#this one!<#>
-{Slim Hartmann}Ouch.<#>
-{Slim Hartmann}This is\..\..\..\#rather unfortunate.<#>
+{Sholo Liberty}.\.\..\.\..<#>{Шоло Либерти}.\.\..\.\..
+{Sholo Liberty}\..\..\..\.\.Why?<#>{Шоло Либерти}\..\..\..\.\.Почему?
+{Fecal Rusher}You don't know when to quit!<#>{Фекальный бегун}Ты не знаешь, когда нужно уйти!
+{Bronson Irons}What the FUCK, man?!<#>{Бронсон Айронс}Что за ПИЗДЕЦ, мужик?!
+{Bronson Irons}We haven't done anything\#to you!<#>{Бронсон Айронс}Мы тебе даже ничего\#не сделали!
+{Fecal Rusher}Stand your ground, Bronson!<#>{Фекальный бегун}Отбивайся, Бронсон!
+{Bronson Irons}Some liquor to numb the pain...<#>{Бронсон Айронс}Немного алкоголя, чтобы притупить боль...
+{Fecal Rusher}S-stay back!<#>{Фекальный бегун}Н-не подходи!
+{Fecal Rusher}I've had a goon run.<#>{Фекальный бегун}Это был тупой забег.
+{Bronson Irons}I'll miss you man...<#>{Бронсон Айронс}Я буду скучать, мужик...
+{Bronson Irons}This one is for you!<#>{Бронсон Айронс}Это ради тебя!
+{Bronson Irons}No regrets.<#>{Бронсон Айронс}Ни о чём не жалею.
+{Fecal Rusher}No!\.\.\#Bronson!\.\.\#Not you too...<#>{Фекальный бегун}Нет!\.\.\#Бронсон!\.\.\#И ты тоже...
+{Fecal Rusher}You'll pay for that!<#>{Фекальный бегун}Ты за это заплатишь!
+{Slim Hartmann}Come on now!\.\.\#One at a time!<#>{Слим Хартманн}Давайте!\.\.\#По одному!
+{Slim Hartmann}Nothing personal.\.\.\#This is just business.<#>{Слим Хартманн}Ничего личного.\.\.\#Это просто бизнес.
+{Slim Hartmann}THANK GOD FOR\#THE JOY!!<#>{Слим Хартманн}СЛАВА БОГУ ЗА ДЖОЙ!!
+{Slim Hartmann}It makes me feel like\#a kid again!<#>{Слим Хартманн}Он снова возвращает\#меня в детство!
+{Slim Hartmann}You resist the joy.<#>{Слим Хартманн}Ты сопротивляешься джою.
+{Slim Hartmann}But taking even a single pill\#will be the\. BEST moment of your life.<#>{Слим Хартманн}Но всего одна таблетка подарит\#тебе\. ЛУЧШЕЕ время в твоей жизни.
+{Slim Hartmann}Allow me to make\#a demonstration, gentlemen...<#>{Слим Хартманн}Позвольте мне продемонстрировать,\#джентльмены...
+{Slim Hartmann}Can't escape outta\#this one!<#>{Слим Хартманн}Вы никуда не сбежите!
+{Slim Hartmann}Ouch.<#>{Слим Хартманн}Ау.
+{Slim Hartmann}This is\..\..\..\#rather unfortunate.<#>{Слим Хартманн}Это\..\..\..\#довольно досадно.
 {Slim Hartmann}I'll see myself out.<#>
-{Slim Hartmann}NO MERCY!<#>
-{Slim Hartmann}You are the worst.<#>
-{Slim Hartmann}...<#>
-{Slim Hartmann}Rusher...<#>
-{Slim Hartmann}Irons...<#>
-{Slim Hartmann}This is for you.<#>
-{Donovan Whitehouse}I feel motivated.<#>
-{Donovan Whitehouse}What was I supposed\#to do again?<#>
-{Donovan Whitehouse}Oh yeah.<#>
-{Donovan Whitehouse}Nice.\|\#115 more to go.<#>
-{Donovan Whitehouse}Now where was I?<#>
-{Donovan Whitehouse}This got boring real fast.<#>
+{Slim Hartmann}NO MERCY!<#>{Слим Хартманн}НИКАКОЙ ПОЩАДЫ!
+{Slim Hartmann}You are the worst.<#>{Слим Хартманн}Вы ужасны.
+{Slim Hartmann}...<#>{Слим Хартманн}...
+{Slim Hartmann}Rusher...<#>{Слим Хартманн}Рашер...
+{Slim Hartmann}Irons...<#>{Слим Хартманн}Айронс...
+{Slim Hartmann}This is for you.<#>{Слим Хартманн}Это за вас.
+{Donovan Whitehouse}I feel motivated.<#>{Донован Уайтхаус}Я чувствую мотивацию.
+{Donovan Whitehouse}What was I supposed\#to do again?<#>{Донован Уайтхаус}Что я должен был\#сделать?
+{Donovan Whitehouse}Oh yeah.<#>{Донован Уайтхаус}А, да.
+{Donovan Whitehouse}Nice.\|\#115 more to go.<#>{Донован Уайтхаус}Круто.\|\#Ещё 115.
+{Donovan Whitehouse}Now where was I?<#>{Донован Уайтхаус}Итак, где я остановился?
+{Donovan Whitehouse}This got boring real fast.<#>{Донован Уайтхаус}Мне это наскучило.
 {Donovan Whitehouse}Let me find something\#else to bash our heads with.<#>
-{Donovan Whitehouse}Hmm...<#>
-{Donovan Whitehouse}How about this one?<#>
-{Donovan Whitehouse}Cold War Documentary, Volume 1.<#>
-{Donovan Whitehouse}Introduction:\|\#The Cold War refers to a period of geopoliti-\^<#>
-{Donovan Whitehouse}Hey!\|\#Don't doze off!<#>
-{Donovan Whitehouse}It was about to get interesting!<#>
-{Donovan Whitehouse}So much for nourishing my brain.<#>
-{Donovan Whitehouse}It's no longer functional.<#>
-{Francis Peteywheat}I'm so sick of shit!<#>
-{Francis Peteywheat}Nothing better than a\#cup of coffee before the\#killing marathon.<#>
-{Francis Peteywheat}Stop with that shit!<#>
-{Francis Peteywheat}No way you just\#did that!<#>
-{Francis Peteywheat}No one stands between\#me and my rights!<#>
-{Francis Peteywheat}Okay.<#>
-{Francis Peteywheat}I think that\#calmed me down.<#>
-{El Kobra}Morirás esta noche.<#>
-{El Kobra}Quémalo todo!<#>
-{El Kobra}Have you seen a\#flaming snake?<#>
-{El Kobra}I was skinned!<#>
-{Clark Cunningham}Let me show you how\#we did 'em back in Kansas, son.<#>
-{Clark Cunningham}Say goodbye to\#your limbs.<#>
-{Clark Cunningham}Alright.\|\#You asked for it.<#>
-{Clark Cunningham}You takin' me\#for a fool?<#>
+{Donovan Whitehouse}Hmm...<#>{Донован Уайтхаус}Хмм...
+{Donovan Whitehouse}How about this one?<#>{Донован Уайтхаус}Как насчёт этой?
+{Donovan Whitehouse}Cold War Documentary, Volume 1.<#>{Донован Уайтхаус}Документальная книга о холодной войне,\#первый том.
+{Donovan Whitehouse}Introduction:\|\#The Cold War refers to a period of geopoliti-\^<#>{Донован Уайтхаус}Введение:\|\#Холодная война относится к периоду геополити-\^
+{Donovan Whitehouse}Hey!\|\#Don't doze off!<#>{Донован Уайтхаус}Эй!\|\#Не спать!
+{Donovan Whitehouse}It was about to get interesting!<#>{Донован Уайтхаус}Мы приближаемся к самому интересному!
+{Donovan Whitehouse}So much for nourishing my brain.<#>{Донован Уайтхаус}Столько пищи для мозга.
+{Donovan Whitehouse}It's no longer functional.<#>{Донован Уайтхаус}Он больше не функционирует.
+{Francis Peteywheat}I'm so sick of shit!<#>{Фрэнсис Питиуит}Я устал от этого дерьма!
+{Francis Peteywheat}Nothing better than a\#cup of coffee before the\#killing marathon.<#>{Фрэнсис Питиуит}Нет ничего лучше чашечки\#кофе перед убийственным марафоном.
+{Francis Peteywheat}Stop with that shit!<#>{Фрэнсис Питиуит}Кончай с этим говном!
+{Francis Peteywheat}No way you just\#did that!<#>{Фрэнсис Питиуит}Немыслимо, что ты это сделал!
+{Francis Peteywheat}No one stands between\#me and my rights!<#>{Фрэнсис Питиуит}Никто не смеет стоять между\#мной и моими правами!
+{Francis Peteywheat}Okay.<#>{Фрэнсис Питиуит}Ладно.
+{Francis Peteywheat}I think that\#calmed me down.<#>{Фрэнсис Питиуит}Я думаю, ты меня успокоил.
+{El Kobra}Morirás esta noche.<#>{Эль Кобра}Morirás esta noche.
+{El Kobra}Quémalo todo!<#>{Эль Кобра}Quémalo todo!
+{El Kobra}Have you seen a\#flaming snake?<#>{Эль Кобра}Видел ли ты огненную змею?
+{El Kobra}I was skinned!<#>{Эль Кобра}С меня сняли кожу!
+{Clark Cunningham}Let me show you how\#we did 'em back in Kansas, son.<#>{Кларк Каннингем}Давай я покажу тебе, как мы\#задавали людям в Канзасе, сынок.
+{Clark Cunningham}Say goodbye to\#your limbs.<#>{Кларк Каннингем}Попрощайся со своими конечностями.
+{Clark Cunningham}Alright.\|\#You asked for it.<#>{Кларк Каннингем}Ладно.\|\#Ты сам напросился.
+{Clark Cunningham}You takin' me\#for a fool?<#>{Кларк Каннингем}Ты меня за дурака считаешь?
 {Clark Cunningham}If this Infinity shit's got a\#highscore then I'll be the one to beat it!<#>
-{Clark Cunningham}I'll be damned.<#>
-{Scrawny Davy}HAH!\.\. As if I would\#ever fall for that!<#>
-{Mikhail "Milo" Zhnebrowski}Alex.<#>
-{Mikhail "Milo" Zhnebrowski}I can see it in your eyes.<#>
-{Mikhail "Milo" Zhnebrowski}I didn't believe your lies.\.\..\.\..\#You are a killing machine.<#>
-{Mikhail "Milo" Zhnebrowski}Our conversation was...<#>
-{Mikhail "Milo" Zhnebrowski}...an experience most enlightening.<#>
-{Mikhail "Milo" Zhnebrowski}You cannot change things now.<#>
-{Mikhail "Milo" Zhnebrowski}Peace and hope do not exist\#in a world of violence!<#>
-{Mikhail "Milo" Zhnebrowski}Brothers.\..\..<#>
-{Mikhail "Milo" Zhnebrowski}Augh...<#>
-{Mikhail "Milo" Zhnebrowski}It...\| it was never meant to be...<#>
-{Floyd Burnside}Bring it on.<#>
-{Floyd Burnside}The spirit of Infinity burns\#in my very soul!<#>
-{Floyd Burnside}You cannot prevent\#your fate.<#>
-{Floyd Burnside}Look into my eyes\#and face it.<#>
-{Floyd Burnside}S-still\..\..\..\#going?<#>
-{Floyd Burnside}L-look into.\..\..\#Into...<#>
-{Floyd Burnside}I...<#>
-{Floyd Burnside}...deserve this.<#>
-{Floyd Burnside}I'm coming,\| Will...<#>
-{Jeremy Denkins}You know how we do things now.<#>
-{Jeremy Denkins}Let's just get straight to the point.<#>
-{Jeremy Denkins}And boy...<#>
-{Jeremy Denkins}That someone's got us all\#under control...<#>
-{Francis Gizmo Jr.}Let me demonstrate.<#>
-{Wallaby Whitaker}Yeah, yeah...<#>
-{Francis Gizmo Jr.}Now calm down...<#>
-{Francis Gizmo Jr.}Take a deep breath...<#>
-{Francis Gizmo Jr.}I'm so sorry,\. boys.<#>
-{Francis Gizmo Jr.}You really were the very best...<#>
-{Francis Gizmo Jr.}...and you meant the\#world to me.<#>
-{Kroger Cleveland}Motherfucker!<#>
-{Wallaby Whitaker}Why?\| Why??\|\#Why did this happen!?<#>
-{Raymund Ripe}You wait, you live.\| You fig-\^<#>
-{Raymund Ripe}\|.\|.\|.<#>
-{Raymund Ripe}Is that how it is?<#>
-{Raymund Ripe}...<#>
-{Raymund Ripe}Heh...<#>
-{Raymund Ripe}Let's not stop the fun now,\#shall we?<#>
-{Raymund Ripe}This felt like heaven.<#>
-{Borislav Ragnarok}...\|Huh?<#>
-{Borislav Ragnarok}You are a mighty foe indeed...<#>
-{Borislav Ragnarok}But I will not capitulate!<#>
-{Borislav Ragnarok}Need...\| much more power!<#>
-{Borislav Ragnarok}I will never surrender...\|\#...to someone like you!<#>
-{Borislav Ragnarok}It can't be!<#>
-{Borislav Ragnarok}You are not human!<#>
-{Borislav Ragnarok}But...<#>
-{Borislav Ragnarok}...can the Soviet Union really\#live forever?<#>
-{Borislav Ragnarok}Prashai.<#>
-{Cormack Rex}You want my kit?\|\#Come and take it, you rascal!<#>
-{Cormack Rex}Savage, can't leave an old man alone.<#>
-{Torque Homer}The taste is so dazing...<#>
-{Torque Homer}You're asking for it!<#>
-{Torque Homer}It's a homerun!<#>
-{Torque Homer}Now you've done it.<#>
-{Torque Homer}Blood is fuel...\|\#and Hell is full.<#>
-{Joel Miller}Uhh...<#>
-{Joel Miller}Guys...\|\#The hell is that thing\#on the wall?<#>
-{Barry Twister}You think I'm fucking around?<#>
+{Clark Cunningham}I'll be damned.<#>{Кларк Каннингем}Чёрт меня подери.
+{Scrawny Davy}HAH!\.\. As if I would\#ever fall for that!<#>{Тощий Дэви}ХА!\.\. Никогда на это не поведусь!
+{Mikhail "Milo" Zhnebrowski}Alex.<#>{Михаил "Мило" Жнебровский}Алекс.
+{Mikhail "Milo" Zhnebrowski}I can see it in your eyes.<#>{Михаил "Мило" Жнебровский}Я вижу это в твоих глазах.
+{Mikhail "Milo" Zhnebrowski}I didn't believe your lies.\.\..\.\..\#You are a killing machine.<#>{Михаил "Мило" Жнебровский}Я не верю твоей лжи.\.\..\.\..\#Ты - машина для убийств.
+{Mikhail "Milo" Zhnebrowski}Our conversation was...<#>{Михаил "Мило" Жнебровский}Наша беседа была...
+{Mikhail "Milo" Zhnebrowski}...an experience most enlightening.<#>{Михаил "Мило" Жнебровский}...очень открывающей.
+{Mikhail "Milo" Zhnebrowski}You cannot change things now.<#>{Михаил "Мило" Жнебровский}Ты уже не можешь ничего изменить.
+{Mikhail "Milo" Zhnebrowski}Peace and hope do not exist\#in a world of violence!<#>{Михаил "Мило" Жнебровский}Надежда не существует в мире жестокости!
+{Mikhail "Milo" Zhnebrowski}Brothers.\..\..<#>{Михаил "Мило" Жнебровский}Братья.\..\..
+{Mikhail "Milo" Zhnebrowski}Augh...<#>{Михаил "Мило" Жнебровский}Ох...
+{Mikhail "Milo" Zhnebrowski}It...\| it was never meant to be...<#>{Михаил "Мило" Жнебровский}Это...\| это не должно было...
+{Floyd Burnside}Bring it on.<#>{Флойд Бёрнсайд}Нападай.
+{Floyd Burnside}The spirit of Infinity burns\#in my very soul!<#>{Флойд Бёрнсайд}Дух Бесконечности жжёт саму мою душу!
+{Floyd Burnside}You cannot prevent\#your fate.<#>{Флойд Бёрнсайд}Тебе не отвертеться от судьбы.
+{Floyd Burnside}Look into my eyes\#and face it.<#>{Флойд Бёрнсайд}Взгляни в мои глаза и прими её.
+{Floyd Burnside}S-still\..\..\..\#going?<#>{Флойд Бёрнсайд}Е-ещё\..\..\..\#на ногах?
+{Floyd Burnside}L-look into.\..\..\#Into...<#>{Флойд Бёрнсайд}В-взгляни в.\..\..\#В...
+{Floyd Burnside}I...<#>{Флойд Бёрнсайд}Я...
+{Floyd Burnside}...deserve this.<#>{Флойд Бёрнсайд}...заслуживаю этого.
+{Floyd Burnside}I'm coming,\| Will...<#>{Флойд Бёрнсайд}Я иду,\| Уилл...
+{Jeremy Denkins}You know how we do things now.<#>{Джереми Денкинс}Ты знаешь, как у нас теперь\#всё устроено.
+{Jeremy Denkins}Let's just get straight to the point.<#>{Джереми Денкинс}Давай сразу к делу.
+{Jeremy Denkins}And boy...<#>{Джереми Денкинс}И, парень...
+{Jeremy Denkins}That someone's got us all\#under control...<#>{Джереми Денкинс}Кто-то захватил всех нас\#под контроль...
+{Francis Gizmo Jr.}Let me demonstrate.<#>{Фрэнсис Гизмо мл.}Давайте продемонстрирую.
+{Wallaby Whitaker}Yeah, yeah...<#>{Уоллоби Уитекер}Да-да...
+{Francis Gizmo Jr.}Now calm down...<#>{Фрэнсис Гизмо мл.}Теперь, успокоимся...
+{Francis Gizmo Jr.}Take a deep breath...<#>{Фрэнсис Гизмо мл.}Глубоко вдохнём...
+{Francis Gizmo Jr.}I'm so sorry,\. boys.<#>{Фрэнсис Гизмо мл.}Мне так жаль,\. парни.
+{Francis Gizmo Jr.}You really were the very best...<#>{Фрэнсис Гизмо мл.}Вы правда лучшие.
+{Francis Gizmo Jr.}...and you meant the\#world to me.<#>{Фрэнсис Гизмо мл.}...и вы были для меня всем.
+{Kroger Cleveland}Motherfucker!<#>{Крогер Кливленд}Ублюдок!
+{Wallaby Whitaker}Why?\| Why??\|\#Why did this happen!?<#>{Уоллоби Уитекер}Почему?\| Почему??\|\#Почему это произошло!?
+{Raymund Ripe}You wait, you live.\| You fig-\^<#>{Рэймонд Райп}Ты ждёшь, ты живёшь.\| Ты сраж-\^
+{Raymund Ripe}\|.\|.\|.<#>{Рэймонд Райп}\|.\|.\|.
+{Raymund Ripe}Is that how it is?<#>{Рэймонд Райп}Вот как?
+{Raymund Ripe}...<#>{Рэймонд Райп}...
+{Raymund Ripe}Heh...<#>{Рэймонд Райп}Хе...
+{Raymund Ripe}Let's not stop the fun now,\#shall we?<#>{Рэймонд Райп}Давай не будем останавливать\#веселье сейчас, хорошо?
+{Raymund Ripe}This felt like heaven.<#>{Рэймонд Райп}Я будто был в раю.
+{Borislav Ragnarok}...\|Huh?<#>{Борислав Рагнарок}...\|А?
+{Borislav Ragnarok}You are a mighty foe indeed...<#>{Борислав Рагнарок}Ты могучий противник, действительно...
+{Borislav Ragnarok}But I will not capitulate!<#>{Борислав Рагнарок}Но я не сдамся!
+{Borislav Ragnarok}Need...\| much more power!<#>{Борислав Рагнарок}Нужно...\| намного больше силы!
+{Borislav Ragnarok}I will never surrender...\|\#...to someone like you!<#>{Борислав Рагнарок}Я никогда не сдамся...\|\#...кому-то вроде тебя!
+{Borislav Ragnarok}It can't be!<#>{Борислав Рагнарок}Невозможно!
+{Borislav Ragnarok}You are not human!<#>{Борислав Рагнарок}Ты не человек!
+{Borislav Ragnarok}But...<#>{Борислав Рагнарок}Но...
+{Borislav Ragnarok}...can the Soviet Union really\#live forever?<#>{Борислав Рагнарок}...будет ли Советский Союз правда жить\#вечно?
+{Borislav Ragnarok}Prashai.<#>{Борислав Рагнарок}Прощавай.
+{Cormack Rex}You want my kit?\|\#Come and take it, you rascal!<#>{Кормак Рекс}Хочешь мой набор?\|\#Войди и возьми, мерзавец!
+{Cormack Rex}Savage, can't leave an old man alone.<#>{Кормак Рекс}Варвар, не можешь оставить старика в покое.
+{Torque Homer}The taste is so dazing...<#>{Торк Гомер}Вкус такой ошеломляющий...
+{Torque Homer}You're asking for it!<#>{Торк Гомер}Ты напрашиваешься!
+{Torque Homer}It's a homerun!<#>{Торк Гомер}Хоумран!
+{Torque Homer}Now you've done it.<#>{Торк Гомер}Всё, ты вывел меня.
+{Torque Homer}Blood is fuel...\|\#and Hell is full.<#>{Торк Гомер}Кровь - это топливо...\|\#и ад её полон.
+{Joel Miller}Uhh...<#>{Джоэл Миллер}Эээ...
+{Joel Miller}Guys...\|\#The hell is that thing\#on the wall?<#>{Джоэл Миллер}Ребята...\| Что\#это за чертовщина\#на стене?
+{Barry Twister}You think I'm fucking around?<#>{Барри Твистер}Ты думаешь, я блять шучу?
 {Barry Twister}Chop! Chop!\|\#Here comes the gutter!<#>
 {Barry Twister}Need the good stuff...<#>
 {Barry Twister}...<#>
 {Barry Twister}It's not the same anymore...<#>
-{Barry Twister}Ugh...<#>
-{Barry Twister}I'll...<#>
-{Barry Twister}I'll fuck you up!<#>
+{Barry Twister}Ugh...<#>{Барри Твистер}Уф...
+{Barry Twister}I'll...<#>{Барри Твистер}Я...
+{Barry Twister}I'll fuck you up!<#>{Барри Твистер}Я взъебу тебя!
 {Earnest}Do you like to...\| party?<#>
 {Earnest}I like to party.<#>
-{Chandler Sinclair}\..\..\..FUCK THIS!<#>
-{Chandler Sinclair}I'm sick of carrying\#this fatass around\#for hours on end!<#>
-{Chandler Sinclair}Y'all are gonna\#fuckin' pay!<#>
-{Stefan Kindchild}Who, squatting upon the ground,\#Held his hear-\^<#>
-{Chandler Sinclair}SHUT\| THE\| FUCK\| UP!<#>
-{Chandler Sinclair}God...\|\#FUCKING DAMN IT!<#>
-{Rutherford Headstrong}No one can\#take me down!<#>
-{Rutherford Headstrong}I thought that\#you'd learn\#your lesson!<#>
-{Rutherford Headstrong}Again with this?\|\#How many times do I\#gotta kick your ass?<#>
-{Rutherford Headstrong}Nope.\|\#Enough of this.<#>
-{Rutherford Headstrong}I'll beat the shit outta\#you for real this time!<#>
-{Rutherford Headstrong}This was just a warm-up!<#>
-{Rutherford Headstrong}Get ready for\#a knockout!<#>
-{Rutherford Headstrong}But...<#>
-{Rutherford Headstrong}I thought I was\#the very best...<#>
-{Rutherford Headstrong}Have I been living\#a lie all along?<#>
-{Georgy Hernandez}Someone's gotta teach\#you a lesson, shitheads!<#>
-{Georgy Hernandez}Ugh\..\..\..\#I need my meds...<#>
-{Georgy Hernandez}Alright, scumbags.<#>
-{Georgy Hernandez}It's Hernandez time!<#>
-{Georgy Hernandez}Ow!\|\#FINE!<#>
-{Georgy Hernandez}You fucking shitheads...<#>
-{Georgy Hernandez}Hah!<#>
-{Georgy Hernandez}Shouldn't have\#messed with me!<#>
-{Hugo Leopardi}.\..\..<#>
-{Hugo Leopardi}If this is how you want\#to do things,\| then I don't mind.<#>
-{Hugo Leopardi}Worry not...\|\#for The Doctor has arrived.<#>
-{Hugo Leopardi}Let's end this.<#>
-{Joel Miller}Hold it, Lucky!<#>
-{Joel Miller}You can't do this alone!<#>
-{Joel Miller}Let's get this freak!<#>
-{Alex Churchland}...<#>
-{Joel Miller}Come on, Lucky!<#>
-{Hugo Leopardi}\|.\|.\|.<#>
-{Hugo Leopardi}I...\|\#I can't...<#>
-{Hugo Leopardi}J-Jason...<#>
-{Hugo Leopardi}...<#>
-{Rister Syrup}You are an idiot.<#>
-{Kirk Fuseman}Flame...\|\#Grant me strength...<#>
-{Kirk Fuseman}Burn my mind.\|\#I wish to think no more.<#>
-{Kirk Fuseman}In the end,\. it was all\#devoured by the flames of Hell.<#>
-{Kirk Fuseman}There's really no salvation\#from this damnation.<#>
-{Kirk Fuseman}It's about time I\#bite the dust.<#>
-{Kirk Fuseman}The final hour strikes.<#>
-{Kirk Fuseman}Good night.<#>
-{Kirk Fuseman}There's nothing here\#worth living for.<#>
-{Kirk Fuseman}It ends here.<#>
-{Eli Trackstar}Should've just left\#me alone!<#>
-{Eli Trackstar}Now you're being\#really annoying!<#>
-{Eli Trackstar}Wait, am I bothering you?<#>
-{Eli Trackstar}Perhaps I was wrong...<#>
-{Eli Trackstar}Seems like I was the\#annoying one all along.<#>
-{Carlton Guiles}It's time to take things\#into my own hands!<#>
-{Carlton Guiles}Literally.<#>
-{Carlton Guiles}Let's get it on.<#>
-{Carlton Guiles}I changed my mind.<#>
-{Carlton Guiles}If you think I'll just lay\#down like a dog and die then\#you're DEAD WRONG!<#>
-{Carlton Guiles}I'm taking this\#shit off me!<#>
-{Carlton Guiles}Much better.<#>
-{Carlton Guiles}I'll give you a\#real beating!<#>
-{Carlton Guiles}I was doing this unironically.<#>
-{Carlton Guiles}Fuck you.<#>
-{Krishna Ishmael}Dinner time!<#>
-{Maximus Bull}Ain't gonna miss this one!<#>
-{Krishna Ishmael}We can't eat it raw!<#>
-{Krishna Ishmael}It's all sorts\#of wrong!<#>
-{Maximus Bull}Kris!\|\#You fuckin' idiot!<#>
-{Maximus Bull}Help me out!<#>
-{Maximus Bull}We gotta take\#them down!<#>
-{Krishna Ishmael}Ready whenever you are!<#>
-{Krishna Ishmael}Max?\|\#A little assistance?<#>
-{Krishna Ishmael}If you don't mind\#of course.<#>
-{Maximus Bull}Sure thing.<#>
-{Maximus Bull}Why did I agree to\#this again?<#>
-{Krishna Ishmael}The taste of death isn't\#very appetizing...<#>
-{Geronimo Phantasmata}Now you're the\#punchline.<#>
-{Geronimo Phantasmata}Time for you to\#chill out!<#>
-{Geronimo Phantasmata}Tell my brother I said goodbye.<#>
-{Prizmik}I can't miss\#this call.<#>
-{Prizmik}So just don't.<#>
-{Prizmik}Listen, Friend.\|\#I'm very busy.<#>
-{Prizmik}I don't want to\#fight you...<#>
-{Prizmik}Really!<#>
-{Prizmik}...<#>
-{Prizmik}All I wanted was some\#peace and quiet...<#>
-{Prizmik}That's it.<#>
-{Prizmik}I'm sick of this.<#>
-{Prizmik}Time to end this.<#>
-{Prizmik}You little...!<#>
-{Prizmik}It's not worth it.<#>
-{Prizmik}In the end, infinity\#always comes on top.<#>
-{Prizmik}But I have more important\#matters to attend.<#>
-{Prizmik}Farewell.<#>
-{Loyd Basilisk }Look!\|\#He's one of them!<#>
-{Tok Bim }Can't be...<#>
-{Rusty Davidson }B-but...\|\#We already went through\#so much...<#>
-{Jason Pike }Everyone, stay calm!<#>
-{Gin Hanks }I'm not gonna\#stay fuckin' calm!<#>
-{Gin Hanks }I'm gonna beat the\#shit outta this damn vermin!<#>
-{Laser Eye Guy }Let's do it Gin.\|\#Just like old times.<#>
-{Jason Pike }...<#>
-{Gin Hanks }Your face is kissing\#the ground!<#>
-{Laser Eye Guy }Time to get back\#into gear.<#>
-{Tok Bim}All for nothing...<#>
-{Loyd Basilisk}This is the end of\#the road for me.<#>
-{Rusty Davidson}I thought that this\#was my salvation...<#>
-{Shurik Caukaz}Okay...<#>
-{Shurik Caukaz}NOW Neu Crew is\#officially dead.<#>
-{Gin Hanks}I... I can't anymore...\|\#S-sorry guys...<#>
-{Laser Eye Guy}Gin!<#>
-{Laser Eye Guy}Time for my eternal rest.<#>
-{Gin Hanks}Oh brother!<#>
-{Jason Pike}...<#>
-{Jason Pike}I lied.<#>
-{Tibby Dobs}It's Tibby ti-\^<#>
-{Tibby Dobs}Oh, come on...<#>
-{Hugo Leopardi}You're persistent...<#>
-{Hugo Leopardi}And you killed so many\..\..\..<#>
-{Hugo Leopardi}It's not surprising.<#>
-{Hugo Leopardi}But with those open wounds...\|\|\#How are you still standing?<#>
-{Hugo Leopardi}You were right.\|\#None of this matters.<#>
-{Hugo Leopardi}I...\|\#I failed...<#>
-{Hugo Leopardi}Goodbye,\| Jason.<#>
-{Hugo Leopardi}This isn't worth it.<#>
-{Chao Bree}Another one into the grinder.<#>
-{Chao Bree}Get him, boys!<#>
-{Chao Bree}Useless... USELESS!<#>
-{Chance Sassy}Took a chance with this...\|\#And it flew right back into my face!<#>
-{Rins Sagitarius}Bury me somewhere nice.<#>
-{Jamie Diggins}Those archery classes ain't shit.<#>
-{Karl Siege}Spinning a huge rock is the\#best kind of exercise.<#>
-{Barny Kettle}I may be a psychopath, but\..\..\..\|\#Nevermind,\| that's it.<#>
-{El Elephante Vintchenso}...<#>
+{Chandler Sinclair}\..\..\..FUCK THIS!<#>{Ченлдер Синклер}\..\..\..НУ НАХУЙ!
+{Chandler Sinclair}I'm sick of carrying\#this fatass around\#for hours on end!<#>{Ченлдер Синклер}Я устал носить этого\#жиробаса часами без конца!
+{Chandler Sinclair}Y'all are gonna\#fuckin' pay!<#>{Ченлдер Синклер}Вы все блять\#заплатите!
+{Stefan Kindchild}Who, squatting upon the ground,\#Held his hear-\^<#>{Стефан Добряк}Которое, сидя на полу,\#держало своё серд-\^
+{Chandler Sinclair}SHUT\| THE\| FUCK\| UP!<#>{Ченлдер Синклер}ЗАТК\|НИСЬ\| БЛЯ\|ТЬ!
+{Chandler Sinclair}God...\|\#FUCKING DAMN IT!<#>{Ченлдер Синклер}Боже...\|\#БЛЯТЬ НАХУЙ!
+{Rutherford Headstrong}No one can\#take me down!<#>{Рузерфорд Крепкоголовый}Никому не победить меня!
+{Rutherford Headstrong}I thought that\#you'd learn\#your lesson!<#>{Рузерфорд Крепкоголовый}Я думал, что\#ты усвоил урок!
+{Rutherford Headstrong}Again with this?\|\#How many times do I\#gotta kick your ass?<#>{Рузерфорд Крепкоголовый}Снова ты?\|\#Сколько ещё раз мне нужно\#выпороть тебя?
+{Rutherford Headstrong}Nope.\|\#Enough of this.<#>{Рузерфорд Крепкоголовый}Нет.\|\#Достаточно.
+{Rutherford Headstrong}I'll beat the shit outta\#you for real this time!<#>{Рузерфорд Крепкоголовый}Теперь я выбью из тебя всё дерьмо\#по-настоящему!
+{Rutherford Headstrong}This was just a warm-up!<#>{Рузерфорд Крепкоголовый}Это была просто разминка!
+{Rutherford Headstrong}Get ready for\#a knockout!<#>{Рузерфорд Крепкоголовый}Готовься к нокауту!
+{Rutherford Headstrong}But...<#>{Рузерфорд Крепкоголовый}Но...
+{Rutherford Headstrong}I thought I was\#the very best...<#>{Рузерфорд Крепкоголовый}Я думал, я был самым лучшим...
+{Rutherford Headstrong}Have I been living\#a lie all along?<#>{Рузерфорд Крепкоголовый}Я жил ложью всё это время?
+{Georgy Hernandez}Someone's gotta teach\#you a lesson, shitheads!<#>{Джорджи Хернандез}Кому-то надо вас проучить,\#говноеды!
+{Georgy Hernandez}Ugh\..\..\..\#I need my meds...<#>{Джорджи Хернандез}Уф\..\..\..\#Мне нужны мои лекарства...
+{Georgy Hernandez}Alright, scumbags.<#>{Джорджи Хернандез}Ладно, ублюдки.
+{Georgy Hernandez}It's Hernandez time!<#>{Джорджи Хернандез}Время Хернандеза!
+{Georgy Hernandez}Ow!\|\#FINE!<#>{Джорджи Хернандез}Ау!\|\#ЛАДНО!
+{Georgy Hernandez}You fucking shitheads...<#>{Джорджи Хернандез}Вы, ебучие говноеды...
+{Georgy Hernandez}Hah!<#>{Джорджи Хернандез}Ха!
+{Georgy Hernandez}Shouldn't have\#messed with me!<#>{Джорджи Хернандез}Не надо было устраивать\#разборки со мной!
+{Hugo Leopardi}.\..\..<#>{Хьюго Леопарди}.\..\..
+{Hugo Leopardi}If this is how you want\#to do things,\| then I don't mind.<#>{Хьюго Леопарди}Если ты хочешь решить всё\#так,\| я не возражаю.
+{Hugo Leopardi}Worry not...\|\#for The Doctor has arrived.<#>{Хьюго Леопарди}Не волнуйся...\|\#ведь доктор пришёл.
+{Hugo Leopardi}Let's end this.<#>{Хьюго Леопарди}Закончим с этим.
+{Joel Miller}Hold it, Lucky!<#>{Джоэл Миллер}Погоди, счастливчик!
+{Joel Miller}You can't do this alone!<#>{Джоэл Миллер}Тебе не справиться одному!
+{Joel Miller}Let's get this freak!<#>{Джоэл Миллер}Покончим с этим фриком!
+{Alex Churchland}...<#>{Алекс Чёрчлэнд}...
+{Joel Miller}Come on, Lucky!<#>{Джоэл Миллер}Давай, счастливчик!
+{Hugo Leopardi}\|.\|.\|.<#>{Хьюго Леопарди}\|.\|.\|.
+{Hugo Leopardi}I...\|\#I can't...<#>{Хьюго Леопарди}Я...\|\#Я не могу...
+{Hugo Leopardi}J-Jason...<#>{Хьюго Леопарди}Дж-Джейсон...
+{Hugo Leopardi}...<#>{Хьюго Леопарди}...
+{Rister Syrup}You are an idiot.<#>{Ристер Сайроп}Ты идиот.
+{Kirk Fuseman}Flame...\|\#Grant me strength...<#>{Кирк Фьюзман}Пламя...\|\#Дарует мне силу...
+{Kirk Fuseman}Burn my mind.\|\#I wish to think no more.<#>{Кирк Фьюзман}Сжигает мой разум.\|\#Я больше не желаю думать.
+{Kirk Fuseman}In the end,\. it was all\#devoured by the flames of Hell.<#>{Кирк Фьюзман}В конце концов,\. всё поглотило\#адское пламя.
+{Kirk Fuseman}There's really no salvation\#from this damnation.<#>{Кирк Фьюзман}Нет спасения от этой трагедии.
+{Kirk Fuseman}It's about time I\#bite the dust.<#>{Кирк Фьюзман}Настало время глотать пыль.
+{Kirk Fuseman}The final hour strikes.<#>{Кирк Фьюзман}Пробил час конца.
+{Kirk Fuseman}Good night.<#>{Кирк Фьюзман}Спокойной ночи.
+{Kirk Fuseman}There's nothing here\#worth living for.<#>{Кирк Фьюзман}Не осталось ничего, ради чего\#стоило бы жить.
+{Kirk Fuseman}It ends here.<#>{Кирк Фьюзман}Всё кончается здесь.
+{Eli Trackstar}Should've just left\#me alone!<#>{Эли Трэкстар}Надо было просто оставить меня!
+{Eli Trackstar}Now you're being\#really annoying!<#>{Эли Трэкстар}Теперь ты раздражаешь меня!
+{Eli Trackstar}Wait, am I bothering you?<#>{Эли Трэкстар}Стой, я тебе мешаю?
+{Eli Trackstar}Perhaps I was wrong...<#>{Эли Трэкстар}Похоже, я был неправ...
+{Eli Trackstar}Seems like I was the\#annoying one all along.<#>{Эли Трэкстар}Похоже, я в итоге оказался\#раздражающим.
+{Carlton Guiles}It's time to take things\#into my own hands!<#>{Карлтон Гилс}Время взять всё в свои руки!
+{Carlton Guiles}Literally.<#>{Карлтон Гилс}Буквально.
+{Carlton Guiles}Let's get it on.<#>{Карлтон Гилс}Начнём.
+{Carlton Guiles}I changed my mind.<#>{Карлтон Гилс}Я передумал.
+{Carlton Guiles}If you think I'll just lay\#down like a dog and die then\#you're DEAD WRONG!<#>{Карлтон Гилс}Если ты думаешь, что я\#возьму и умру как шавка, тогда\#ты СОВЕРШЕННО НЕПРАВ!
+{Carlton Guiles}I'm taking this\#shit off me!<#>{Карлтон Гилс}Я снимаю это говно!
+{Carlton Guiles}Much better.<#>{Карлтон Гилс}Куда лучше.
+{Carlton Guiles}I'll give you a\#real beating!<#>{Карлтон Гилс}Я задам тебе реальную\#взбучку!
+{Carlton Guiles}I was doing this unironically.<#>{Карлтон Гилс}Я делал это в шутку.
+{Carlton Guiles}Fuck you.<#>{Карлтон Гилс}Пошёл нахуй.
+{Krishna Ishmael}Dinner time!<#>{Кришна Ишмаэль}Время обеда!
+{Maximus Bull}Ain't gonna miss this one!<#>{Максимус Булл}Его я не пропущу!
+{Krishna Ishmael}We can't eat it raw!<#>{Кришна Ишмаэль}Мы не сможем съесть его сырым!
+{Krishna Ishmael}It's all sorts\#of wrong!<#>{Кришна Ишмаэль}Это совсем неправильно!
+{Maximus Bull}Kris!\|\#You fuckin' idiot!<#>{Максимус Булл}Крис!\|\#Ебучий идиот!
+{Maximus Bull}Help me out!<#>{Максимус Булл}Выручай меня!
+{Maximus Bull}We gotta take\#them down!<#>{Максимус Булл}Нам нужно положить их!
+{Krishna Ishmael}Ready whenever you are!<#>{Кришна Ишмаэль}По твоему сигналу!
+{Krishna Ishmael}Max?\|\#A little assistance?<#>{Кришна Ишмаэль}Макс?\|\#Немного помощи?
+{Krishna Ishmael}If you don't mind\#of course.<#>{Кришна Ишмаэль}Если ты не возражаешь.
+{Maximus Bull}Sure thing.<#>{Максимус Булл}Конечно.
+{Maximus Bull}Why did I agree to\#this again?<#>{Максимус Булл}Почему я снова на это\#согласился?
+{Krishna Ishmael}The taste of death isn't\#very appetizing...<#>{Кришна Ишмаэль}Вкус смерти не очень\#аппетитны...
+{Geronimo Phantasmata}Now you're the\#punchline.<#>{Джеронимо Фантазмата}Теперь ты - шутка.
+{Geronimo Phantasmata}Time for you to\#chill out!<#>{Джеронимо Фантазмата}Время тебе расслабиться!
+{Geronimo Phantasmata}Tell my brother I said goodbye.<#>{Джеронимо Фантазмата}Передай моему брату прощание.
+{Prizmik}I can't miss\#this call.<#>{Призмик}Я не могу пропустить этот звонок.
+{Prizmik}So just don't.<#>{Призмик}Так что не надо.
+{Prizmik}Listen, Friend.\|\#I'm very busy.<#>{Призмик}Послушай, друг.\|\#Я очень занят.
+{Prizmik}I don't want to\#fight you...<#>{Призмик}Я не хочу с тобой сражаться...
+{Prizmik}Really!<#>{Призмик}Правда!
+{Prizmik}...<#>{Призмик}...
+{Prizmik}All I wanted was some\#peace and quiet...<#>{Призмик}Я лишь хотел немного мира\#и тишины...
+{Prizmik}That's it.<#>{Призмик}Всё.
+{Prizmik}I'm sick of this.<#>{Призмик}Я устал.
+{Prizmik}Time to end this.<#>{Призмик}Время это закончить.
+{Prizmik}You little...!<#>{Призмик}Ты, маленький...!
+{Prizmik}It's not worth it.<#>{Призмик}Оно того не стоит.
+{Prizmik}In the end, infinity\#always comes on top.<#>{Призмик}В итоге, бесконечности оказывается\#на вершине.
+{Prizmik}But I have more important\#matters to attend.<#>{Призмик}Но у меня есть более важные дела.
+{Prizmik}Farewell.<#>{Призмик}Прощай.
+{Loyd Basilisk }Look!\|\#He's one of them!<#>{Лойд Василиск}Посмотрите!\|\#Он один из них!
+{Tok Bim }Can't be...<#>{Ток Бим}Не может быть...
+{Rusty Davidson }B-but...\|\#We already went through\#so much...<#>{Расти Дэвидсон}Н-но...\|\#Мы уже через столькое прошли...
+{Jason Pike }Everyone, stay calm!<#>{Джейсон Пайк}Все, успокойтесь!
+{Gin Hanks }I'm not gonna\#stay fuckin' calm!<#>{Джин Хэнкс}Я блядь не могу\#успокоится!
+{Gin Hanks }I'm gonna beat the\#shit outta this damn vermin!<#>{Джин Хэнкс}Я выбью всё дерьмо\#из этого паразита!
+{Laser Eye Guy }Let's do it Gin.\|\#Just like old times.<#>{Лазерноглазый парень}Сделаем это, Джин.\|\#Как в старь.
+{Jason Pike }...<#>{Джейсон Пайк}...
+{Gin Hanks }Your face is kissing\#the ground!<#>{Джин Хэнкс}Твоё лицо целует\#грязь!
+{Laser Eye Guy }Time to get back\#into gear.<#>{Лазерноглазый парень}Время встать\#наизготовку.
+{Tok Bim}All for nothing...<#>{Ток Бим}Всё зря...
+{Loyd Basilisk}This is the end of\#the road for me.<#>{Лойд Василиск}Это конец\#моего пути.
+{Rusty Davidson}I thought that this\#was my salvation...<#>{Расти Дэвидсон}Я думал, это моё спасение...
+{Shurik Caukaz}Okay...<#>{Шурик Кауказ}Ладно...
+{Shurik Caukaz}NOW Neu Crew is\#officially dead.<#>{Шурик Кауказ}ТЕПЕРЬ отряд Нью официально\#умер.
+{Gin Hanks}I... I can't anymore...\|\#S-sorry guys...<#>{Джин Хэнкс}Я... Я больше не могу...\|\#П-простите, парни...
+{Laser Eye Guy}Gin!<#>{Лазерноглазый парень}Джин!
+{Laser Eye Guy}Time for my eternal rest.<#>{Лазерноглазый парень}Время моего вечного сна.
+{Gin Hanks}Oh brother!<#>{Джин Хэнкс}О, брат!
+{Jason Pike}...<#>{Джейсон Пайк}...
+{Jason Pike}I lied.<#>{Джейсон Пайк}Я соврал.
+{Tibby Dobs}It's Tibby ti-\^<#>{Тибби Добс}Время Тиб-\^
+{Tibby Dobs}Oh, come on...<#>{Тибби Добс}Ох, ну же...
+{Hugo Leopardi}You're persistent...<#>{Хьюго Леопарди}Ты настойчив...
+{Hugo Leopardi}And you killed so many\..\..\..<#>{Хьюго Леопарди}И ты стольких убил\..\..\..
+{Hugo Leopardi}It's not surprising.<#>{Хьюго Леопарди}Неудивительно.
+{Hugo Leopardi}But with those open wounds...\|\|\#How are you still standing?<#>{Хьюго Леопарди}Но с этими ранами...\|\|\#Как ты до сих пор стоишь?
+{Hugo Leopardi}You were right.\|\#None of this matters.<#>{Хьюго Леопарди}Ты прав.\|\#Это всё бессмысленно.
+{Hugo Leopardi}I...\|\#I failed...<#>{Хьюго Леопарди}Я...\|\#Я провалился...
+{Hugo Leopardi}Goodbye,\| Jason.<#>{Хьюго Леопарди}Прощай,\| Джейсон.
+{Hugo Leopardi}This isn't worth it.<#>{Хьюго Леопарди}Оно того не стоит.
+{Chao Bree}Another one into the grinder.<#>{Чао Бри}Ещё один в мясорубку.
+{Chao Bree}Get him, boys!<#>{Чао Бри}За ним, парни!
+{Chao Bree}Useless... USELESS!<#>{Чао Бри}Бесполезные... БЕСПОЛЕЗНЫЕ!
+{Chance Sassy}Took a chance with this...\|\#And it flew right back into my face!<#>{Ченс Сэсси}Испробовал свою возможность...\|\#И она аукнулась мне в лицо!
+{Rins Sagitarius}Bury me somewhere nice.<#>{Ринс Сагитариус}Похорони меня где-нибудь в хорошем\#месте.
+{Jamie Diggins}Those archery classes ain't shit.<#>{Джейми Диггинс}Эти занятия с луком - не дерьмо.
+{Karl Siege}Spinning a huge rock is the\#best kind of exercise.<#>{Карл Сидж}Вращать огромный валун - лучший\#вид тренировок.
+{Barny Kettle}I may be a psychopath, but\..\..\..\|\#Nevermind,\| that's it.<#>{Барни Кеттл}Я, возможно, психопат, но\..\..\..\|\#Ну,\| да.
+{El Elephante Vintchenso}...<#>{Эль Элефанте Винченсо}...
 {Hugo Leopardi}Enough of this.<#>{Хьюго Леопарди}Достаточно.

@@ -165,13 +165,9 @@ Borislav Ragnarok<#>Борислав Рагнарок
 Lab Creep<#>Лабораторный монстр
 Hyperfold<#>Гиперскладка
 Hypercore<#>Гиперядро
-Fire Prop<#>
-Kein Felton Prop<#>
-Placeholder<#>
 Donovan Whitehouse<#>Донован Уайтхаус
 Salt Crab<#>Солевой краб
 Salt Cart<#>Солевая тежелка
-Strangle Prop<#>
 Geen Jean<#>Гин Джин
 Pete Harper<#>Пит Харпер
 Mathew Harper<#>Мэтью Харпер
@@ -179,18 +175,14 @@ Boy Trent<#>Бой Трент
 Risky Richmond<#>Риски Ричмонд
 Rister Syrup<#>Ристер Сайроп
 Sholo Liberty<#>Шоло Либерти
-Fecal Rusher<#>
+Fecal Rusher<#>Фекальный бегун
 Bronson Irons<#>Бронсон Айронс
 Multifold<#>Мультискладка
 Francis Peteywheat<#>Фрэнсис Питиуит
 Clark Cunningham<#>Кларк Каннингем
-Iced Coffee<#>
-Moe's Special Blend<#>
 Slim Hartmann<#>Слим Хартманн
-Dried Herb<#>
 Slim<#>Слим
 Something in the Dark<#>Что-то во тьме
-Prop 2<#>
 Avatar of Decay<#>Отражение увядания
 Channel 88<#>Канал 88
 Joel<#>Джоэл
@@ -200,12 +192,12 @@ Carlton Guiles<#>Карлтон Гилс
 Eli Trackstar<#>Эли Трэкстар
 Torque Homer<#>Торк Гомер
 Olathian Colossal Scorpion<#>Олейтский колоссальный скорпион
-Arch<#>
+Arch<#>Арч
 August<#>Август
-Dusty<#>Дасти
-Earnest<#>
-Rowdy<#>
-Sniffler<#>
+Dusty<#>Пыльный
+Earnest<#>Искренний
+Rowdy<#>Буйный
+Sniffler<#>Нюхач
 Kirk Fuseman<#>Кирк Фьюзман
 El Kobra<#>Эль Кобра
 Georgy Hernandez<#>Джорджи Хернандез
