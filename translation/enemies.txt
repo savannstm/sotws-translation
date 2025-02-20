@@ -162,73 +162,73 @@ Aloysius Herschel<#>Алоизий Хершель
 Great Olathian Condor<#>Великий олейтский кондор
 Bepe Stormer<#>Бепе Штормер
 Borislav Ragnarok<#>Борислав Рагнарок
-Lab Creep<#>
+Lab Creep<#>Лабораторный монстр
 Hyperfold<#>Гиперскладка
 Hypercore<#>Гиперядро
 Fire Prop<#>
 Kein Felton Prop<#>
 Placeholder<#>
-Donovan Whitehouse<#>
-Salt Crab<#>
-Salt Cart<#>
+Donovan Whitehouse<#>Донован Уайтхаус
+Salt Crab<#>Солевой краб
+Salt Cart<#>Солевая тежелка
 Strangle Prop<#>
-Geen Jean<#>
-Pete Harper<#>
-Mathew Harper<#>
-Boy Trent<#>
-Risky Richmond<#>
-Rister Syrup<#>
-Sholo Liberty<#>
+Geen Jean<#>Гин Джин
+Pete Harper<#>Пит Харпер
+Mathew Harper<#>Мэтью Харпер
+Boy Trent<#>Бой Трент
+Risky Richmond<#>Риски Ричмонд
+Rister Syrup<#>Ристер Сайроп
+Sholo Liberty<#>Шоло Либерти
 Fecal Rusher<#>
-Bronson Irons<#>
-Multifold<#>
-Francis Peteywheat<#>
-Clark Cunningham<#>
+Bronson Irons<#>Бронсон Айронс
+Multifold<#>Мультискладка
+Francis Peteywheat<#>Фрэнсис Питиуит
+Clark Cunningham<#>Кларк Каннингем
 Iced Coffee<#>
 Moe's Special Blend<#>
-Slim Hartmann<#>
+Slim Hartmann<#>Слим Хартманн
 Dried Herb<#>
-Slim<#>
-Something in the Dark<#>
+Slim<#>Слим
+Something in the Dark<#>Что-то во тьме
 Prop 2<#>
-Avatar of Decay<#>
-Channel 88<#>
-Joel<#>
-Geen<#>
-Salt<#>
-Carlton Guiles<#>
-Eli Trackstar<#>
-Torque Homer<#>
-Olathian Colossal Scorpion<#>
+Avatar of Decay<#>Отражение увядания
+Channel 88<#>Канал 88
+Joel<#>Джоэл
+Geen<#>Гин
+Salt<#>Солевой
+Carlton Guiles<#>Карлтон Гилс
+Eli Trackstar<#>Эли Трэкстар
+Torque Homer<#>Торк Гомер
+Olathian Colossal Scorpion<#>Олейтский колоссальный скорпион
 Arch<#>
-August<#>
-Dusty<#>
+August<#>Август
+Dusty<#>Дасти
 Earnest<#>
 Rowdy<#>
 Sniffler<#>
-Kirk Fuseman<#>
-El Kobra<#>
-Georgy Hernandez<#>
-Maximus Bull<#>
-Krishna Ishmael<#>
-Prizmik<#>
-Phone<#>
-Tok Bim<#>
-Loyd Basilisk<#>
-Rusty Davidson<#>
-Shurik Caukaz<#>
-Gin Hanks<#>
-Laser Eye Guy<#>
-Jason Pike<#>
-The Doctor<#>
-Aron Richter<#>
-Barny Kettle<#>
-Karl Siege<#>
-Chance Sassy<#>
-Chao Bree<#>
-Jamie Diggins<#>
-Rins Sagitarius<#>
-El Elephante Vintchenso<#>
-Alex Churchland<#>
-Car<#>
-Turkey Wing<#>
+Kirk Fuseman<#>Кирк Фьюзман
+El Kobra<#>Эль Кобра
+Georgy Hernandez<#>Джорджи Хернандез
+Maximus Bull<#>Максимус Булл
+Krishna Ishmael<#>Кришна Ишмаэль
+Prizmik<#>Призмик
+Phone<#>Телефон
+Tok Bim<#>Ток Бим
+Loyd Basilisk<#>Лойд Василиск
+Rusty Davidson<#>Расти Дэвидсон
+Shurik Caukaz<#>Шурик Кауказ
+Gin Hanks<#>Джин Хэнкс
+Laser Eye Guy<#>Лазерноглазый парень
+Jason Pike<#>Джейсон Пайк
+The Doctor<#>Доктор
+Aron Richter<#>Арон Рихтер
+Barny Kettle<#>Барни Кеттл
+Karl Siege<#>Карл Сидж
+Chance Sassy<#>Ченс Сэсси
+Chao Bree<#>Чао Бри
+Jamie Diggins<#>Джейми Диггинс
+Rins Sagitarius<#>Ринс Сагитариус
+El Elephante Vintchenso<#>Эль Элефанте Винченсо
+Alex Churchland<#>Алекс Чёрчлэнд
+Car<#>Машина
+Turkey Wing<#>Турки Винг

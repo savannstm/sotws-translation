@@ -8,8 +8,8 @@
 {Richie Cheasedust}Damn, damn, damn it!\#Catch me Roland!<#>{Ричи Чейздаст}Чёрт, чёрт, чёрт возьми!\#Лови меня, Роланд!
 {Richie Cheasedust}You're all gonna pay for this!<#>{Ричи Чейздаст}Вы все заплатите за это!
 {Richie Cheasedust}This is for Roland! Eat shit!<#>{Ричи Чейздаст}Это за Роланда! Поешь говна!
-{Rag Maggot}Don't make me flip out!<#>
-{Rag Maggot}This sucked.<#>
+{Rag Maggot}Don't make me flip out!<#>{Тряпичный опарыш}Не беси меня!
+{Rag Maggot}This sucked.<#>{Тряпичный опарыш}Отстой.
 Don't make me flip out!<#>Не беси меня!
 {Pedro Rodrigez}What you doin' with that bottle, big-hat?\#Don't you dare weaponize that technology!<#>{Педро Родригез}Что ты там делаешь с бутылкой, шляпник?\#Не смей превращать эту технологию в оружие!
 {Pedro Rodrigez}You only won because I let you!<#>{Педро Родригез}Вы победили лишь потому, что я поддался!
@@ -44,12 +44,12 @@ Don't make me flip out!<#>Не беси меня!
 {Chet Blur}I can't do this.<#>{Чет Блюр}Я не могу.
 {Chet Blur}Too rough, dude!<#>{Чет Блюр}Слишком жёстко, чувак!
 {Chet Blur}What did I just say?<#>{Чет Блюр}Что я только что сказал?
-{Arnold Shpitz}...<#>
-{Arnold Shpitz}I...<#>
-{Arnold Shpitz}...really am...<#>
-{Arnold Shpitz}No one in particular.<#>
+{Arnold Shpitz}...<#>{Арнольд Шпиц}...
+{Arnold Shpitz}I...<#>{Арнольд Шпиц}Я...
+{Arnold Shpitz}...really am...<#>{Арнольд Шпиц}...правда...
+{Arnold Shpitz}No one in particular.<#>{Арнольд Шпиц}Никто особенный.
 {Arnold Shpitz}I'm no one in particular.<#>{Арнольд Шпиц}Я - никто особенный.
-{Doyle Muscare}Hop into the meat mill!<#>
+{Doyle Muscare}Hop into the meat mill!<#>{Дойль Мускейр}Запрыгивай в мясорубку!
 {Doyle Muscare}I'll make mincemeat out of you!<#>{Дойль Мускейр}Я тебя в фарш нашинкую!
 {Doyle Muscare}They'll kill you for me.<#>{Дойль Мускейр}Они убьют тебя за меня.
 {Lord Baxter Umpire}Foul!<#>{Лорд Бакстер Умпайр}Нарушение!
@@ -180,36 +180,36 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Flynt Woodpecker}Let's teach these heathens some manners!<#>{Флинт Дятел}Давайте научим этих дикарей манерам!
 {Flynt Woodpecker}You didn't kill me.\.\#You just gave me my wings.<#>{Флинт Дятел}Вы не убили меня.\.\#Вы просто раскрыли мои крылья.
 {Flynt Woodpecker}Now I can fly away to paradise.<#>{Флинт Дятел}Теперь я могу улететь в рай.
-{Richie Cheasedust}Roland!<#>
-{Richie Cheasedust}I'm here, Roland!<#>
-{Roland Von Buckingham}Richie...?<#>
-{Roland Von Buckingham}Watch out!<#>
-{Richie Cheasedust}Roland...<#>
-{Richie Cheasedust}Roland...!\.\#I'm here, Roland!<#>
-{Roland Von Buckingham}Richie...<#>
-{Roland Von Buckingham}You should've never come here...<#>
-{Richie Cheasedust}Wait, is that my pickaxe?\|\#Asshole! \|Give it back!<#>
-The Dull Pickaxe was forcibly taken...<#>
-{Richie Cheasedust}So it was YOU who took\#my pickaxe! \|Motherfuckers!<#>
-{Richie Cheasedust}Get a load of this!<#>
-{Richie Cheasedust}Again with that shit?<#>
-{Richie Cheasedust}You're a motherfuckin' idiot!<#>
-{Augustus Estrada}Why,\| Richie?<#>
+{Richie Cheasedust}Roland!<#>{Ричи Чейздаст}Роланд!
+{Richie Cheasedust}I'm here, Roland!<#>{Ричи Чейздаст}Я здесь, Роланд!
+{Roland Von Buckingham}Richie...?<#>{Роланд фон Бакингем}Ричи...?
+{Roland Von Buckingham}Watch out!<#>{Роланд фон Бакингем}Берегись!
+{Richie Cheasedust}Roland...<#>{Ричи Чейздаст}Роланд...
+{Richie Cheasedust}Roland...!\.\#I'm here, Roland!<#>{Ричи Чейздаст}Роланд...!\.\#Я здесь, Роланд!
+{Roland Von Buckingham}Richie...<#>{Роланд фон Бакингем}
+{Roland Von Buckingham}You should've never come here...<#>{Роланд фон Бакингем}
+{Richie Cheasedust}Wait, is that my pickaxe?\|\#Asshole! \|Give it back!<#>{Ричи Чейздаст}Стоп, это моя кирка?\|\#Ублюдок!\| Возвращай её!
+The Dull Pickaxe was forcibly taken...<#>Тупую кирку насильно забрали...
+{Richie Cheasedust}So it was YOU who took\#my pickaxe! \|Motherfuckers!<#>{Ричи Чейздаст}Так это ВЫ забрали\#мою кирку!\| Хуесосы!
+{Richie Cheasedust}Get a load of this!<#>{Ричи Чейздаст}
+{Richie Cheasedust}Again with that shit?<#>{Ричи Чейздаст}Снова это говно?
+{Richie Cheasedust}You're a motherfuckin' idiot!<#>{Ричи Чейздаст}Ты ебучий идиот!
+{Augustus Estrada}Why,\| Richie?<#>{Август Эстрада}Почему,\| Ричи?
 {Roland Von Buckingham}You're not going anywhere.<#>{Роланд фон Бакингем}Вы никуда не пойдёте.
 {Roland Von Buckingham}This isn't your place to interfere, Augustus!<#>{Роланд фон Бакингем}Не вмешивайся, Август!
 {Roland Von Buckingham}Back off!<#>{Роланд фон Бакингем}Проваливай!
 {Augustus Estrada}Augh!<#>{Август Эстрада}Ау!
 {Roland Von Buckingham}Oh...<#>{Роланд фон Бакингем}Ох...
-{Richie Cheasedust}You'll be the one\#eating lead!<#>
+{Richie Cheasedust}You'll be the one\#eating lead!<#>{Ричи Чейздаст}Вы будете жрать свинец!
 {Roland Von Buckingham}No...\. no no no...\| Augustus...!<#>{Роланд фон Бакингем}Нет...\. нет нет нет...\| Август...!
-{Richie Cheasedust}Fuck it! Catch me, Roland!<#>
-{Richie Cheasedust}F-F-fuck it...!<#>
-{Roland Von Buckingham}I told you to go away!<#>
-{Augustus Estrada}Roland...\|\#Why didn't you listen?<#>
-{Richie Cheasedust}C-catch...\.\.\. me...<#>
-{Gunther Scourge}I ain't gonna keel for you, sackhead!<#>
+{Richie Cheasedust}Fuck it! Catch me, Roland!<#>{Ричи Чейздаст}Блять! Лови меня, Роланд!
+{Richie Cheasedust}F-F-fuck it...!<#>{Ричи Чейздаст}Б-блять...!
+{Roland Von Buckingham}I told you to go away!<#>{Роланд фон Бакингем}Я говорил тебе уйти!
+{Augustus Estrada}Roland...\|\#Why didn't you listen?<#>{Август Эстрада}Роланд...\|\#Почему ты не послушал?
+{Richie Cheasedust}C-catch...\.\.\. me...<#>{Ричи Чейздаст}Л-лови...\.\.\. меня...
+{Gunther Scourge}I ain't gonna keel for you, sackhead!<#>{Гюнтер Бич}Я тебе не уступлю, болван!
 {Roland Von Buckingham}Gotta get harder!<#>{Роланд фон Бакингем}Пора поднажать!
-{Gunther Scourge}I ain't gonna keel for you, grease head!<#>{Гюнтер Бич}Я тебе не уступлю, жирная голова!
+{Gunther Scourge}I ain't gonna keel for you, grease head!<#>{Гюнтер Бич}Я тебе не уступлю, чумазый!
 {Gunther Scourge}The election was rigged!<#>{Гюнтер Бич}Выборы подстроили!
 {Gunther Scourge}Rigged,\. you son of a bitch!<#>{Гюнтер Бич}Подстроили,\. сукин ты сын!
 {Joel Miller}H-hey! Watch where you're swingin', Lucky!<#>{Джоэл Миллер}Э-эй! Следи, куда махаешь, счастливчик!
@@ -251,7 +251,7 @@ The Dull Pickaxe was forcibly taken...<#>
 {Sid Bloodheart}Ey,\. ey!\| Stop!\. Stop!<#>{Сид Кровавый}Эй,\. эй!\| Стоп!\. Стоп!
 {Pope Slaughter}Show me what you've got, boys!<#>{Поуп Убойный}Покажите мне, что умеете, ребята!
 {Pope Slaughter}Good hustle, but the oven's heating up now.<#>{Поуп Убойный}Отлично работаете, но я только разогреваюсь.
-{Pope Slaughter}Time to give this outfit\#a new shade of red!<#>
+{Pope Slaughter}Time to give this outfit\#a new shade of red!<#>{Поуп Убойный}Время подарить этому наряду\#новый оттенок красного!
 {Pope Slaughter}It's a party now! Woooo!<#>{Поуп Убойный}Веселимся! Уууу!
 {Pope Slaughter}Not bad, not bad at all...<#>{Поуп Убойный}Неплохо, очень даже неплохо...
 {Palisade Dipper}Think you've got what it takes?<#>{Палисейд Диппер}Думаете, вы сможете?
@@ -374,8 +374,8 @@ The Dull Pickaxe was forcibly taken...<#>
 {Mikhail "Milo" Zhnebrowski}Brothers...\| pray for me!<#>{Михаил "Мило" Жнебровский}Братья...\| помолитесь за меня!
 {Mikhail "Milo" Zhnebrowski}Augh!<#>{Михаил "Мило" Жнебровский}Ох!
 {Mikhail "Milo" Zhnebrowski}It...\| it was not meant to be...<#>{Михаил "Мило" Жнебровский}Этого...\| этого не должно было...
-{Dwight Boyak}Smooth moves!<#>
-{Dwight Boyak}But lemme show you\#what I can do!<#>
+{Dwight Boyak}Smooth moves!<#>{Дуайт Бояк}Плавно двигаешься!
+{Dwight Boyak}But lemme show you\#what I can do!<#>{Дуайт Бояк}Но давай покажу тебе,\#на что я способен!
 {Dwight Boyak}Ain't seen nothin' yet!<#>{Дуайт Бояк}Ты ещё ничего не видел!
 {Dwight Boyak}Looks like you were the spicier enchilada.<#>{Дуайт Бояк}Похоже, ты - энчилада поострее.
 {Rodrigo Chainman}Let the blood cleanse you.<#>{Родриго Чейнмэн}Позволь крови очистить тебя.
@@ -416,9 +416,9 @@ The Dull Pickaxe was forcibly taken...<#>
 {Scrawny Davy}Is it hot in here,\. or is it just me?<#>{Тощий Дэви}Здесь горячо,\. или мне кажется?
 {Scrawny Davy}Heh...\| heh...<#>{Тощий Дэви}Хе...\| хе...
 {Scrawny Davy}Hey, what's going on back there?!<#>{Тощий Дэви}Эй, что там происходит?!
-{Serjio Oman}Have at you!<#>
+{Serjio Oman}Have at you!<#>{Серхио Оман}Получи!
 {Scrawny Davy}You guys better not be messing with my-\^<#>{Тощий Дэви}Ребята, вам лучше не портить мой-\^
-{Serjio Oman}In the name of the Elder, I shall cut you down!<#>{Серхио Оман}Во имя Старейшины, я тебя убью!
+{Serjio Oman}In the name of the Elder, I shall cut you down!<#>{Серхио Оман}Во имя старейшины, я тебя убью!
 {Serjio Oman}I won't be felled by the likes of you!<#>{Серхио Оман}Я не позволю таким, как вы, меня сокрушить!
 {Serjio Oman}Where did we go so wrong...?<#>{Серхио Оман}Где мы так ошиблись...?
 {Vasyl Jerudich}I'm like a raging bull!\. Wild and unstoppable!<#>{Василь Иерудич}Я как разъяренный бык!\. Дикий и неудержимый!
@@ -444,13 +444,13 @@ The Dull Pickaxe was forcibly taken...<#>
 {Cecil Flairs}I ate coal as a kid.<#>{Сэсил Находчивый}Я ел уголь, когда был ребёнком.
 {Wily Knight}Maybe that's why you\#were so God damn ugly!<#>{Уили Рыцарь}Может поэтому ты был таким\#уродом!
 {Wily Knight}This is all wrong!<#>{Уили Рыцарь}Это всё неправильно!
-{June the Goon}Boss!<#>
-{Cecil Flairs}Oh\..\..\..<#>
-{Ygor Melody}Non...<#>
-{Scooter Screwloose}Heheheh...<#>
+{June the Goon}Boss!<#>{Юн Придурок}Босс!
+{Cecil Flairs}Oh\..\..\..<#>{Сэсил Находчивый}Ох\..\..\..
+{Ygor Melody}Non...<#>{Игор Мелодичный}Нет...
+{Scooter Screwloose}Heheheh...<#>{Скутер Беспредельщик}Хе-хе-хе...
 {Wily Knight}I'm the main character!\. I can't die!<#>{Уили Рыцарь}Я главный герой!\. Я не могу умереть!
 {Ygor Melody}.\..\..\.Fin.<#>{Игор Мелодичный}.\..\..\.Конец.
-{Ygor Melody}Stay away!<#>
+{Ygor Melody}Stay away!<#>{Игор Мелодичный}Не подходи!
 {Wily Knight}So you COULD talk!<#>{Уили Рыцарь}Так ты УМЕЕШЬ говорить!
 {Scooter Screwloose}God,\. I am harder than concrete.<#>{Скутер Беспредельщик}Господи,\. я крепче чем бетон.
 {Wily Knight}You'll be real hard when rigor mortis sets in!<#>{Уили Рыцарь}Ты станешь ещё крепче,  когда\#твой труп окоченеет!
@@ -475,7 +475,7 @@ The Dull Pickaxe was forcibly taken...<#>
 {Bepe Stormer}This storm's just started!<#>{Бепе Штормер}Шторм только начался!
 {Bepe Stormer}This is all Tibby's fault.<#>{Бепе Штормер}Это всё вина Тибби.
 {Matty Mack}I'm here, Daddy Mack!<#>{Мэтти Отче}Я здесь, папочка!
-{Jessie Mack}It's all just the same ol' meat.<#>
+{Jessie Mack}It's all just the same ol' meat.<#>{Джесси Отче}Это всё лишь мясо.
 {Matty Mack}Right in time for harvestin'!<#>{Мэтти Отче}Прямо к сбору!
 {Jessie Mack}It's all just...\| meat...<#>{Джесси Отче}Это всё лишь...\| мясо...
 {Alejandro Babbage}You can't keep...\| urp...<#>{Алехандро Бэббэдж}Ты не можешь взять...\| ик...
@@ -494,79 +494,79 @@ The Dull Pickaxe was forcibly taken...<#>
 {Borislav Ragnarok}The Soviet Union will live on forever...<#>{Борислав Рагнарок}Советский Союз будет жить вечно...
 {Borislav Ragnarok}...no matter what happens.<#>{Борислав Рагнарок}...что бы ни случилось.
 {Borislav Ragnarok}Commander...\| I am sorry.<#>{Борислав Рагнарок}Командир...\| Мне жаль.
-{Bepe Stormer}It's you!<#>
-{Bepe Stormer}We're gonna paint your face across\#the pavement, asshole!<#>
-{Tibby Dobs}K-Kent...\|\#Let's just calm down and-\^<#>
-{Tibby Dobs}Fuck you!<#>
-{???}I knew you had it in you.<#>
-{???}You failed.<#>
-{???}This is it.<#>
-{???}This is the end.<#>
-{???}You cannot run away.<#>
-{???}You've been running\#your entire life.<#>
-{???}You will not achieve anything.<#>
-{???}You cannot change anything.<#>
-{???}This is your future now.<#>
-{???}Every failure...\|\#Every hardship endured...\|\|\#Every life taken...<#>
-{???}They all lead to this.\|\#Shaped your current self.<#>
-{???}This is you.\|\|\#The\| REAL you.<#>
-{???}It has to end.<#>
-{???}Your new life begins.<#>
-{???}You alright, Lucky?<#>
-{???}Is there anything wrong?<#>
-{???}Yeah, what's up with you?<#>
-{???}He has lost his senses!\|\#HA HA!<#>
-{Joel Miller}Alex...?<#>
-{Joel Miller}What are you doing?<#>
-{Joel Miller}You're creeping me out...<#>
-{Joel Miller}Lucky,\. STOP IT!<#>
-{Joel Miller}What do you even think\#you're doing?<#>
-{Joel Miller}Come on...<#>
-{Joel Miller}Lucky...?<#>
-{Joel Miller}Don't you remember me?<#>
-{Joel Miller}...<#>
-{Joel Miller}Lucky, come on!<#>
-{Joel Miller}I know you're there!<#>
-{Joel Miller}Please,\. stop this!<#>
-{Joel Miller}Don't make me do this...<#>
-{Joel Miller}I don't want to hurt you...<#>
-{Joel Miller}.\..\..\.\.\.!<#>
-{Joel Miller}But it seems like\#I have no choice...<#>
-{Joel Miller}Lucky...<#>
-{Joel Miller}All I want to ask is...<#>
-{Joel Miller}Why?<#>
-{Joel Miller}I'm sorry for this.<#>
-{Joel Miller}It didn't have to end like t-\^<#>
-{Joel Miller}A-Alex...<#>
-{Joel Miller}G-get your hands off m-\^<#>
-{Geen Jean}He doesn't look\#very good...<#>
-{Geen Jean}We need to snap\#him out of it!<#>
-{Geen Jean}Alex,\. what's gotten into\#you all of a sudden?<#>
-{Joel Miller}Ugh...<#>
-{Geen Jean}Alex, what the hell?!\.\#We are your friends!\. Quit it!<#>
-{Geen Jean}Alex, stop that!<#>
-{Joel Miller}Stay back, Lucky!<#>
-{Geen Jean}The hell happened to him?<#>
-{Geen Jean}His eyes look so empty...<#>
-{Geen Jean}Wait...\.\.\#I have an idea!<#>
-{Geen Jean}Joel, stay behind me!<#>
-{Joel Miller}L-Lucky!<#>
-{Joel Miller}How could you\#do that?!<#>
-{Joel Miller}Last warning!<#>
-{Joel Miller}Don't come any cl-\^<#>
-{Salt Crab}Don't worry!<#>
-{Salt Crab}All he needs is a\#good slap!\. HA HA!<#>
-{Salt Crab}Seems like we gotta smack\#some sense into him!<#>
-{Salt Crab}I'll hold him off!<#>
-{Salt Crab}My shell...<#>
-{Joel Miller}Stay back!<#>
-{Salt Crab}It's a good thing that I always\#bring my salt cart with me for\#situations like these!\.\.\.\. HA HA HA!<#>
-{Salt Crab}Come on!\.\#Hop in!<#>
+{Bepe Stormer}It's you!<#>{Бепе Штормер}Это ты!
+{Bepe Stormer}We're gonna paint your face across\#the pavement, asshole!<#>{Бепе Штормер}Мы тебя по земле размажем,\#мудак!
+{Tibby Dobs}K-Kent...\|\#Let's just calm down and-\^<#>{Тибби Добс}К-кент...\|\#Давай просто успокоимся и-\^
+{Tibby Dobs}Fuck you!<#>{Тибби Добс}Пошёл ты!
+{???}I knew you had it in you.<#>{???}Я знал, что в тебе это было.
+{???}You failed.<#>{???}Ты провалился.
+{???}This is it.<#>{???}Вот и всё.
+{???}This is the end.<#>{???}Это конец.
+{???}You cannot run away.<#>{???}Тебе не убежать.
+{???}You've been running\#your entire life.<#>{???}Ты бежал всю свою жизнь.
+{???}You will not achieve anything.<#>{???}Ты ничего не добьёшься.
+{???}You cannot change anything.<#>{???}Тебе уже не измениться.
+{???}This is your future now.<#>{???}Теперь это твоё будущее.
+{???}Every failure...\|\#Every hardship endured...\|\|\#Every life taken...<#>{???}Каждая ошибка...\|\#Каждая преодолённая трудность...\|\|\#Каждая забранная жизнь...
+{???}They all lead to this.\|\#Shaped your current self.<#>{???}Ведут к этому.\|\#Они сделали из тебя это.
+{???}This is you.\|\|\#The\| REAL you.<#>{???}Это ты.\|\|\#ИСТИННЫЙ\| ты.
+{???}It has to end.<#>{???}Это должно закончиться.
+{???}Your new life begins.<#>{???}Начнётся твоя новая жизнь.
+{???}You alright, Lucky?<#>{???}Ты в порядке, счастливчик?
+{???}Is there anything wrong?<#>{???}Что-то не так?
+{???}Yeah, what's up with you?<#>{???}Да, что с тобой?
+{???}He has lost his senses!\|\#HA HA!<#>{???}Он дизориентирован!\|\#ХА-ХА!
+{Joel Miller}Alex...?<#>{Джоэл Миллер}Алекс...?
+{Joel Miller}What are you doing?<#>{Джоэл Миллер}Что ты творишь?
+{Joel Miller}You're creeping me out...<#>{Джоэл Миллер}Ты меня пугаешь...
+{Joel Miller}Lucky,\. STOP IT!<#>{Джоэл Миллер}Счастливчик,\. ПРЕКРАТИ!
+{Joel Miller}What do you even think\#you're doing?<#>{Джоэл Миллер}Что ты вообще творишь?
+{Joel Miller}Come on...<#>{Джоэл Миллер}Ну же...
+{Joel Miller}Lucky...?<#>{Джоэл Миллер}Счастливчик...?
+{Joel Miller}Don't you remember me?<#>{Джоэл Миллер}Ты меня не узнаёшь?
+{Joel Miller}...<#>{Джоэл Миллер}...
+{Joel Miller}Lucky, come on!<#>{Джоэл Миллер}Счастливчик, ну же!
+{Joel Miller}I know you're there!<#>{Джоэл Миллер}Я знаю, ты там!
+{Joel Miller}Please,\. stop this!<#>{Джоэл Миллер}Пожалуйста,\. прекрати это!
+{Joel Miller}Don't make me do this...<#>{Джоэл Миллер}Не заставляй меня это делать...
+{Joel Miller}I don't want to hurt you...<#>{Джоэл Миллер}Я не хочу тебе вредить...
+{Joel Miller}.\..\..\.\.\.!<#>{Джоэл Миллер}.\..\..\.\.\.!
+{Joel Miller}But it seems like\#I have no choice...<#>{Джоэл Миллер}Похоже, у меня нет\#выбора...
+{Joel Miller}Lucky...<#>{Джоэл Миллер}Счастливчик...
+{Joel Miller}All I want to ask is...<#>{Джоэл Миллер}Я лишь хочу спросить...
+{Joel Miller}Why?<#>{Джоэл Миллер}Почему?
+{Joel Miller}I'm sorry for this.<#>{Джоэл Миллер}Прости за это.
+{Joel Miller}It didn't have to end like t-\^<#>{Джоэл Миллер}Всё не должно кончаться та-\^
+{Joel Miller}A-Alex...<#>{Джоэл Миллер}А-Алекс...
+{Joel Miller}G-get your hands off m-\^<#>{Джоэл Миллер}Убери от меня свои руки-\^
+{Geen Jean}He doesn't look\#very good...<#>{Гин Джин}Он не выглядит\#хорошо...
+{Geen Jean}We need to snap\#him out of it!<#>{Гин Джин}Нам надо выбить из\#него это!
+{Geen Jean}Alex,\. what's gotten into\#you all of a sudden?<#>{Гин Джин}Алекс,\. что в тебя вдруг\#вселилось?
+{Joel Miller}Ugh...<#>{Джоэл Миллер}Уф...
+{Geen Jean}Alex, what the hell?!\.\#We are your friends!\. Quit it!<#>{Гин Джин}Алекс, что за чёрт?!\.\#Мы твои друзья!\. Прекращай!
+{Geen Jean}Alex, stop that!<#>{Гин Джин}Алекс, прекрати!
+{Joel Miller}Stay back, Lucky!<#>{Джоэл Миллер}Не подходи, счастливчик!
+{Geen Jean}The hell happened to him?<#>{Гин Джин}Какого чёрта с ним случилось?
+{Geen Jean}His eyes look so empty...<#>{Гин Джин}Его глаза пусты...
+{Geen Jean}Wait...\.\.\#I have an idea!<#>{Гин Джин}Подожди...\.\.\#У меня есть идея!
+{Geen Jean}Joel, stay behind me!<#>{Гин Джин}Джоэл, держись за мной!
+{Joel Miller}L-Lucky!<#>{Джоэл Миллер}С-счастливчик!
+{Joel Miller}How could you\#do that?!<#>{Джоэл Миллер}Как ты мог?!
+{Joel Miller}Last warning!<#>{Джоэл Миллер}Последнее предупреждение!
+{Joel Miller}Don't come any cl-\^<#>{Джоэл Миллер}Не подходи бли-\^
+{Salt Crab}Don't worry!<#>{Солевой краб}Не волнуйся!
+{Salt Crab}All he needs is a\#good slap!\. HA HA!<#>{Солевой краб}Ему лишь нужна хорошая\#оплеуха!\. ХА-ХА!
+{Salt Crab}Seems like we gotta smack\#some sense into him!<#>{Солевой краб}Похоже, нам придётся вбить\#в него разум!
+{Salt Crab}I'll hold him off!<#>{Солевой краб}Я его задержу!
+{Salt Crab}My shell...<#>{Солевой краб}Мой панцирь...
+{Joel Miller}Stay back!<#>{Джоэл Миллер}Назад!
+{Salt Crab}It's a good thing that I always\#bring my salt cart with me for\#situations like these!\.\.\.\. HA HA HA!<#>{Солевой краб}Хорошо, что я всегда ношу\#с собой мою солевую тележку\#для таких случаев!\.\.\.\. ХА-ХА-ХА!
+{Salt Crab}Come on!\.\#Hop in!<#>{Солевой краб}Давай!\.\#Запрыгивай!
 {Borislav Ragnarok}Do svidania.<#>{Борислав Рагнарок}До побачення.
-{Benedictus Freeman}Now we're equal.<#>
+{Benedictus Freeman}Now we're equal.<#>{Бенедикт Фриман}Теперь мы равны.
 I'm no one in particular.<#>Я - никто особенный.
 {Benedictus Freeman}This is fine.<#>{Бенедикт Фриман}Всё в порядке.
-{Frisko Benson}Don't you have anything\#better to do?<#>
+{Frisko Benson}Don't you have anything\#better to do?<#>{Фриско Бенсон}Тебе больше заняться\#нечем?
 {Frisko Benson}God damn...<#>{Фриско Бенсон}Чёрт возьми...
 {Silvester de Maistre}Bah, this is childs' play!<#>{Сильвестр де Мейстр}Ба, это детские игры!
 {Silvester de Maistre}Let's make this more interesting!<#>{Сильвестр де Мейстр}Давай сделаем поинтереснее!
@@ -577,41 +577,41 @@ I'm no one in particular.<#>Я - никто особенный.
 {Silvester de Maistre}I should have... seen this coming.<#>{Сильвестр де Мейстр}Я должен был... предвидеть это.
 {Silvester de Maistre}But you know...<#>{Сильвестр де Мейстр}Но знаешь...
 {Silvester de Maistre}Dying with regrets, doesn't seem so bad.<#>{Сильвестр де Мейстр}Умирать с сожалением - не так уж плохо.
-{Aron Richter}Checkmate!<#>
-{Aron Richter}Again.<#>
+{Aron Richter}Checkmate!<#>{Арон Рихтер}Шах и мат!
+{Aron Richter}Again.<#>{Арон Рихтер}Снова.
 {Aron Richter}Who pulls a knife\#on a dying man?<#>
-{Aron Richter}The hell you think\#you're doing, man?<#>
+{Aron Richter}The hell you think\#you're doing, man?<#>{Арон Рихтер}Какого чёрта ты делаешь,\#мужик?
 {Aron Richter}You pulled my leg!<#>
 {Aron Richter}What you doin' with that pistol, big-hat?\|\#Don't you dare weaponize that technology!<#>
-{Aron Richter}I'm dead, I guess.<#>
-{Pete Harper}Stay behind me!<#>
-{Mathew Harper}Please!<#>
-{Mathew Harper}We haven't done anything!<#>
-{Pete Harper}Don't touch him!<#>
-{Risky Richmond}Stop that!<#>
-{Risky Richmond}We aren't looking for trouble!<#>
-{Pete Harper}It's no use, Risky.<#>
+{Aron Richter}I'm dead, I guess.<#>{Арон Рихтер}Похоже, мне конец.
+{Pete Harper}Stay behind me!<#>{Пит Харпер}За мной!
+{Mathew Harper}Please!<#>{Мэтью Харпер}Пожалуйста!
+{Mathew Harper}We haven't done anything!<#>{Мэтью Харпер}Мы ничего не сделали!
+{Pete Harper}Don't touch him!<#>{Пит Харпер}Не трогайте его!
+{Risky Richmond}Stop that!<#>{Риски Ричмонд}Прекращай!
+{Risky Richmond}We aren't looking for trouble!<#>{Риски Ричмонд}Нам не нужны неприятности!
+{Pete Harper}It's no use, Risky.<#>{Пит Харпер}Бесполезно, Риски.
 {Boy Trent}Way to kick a man\#while he's down...<#>
-{Pete Harper}Trent!\.\#Stay back!<#>
-{Pete Harper}Bastard!<#>
-{Pete Harper}You're gonna eat shit!<#>
-{Pete Harper}I'm\..\..\..\#I'm sorry guys...<#>
-{Pete Harper}Save yourselves...<#>
-{Boy Trent}No way...<#>
-{Boy Trent}I was so useless...<#>
-{Mathew Harper}Pete...?<#>
-{Mathew Harper}It can't be...<#>
-{Mathew Harper}He really is...<#>
-{Mathew Harper}...<#>
-{Risky Richmond}Oh...\|\#Oh god...<#>
-{Risky Richmond}No...<#>
-{Risky Richmond}Not him...<#>
-{Risky Richmond}What are we gonna\#do now without him?<#>
-{Boy Trent}Ah...\|\#Can't say I didn't\#expect this...<#>
-{Pete Harper}Motherfucker!<#>
-{Pete Harper}Now you're gonna get it!<#>
-{Mathew Harper}P-\|Pete?\|\#I...<#>
-{Risky Richmond}That was risky.<#>
+{Pete Harper}Trent!\.\#Stay back!<#>{Пит Харпер}Трент!\.\#Назад!
+{Pete Harper}Bastard!<#>{Пит Харпер}Ублюдок!
+{Pete Harper}You're gonna eat shit!<#>{Пит Харпер}Ты будешь есть грязь!
+{Pete Harper}I'm\..\..\..\#I'm sorry guys...<#>{Пит Харпер}Мне\..\..\..\#Мне жаль, парни...
+{Pete Harper}Save yourselves...<#>{Пит Харпер}Спаситесь...
+{Boy Trent}No way...<#>{Бой Трент}Невозможно...
+{Boy Trent}I was so useless...<#>{Бой Трент}Я оказался бесполезным...
+{Mathew Harper}Pete...?<#>{Мэтью Харпер}Пит...?
+{Mathew Harper}It can't be...<#>{Мэтью Харпер}Не может быть...
+{Mathew Harper}He really is...<#>{Мэтью Харпер}Он правда...
+{Mathew Harper}...<#>{Мэтью Харпер}...
+{Risky Richmond}Oh...\|\#Oh god...<#>{Риски Ричмонд}Ох...\|\#О боже...
+{Risky Richmond}No...<#>{Риски Ричмонд}Нет...
+{Risky Richmond}Not him...<#>{Риски Ричмонд}Только не он...
+{Risky Richmond}What are we gonna\#do now without him?<#>{Риски Ричмонд}Что мы будем делать\#без него?
+{Boy Trent}Ah...\|\#Can't say I didn't\#expect this...<#>{Бой Трент}Ах...\|\#Я предполагал\#такой исход...
+{Pete Harper}Motherfucker!<#>{Пит Харпер}Хуесос!
+{Pete Harper}Now you're gonna get it!<#>{Пит Харпер}Теперь тебе конец!
+{Mathew Harper}P-\|Pete?\|\#I...<#>{Мэтью Харпер}П-\|Пит?\|\#Я...
+{Risky Richmond}That was risky.<#>{Риски Ричмонд}Я был рисковым.
 {Sholo Liberty}.\.\..\.\..<#>
 {Sholo Liberty}\..\..\..\.\.Why?<#>
 {Fecal Rusher}You don't know when to quit!<#>

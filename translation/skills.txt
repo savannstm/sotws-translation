@@ -6,16 +6,16 @@ Escape<#>Побег
 flees.<#>сбегает.
 waits.<#>ожидает.
 sings Confusion Song!<#>поёт песню замешательства!
-paints you red!<#>
+paints you red!<#>окрашивает вас в красный!
 uses Sleep Breath!<#>использует дыхание сна!
-takes some joy!<#>
+takes some joy!<#>принимает Джой!
 uses Sleep Pollen.<#>использует сон-пыльцу!
 uses Paralyze Breath!<#>использует парализующее дыхание!
-whirls like a tornado!<#>
+whirls like a tornado!<#>кружится, словно торнадо!
 uses Paralyze Stare!<#>использует парализующий взгляд!
 bites down hard!<#>больно кусает!
-swings and scores!<#>
-goes wild with his pickaxe!<#>
+swings and scores!<#>бьёт и забивает!
+goes wild with his pickaxe!<#>безумствует с киркой!
 barks at you!<#>лает на вас!
 uses Vampire!<#>использует вампиризм!
 uses Meditate!<#>медитирует!
@@ -642,7 +642,7 @@ Disarming Chop<#>Обезоруживающий удар
 chops at the wrist!<#>удярет по запястью!
 Dive<#>Нырок
 A classic evasive maneuver. Can still use items.\#Prevents most forms of damage, but staggers.<#>Классический манёвр уклонения. Позволяет использовать предметы.\#Защищает от большинства видов урона, но вы теряете равновесие.
-brings you down with him!<#>
+brings you down with him!<#>бросает вас на прогиб!
 does his Buster Punches!<#>
 got outta there!<#>убирается подальше!
 Iron Hoof<#>Стальное копыто
@@ -705,8 +705,8 @@ Urban legends say, this style, of  Zhang Xianzhong,\#was lost after being banned
 smacks with wrist!<#>бьёт запястьем!
 Trick Kick<#>Трюк-кик
 A feint attack, that delivers a kick to the groin.<#>Ложная атака, заключающаяся в ударе ногой в пах.
-slices across your chest!<#>
-threw a rotten fruit at you!<#>
+slices across your chest!<#>рассекает грудь!
+threw a rotten fruit at you!<#>кидает в вас тухлый фрукт!
 delivers a groin kick!<#>наносит удар ногой в пах!
 (DDD) A no-nonsense, double back kick.\#May launch enemy into the air.<#>(DDD) Совершенно серьёзный двойной удар ногами.\#Может запустить врага в воздух. Стоит 120 ОЗ.
 Misdirection<#>Дезориентация
@@ -736,10 +736,10 @@ Bottle Juggle<#>Жонглирование бутылками
 A classic party trick. Shame that you're not very\#good at it. Hits three random enemies.<#>Классический трюк для вечеринок. Жаль, что вы не очень\#хороши в нём. Попадает по трём случайным врагам.
 juggles! Poorly.<#>жонглирует! Плохо.
 cut himself on accident!<#>случайно порезался!
-swings the huge boulder!<#>
-ruptures an artery!<#>
+swings the huge boulder!<#>рахмахивает огромным валуном!
+ruptures an artery!<#>вспарывает артерию!
 Wasted Rave<#>Дикий рейв
-will kill.<#>
+will kill.<#>будет убивать.
 Play dirtier. Makes your whole team party hard.\#You'll feel cooler, too.<#>Играйте грязнее. Заставляет всю команду дико\#веселиться. Вы тоже почувствуете себя круто.
 parties like it's 1999!<#>веселится, будто это 90-е!
 Mucus Blast<#>Взрыв слизи
@@ -754,7 +754,7 @@ Let the Midas touch turn all it blasts, into gold.\#The beauty of such a move ca
 fires the ultimate beam!<#>стреляет ультимативным лучом!
 Bedazzle<#>Светануть
 Show off your bling to dazzle an opponent.\#The beauty will often reduce them to tears.<#>Светаните своими цацками и ослепите оппонента.\#Красота, скорее всего, заставит его плакать.
-spills your blood!<#>
+spills your blood!<#>проливает вашу кровь!
 displays his jewelry!<#>показывает украшения!
 Trowel Ravage<#>Разрушительная лопатка
 Show them you're not fucking around.<#>Покажите врагу, что вы хуйнёй не маетесь.
@@ -776,7 +776,7 @@ gets in a good stretch!<#>хорошенько растягивается!
 White Streak<#>Белая полоса
 A slap of paint that's sure to disorient. Sets foes\#off balance and can even make them cry.<#>Красочный мазок, который точно дезориентирует врагов.\#Выбивает их из равновесия и заставляет плакать.
 slaps with his paintbrush!<#>проводит своей кистью!
-sounds the horn!<#>
+sounds the horn!<#>жмёт на гудок!
 White Splash<#>Белый всплеск
 Dispense the whole bucket's worth onto their face.\#Gets them wet. Small chance to piss them off.<#>Выплесните всё ведро краски на лицо оппонента. Мочит врагов.\#Имеет маленький шанс взбесить.
 chucks a bucketload of paint!<#>выливает ведро краски!
@@ -863,17 +863,17 @@ Blessed Rain<#>Благословенный дождь
 Expel a restorative droplet onto a KO'd ally,\#bringing them back to the battle. Gets them wet.<#>Выплесните исцеляюшую каплю на нокаутированного\#союзника, возвращая его в бой. Мочит его.
 (AWAW) Supreme fist technique. Annihilate their\#face so much they cannot see. Costs 250 HP.<#>
 gets them back on their feet!<#>поднимает на ноги!
-cuts deep!<#>
-frees himself!<#>
-gives you an elbow!<#>
-claws your face!<#>
-bashes your skull!<#>
-sends you across the room!<#>
-boxes with the trash.<#>
+cuts deep!<#>глубоко режет!
+frees himself!<#>освобождается!
+gives you an elbow!<#>ударяет локтём!
+claws your face!<#>царапает ваше лицо!
+bashes your skull!<#>пробивает ваш череп!
+sends you across the room!<#>бросает вас через всю комнату!
+boxes with the trash.<#>боксирует мусором!
 scarfs down some salt!<#>съедает немного соли!
-shatters the ground!<#>
-laughs like a maniac!<#>
-slams you into the dirt!<#>
+shatters the ground!<#>сотрясает землю!
+laughs like a maniac!<#>маниакально смеётся!
+slams you into the dirt!<#>втаптывает вас в грязь!
 Pocket Salt<#>Карманная соль
 A nasty surprise for the eyes. Can inflict crying and\#spooked. Low chance to blind.<#>Неприятный сюрприз для глаз. Может вызвать слёзы\#и страх. Имеет маленький шанс ослепить.
 flings some salt in their eyes!<#>бросает соль в глаза!
@@ -886,10 +886,10 @@ Display your blade in a last-ditch attempt to\#frighten the enemy. Results may v
 attempts to be threatening.<#>пытается угрожать.
 bland, straightforward brutality!<#>безвкусная, прямолинейная жестокость!
 smacks with his palm!<#>бьёт ладонью!
-prepares his arrows!<#>
+prepares his arrows!<#>готовит стрелу!
 uppercuts up!<#>делает апперкот!
-needs more bottles...<#>
-looses arrow after arrow!<#>
+needs more bottles...<#>нуждается в бутылках...
+looses arrow after arrow!<#>выпускает стрелу за стрелой!
 performs a gut kick!<#>ударяет в живот!
 Flying Dropkick<#>Удар в полёте
 (WWD) Go flying with both of your feet forward.\#Has a chance to fell the enemy. Costs 50 HP.<#>(WWD) Летите, вытянув обе ноги вперед.\#Есть шанс сбить врага с ног. Стоит 50 ОЗ.

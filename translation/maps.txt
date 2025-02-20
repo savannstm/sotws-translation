@@ -2786,10 +2786,10 @@ They are dead.<#>Они мертвы.
 \et[152]We'll recover soon.<#>Мы скоро восстановимся.
 \et[000]Perhaps you're gonna\#blow it yourself with\#that eyepatch.<#>
 \et[0183]Hmm...\|\#Perhaps you're right...<#>Хмм...\|\#Возмжно ты прав.
-\et[0183]You know what?\|\#You can take it.<#>Знаешь, что?\|\#Можешь забрать её.
+\et[0183]You know what?\|\#You can take it.<#>Знаешь что?\|\#Можешь забрать её.
 He gave you his eyepatch!<#>Он дал вам свою повязку!
 \et[0183]Now, if you will.<#>Теперь, если ты позволишь.
-\et[000]Yeah...\.\#Right.<#>Да...\.\#Точно.
+\et[000]Yeah...\.\#Right.<#>Да...\.\#Конечно.
 He is obviously dead.<#>Он, очевидно, мёртв.
 He is...dead?<#>Он... мёртв?
 \et[0183]Shh! You'll\#blow my cover.<#>Тсс! Ты раскроешь\#моё прикрытие.
@@ -4092,8 +4092,8 @@ AGI decreased.<#>Ловкость понижена.
 \et[102]And you friends here\#will pay for it.<#>Ты, и твои друзья за\#это заплатят.
 He has been cured.<#>Он был вылечен.
 He is done for...<#>Он готов...
-Contains surgical equipment.<#>
-All of the instruments are worn out.\|\#Nothing of use.<#>Все инструменты изношены.\|\#Ничем не воспользоваться.
+Contains surgical equipment.<#>Медицинские инструменты.
+All of the instruments are worn out.\|\#Nothing of use.<#>Все они изношены.\|\#Ничем не воспользоваться.
 \et[052]Doesn't look good.\#He needs to rest-<#>Он выглядит плохо.\#Ему нужно отдохнуть-
 \et[000]Just get us\#outta here.<#>Просто давай\#валить отсюда.
 \et[102]Quite the...\| mess\#you've made here.<#>Какой же...\| беспорядок\#ты тут устроил.
@@ -6341,7 +6341,7 @@ He's dead.<#>Он мёртв.
 \et[000]My sinuses\#are on fire.<#>Мои ноздри\#горят.
 \et[040]You bet\#they are.<#>Ещё\#бы.
 \et[040]Welcome to\#the good life,\#my brother.<#>Добро пожаловать\#в хорошую жизнь,\#брат.
-\et[040]You're really messed up.\|\#For real.<#>
+\et[040]You're really messed up.\|\#For real.<#>Ты серьёзно болен.\|\#Правда.
 \et[040]We'll treat\#you right.<#>Мы тебя как\#следует вылечим.
 \et[040]Don't talk\#to me.<#>Не разговаривай\#со мной.
 He seems busy.<#>Он, похоже, занят.
@@ -6457,7 +6457,7 @@ The text is illegible.<#>Текст неразборчив.
 \et[001]The people here\#are too busy sticking\#their dicks in trash to\#give us their time.<#>Люди здесь слишком\#заняты ёблей с мусором,\#чтобы уделить нам время.
 \et[001]Now look at\#what's happened...<#>Теперь посмотри, что\#произошло...
 \et[001]Poor T.P.<#>Бедняга Т. П.
-He's dead.<#>
+He's dead.<#>Он мёртв.
 \et[001]Can't wait to\#go back to shore.<#>Не терпится вернуться\#на берег.
 \et[001]Slim's prolly wondering\#where the hell we are.<#>Слим, наверное, думает\#к какому чёрту мы затерялись.
 It's full of blue pills.<#>Она полна синих таблеток.
@@ -7070,31 +7070,31 @@ It reads, in shaky writing:<#>Оно гласит, расшатанными бу
 "Where's the...\| doctor?"<#>"Где...\| доктор?"
 The rest is illegible.<#>Остальное неразборчиво.
 \et[006]Chasing Joy?<#>Жаждешь Джоя?
-\et[000]You already said that...<#>
-\et[006]Hah!<#>
-\et[006]I'm just checking...<#>
-\et[000]Checking what?<#>
-\et[000]Who are you even?<#>
-\et[006]\.Who?\.\.\. Me?\.\.\.\.\.\#Nobody of interest.<#>
-\et[000]Your face is everywhere...<#>
-\et[006]Oh?\. Is it really?<#>
-\et[000]Y-yeah...<#>
-\et[006]Well,\. that doesn't really\#matter right now...<#>
-\et[006]Say\..\..\..<#>
-\et[006]You want another sample\#of what the Joy has to offer?<#>
-\et[006]You want a sample\#of what the Joy has to offer?<#>
-\et[000]Uhh\..\..\..<#>
-\et[000]No?<#>
-\et[000]I'm not\#interested.<#>
-\et[006]Oh...<#>
-\et[006]Is that so?<#>
-\et[006]Let's see if you're being truthful.<#>
-\et[006]Liar.<#>
-\et[006]That's\#really hard to\#believe.<#>
-\et[006]But it's alright.<#>
-\et[006]I hope that my new sample\#will be able to convince you.<#>
-His weapon...<#>
-Got a Warfare Scimitar!<#>
+\et[000]You already said that...<#>Ты уже спрашивал...
+\et[006]Hah!<#>Ха!
+\et[006]I'm just checking...<#>Просто убеждаюсь...
+\et[000]Checking what?<#>В чём?
+\et[000]Who are you even?<#>Ты вообще кто?
+\et[006]\.Who?\.\.\. Me?\.\.\.\.\.\#Nobody of interest.<#>\.Кто?\.\.\. Я?\.\.\.\.\.\#Да никто особенный.
+\et[000]Your face is everywhere...<#>Твоё лицо везде...
+\et[006]Oh?\. Is it really?<#>А?\. Правда?
+\et[000]Y-yeah...<#>Д-да...
+\et[006]Well,\. that doesn't really\#matter right now...<#>Ну,\. это сейчас неважно...
+\et[006]Say\..\..\..<#>Скажи\..\..\..
+\et[006]You want another sample\#of what the Joy has to offer?<#>Ты хочешь увидеть, что тебе\#может дать Джой, во второй раз?
+\et[006]You want a sample\#of what the Joy has to offer?<#>Ты хочешь увидеть, что\#тебе может дать Джой?
+\et[000]Uhh\..\..\..<#>Эээ\..\..\..
+\et[000]No?<#>Нет?
+\et[000]I'm not\#interested.<#>Мне не\#интересно.
+\et[006]Oh...<#>Ох...
+\et[006]Is that so?<#>Вот как?
+\et[006]Let's see if you're being truthful.<#>Посмотрим, честен ли ты.
+\et[006]Liar.<#>Лжец.
+\et[006]That's\#really hard to\#believe.<#>В это тяжело\#поверить.
+\et[006]But it's alright.<#>Но всё в порядке.
+\et[006]I hope that my new sample\#will be able to convince you.<#>Надеюсь, что мой\#новый образец тебя\#убедит.
+His weapon...<#>Его оружие...
+Got a Warfare Scimitar!<#>Вы получили боевой скимитар!
 You found a secret stash!<#>Вы нашли скрытый схрон!
 Doctor's coat!<#>Докторский халат!
 <!-- Map221.rvdata2 --><#>
@@ -8110,7 +8110,6 @@ He is dead.<#>Он мёртв.
 \et[015]It's a shame\#that other rat\#I had went missing.<#>Жаль, что другая крыса,\#которая у меня была,\#пропала.
 \et[015]It would've\#been a great\#treat for my\#good girl!<#>Она была бы\#прекрасным\#лакомством\#для моей девочки!
 \et[015]Don't worry,\#Clove,\. Santana\#will get you\#some grubs soon!<#>Не волнуйся,\#Клов,\. Сантана\#скоро принесёт\#тебе еды!
-\et[0015]¡La carne\#de la vida!<#>
 \et[000]Wow...<#>Вау...
 \et[000]My hatred for snakes somehow\#grew even stronger.<#>Моя ненависть к змеям как-то\#умудрилась вырасти.
 Nothing but ashes.<#>Ничего, кроме пепла.
@@ -9217,24 +9216,24 @@ He is dead.<#>Он мёртв.
 He is absorbed by the text.<#>Он поглощён текстом.
 \et[006]Turns out\#books are\#great for\#bludgeoning,\. too.<#>Оказывается,\.\#книги хороши\#ещё и для\#избиения.
 \et[006].\|.\|.\|Except for a cup of fresh\#water,\| of course.<#>
-\et[006]Mind fetching me some from\#the cooler over there?<#>
-\et[000]Uh...\|\#Sure thing.<#>
-\et[000]Here.<#>
-Lost a cup of water.<#>
-\et[006]Thank you,\| uhh...<#>
-\et[000]Alex.<#>
-\et[006]Alex, alright.<#>
+\et[006]Mind fetching me some from\#the cooler over there?<#>Не возражаешь подать\#мне немного воды из\#того кулера?
+\et[000]Uh...\|\#Sure thing.<#>Э...\|\#Конечно.
+\et[000]Here.<#>Вот
+Lost a cup of water.<#>Потерян стакан воды.
+\et[006]Thank you,\| uhh...<#>Спасибо тебе,\| ээ...
+\et[000]Alex.<#>Алекс.
+\et[006]Alex, alright.<#>Алекс, хорошо.
 \et[006]To be frank,\| this book\#is a bit of a bore.<#>
 \et[006]Let me find some\#more...\| "literature".<#>
-\et[006]Aha!<#>
-\et[006]Almost forgot where I put it.<#>
-\et[006]Let's see...<#>
-\et[006]Hmm...<#>
-\et[006]Oh my god...<#>
-\et[006]Uhh...<#>
-\et[006]Jesus Christ...<#>
-\et[006]The hell is this nonsense?<#>
-\et[006]Hear this.<#>
+\et[006]Aha!<#>Ага!
+\et[006]Almost forgot where I put it.<#>Чуть не забыл, куда я\#его положил.
+\et[006]Let's see...<#>Посмотрим.
+\et[006]Hmm...<#>Хмм...
+\et[006]Oh my god...<#>О боже...
+\et[006]Uhh...<#>Эээ...
+\et[006]Jesus Christ...<#>Господь Иисус...
+\et[006]The hell is this nonsense?<#>Что это за чушь?
+\et[006]Hear this.<#>Послушай.
 \et[006]"Traveler's Logbook Vol. 1"<#>
 \et[006]"Activate Spoiler-Free Achievements?"<#>
 \et[006]I honestly have no idea what it says.<#>
@@ -10123,7 +10122,6 @@ Crashed chopper.<#>Разбившийся вертолет.
 <!-- Map303.rvdata2 --><#>
 <!-- Order: 293 --><#>
 "2"<#>2
-"2"<#>
 <!-- Map304.rvdata2 --><#>
 <!-- Order: 295 --><#>
 "4"<#>4
@@ -11558,7 +11556,7 @@ It is no longer moveable.<#>Он больше не движется.
 \et[006]Proshlo tak\#mnogo vremeni...<#>Минуло так багато\#часу...
 \et[000]Who are you?<#>Кто ты?
 \et[006]Oh.\| Americans.<#>А.\| Американцы.
-\et[006]To think...\|\#they would\#finally breach\#this stronghold...<#>Только подумать...\|\#они наконец\#вторглись в эту\#крепость...
+\et[006]To think...\|\#they would\#finally breach\#this stronghold...<#>Только подумать...\|\#вы наконец\#вторглись в эту\#крепость...
 \et[006]I am...\|\#Borislav...<#>Я...\|\#Борислав...
 \et[006]Proud soldier\#of the\#Soviet Union.<#>Гордый солдат\#Советского\#Союза.
 \et[006]And you...\|\#are not\#welcome here.<#>И вы...\|\#вам здесь\#не рады.
@@ -11589,20 +11587,20 @@ It is no longer moveable.<#>Он больше не движется.
 \et[007]The next time\#you see a big,\.\#red,\. dangerous-\#lookin' lever...<#>В следующий раз,\#когда ты увидишь\#большой,\. красный,\.\#вероятно опасный рычаг...
 \et[007]Don't pull it.\| Okay?<#>Не тяни его.\| Ладно?
 \et[006]Komandir...\|\#Eto vi?<#>Командир...\|\#це ви?
-\et[006]Ty tot, kto razbudil menya?<#>
-\et[000]Meaningless blabbering.<#>
-\et[006]Oh...\|\#An american.<#>
-\et[006]To think...\|\#you would be\#able to breach\#this stronghold...<#>
-\et[006]I dreamed\#so peacefully...\|\#of a So-\^<#>
-\et[006]H-huh?<#>
-\et[000]Done.<#>
+\et[006]Ty tot, kto razbudil menya?<#>Ти Той, хто мене розбудив?
+\et[000]Meaningless blabbering.<#>Бессмысленная чушь.
+\et[006]Oh...\|\#An american.<#>А...\|\#Американец.
+\et[006]To think...\|\#you would be\#able to breach\#this stronghold...<#>Только подумать...\|\#вы наконец\#вторглись в эту\#крепость...
+\et[006]I dreamed\#so peacefully...\|\#of a So-\^<#>Я мирно мечтал...\|\#о совет-\^
+\et[006]H-huh?<#>А-а?
+\et[000]Done.<#>Готов.
 \et[000]Say no more.<#>Ни слова больше.
 \et[007]Good.\| Now let's\#hightail it 'fore\#another giant robot\#comes after us.<#>Отлично.\| Теперь давай\#по газам, пока за нами\#не пришёл очередной\#гигантский робот.
 He is dead.<#>Он мёртв.
 Arm of the cyborg.<#>Рука киборга.
 No use turning back now.<#>Уже бессмысленно возвращаться.
-It's not safe.<#>
-No point.<#>
+It's not safe.<#>Небезопасно.
+No point.<#>Бессмысленно.
 <!-- Map367.rvdata2 --><#>
 <!-- Order: 133 --><#>
 \et[02]Finger beams?<#>Пальцевые лучи?
@@ -11646,7 +11644,7 @@ Go on.<#>Давай.
 \et[06]TKO!<#>НОКАУТ!
 Everything is better left behind.<#>Всё лучше оставить позади.
 <!-- Order: 328 --><#>
-It is dead.<#>
+It is dead.<#>Мёртв.
 Fossilized.<#>
 \et[005]I'm my own man.\.\#I refuse to be\#a victim of\#the cycle.<#>
 <!-- Order: 400 --><#>

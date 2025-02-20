@@ -5,10 +5,10 @@ The apocalypse just got lame.<#>Апокалипсис только что ст�
 Iron Ring<#>Железное кольцо
 A knuckle duster worn down to a single ring.<#>Кастет, изношенный до одного единственного кольца.
 Brass Knuckle<#>Латунный кастет
-Brutal jewelry.\#Might inflict bleeding.<#>
+Brutal jewelry.\#Might inflict bleeding.<#>Брутальное ювелирное изделие.\#Может вызвать кровотечение.
 Brutal jewelry.<#>Брутальное ювелирное изделие.
 Combat Knife<#>Боевой нож
-Emerald Ring<#>
+Emerald Ring<#>Изумрудное кольцо
 A meaningless piece of jewelry from a failed proposal.\#Enhances attack and defense, boosts max SP.<#>
 Standard-issue Rando Army combat dagger.\#Doubles TP rate for normal attacks.<#>Боевой кинжал армии Рандо стандартной модели.\#Удваивает получаемые ОТ за обычные атаки.
 Diamond Ring<#>Алмазное кольцо

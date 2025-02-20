@@ -11,7 +11,7 @@ If you throw this can at someone it won't\#hurt, it's a soft drink! Recovers 75%
 Creamy Cocola<#>Кремовая Кокола
 If you throw this can at someone it won't\#hurt, it's a soft drink! Recovers all SP.<#>Если эту банку кинуть в кого-нибудь, ему не будет\#горько, ведь это сладкий напиток! Восстанавливает все ОН.
 Real Sugar Cocola Cola<#>Кокола-кола с настоящим сахаром
-The original taste of Cocola, lost to time.\#Recovers all SP. The flavor grants another use.<#>
+The original taste of Cocola, lost to time.\#Recovers all SP. The flavor grants another use.<#>Оригинальный вкус Коколы, потерянный во времени.\#Восстанавливает все ОН. Можно выпить дважды.
 Iced Coffee<#>Холодный кофе
 Restores all HP and SP.<#>Восстанавливает все ОЗ и ОН.
 Perfume<#>Духи
@@ -19,7 +19,7 @@ The sweet scent revives an ally.<#>Приятный запах поднимае�
 Fancy Perfume<#>Изысканные духи
 The sweet scent revives an ally fully.<#>Приятный запах поднимает союзников на ноги и\#полностью исцеляет.
 Bird Feed<#>Птичий корм
-A mix of damp seeds and dead grub.\#Restores HP and some SP. (Bulk Food)<#>
+A mix of damp seeds and dead grub.\#Restores HP and some SP. (Bulk Food)<#>Комбикорм из влажных семян и мертвых личинок.\#Восстанавливает ОЗ и немного ОН. (Некачественная еда)
 A mix of damp seeds and dead grub.\#Restores HP and some SP.<#>Комбикорм из влажных семян и мертвых личинок.\#Восстанавливает ОЗ и немного ОН.
 Bottle of Soup<#>Бутылка супа
 Recovers 500 HP.<#>Восстанавливает 500 ОЗ.
@@ -30,9 +30,9 @@ Capable of getting you drunk.\#Recovers 200 HP.<#>Может опьянить.\#
 Bottle of Dirty Water<#>Бутылка грязной воды
 Contaminated water. Try throwing it at your\#enemies. Can reduce their speed in combat.<#>Загрязнённая вода. Попробуйте кинуть её во\#врага. Снижает скорость противника в бою.
 Rotten Fruit<#>Тухлый фрукт
-Mold, now with twenty percent fruit!\#May hurt your tummy bad. (Bulk Food)<#>Плесень, теперь с 20-ю процентами фрукта в\#составе! От такой будет сильно болеть живот. (Низкокачественная еда)
+Mold, now with twenty percent fruit!\#May hurt your tummy bad. (Bulk Food)<#>Плесень, теперь с 20-ю процентами фрукта в\#составе! От такой будет сильно болеть живот. (Некачественная еда)
 Mud Pie<#>Грязевой пирог
-Give a hungry man bread, he will thank you. Teach\#him to eat mud, he will never go hungry. (Bulk Food)<#>Дай голодному хлеб - и ты накормишь его на один день. Научи голодного\#есть грязь - и ты накормишь его на всю жизнь. (Низкокачественная еда)
+Give a hungry man bread, he will thank you. Teach\#him to eat mud, he will never go hungry. (Bulk Food)<#>Дай голодному хлеб - и ты накормишь его на один день. Научи голодного\#есть грязь - и ты накормишь его на всю жизнь. (Некачественная еда)
 Empty Bottle<#>Пустая бутылка
 An empty glass bottle.<#>Пустая стеклянная бутылка.
 Palladium Tile<#>Палладиевая плита
@@ -55,7 +55,7 @@ A high quality meal.\#Restores all HP and SP.<#>Высококачественн
 Condition Killer<#>Убийца недугов
 Ammonia, in the form of moisturising body cream.\#Removes most bad status effects, but tenses up.<#>Аммиак в виде увлажняющего бальзама для кожи.\#Снимает большинство негативных эффектов,\#но вы становитесь напряжённым.
 Nice Berries<#>Вкусные ягоды
-They are just nice. (Bulk Food)<#>Они просто вкусные. (Низкокачественная еда)
+They are just nice. (Bulk Food)<#>Они просто вкусные. (Некачественная еда)
 Trauma Kit<#>Хирургический набор
 "Surgeon in a bag". Alleviates: broken bones,\#brain damage, heart attacks, burns, and rupturing!<#>"Хирург в сумке". Полезен при переломах,\#сотрясении, инфаркте, ожогах и рваных ранах!
 Fermented Mystery<#>Забродившее нечто
@@ -146,7 +146,7 @@ More legend than actual food.\#Full party HP, SP and TP restore.<#>
 Rumoured to be rich in protein and tomato sauce.\#Recovers 380 HP. 30 SP.<#>По слухам, богата белком и томатной пастой.\#Восстанавливает 380 ОЗ и 30 ОН.
 Primitive weapon of a barbarous age. Can be thrown.\#But why would you even do that?<#>
 Tomato Sauce Packet<#>Пакетик томатной пасты
-Chew on it and the tomato flavoured\#dust inside will be your reward. (Bulk Food)<#>Разгрызите его, и пыль со вкусом томата станет\#вашей наградой. (Низкокачественная еда)
+Chew on it and the tomato flavoured\#dust inside will be your reward. (Bulk Food)<#>Разгрызите его, и пыль со вкусом томата станет\#вашей наградой. (Некачественная еда)
 Antique Ham<#>Антикварный окорок
 A delicious treat made from meat.\#Fully restores SP, but will nauseate.<#>
 More legend than actual food.\#Full party HP and SP restore.<#>Больше легедарная вещь, чем настоящая еда.\#Восстанавливает ОЗ и ОН всей группы.
@@ -185,8 +185,8 @@ Green Glob<#>Зелёный сгусток
 A glob of viscous green slime. It emanates an odor\#almost reminiscent of raw fish.<#>Сгусток из вязкой зелёной слизи. Испускает вонь,\#напоминающую сырую рыбу.
 Small Key<#>Маленький ключ
 A small key to some door in the town hall.<#>Маленький ключ, открывающий одну из дверей\#в городском муниципалитете.
-Medicinal Herb<#>
-Beautiful blooming thyme with many health benefits.\#Heals 800 HP. Boosts DEF and your immune system.<#>
+Medicinal Herb<#>Целебная трава
+Beautiful blooming thyme with many health benefits.\#Heals 800 HP. Boosts DEF and your immune system.<#>Прекрасный цветущий тимьян, полезный для здоровья.\#Восстанавливает 800 ОЗ. Повышает защиту и улучшает иммунитет.
 Large Key<#>Большой ключ
 A large key to some door in the town hall.<#>Большой ключ, открывающий одну из дверей\#в городском муниципалитете.
 Propaganda Poster<#>Агитплакат
@@ -237,13 +237,12 @@ A razor-sharp fang coated with poison. Belonged to a\#species of snake that is n
 Bottle of Oil<#>Бутылка масла
 A vat of the slickest oil around. Move twice\#in one turn; just don't get burned.<#>Ёмкость самого липкого масла в округе. Двигайтесь дважды\#за один ход; только не сгорите.
 Rooty Carrot<#>Коренастая морковь
-Fresh from the sacred earth.\#Restores 50 HP and helps your eyes. (Bulk Food)<#>Свежесорванная со священной земли. Восстанавливает 50 ОЗ\#и благоприятно влияет на зрение. (Низкокачественная еда)
+Fresh from the sacred earth.\#Restores 50 HP and helps your eyes. (Bulk Food)<#>Свежесорванная со священной земли. Восстанавливает 50 ОЗ\#и благоприятно влияет на зрение. (Некачественная еда)
 Instant Coffee Tin<#>Банка растворимого кофе
 A can of instant coffee. If only you had\#some water to use it with...<#>Банка растворимого кофе. Если бы у вас только\#была вода...
 Bottle of Coffee<#>Бутылка кофе
 A jolt for the system. Recovers 75% of HP and\#SP and removes sleep.<#>Встряска для мозгов. Восстанавливает 75% ОЗ и\#пробуждает ото сна.
 Cup of Water<#>Стакан воды
-<one animation>.\#<#>
 Two and a half swigs of crisp goodness. Splash on\#a party member to remedy fright and burning.<#>Два с половиной глотка освежающей вкуснятины.\#Брызните на члена группы, чтобы снять страх и горение.
 Malicious Stereo<#>Зловредная стереосистема
 A busted car stereo that still makes noise.\#Sometimes talks in unknown tongues. (Barter Item)<#>Сломанная стереосистема из машины, которая всё ещё издаёт\#звук. Иногда разговаривает неизвестным языком. (Предмет для обмена)
@@ -267,7 +266,7 @@ A crow egg that's seen better days.\#Restores 500 HP, but nauseates.<#>Воро�
 Silver Bullet<#>Серебряная пуля
 That which can kill the unkillable. Does not fit any\#known firearm. (Barter Item)<#>Та, что может убить неубиваемое. Не помещается ни в одно\#известное оружие. (Предмет для обмена)
 Meat Nugget<#>Кусочек мяса
-A debatably edible hunk of viscera. Can nauseate\#and make you feel nasty. (Bulk Food)<#>С натяжкой съедобный шарик из потрохов. Вызывает тошноту и\#омерзение. (Низкокачественная еда)
+A debatably edible hunk of viscera. Can nauseate\#and make you feel nasty. (Bulk Food)<#>С натяжкой съедобный шарик из потрохов. Вызывает тошноту и\#омерзение. (Некачественная еда)
 Scummy Valve<#>Мерзкий вентиль
 Old valve slathered in slime and other gunk.\#An engraving on the side reads "S.R."<#>Старый вентиль, покрытый слизью и прочей дрянью.\#Гравировка на обороте гласит: "С. Р."
 Bloody Valve<#>Кровавый вентиль
@@ -289,7 +288,7 @@ Tactics: Misdirection<#>Тактика: дезориентация
 Manual Scrap<#>Страница из руководства
 Page torn from a book that mysteriously\#disappeared from shelves across Olathe.<#>Страница, вырванная из книги, которая загадочно\#пропала со всех полок магазинов Олейта.
 Cosmonaut Food Tube<#>Пищевой тюбик
-Sustanence for space men. The labels are all in\#Russian, so eat with caution. (Bulk Food)<#>Субстанция для космонавтов. Вся этикетка на украинском,\#так что ешьте с осторожностью. (Низкокачественная еда)
+Sustanence for space men. The labels are all in\#Russian, so eat with caution. (Bulk Food)<#>Субстанция для космонавтов. Вся этикетка на украинском,\#так что ешьте с осторожностью. (Некачественная еда)
 Loitering Ticket<#>Талон за тунеядство
 "By the powers vested in me, by God and Nixon,\#I hereby fine you 10 magazines." - Copper Silver<#>"Властью, данной мне богом и Никсоном, настоящим я\#налагаю на вас штраф в размере 10 журналов." - Сильвер Коппер.
 Suite Key<#>Ключ от номера
@@ -327,10 +326,10 @@ A double-barrel shotgun formerly owned by Jeremy\#Denkins. Worn-out from years o
 Dull Pickaxe<#>Тупая кирка
 A well-used mining implement.\#Can be thrown in battle. Causes bleeding.<#>Побывавший в интенсивной эксплуатации инструмент добычи\#ископаемых. Можно бросить в бою. Вызывает кровотечение.
 Mysterious Key<#>Загадочный ключ
-Metal Vase<#>
-A reinforced metal vase that comes with a lid.\#Looks like it could survive a high fall.<#>
-Baby Fishman in M. Vase<#>
-A protected infant fishman.\#It nows lives rent-free inside a metal vase of water.<#>
+Metal Vase<#>Металлическая ваза
+A reinforced metal vase that comes with a lid.\#Looks like it could survive a high fall.<#>Укреплённая металлическая ваза с крышкой.\#Выглядит так, будто переживёт даже высокое падение.
+Baby Fishman in M. Vase<#>Малыш-рыболюд в метал. вазе
+A protected infant fishman.\#It nows lives rent-free inside a metal vase of water.<#>Малыш-рыболюд в броне.\#Теперь он живёт в вашей металлической вазе, и не платит за аренду.
 Sustanence for space men. The labels are all in\#Russian, but this one looks flavorful.<#>
 test<#>
 Q. Physics For Babies<#>
