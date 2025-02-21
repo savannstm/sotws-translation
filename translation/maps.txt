@@ -847,7 +847,6 @@ Take the goods.<#>Взять подарок.
 Twenty mags and some Mystery Jerky!<#>Двадцать журналов и немного неизвестного мяса!
 No deal.<#>Сделки не будет.
 He gave you what he promised!<#>Он дал вам то, что обещал!
-Twenty mags and some Mystery Jerkey!<#>Двадцать журналов и немного неизвестного мяса!
 \et[151]Damn, Alex!\.\#You didn't tell\#me you knew\#how to haggle!<#>Чёрт, Алекс!\.\#Ты не говорил\#мне, что знаешь\#как торговаться!
 \et[151]Your future\#is looking\#brighter already!<#>Твоё будущее видится\#всё светлее и\#светлее!
 \et[163]Oh, I see.<#>О, ясно.
@@ -1220,23 +1219,15 @@ Darry Sweets has left your party.<#>Дэрри Сладостный покину
 \et[02]Or I WILL\#leave your\#asses in\#the dirt.<#>Или я ОСТАВЛЮ\#ваши жопы в\#этой грязи.
 \et[07]We'll be\#there\#sooner\#or later.<#>Мы покажемся\#там рано\#или поздно.
 \et[02].\..\..\.Ugh...<#>.\..\..\.Уф...
-\et[02]Alright.\.\.\#Fine.<#>Ладно.\.\.\#Хорошо.
-\et[02]I'll go get\#things ready\#for departure.<#>Я приготовлю\#всё к отплытию.
-\et[02]Don't let your\#new friend\#keep you\#too long...<#>Не дайте\#вашему новому\#другу вас надолго\#задержать...
 \et[07]He's just\#off his me-\^<#>Он просто не\#принял табл-\^
 \et[02]Fuck you.<#>Пошёл нахуй.
 \et[02]Let's just get\#going before I\#change my mind.<#>Пойдём, пока\#я не передумал.
 \et[02]Let's get to\#my boat already...<#>Давай уже идти\#к моей лодке...
-\et[02]Or I WILL\#leave your\#asses in\#the dust.<#>Или я ВОЗЬМУ\#и оставлю ваши\#жопы в местной\#пыли.
 \et[02]You understand?<#>Поняли?
 \et[07]Yes,\.\#Georgy.<#>Да,\.\#Джорджи.
 \et[02]Good.<#>Хорошо.
 \et[012]Sheesh!<#>Чёрт!
 \et[012]That guy's\#got issues!<#>У этого парня\#проблемы!
-\et[07]He's just\#off his meds.<#>Он просто забыл\#принять лекарство.
-\et[07]I wouldn't\#think too\#much about\#what he says.<#>Я бы не слишком\#беспокоился о том,\#что он говорит.
-\et[07]But,\. we\#shouldn't\#test his\#patience.<#>Но,\. нам\#не следует\#испытывать\#его терпение.
-\et[07]Let's get\#a move\#on, Alex.<#>Давай\#двигаться,\#Алекс.
 \et[07]Sigh.<#>Ох.
 \et[07]I'm sorry,\#compadre,\. but\#you can't stick\#around anymore.<#>Прости, компадре,\.\#но дальше тебе\#нельзя с нами.
 \et[07]Was nice\#while it\#lasted.<#>Было приятно\#путешествовать\#с тобой.
@@ -1355,7 +1346,6 @@ It is dead.<#>Он мёртв.
 \et[03]Richie...\|\#Where have\#you gone.\..\..\.?<#>Ричи...\|\#тебе не стоило\#приходить\#сюда.
 \et[015]Gah,\. about\#damn time!<#>Ох,\. чёрт возьми\#вовремя!
 \et[015]Help me\#talk some\#sense into\#this bozo!<#>Помогите мне\#вбить здравомыслие\#в голову этого\#поехавшего!
-\et[03]Richie...\|\#you should\#have never\#come here.<#>Ричи...\|\#тебе не стоило\#приходить\#сюда.
 \et[03]Oh.\.\.\#It's you.<#>О.\.\.\#Это ты.
 \et[03]I don't get\#it. Why're you\#doing this?<#>Не понимаю.\#Почему ты это\#делаешь?
 *listen to others*<#>*послушать других*
@@ -2100,7 +2090,6 @@ Alex no longer feels gross.<#>Алекс больше не чувствует о
 \et[011]That's my song!<#>Это моя песня!
 \et[000]Sorry...<#>Простите...
 You got an eerie record!<#>Вы получили жуткую запись.
-Added to key items.<#>Добавлено в ключевые предметы.
 \et[06]Barkeep only\#sells one drink.<#>Бармен продаёт\#только один напиток.
 \et[06]Even that's\#overpriced.<#>И даже у него\#цена завышена.
 \et[000]Overpriced, how\#would you know?<#>А ты откуда это\#знаешь?
@@ -2173,7 +2162,6 @@ We're sorry...<#>Прости...
 \et[013]Give me back my\#watch, before\#I waste you.<#>Отдавай часы\#обратно, пока я\#не завалил тебя.
 You have lost the watch.<#>Вы потеряли часы.
 You have lost the Immitation Gold Watch.<#>Вы потеряли поддельные золотые часы.
-\et[013]My trowel...<#>Моя лопатка...
 You have lost the Rusty Trowel.<#>Вы потеряли ржавую лопатку.
 <!-- Map --><#>029Отдых в баре
 <!-- Order --><#>108
@@ -2539,7 +2527,6 @@ You got a Rubber Projectile!<#>Вы получили резиновый снар
 *Go away*<#>*Уйти*
 You have lost The Crutch.<#>Вы потеряли костыль.
 You got a Crutch!<#>Вы получили костыль!
-Crutch obtained!<#>Костыль получен!
 \et[0126]Well, damn.<#>Ну, чёрт.
 \et[0126]Check mate,\#I guess.<#>Шах и мат,\#наверное.
 Crane chain.<#>Крановая цепь.
@@ -3343,14 +3330,11 @@ Come watch me fight.<#>Приходи посмотреть на бой.
 \et[00]Come watch me fight.<#>Приходи посмотреть на бой.
 \et[01]You owe me one.<#>На один гляну.
 \et[00]Sure thing.<#>Конечно.
+<!-- Map --><#>071Падение с горы после последнего сегмента города и битвы с Арнольдом,\#Гин/Краб умирают
+<!-- Order --><#>332
 You took quite the beating.<#>Вас хорошо поматали.
 Defense down.<#>Защита снижена.
 Agility down.<#>Ловкость снижена.
-You took quite the beating.<#>
-Defense down.<#>
-Agility down.<#>
-<!-- Map --><#>071Падение с горы после последнего сегмента города и битвы с Арнольдом,\#Гин/Краб умирают
-<!-- Order --><#>332
 \et[000]Joel?<#>Джоэл?
 \et[000]Are you\#alright?<#>Ты в\#порядке?
 \et[006]...just need\#a moment.<#>...просто дай\#мне секунду.
@@ -3615,7 +3599,6 @@ You have given away all your Rando Coins.<#>Вы избавились от вс�
 \et[049]Key or gummy\#for that dollar,\#take your pick.<#>Ключ или желейка\#за этот доллар,\#выбирай.
 \et[049]Here, consider\#this key instead.<#>Вот, лучше посмотри\#на этот ключ.
 \et[049]I don't know\#what it's for,\#but you know\#you want it.<#>Я не знаю, от чего\#он, но знаю, что\#он тебе нужен.
-\et[049]Key or gummy\#for that dolllar,\#take your pick.<#>Ключ или желейка\#за этот доллар,\#выбирай.
 I'll take the key.<#>Я возьму ключ.
 Gummy Worm? Deal.<#>Желейный червяк? Беру.
 I'll think about it.<#>Я подумаю.
@@ -4155,8 +4138,6 @@ Scratch marks.<#>Царапины.
 \et[008]I want some human contact.\#That's all...<#>Я хочу лишь немного\#человеческого контакта.\#Это всё...
 \et[008]A man\#like you?<#>Человек,\#как ты?
 \et[008]I'll see you again,\#real soon...<#>Мы встретимся\#снова, очень скоро...
-\et[008]Get's lonely around\#here...<#>Здесь\#одиноко...
-\et[008]I want some human\#contact is all...<#>Мне нужен человеческий\#контакт, вот и все...
 Won't turn on.<#>Не включается.
 Do you believe in...<#>Веришь ли ты в...
 SIN?<#>ГРЕХ?
@@ -4532,6 +4513,8 @@ Let's follow him.<#>Давай за ним.
 <!-- Map --><#>115
 <!-- Order --><#>392
 No use.<#>Бесполезно.
+<!-- Map --><#>116Конечный сегмент игры, автобус к "Городу"
+<!-- Order --><#>393
 Nothing left.<#>Ничего не осталось.
 You cannot go back.<#>Вам не вернуться.
 The door inside appears to be sealed shut.<#>Дверь внутрь крепко запечатана.
@@ -4541,17 +4524,6 @@ The door inside appears to be sealed shut.<#>Дверь внутрь крепк�
 \et[000]Where is he going?<#>Куда он?
 \et[032]No idea.<#>Не знаю.
 \et[032]Better catch up.<#>Лучше поспевать.
-Nothing left.<#>
-You cannot go back.<#>
-The door inside appears to be sealed shut.<#>
-\et[000]Everyone alright...?<#>
-\et[032]I think so...<#>
-\et[000]Pike?<#>
-\et[000]Where is he going?<#>
-\et[032]No idea.<#>
-\et[032]Better catch up.<#>
-<!-- Map --><#>116Конечный сегмент игры, автобус к "Городу"
-<!-- Order --><#>393
 \et[160]Here.<#>Вот.
 \et[006]That it?<#>И всё?
 \et[160]Take it or leave it.\#A deal is a deal.<#>Берите или уходите.\#Сделка есть сделка.
@@ -4607,12 +4579,10 @@ Sealed.<#>Запечатано.
 <!-- Order --><#>394
 <!-- Map --><#>129
 <!-- Order --><#>395
-Everything is better left behind.<#>Всё лучше оставить позади.
-Fossilized.<#>Окаменел.
-Everything is better left behind.<#>
-Fossilized.<#>
 <!-- Map --><#>130
 <!-- Order --><#>396
+Everything is better left behind.<#>Лучше оставить всё позади.
+Fossilized.<#>Окаменел.
 <!-- Map --><#>131
 <!-- Order --><#>397
 <!-- Map --><#>132
@@ -4911,7 +4881,6 @@ Heed Joel's advice.<#>Последовать совету Джоэла.
 \et[022]I'll be waiting\#for you over there.<#>Я буду ждать тебя\#здесь.
 \et[022]Oh\. my\. Gooood...<#>О\. гос\. подии...
 \et[022]Fine.\.\. Jump off\#as many cliffs\#as you want.<#>Ладно.\.\. Прыгай\#со скал сколько\#тебе угодно.
-\et[022]I'll be\#at the boat.<#>Я буду ждать\#у лодки.
 \et[022]And if you\#don't turn up,\.\#I'm leaving\#without you.<#>И если ты не\#вернёшься,\.\#я уплыву без\#тебя.
 \et[022]You\#got that?<#>Понял?
 \et[022]I said-\^<#>Я сказал-\^
@@ -6482,7 +6451,6 @@ It's full of blue pills.<#>Она полна синих таблеток.
 The box is empty.<#>Коробка пуста.
 \et[003]Ahhh!\. We've\#been found out!<#>Ааа!\. Нас\#нашли!
 He isn't breathing.<#>Он не дышит.
-\et[006]If you came for\#T.P., then you're gonna\#have to go through me!<#>Если ты пришёл за\#Т. П., тебе придётся\#пройти через меня!
 \et[000]I'm not looking\#for a fight.<#>Я не ищу\#драки.
 \et[000]I'm looking\#for a way\#out of here.<#>Я ищу выход\#отсюда.
 \et[006]Oh.<#>Ох.
@@ -6851,10 +6819,9 @@ It is dead.<#>Он мёртв.
 \et[000]I'm sorry.<#>Прости.
 \et[005]Let's just get\#outta here.<#>Давай выбираться\#отсюда.
 <!-- Map --><#>208
-A healthy herb!<#>Целебная трава!
 <!-- Order --><#>129
+A healthy herb!<#>Целебная трава!
 You found a stash!<#>Вы нашли схрон!
-A dried herb!<#>Высушенная трава!
 <!-- Map --><#>209Араб-торговец
 <!-- Order --><#>128
 \et[002]Oh, a new face.\|\#Welcome, welcome.<#>Ох, новое лицо.\|\#Добро пожаловать.
@@ -7639,7 +7606,6 @@ You exchanged the Vagabond's Globe\#for fifteen Cosmonaut Food Tubes!<#>Вы о�
 You exchanged the Vagabond's Globe\#for a Rainbow Painter's Gear!<#>Вы обменяли глобус бродяги на\#разноцветные инструменты художника!
 \et[037]See what happens,\#see what unfurls.<#>Может, \#знания получу.
 \et[000]Bring me\#the rainbow.<#>Дай мне\#радугу.
-You exchanged the Vagabond's Globe\#for some Rainbow Painter's Gear!<#>Вы обменяли глобус бродяги на\#разноцветные инструменты художника!
 \et[037]Your paint,\.\#my friend.<#>Вот ваша краска,\.\#не робейте.
 \et[037]Don't worry,\.\#the colors\#won't blend.<#>Цвет не\#испортится,\.\#поверьте.\#\#
 \et[037]Oh,\. what's that\#I smell?\| Scraps\#plucked from the\#gates of Hell?<#>Ох,\. что я вижу?\|\#Товар из адских\#глубин?
@@ -10136,10 +10102,9 @@ Crashed chopper.<#>Разбившийся вертолет.
 \et[024]That's how many\#men I'll have killed\#by the end of this.<#>Это количество\#людей, которых\#я убью к концу.
 <!-- Map --><#>303
 <!-- Order --><#>294
-"2"<#>2
-"2"<#>
 <!-- Map --><#>304
 <!-- Order --><#>295
+"2"<#>2
 "4"<#>4
 "3"<#>3
 "1"<#>1
@@ -10685,7 +10650,6 @@ It hath tolled.<#>Колокол прозвенел.
 Squirrel jerky and a Stylish Coat!<#>Мясо белки и стильное пальто!
 Big chair for big men.<#>Большое кресло для большого парня.
 You found a stash!<#>Вы нашли схрон!
-Squirrel jerky!<#>Мясо белки!
 Gently crackling.<#>Мягко потрескивает.
 <!-- Map --><#>322
 <!-- Order --><#>162
@@ -11235,7 +11199,6 @@ Two fancy perfumes and two cigarettes!<#>Два флакона изысканн�
 \et[000]Alright.\|\#Time to leave.<#>Ладно.\|\#Время уходить.
 It is dead.<#>Он мёртв.
 You found a stash!<#>Вы нашли схрон!
-Fancy Perfume and two cigarettes!<#>Изысканные духи и две сигареты!
 <!-- Map --><#>335
 <!-- Order --><#>150
 "I can't believe it.<#>"Я не верю."
@@ -11252,10 +11215,9 @@ It is glaring at you.<#>Он пристально смотрит на вас.
 Coated bones.<#>Скелет в халате.
 <!-- Map --><#>336
 <!-- Order --><#>179
-Your entire body burns.<#>Всё ваше тело жжёт.
-Your entire body burns.<#>
 <!-- Map --><#>337Сцена из начала игры, но искажённая бесконечностью
 Attack increased.\| Defense decreased.<#>Атака повышена.\| Защита понижена.
+Your entire body burns.<#>Всё ваше тело жжёт.
 You feel nothing.<#>Вы ничего не чувствуете.
 <!-- Order --><#>180
 Defense increased.\| Attack decreased.<#>Защита повышена.\| Атака понижена.
@@ -11347,7 +11309,6 @@ You got a balloon snake.<#>Вы получили шарик-змею.
 \et[007]Cruel,\. wasteful,\. vile...<#>Жестокие,\. расточительные,\.\#подлые...
 \et[007]But today\#is the\#day your\#villainy ends!<#>Но в этот\#день вашим\#злодеяниям\#конец!
 \et[007]It shall\#die...\| by\#my hands!<#>Я окончу их...\|\#своими руками!
-\et[007]Have at you!<#>Получи!
 He is dead.<#>Он мёртв.
 You found a stash!<#>Вы нашли схрон!
 Doctor's gloves!<#>Перчатки врача!
@@ -11527,7 +11488,6 @@ Used the rusty wrench.<#>Вы воспользовались ржавым клю
 The scummy valve is now in place.<#>Мерзкий вентиль теперь на своём месте.
 \et[000]Good thinking,\. Joel.<#>Быстро мыслишь,\. Джоэл.
 \et[003]Heh, it's\#nothin'.<#>Ха,\#пустяк.
-Dead end.<#>Тупик.
 Empty slot. It smells rancid.<#>Пустая выемка. Пахнет гнилью.
 The bloody valve is now in place.<#>Кровавый вентиль теперь на своём месте.
 Empty slot. It smells putrid.<#>Пустая выемка. Пахнет гнилью.
@@ -11616,27 +11576,21 @@ He is dead.<#>Он мёртв.
 Arm of the cyborg.<#>Рука киборга.
 <!-- Map --><#>367
 <!-- Order --><#>133
+<!-- Map --><#>368
+<!-- Order --><#>398
 No use turning back now.<#>Уже бессмысленно возвращаться.
 It's not safe.<#>Небезопасно.
 No point.<#>Бессмысленно.
-Everything is better left behind.<#>Всё лучше оставить позади.
-Nothing left.<#>Ничего не осталось.
-No use turning back now.<#>
-It's not safe.<#>
-No point.<#>
-<!-- Map --><#>368
-<!-- Order --><#>398
 <!-- Map --><#>369
 <!-- Order --><#>134
 He is dead.<#>Он мёртв.
+<!-- Map --><#>370
+<!-- Order --><#>399
 Nothing left.<#>Ничего не осталось.
 You cannot go back.<#>Вам не вернуться.
 The door inside appears to be sealed shut.<#>Дверь внутрь крепко запечатана.
-\et[032]I think so...<#>Думаю...
 We need to find a safer place.<#>Нам нужно найти безопасное место.
 \et[000]Everyone alright...?<#>Все в порядке...?
-\et[032]No idea.<#>Не знаю.
-\et[032]Better catch up.<#>Лучше поспевать.
 \et[033]I think so...<#>Думаю...
 \et[000]Pike?<#>Пайк?
 \et[000]Where is he going?<#>Куда он?
@@ -11665,67 +11619,21 @@ You have lost the Pink Pill.<#>Вы потеряли розовую таблет
 \et[005]...sweet...<#>...приятного...
 \et[005]...sound?<#>звука?
 \et[006]Anythin' fo'\#you, Gale.<#>Чё угодно для\#тебя, Гейл.
-Nothing left.<#>
-You cannot go back.<#>
-The door inside appears to be sealed shut.<#>
-We need to find a safer place.<#>
-\et[000]Everyone alright...?<#>
-\et[033]I think so...<#>
-\et[000]Pike?<#>
-\et[000]Where is he going?<#>
-\et[033]No idea.<#>
-\et[033]Better catch up.<#>
-You have lost the Pink Pill.<#>
-\et[160]Here.<#>
-\et[006]That it?<#>
-\et[160]Take it or leave it.\#A deal is a deal.<#>
-\et[006]Hmph.<#>
-\et[004]The hell\#you're going?<#>
-\et[004]This ain't your\#community transport.<#>
-\et[000]We aren't looking\#for trouble.<#>
-\et[004]You're still not\#getting on that bus.<#>
-\et[000]But we were chased\#down by a gr-\^<#>
-\et[000]Please.\|\#We need to get\#out of here.<#>
-\et[004]Are you deaf?<#>
-\et[004]No means no.<#>
-\et[005]We've got\#enough enemies.<#>
-\et[005]Get on,\#we're going.<#>
-\et[005]Didn't you\#hear me?<#>
-\et[000]Thanks...<#>
-\et[005]Hey, Ray!<#>
-\et[006]Ye?<#>
-\et[005]Can a boy get\#some of that\#sweet...<#>
-\et[005]...sweet...<#>
-\et[005]...sound?<#>
-\et[006]Anythin' fo'\#you, Gale.<#>
-<!-- Map --><#>370
-<!-- Order --><#>399
 <!-- Map --><#>371
 <!-- Order --><#>401
+<!-- Map --><#>372
+<!-- Order --><#>402
 Nothing left.<#>Ничего не осталось.
 You cannot go back.<#>Вам не вернуться.
 The door inside appears to be sealed shut.<#>Дверь внутрь крепко запечатана.
-\et[032]I think so...<#>Думаю...
-We need to find a safer place.<#>Нам нужно найти безопасное место.
 \et[000]Everyone alright...?<#>Все в порядке...?
-\et[032]No idea.<#>Не знаю.
-\et[032]Better catch up.<#>Лучше поспевать.
 \et[033]I think so...<#>Думаю...
 \et[000]Pike?<#>Пайк?
 \et[000]Where is he going?<#>Куда он?
 \et[033]No idea.<#>Не знаю.
 \et[033]Better catch up.<#>Лучше поспевать.
-Nothing left.<#>
-You cannot go back.<#>
-The door inside appears to be sealed shut.<#>
-\et[000]Everyone alright...?<#>
-\et[032]I think so...<#>
-\et[000]Pike?<#>
-\et[000]Where is he going?<#>
-\et[032]No idea.<#>
-\et[032]Better catch up.<#>
-<!-- Map --><#>372
-<!-- Order --><#>402
+<!-- Map --><#>373
+<!-- Order --><#>212
 \et[005]I'm my own man.\.\#I refuse to be\#a victim of\#the cycle.<#>Я контролирую\#себя.\. Я отказываюсь\#быть жертвой цикла.
 He is dead.<#>Он мёртв.
 You found a stash!<#>Вы нашли схрон!
@@ -11753,45 +11661,15 @@ The room is no longer illuminated.<#>Комната больше не освещ
 \et[005]And don't try anything\#funny or I'll-\^<#>И не пытайтесь ничего\#резкого, или я-\^
 \et[005]Oh,\. for fucks sake.<#>О,\. господи блять.
 \et[005]Enough playing around.<#>Хватит играться.
-\et[005]I'm my own man.\.\#I refuse to be\#a victim of\#the cycle.<#>
-He is dead.<#>
-You found a stash!<#>
-Tissue and 2 Dried Herbs!<#>
-The room is no longer illuminated.<#>
-\et[005]What's up, pops?<#>
-\et[005]What's with that look?<#>
-\et[005]Surprised to see me?<#>
-\et[000]Who are you people?<#>
-\et[000]Why do you keep\#stalking us?<#>
-\et[005]C'mon.\|\#You know how it is.<#>
-\et[005]I gotta pay for\#my meds somehow.<#>
-\et[005]And I get more\#toys to play with...<#>
-\et[000]Meds?\|\#Toys?<#>
-\et[005]It doesn't concern you.\|\#Really.<#>
-\et[005]I just do what I love.<#>
-\et[000]We aren't giving\#you anything.\|\#Just let us go.<#>
-\et[005]Oh.\|\#I will.<#>
-\et[005]Just not in one piece.<#>
-\et[005]Our last encounter ended\#on a bit of a sour note, didn't it?<#>
-\et[005]Soo...\|\#How about...\|\#All of your belongings.<#>
-\et[005]Unless you want to be\#disemboweled,\. of course.<#>
-\et[000]No way.<#>
-\et[005]Yes way.<#>
-\et[005]And don't try anything\#funny or I'll-\^<#>
-\et[005]Oh,\. for fucks sake.<#>
-\et[005]Enough playing around.<#>
-<!-- Map --><#>373
-<!-- Order --><#>212
 <!-- Map --><#>374
 <!-- Order --><#>400
+<!-- Map --><#>375
+<!-- Order --><#>403
 Everything is better left behind.<#>Лучше оставить всё позади.
 It is dead.<#>Мёртв.
 Fossilized.<#>Окаменел.
-Everything is better left behind.<#>
-It is dead.<#>
-Fossilized.<#>
-<!-- Map --><#>375
-<!-- Order --><#>403
+<!-- Map --><#>376
+<!-- Order --><#>328
 \et[02]Finger beams?<#>Пальцевые лучи?
 \et[02]Some of these\#fights, I tell you...<#>Некоторые из этих\#бойцов, скажу тебе...
 \et[02]chinese fucking\#voodoo.<#>ебучие китайские\#колдуны.
@@ -11831,47 +11709,6 @@ Go on.<#>Давай.
 \et[06]Bad show!<#>Плохое шоу!
 \et[06]Alright, let us put\#an end to this martial\#embarrassment.<#>Ладно, давайте положим\#конец этому боевому\#разочарованию.
 \et[06]TKO!<#>НОКАУТ!
-\et[02]Finger beams?<#>
-\et[02]Some of these\#fights, I tell you...<#>
-\et[02]chinese fucking\#voodoo.<#>
-\et[010]Where is your\#gung-fu attire?<#>
-\et[010]Get out!<#>
-\et[06]Alright then.<#>
-\et[06]Ahem!<#>
-\et[06]Needless to say I\#want a proper bout.<#>
-\et[06]So none of\#that: "kicking\#them in the groin"\#debauchery.<#>
-\et[06]Lest I become\#dismayed.<#>
-\et[06]Understood?<#>
-\et[00]Yes.<#>
-\et[01]Crystal clear.<#>
-\et[06]Jolly good,\#gentlemen.<#>
-\et[01]Good luck.<#>
-\et[06]KO!<#>
-\et[06]Are you alright?<#>
-\et[00]I'm fine...<#>
-\et[06]Are you sure?<#>
-\et[00]I said, I'm FINE!<#>
-\et[06]Alright, let us\#conclude the match.<#>
-\et[06]Ladies and\#gentlemen!<#>
-\et[06]I give you\#your winner!<#>
-\et[06]That was an\#illegal move.<#>
-\et[06]Ready?<#>
-\et[06]Ladies and gentlemen!<#>
-\et[06]Show more class.<#>
-\et[00]Yeah.<#>
-*say nothing*<#>
-I forfeit.<#>
-\et[00]I forfeit.<#>
-Go on.<#>
-\et[00]Go on.<#>
-\et[06]Do not do\#that again.<#>
-\et[01]Here.<#>
-\et[06]Disqualified!<#>
-\et[06]Bad show!<#>
-\et[06]Alright, let us put\#an end to this martial\#embarrassment.<#>
-\et[06]TKO!<#>
-<!-- Map --><#>376
-<!-- Order --><#>328
 <!-- Map --><#>389
 <!-- Order --><#>18
 You found a stash!<#>Вы нашли схрон!
@@ -12568,6 +12405,5 @@ No<#>Нет
 Party healed fully.<#>Группа полностью вылечена.
 The Antique Vase was filled to the brim.<#>Антикварная ваза была наполнена до краёв.
 Take a drink?<#>Выпить?
-Party healed slightly.<#>Группа слегка исцелилась.
 Fallen members revived.<#>Упавшие члены группы были подняты.
 The spring has dried up.<#>Родник иссох.
