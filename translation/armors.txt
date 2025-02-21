@@ -17,7 +17,7 @@ A fine, black coat fashioned out of tanned\#trashbags.<#>Прочный чёрн
 Custom Bullet<#>Особый патрон
 A custom made .476 bullet.<#>Особый, существующий в единственном экземпляре патрон\#.476-го калибра.
 Plaid Rags<#>Клетчатое тряпьё
-Luxury rags in the burburroo pattern.\#For the precocious beggar.<#>Роскошное тряпьё в стиле "Бурбери".\#Для начинающих попрошаек.
+Luxury rags in the burburroo pattern.\#For the precocious beggar.<#>Роскошное тряпьё в стиле "Бёрберри".\#Для начинающих попрошаек.
 Dusty Cravat<#>Пыльный шарф
 Authentic dusting cloth that doubles as\#outmoded neckwear.<#>Самобытная тряпка для пыли, также служащая\#старомодным шарфом.
 Red Polyester Cravat<#>Красный полиэстеровый шарф
@@ -33,6 +33,7 @@ Makes it harder for THEM to find you.\#Reduce bleeding slightly.<#>Теперь-
 Champion's Belt<#>Чемпионский пояс
 EWC tag team champion belt of '82.\#Slight increase in SP and skill cost reduction.<#>Чемпионский пояс EWC командного выступления 1982-го года.\#Немного повышает число ОН и снижает стоимость навыков.
 Salty Bathrobe<#>Солёный халат
+A grim vestment, highly resistant to damage.\#Reduces attack, mobility and increases SP costs.<#>Мрачное облачение, крайне устойчивое к повреждениям.\#Снижает атаку и мобильность, повышает стоимость навыков.
 A grim vestment, highly resistant to damage.\#Reduces attack, mobility and doubles SP costs.<#>Мрачное облачение, крайне устойчивое к повреждениям.\#Снижает атаку и мобильность, удваивает стоимость навыков.
 Old Poncho<#>Старое пончо
 Barely counts as clothing, but good enough to keep\#you warm at night. Slightly increases max SP.<#>С трудом напоминает одежду, но согревает по ночам.\#Немного повышает макс. ОН.
@@ -66,15 +67,19 @@ Bad Boy Hair Gel<#>Гель для волос "Плохиш"
 Hair gel for troublemakers, now with 40%\#more grease. Makes you burn easily.<#>Гель для волос для плохишей, теперь с 40% жира в составе.\#Легко воспламеняется.
 Sapphire Coat<#>Сапфировое пальто
 A truly stylish coat. Allows wearer to move twice\#in one turn, but cuts HP and SP in half.<#>Воистину стильное пальто. Позволяет владельцу двигаться\#дважды за ход, но снижает ОЗ и ОН наполовину.
+The signature undershirt of the Bad Angels.\#Lowers defense and HP, but boosts attack.<#>Отличительная безрукавка Плохих ангелов.\#Понижает защиту и ОЗ, но повышает атаку.
 Bad Beater<#>Плохиш-боец
 The signature undershirt of the Bad Angels.\#Lowers defense, but boosts attack.<#>Отличительная безрукавка Плохих ангелов.\#Понижает защиту, но повышает атаку.
 Businessy Fedora<#>Деловая федора
+A professional never leaves home without one.\#Reduces cost of skills by 15% and increases SP.<#>Профессионал никогда не выходит из дома без запасного.\#Понижает стоимость навыков на 15% и повышает ОН.
 You can practically feel the stock market pulsing\#within this hat. Increases maximum SP.<#>Вы практически чувствуете пульсацию биржевого рынка в\#этой шляпе. Повышает максимальное число ОН.
 Spare Tie<#>Запасной галстук
 A professional never leaves home without one.\#Reduces cost of skills by 10%.<#>Профессионал никогда не выходит из дома без запасного.\#Понижает стоимость навыков на 10%.
 Leather Pants<#>Кожаные штаны
 Tight pants that highlight your best features.\#Boosts all stats, but inflicts a permanent taunt.<#>Узкие брюки, подчёркивающие ваши лучшие черты.\#Повышают все характеристики, но накладывают постоянную провокацию.
+The abandoned coat of a medical practioner.\#Increases maximum health and provides slight regen.<#>Забытый халат медика-практиканта.\#Повышает максимальное здоровье и даёт небольшую регенерацию.
 Skin Wraps<#>Кожаные повязки
+A precious heirloom of the Gizmo family.\#Provides exceptional accuracy and increases SP.<#>Драгоценная реликвия семьи Гизмо.\#Обеспечивают исключительную точность и повышают ОН.
 Patch your wounds with another man's skin.\#Provides poison resistance, but makes you nasty.<#>Залатайте раны чужой кожей.\#Дают сопротивление к яду, но делают вас мерзким.
 Doctor's Coat<#>Халат доктора
 The abandoned coat of a medical practioner.\#Increases maximum health.<#>Забытый халат медика-практиканта.\#Повышает максимальное здоровье.
@@ -100,6 +105,7 @@ Infinity Jersey<#>Майка бесконечности
 It speaks to you. Warmly.\#SP increases minorly over time.<#>Она говорит с вами. С теплотой.\#Слегка восстанавливает ОН с течением времени.
 Blood of Sin<#>Кровь греха
 Sanguine drop from the Ninth Circle.\#Provides exceptional resistance to fire.<#>Багровая капля из девятого круга.\#Даёт исключительное сопротивление огню.
+Mask depicting a black demon. Increases offense\#and speed substantially, but cuts defense and HP.<#>Маска, изображающая чёрного демона. Существенно\#повышает атаку и скорость, но снижает защиту и ОЗ.
 Mask of the Angel<#>Маска ангела
 Mask depicting a white angel. Provides substantial\#HP and SP bonuses, but cuts offense and speed.<#>Маска, изображающая белого ангела. Существенно повышает\#ОЗ и ОН, но снижает атаку и скорость.
 Mask of the Man<#>Маска человека
@@ -133,6 +139,48 @@ A well-kept incense burner. Its smoke supposedly\#has healing properties. May be
 Polyethylene Cravat<#>Полиэтиленовый шарф
 Plastic bags stylishly refurbished into neckwear.\#Increases speed.<#>Пластиковые пакеты, стильно переработанные в\#шарф. Повышает скорость.
 Rando Patch<#>Нашивка Рандо
+Stylish Coat<#>Стильное пальто
+A dark, fashionable coat that's sure to give its\#wearer a feeling of superiority.<#>Тёмное, модное пальто, которое наверняка даст\#владельцу чувство превосходства.
+Cellophane Bag<#>Целлофановый пакет
+A bag of cellophane that lost its purpose.\#Provides a minor boost to defense and agility.<#>Целлофановый пакет, ставший бесполезным.\#Даёт небольшой бонус к защите и ловкости.
+Knockoff sportswear stretched to its theoretical\#limit. Fuels your undying fury, but gets in the way.<#>Поддельная спортивная форма, растянутая до возможного предела.\#Подпитывает вашу бессмертную ярость, но мешает.
+Party Hat<#>Праздничный колпак
+A colorful, flamboyant hat that gets you into\#that funky party spirit.<#>Красочная, яркая шляпа, которая вдыхает в вас\#этот весёлый праздничных дух.
+All-Star Baseball Helmet<#>Шлем звезды бейсбола
+Durable and impenetrable. Marked by Infinity.\#Prevents concussions and makes you feel tough.<#>Прочный и непробиваемый. Помечен Бесконечностью.\#Предотвращает сотрясения и придаёт вам чувство крепкости.
+Eyepatch<#>Повязка на глаз
+For those unfortunate enough to lose an eye.\#Why would you wear it? Boosts attack, but blinds.<#>Для тех неудачливых, кто умудрился потерять глаз.\#Вам-то зачем её носить? Повышает атаку, но ослепляет.
+Football Helmet<#>Футбольный шлем
+If you aren't wearing one of these then what are you\#even doing? Increases DEF, resists hits to the head.<#>Куда вышел на поле без шлема?\#Повышают защиту, дают сопротивление к ударам по голове.
+Woolen Rags<#>Шерстяное тряпьё
+Extremely comfy and warm. You can never go wrong\#with these. For the indigent beggar.<#>Чрезвычайно мягкое и тёплое. Выбрав такое, не\#ошибёшься. Для нищих попрошаек.
+Davy's Sunglasses<#>Солнцезащитные очки Дэви
+A reinforced piece of eyewear that's just too cool.\#Provides fire resistance and increases SP.<#>Укреплённые очки, которые очень крутые.\#Дают сопротивление огню и повышают ОН.
+Yoga Pants<#>Штаны для йоги
+Worn by every yoga student. Not very enduring.\#These pants help you stretch to the fullest.<#>Их носят все практиканты йоги. Не очень прочные.\#Эти штаны помогут растянуться на полную.
+Nobleman's Cowl<#>Капюшон дворянина
+The value of this garment is meaningless nowadays.\#Increases SP regen but makes your body brittle.<#>Теперь, значение этого элемента одежды нулевое.\#Повышают восстановление ОН, но делают ваше тело хрупким.
+Empowering Telly<#>Силовой телевизор
+Kindchild's weighty TV. Now nonfunctional.\#A small amount of power resides within.<#>Тяжёлый телевизор Добряка. Теперь не работает.\#Небольшая сила исходит изнутри.
+Raincoat<#>Дождевик
+Protects againsts liquids, water just slides right off!\#Makes you extremely slippery to the touch.<#>Защищает от промокания, вода просто отскакивает!\#Делает вас безумно скользким.
+Goth Painter's Gear<#>Готические инструменты художника
+Be careful not to cut yourself on that edge.\#Lets you move twice but shatters your stats.<#>Осторожнее, не порежьтесь об этот кончик.\#Позволяет двигаться дважды, но разбивает характеристики.
+Topper<#>Цилиндр
+Only the most skilled magicians are able to withstand\#the majesty of this cylindrical headwear. Boosts EVA.<#>Лишь опытнейшие маги способны выдержать величество\#этого цилиндрического головного убора. Повышает ловкость.
+Classic Cotton Cravat<#>Классический шёлковый шарф
+A stylish cravat made of fine cotton. Fitting for a true\#gunman! Increases ATK and DEF, but lowers agility.<#>Стильный шарф, сделанный из изящного хлопка. Самое то для\#настоящего стрелка! Повышает АТК и ЗЩТ, но снижает ловкость.
+Worth a small African country. It's yours now.\#Are you willing to put it on your wrist? Increases TGR.<#>За них можно купить небольшую африканскую страну. Теперь они\#ваши. Вы точно хотите их носить? Повышают шанс стать целью.
+Zein Ka Rags<#>Тряпьё Зейн Ка
+Part of the official uniform among Devil's Knot Men.\#Imbued with certain magical properties.<#>Часть официальной формы членов Дьявольского узла.\#Пронизана определёнными магическими силами.
+Flashy Medal<#>Яркая медаль
+Guess he really wasn't lying. It's real, not that it\#matters now. Reduces stats but makes you cool.<#>Похоже, он не врал. Она реальна, но не то что бы это\#теперь важно. Понижает хар-ки, но делает вас крутым.
+#1 Coffee Mug<#>Кофейная кружка "#1"
+An office worker's basic necessity. Juices you up and\#restores SP but reduces all stats.<#>Базовая принадлежность офисного клерка. Выжимает из вас\#все соки и восстанавливает ОН, но снижает все хар-ки.
+Obsessed Bag<#>Одержимый пакет
+It brings back memories. Resists weird, flustered,\#and nasty. Defense down, agility down, luck down.<#>Навевает воспоминания. Даёт сопротивление к странности,\#возбуждению и омерзению. Понижает защиту, ловкость, удачу.
+Lucky Coin<#>Счастливая монета
+Worthless piece of metal coated with "golden" paint.\#Clinging onto it may bring fortune... but likely not.<#>Бесполезный кусок металла, покрытый "золотой" краской.\#Его ношение может привлечь удачу... но вряд-ли это случится.
 Patch of cloth from a Rando soldier uniform.\#Slight boost in experience gain. Stats down.<#>Нашивка с униформы солдата Рандо. Немного повышает\#получемый опыт. Понижает характеристики.
 One Franchise, infinite kings.<#>Одна Франшиза - короли бесконечности.
 Rando Mask<#>Маска Рандо
