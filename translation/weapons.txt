@@ -16,8 +16,8 @@ An old ring from a long-standing relationship.\#Enhances attack, max SP.<#>Ст�
 Bloodstained Dagger<#>Кровавый кинжал
 Geen's trusty dagger. Has served him well for years.\#A bit of fresh blood resides on the tip.<#>Верный кинжал Гина. Он служил ему годами.\#На кончике осталось немного свежей крови.
 Sharpened Glass Fragment<#>Острый кусок стекла
-Scorched Dusters<#>
-A pair of scorched dusters worn out by the heat.\#Still hot since their last usage.<#>
+Scorched Dusters<#>Обожжённые кастеты
+A pair of scorched dusters worn out by the heat.\#Still hot since their last usage.<#>Пара обожжённых кастетов, испорченных огнём.\#Ещё горячие.
 A particularly deadly shard of glass. Potent as a\#weapon, but hurts to wield.<#>Чрезвычайно смертельный кусок стекла.\#Отличное оружие, которое больно держать.
 Knuckle Duster<#>Кастет
 A full set of stylish spiked knuckles.\#Perfect for weddings and shakedowns.<#>Кастет в отличном состоянии с шипами на наконечниках.\#Идеален для свадеб и потасовок.

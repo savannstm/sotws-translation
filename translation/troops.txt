@@ -591,7 +591,7 @@ I'm no one in particular.<#>Я - никто особенный.
 {Risky Richmond}Stop that!<#>{Риски Ричмонд}Прекращай!
 {Risky Richmond}We aren't looking for trouble!<#>{Риски Ричмонд}Нам не нужны неприятности!
 {Pete Harper}It's no use, Risky.<#>{Пит Харпер}Бесполезно, Риски.
-{Boy Trent}Way to kick a man\#while he's down...<#>
+{Boy Trent}Way to kick a man\#while he's down...<#>{Бой Трент}Пинаешь человека, который уже на земле...
 {Pete Harper}Trent!\.\#Stay back!<#>{Пит Харпер}Трент!\.\#Назад!
 {Pete Harper}Bastard!<#>{Пит Харпер}Ублюдок!
 {Pete Harper}You're gonna eat shit!<#>{Пит Харпер}Ты будешь есть грязь!
@@ -636,11 +636,11 @@ I'm no one in particular.<#>Я - никто особенный.
 {Slim Hartmann}Can't escape outta\#this one!<#>{Слим Хартманн}Вы никуда не сбежите!
 {Slim Hartmann}Ouch.<#>{Слим Хартманн}Ау.
 {Slim Hartmann}This is\..\..\..\#rather unfortunate.<#>{Слим Хартманн}Это\..\..\..\#довольно досадно.
-{Slim Hartmann}I'll see myself out.<#>
+{Slim Hartmann}I'll see myself out.<#>{Слим Хартманн}Наслажусь последними моментами.
 {Slim Hartmann}NO MERCY!<#>{Слим Хартманн}НИКАКОЙ ПОЩАДЫ!
 {Slim Hartmann}You are the worst.<#>{Слим Хартманн}Вы ужасны.
 {Slim Hartmann}...<#>{Слим Хартманн}...
-{Slim Hartmann}Rusher...<#>{Слим Хартманн}Рашер...
+{Slim Hartmann}Rusher...<#>{Слим Хартманн}Бегун...
 {Slim Hartmann}Irons...<#>{Слим Хартманн}Айронс...
 {Slim Hartmann}This is for you.<#>{Слим Хартманн}Это за вас.
 {Donovan Whitehouse}I feel motivated.<#>{Донован Уайтхаус}Я чувствую мотивацию.
@@ -649,7 +649,7 @@ I'm no one in particular.<#>Я - никто особенный.
 {Donovan Whitehouse}Nice.\|\#115 more to go.<#>{Донован Уайтхаус}Круто.\|\#Ещё 115.
 {Donovan Whitehouse}Now where was I?<#>{Донован Уайтхаус}Итак, где я остановился?
 {Donovan Whitehouse}This got boring real fast.<#>{Донован Уайтхаус}Мне это наскучило.
-{Donovan Whitehouse}Let me find something\#else to bash our heads with.<#>
+{Donovan Whitehouse}Let me find something\#else to bash our heads with.<#>{Донован Уайтхаус}Давай найдём что-нибудь ещё,\#о что можно испытать голову.
 {Donovan Whitehouse}Hmm...<#>{Донован Уайтхаус}Хмм...
 {Donovan Whitehouse}How about this one?<#>{Донован Уайтхаус}Как насчёт этой?
 {Donovan Whitehouse}Cold War Documentary, Volume 1.<#>{Донован Уайтхаус}Документальная книга о холодной войне,\#первый том.
@@ -673,7 +673,7 @@ I'm no one in particular.<#>Я - никто особенный.
 {Clark Cunningham}Say goodbye to\#your limbs.<#>{Кларк Каннингем}Попрощайся со своими конечностями.
 {Clark Cunningham}Alright.\|\#You asked for it.<#>{Кларк Каннингем}Ладно.\|\#Ты сам напросился.
 {Clark Cunningham}You takin' me\#for a fool?<#>{Кларк Каннингем}Ты меня за дурака считаешь?
-{Clark Cunningham}If this Infinity shit's got a\#highscore then I'll be the one to beat it!<#>
+{Clark Cunningham}If this Infinity shit's got a\#highscore then I'll be the one to beat it!<#>{Кларк Каннингем}Если это бесконечное говно собирается\#поставить рекорд, то именно я побью его!
 {Clark Cunningham}I'll be damned.<#>{Кларк Каннингем}Чёрт меня подери.
 {Scrawny Davy}HAH!\.\. As if I would\#ever fall for that!<#>{Тощий Дэви}ХА!\.\. Никогда на это не поведусь!
 {Mikhail "Milo" Zhnebrowski}Alex.<#>{Михаил "Мило" Жнебровский}Алекс.
@@ -735,15 +735,15 @@ I'm no one in particular.<#>Я - никто особенный.
 {Joel Miller}Uhh...<#>{Джоэл Миллер}Эээ...
 {Joel Miller}Guys...\|\#The hell is that thing\#on the wall?<#>{Джоэл Миллер}Ребята...\| Что\#это за чертовщина\#на стене?
 {Barry Twister}You think I'm fucking around?<#>{Барри Твистер}Ты думаешь, я блять шучу?
-{Barry Twister}Chop! Chop!\|\#Here comes the gutter!<#>
-{Barry Twister}Need the good stuff...<#>
-{Barry Twister}...<#>
-{Barry Twister}It's not the same anymore...<#>
+{Barry Twister}Chop! Chop!\|\#Here comes the gutter!<#>{Барри Твистер}Вот! Вот!\|\#Вот и моя сила!
+{Barry Twister}Need the good stuff...<#>{Барри Твистер}Нужен допинг...
+{Barry Twister}...<#>{Барри Твистер}...
+{Barry Twister}It's not the same anymore...<#>{Барри Твистер}Он теперь другой...
 {Barry Twister}Ugh...<#>{Барри Твистер}Уф...
 {Barry Twister}I'll...<#>{Барри Твистер}Я...
 {Barry Twister}I'll fuck you up!<#>{Барри Твистер}Я взъебу тебя!
-{Earnest}Do you like to...\| party?<#>
-{Earnest}I like to party.<#>
+{Earnest}Do you like to...\| party?<#>{Искренний}Тебе нравится...\| веселиться?
+{Earnest}I like to party.<#>{Искренний}Мне нравится веселиться.
 {Chandler Sinclair}\..\..\..FUCK THIS!<#>{Ченлдер Синклер}\..\..\..НУ НАХУЙ!
 {Chandler Sinclair}I'm sick of carrying\#this fatass around\#for hours on end!<#>{Ченлдер Синклер}Я устал носить этого\#жиробаса часами без конца!
 {Chandler Sinclair}Y'all are gonna\#fuckin' pay!<#>{Ченлдер Синклер}Вы все блять\#заплатите!

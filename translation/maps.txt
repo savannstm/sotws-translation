@@ -2784,7 +2784,7 @@ They are dead.<#>Они мертвы.
 \et[152]The Franchise is\#like a bad cold.<#>Франшиза - она как\#сильная простуда.
 \et[152]Just gotta\#wait it out.<#>Нужно просто её\#переждать.
 \et[152]We'll recover soon.<#>Мы скоро восстановимся.
-\et[000]Perhaps you're gonna\#blow it yourself with\#that eyepatch.<#>
+\et[000]Perhaps you're gonna\#blow it yourself with\#that eyepatch.<#>Ты сам его раскроешь\#своей повязкой.
 \et[0183]Hmm...\|\#Perhaps you're right...<#>Хмм...\|\#Возмжно ты прав.
 \et[0183]You know what?\|\#You can take it.<#>Знаешь что?\|\#Можешь забрать её.
 He gave you his eyepatch!<#>Он дал вам свою повязку!
@@ -8751,11 +8751,11 @@ He is staring blankly.<#>Он смотрит пустым взглядом.
 \et[026]I was...\|\#too annoyed.<#>Я...\|\#Слишком разозлён.
 \et[026]I'm going\#to rid this\#world of all\#annoying people.<#>Я избавлю\#этот мир от\#всех раздражающих\#людей.
 \et[026]Grandpa...<#>Дедушка...
-\et[026]It seems like you\#make the list.<#>
+\et[026]It seems like you\#make the list.<#>Похоже, ты в моём\#списке.
 \et[026]Well...<#>Ну...
 \et[026]Perhaps I've made\#a mistake.<#>Похоже, я совершил\#ошибку.
-\et[026]Run along.<#>
-\et[026]You really wanna\#do this again?<#>
+\et[026]Run along.<#>Беги.
+\et[026]You really wanna\#do this again?<#>Ты правда хочешь\#повторишь?
 \et[026]Once again.<#>И вновь.
 He stumbled upon a realization.<#>Он вдруг осознал.
 \et[026]This is\#the power\#the Franchise\#gives to me.<#>Эту силу\#даёт мне\#Франшиза.
@@ -8775,13 +8775,13 @@ It watches.<#>Он смотрит.
 \et[032]Now we\#can play\#our game\#in peace.<#>Теперь мы\#можем\#спокойно\#играть.
 \et[032]Spill our\#blood in peace.<#>Спокойно проливать\#нашу кровь.
 \et[033]The sweet blood...<#>Сладкая кровь...
-\et[033]Or perhaps...<#>
-\et[033]Your time has come.<#>
-\et[033]I don't think so.<#>
-\et[033]You die here.<#>
-\et[000]This could come\#in handy...<#>
-You search his corpse.<#>
-Got an All-Star Baseball Helmet!<#>
+\et[033]Or perhaps...<#>Или, возможно...
+\et[033]Your time has come.<#>Твоё время пришло.
+\et[033]I don't think so.<#>Я так не думаю.
+\et[033]You die here.<#>Ты умрёшь здесь.
+\et[000]This could come\#in handy...<#>Он может\#пригодиться...
+You search his corpse.<#>Вы обыскиваете его труп.
+Got an All-Star Baseball Helmet!<#>Получен шлем звезды бейсбола!
 \et[033]It tastes\#so good...<#>Она такая\#вкусная...
 \et[033]It will\#be your turn,\.\#sooner or later...<#>Ты станешь\#следующим,\.\#рано или поздно...
 \et[035]Yo,\. some\#fat guy just\#like,\. totally\#ran past me.<#>Эй,\. какой-то\#жирный парень\#просто типа,\.\#пробежал мимо.
@@ -9215,7 +9215,7 @@ He is dead.<#>Он мёртв.
 \et[006]Playboy\|: A History.<#>Плейбой\|: история.
 He is absorbed by the text.<#>Он поглощён текстом.
 \et[006]Turns out\#books are\#great for\#bludgeoning,\. too.<#>Оказывается,\.\#книги хороши\#ещё и для\#избиения.
-\et[006].\|.\|.\|Except for a cup of fresh\#water,\| of course.<#>
+\et[006].\|.\|.\|Except for a cup of fresh\#water,\| of course.<#>.\|.\|.\|Кроме стакана холодной воды,\|\#конечно.
 \et[006]Mind fetching me some from\#the cooler over there?<#>Не возражаешь подать\#мне немного воды из\#того кулера?
 \et[000]Uh...\|\#Sure thing.<#>Э...\|\#Конечно.
 \et[000]Here.<#>Вот
@@ -9223,8 +9223,8 @@ Lost a cup of water.<#>Потерян стакан воды.
 \et[006]Thank you,\| uhh...<#>Спасибо тебе,\| ээ...
 \et[000]Alex.<#>Алекс.
 \et[006]Alex, alright.<#>Алекс, хорошо.
-\et[006]To be frank,\| this book\#is a bit of a bore.<#>
-\et[006]Let me find some\#more...\| "literature".<#>
+\et[006]To be frank,\| this book\#is a bit of a bore.<#>Честно говоря,\| эта книга\#немного скучная.
+\et[006]Let me find some\#more...\| "literature".<#>Сейчас поищу другой...\|\#"литературы".
 \et[006]Aha!<#>Ага!
 \et[006]Almost forgot where I put it.<#>Чуть не забыл, куда я\#его положил.
 \et[006]Let's see...<#>Посмотрим.
@@ -9234,38 +9234,38 @@ Lost a cup of water.<#>Потерян стакан воды.
 \et[006]Jesus Christ...<#>Господь Иисус...
 \et[006]The hell is this nonsense?<#>Что это за чушь?
 \et[006]Hear this.<#>Послушай.
-\et[006]"Traveler's Logbook Vol. 1"<#>
-\et[006]"Activate Spoiler-Free Achievements?"<#>
-\et[006]I honestly have no idea what it says.<#>
-\et[006]It really doesn't make sense.<#>
-\et[006]Perhaps the next page will\#give us some insight...<#>
-\et[006]"Achievement Number 57"<#>
-\et[006]"Bludgeon an old man\#until he's unconscious."<#>
-\et[006]Well, this is awkward.<#>
-\et[006]But I\| HAVE\| to do it.<#>
-\et[006]This is a trusted source, after all.<#>
-\et[000]Really?<#>
-\et[006]Yeah.<#>
-\et[006]I love changing my opinions and beliefs\#about the surrounding environment based\#on the influence of external sources.<#>
-\et[000]Oh.\|\#Yeah.<#>
-\et[000]Makes sense to me.<#>
-\et[000]Stop it.<#>
-\et[000]We don't have to do this.<#>
-\et[006]I'm sorry.<#>
-\et[000]Don't be sorry,\|\#be better.<#>
-\et[006]I can't help it.<#>
-\et[006]My primal instincts to inflict\#harm upon others came over me.<#>
-\et[000]Why?<#>
-\et[006]What do you mean?<#>
-\et[000]Why did you not kill us?<#>
-\et[006]It said "bludgeon",\| not "kill".<#>
-\et[000]It ran out.<#>
-\et[006]Oh.<#>
-\et[006]What a shame.<#>
-He's dead.<#>
-\et[006]At least the water calmed me down.<#>
-\et[006]Gotta credit you for that.<#>
-\et[000]No problem...\|\#I guess.<#>
+\et[006]"Traveler's Logbook Vol. 1"<#>"Журнал путешественника, том 1"
+\et[006]"Activate Spoiler-Free Achievements?"<#>"Активировать достижения без спойлеров?"
+\et[006]I honestly have no idea what it says.<#>Понятия не имею, что это значит.
+\et[006]It really doesn't make sense.<#>Полная бессмыслица.
+\et[006]Perhaps the next page will\#give us some insight...<#>Возможно, следующая страница\#всё прояснит...
+\et[006]"Achievement Number 57"<#>"Достижение номер 57"
+\et[006]"Bludgeon an old man\#until he's unconscious."<#>"Избей старика до\#потери сознания."
+\et[006]Well, this is awkward.<#>Какой стыд.
+\et[006]But I\| HAVE\| to do it.<#>Но мне\| ПРИДЁТСЯ\| это сделать.
+\et[006]This is a trusted source, after all.<#>Эта книга всё-таки надёжный источник.
+\et[000]Really?<#>Правда?
+\et[006]Yeah.<#>Да.
+\et[006]I love changing my opinions and beliefs\#about the surrounding environment based\#on the influence of external sources.<#>Мне нравится строить своё мнение\#об окружающем мире основываясь\#на информации из внешних источников.
+\et[000]Oh.\|\#Yeah.<#>А.\|\#Конечно.
+\et[000]Makes sense to me.<#>Очень умно.
+\et[000]Stop it.<#>Прекращай.
+\et[000]We don't have to do this.<#>Нам не надо этого делать.
+\et[006]I'm sorry.<#>Прости.
+\et[000]Don't be sorry,\|\#be better.<#>Не извиняйся,\|\#а исправляйся.
+\et[006]I can't help it.<#>Ничего не могу поделать.
+\et[006]My primal instincts to inflict\#harm upon others came over me.<#>Мои первобытные инстинкты\#драки пересилили другие.
+\et[000]Why?<#>Почему?
+\et[006]What do you mean?<#>Что ты имеешь в виду?
+\et[000]Why did you not kill us?<#>Почему ты не убил нас?
+\et[006]It said "bludgeon",\| not "kill".<#>Там было написано "избить",\|\#не "убить".
+\et[000]It ran out.<#>Вода кончилась.
+\et[006]Oh.<#>Ох.
+\et[006]What a shame.<#>Какой позор.
+He's dead.<#>Он мёртв.
+\et[006]At least the water calmed me down.<#>По крайней мере, вода успокоила\#меня.
+\et[006]Gotta credit you for that.<#>Благодарю тебя за неё.
+\et[000]No problem...\|\#I guess.<#>Не благодари...\|\#наверное.
 \et[006]Food for the\#mind and for\#the ravenous body.<#>Пища для ума и для\#голодного тела.
 \et[006]What more\#could you\#ask for?<#>Чего ещё\#можно\#желать?
 Dusty phonebook.<#>Пыльная телефонная книга.
@@ -10954,7 +10954,7 @@ Somewhere with my friends.<#>Жизнь с моими друзьями.
 \et[0]Who knows?<#>Кто знает?
 \et[0]Maybe I'm\#sitting across\#from a friend\#right now.<#>Может быть, я\#прямо сейчас\#сижу напротив\#своего друга.
 \et[002]You are\#too kind, Alex.<#>Ты слишком\#добр, Алекс.
-\et[000]I guess.<#>
+\et[000]I guess.<#>Наверное.
 \et[002]Tea\#still warm?<#>Чай ещё\#тёплый?
 \et[000]Definitely.<#>Определённо.
 \et[002]I'm beginning\#to form a\#picture here.<#>Я начинаю\#составлять\#картину.

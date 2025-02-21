@@ -110,7 +110,7 @@ Got a jerryrigged doll!<#>Получена самодельная кукла!
 "Book of Tactics:\#A Guide to Strategy on the Battlefield"<#>"Книга тактики:\#Руководство по стратегии на поле боя"
 The book is complete.<#>Книга восстановлена.
 Suddenly,\| Joel remembered something...<#>Внезапно,\| Джоэл что-то вспоминает...
-“Never give up,\#for that is just the place and time\#that the tide will turn.”<#>
+“Never give up,\#for that is just the place and time\#that the tide will turn.”<#>"Никогда не сдавайся,\#потому что именно в этот момент,\#всё обернётся против тебя."
 Joel learned Gun Whirl!<#>Джоэл изучил Ураганный пистолет!
 View which page?<#>Какую страницу посмотреть?
 Intimidation<#>Запугивание
@@ -173,8 +173,8 @@ You somehow understand it.<#>Вы каким-то образом понимае�
 It reads:<#>Оно гласит:
 "Bobby the sex from the complex."<#>"Бобби секс населяет комплекс."
 You feel inspired.<#>Вы чувствуете вдохновение.
-This one has enough for everyone.<#>
-It was extremely fulfilling.\| Stats up!<#>
+This one has enough for everyone.<#>Здесь хватит всем.
+It was extremely fulfilling.\| Stats up!<#>Было безумно аппетитно.\| Характеристики повышены!
 Next Chapter<#>Следующая глава
 Perseverance<#>Упорство
 Go Back<#>Назад

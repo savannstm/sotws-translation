@@ -260,14 +260,11 @@ a spit of mist.<#>плюётся туманом.
 sprays a mist!<#>распыляет туман!
 swings his cinderblock!<#>размахивает своим шлакоблоком!
 strikes into your soul!<#>поражает вашу душу!
-performs his Hollywood Hustle!<#>
 charges you!<#>делает в вас рывок!
 gives a stiff arm!<#>машет сильнее!
 unloads into you!<#>решетит вас!
 flashes a disingenuous smile...<#>неискренне улыбается...
 backhands you!<#>бьёт слева!
-performs his Holiday Slam!<#>
-performs his Atlanta Slam!<#>
 gets a party started!<#>начинает вечеринку!
 Woo!<#>Уу!
 is lost...<#>потерян...
@@ -467,16 +464,8 @@ boxes.<#>боксирует.
 brings down the elbow!<#>ударяет локтем!
 grabs the car!<#>
 knocked them upward!<#>подбрасывает вверх!
-Solid Guard<#>
-Defend yourself. Grants Solid temporarily, reducing\#all damage taken for one turn.<#>
 punches out all their blood!<#>выбивает из него всю кровь!
-Deep Exhale<#>
-Take a deep, painful breath. Restores much HP,\#but makes you Winded.<#>
 's fingers ache.<#>испытывает боль в пальцах.
-Gear Up<#>
-This is your last chance. Show them you are still\#standing. Grants use of Denier Fist.<#>
-Denier Fist<#>
-Refuse to surrender. End their life.<#>
 creates some distance.<#>держится на расстоянии.
 unleashes a whirlwind of pain!<#>обрушивает водоворот боли!
 will send you to hell!<#>пошлёт вас в ад!
@@ -786,15 +775,10 @@ bashes you in the face!<#>бьёт вас в лицо!
 Chomp down on some tasty salt. Restores HP\#and SP, but only if you have salt in your inventory.<#>Сожрите немного вкусной соли. Восстанавливает\#ОЗ и ОН, но только если у вас в инвентаре есть соль.
 gets ready to eat.<#>готовится есть.
 Salt Wall<#>Соляная стена
-Goat Headbutt Ex.<#>
-(ADDS) Destructive cranial collision.\#May stun, but mediocre damage against good def.<#>
 crashes his head!<#>обрушивает свою голову!
-Single Out Ex.<#>
-Harass a particular foe.\#Stresses them out and might make them blind.<#>
 is being frightening!<#>запугивает!
 isn't going down!<#>не собирается умирать!
 hides among the crowd.<#>прячется в толпе!
-Left Slash (Hugo)<#>
 swipes left!<#>махает влево!
 Finger Gun<#>Пальцелет
 When you can't shoot with your gun,\#you can always use your fingers.<#>Когда вы неспособны стрелять своим оружием,\#всегда можно использовать пальцы.
@@ -806,22 +790,11 @@ Gun Whirl<#>Ураганный пистолет
 The final ancient gun technique. Use the pistol as a\#blunt weapon, give them a good smack! Shreds DEF.<#>Высшая древняя пистолетная техника. Исползуйте пистолет\#в качестве тупого оружия, и задайте врагам взбучку! Понижает защиту.
 pistol-whips his way through!<#>пистолирует себе дорогу!
 Deploy your impenetrable hide to protect your team!\#Redirects all damage to the user.<#>Разверните свой непробиваемый панцирь, чтобы защитить\#команду! Перенаправляет весь урон на краба.
-Swat Ex.<#>
-Two devastating smacks to the cheek.<#>
 gives 'em a double slap!<#>даёт двойную оплеуху!
-Leg Stretches Ex.<#>
-Stretch those calves good. Recovers TP and relieves\#tension. If tension is removed, TP is fully restored.<#>
 gets in a perfect stretch!<#>идеально растягивается!
-Vicious Combo<#>
-No style. Only pure violence.<#>
 makes a stand!<#>встаёт в стойку!
-Burst Palm<#>
-A straight shot with the palm.<#>
 Takedown<#>Прогиб
-Rising Punch<#>
 Slam a bitch with your steely shell! Deals decent\#damage, but leaves you on the ground afterward.<#>Размажьте суку своим стальным панцирем!\#Наносит хороший урон, но вы падаете на землю.
-Gut Kick<#>
-An extended gut kick.<#>
 rams a motherfucker!<#>берёт хуесоса на прогиб!
 Solidify<#>Укрепление
 Get hard, harder! Grants the Solid status, but\#restricts your skill usage.<#>Крепче, крепче! Даёт статус укрепления, но ограничивает\#возможность использования навыков.
