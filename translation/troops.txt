@@ -20,7 +20,6 @@
 <!-- Event Name: Rag Maggot4 --><#>
 <!-- Event Name: Rag Maggot5 --><#>
 <!-- Event Name: Pedro Rodrigez --><#>
-Don't make me flip out!<#>Не беси меня!
 {Pedro Rodrigez}What you doin' with that bottle, big-hat?\#Don't you dare weaponize that technology!<#>{Педро Родригез}Что ты там делаешь с бутылкой, шляпник?\#Не смей превращать эту технологию в оружие!
 {Pedro Rodrigez}You only won because I let you!<#>{Педро Родригез}Вы победили лишь потому, что я поддался!
 {Pedro Rodrigez}Good luck dealing with that\#guilt for the rest of your lives!<#>{Педро Родригез}Удачи нести это бремя вины\#весь остаток ваших жизней!

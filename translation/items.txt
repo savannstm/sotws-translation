@@ -20,7 +20,6 @@ Fancy Perfume<#>Изысканные духи
 The sweet scent revives an ally fully.<#>Приятный запах поднимает союзников на ноги и\#полностью исцеляет.
 Bird Feed<#>Птичий корм
 A mix of damp seeds and dead grub.\#Restores HP and some SP. (Bulk Food)<#>Комбикорм из влажных семян и мертвых личинок.\#Восстанавливает ОЗ и немного ОН. (Некачественная еда)
-A mix of damp seeds and dead grub.\#Restores HP and some SP.<#>Комбикорм из влажных семян и мертвых личинок.\#Восстанавливает ОЗ и немного ОН.
 Bottle of Soup<#>Бутылка супа
 Recovers 500 HP.<#>Восстанавливает 500 ОЗ.
 Bottle of Water<#>Бутылка воды
@@ -45,7 +44,6 @@ School Basement Key<#>Ключ от школьного подвала
 It is marked with a letter. The rust\#makes it unreadable.<#>Ключ помечен каким-то словом, но из-за ржавчины прочитать\#невозможно.
 A record comprised of old men groaning. It is rather\#sharp. Perfect for playing Frisbee with your friends.<#>Запись старческих стонов. Довольно жуткая.\#Идеальна для игры в Фрисби с друзьями.
 Eerie Record<#>Жуткая запись
-A record comprised of old men groaning.<#>Запись старческих стонов.
 Nightmare Bile<#>Кошмарная желчь
 A plastic cup filled with bile.\#Brings back a fallen ally into a waking nightmare.<#>Пластиковый стакан, наполненый желчью.\#Способен пробудить упавшего союзника в кошмар наяву.
 Silver Angel<#>Серебряный ангел
@@ -82,7 +80,6 @@ Specific Key<#>Особый ключ
 Limited edition gummy worm.\#Recovers 360 HP. Don't cry now.<#>Желейный червяк из ограниченной серии.\#Восстанавливает 360 ОЗ. Можно пустить\#ностальгическую слезу.
 A very specific key.<#>Очень особый ключ.
 Exclusive Gummy<#>Особый желейный червяк
-Limited edition gummy worm.\#Recovers 160 HP. Don't cry now.<#>Желейный червяк из ограниченной серии.\#Восстанавливает 160 ОЗ. Можно пустить\#ностальгическую слезу.
 Firebomb<#>Огненная бомба
 A firebomb, can cause burning.<#>Огненная бомба, может легко поджечь.
 Joy<#>Джой
@@ -116,7 +113,6 @@ The writing is extremely difficult to decipher.\#Seriously, what does it say?<#>
 Tissue<#>Платок
 The ultimate for drying your tears...\#When you have an issue.<#>Универсальное решение против слёз...\#Когда проблем впрок.
 Squirrel Jerky<#>Мясо белки
-Dried squirrel meat.\#Recovers 300 HP.<#>Вяленое мясо белки.\#Восстанавливает 300 ОЗ.
 Cigarette<#>Сигарета
 Flavor so smooth, it heals poison!\#(This ad is sponsored by Martlo Cigarettes)<#>Настолько приятная, что исцеляет отравление!\#(Эта реклама проспонсирована "Сигаретами Мартло")
 Pink Pill<#>Розовая таблетка
@@ -149,9 +145,7 @@ Tomato Sauce Packet<#>Пакетик томатной пасты
 Chew on it and the tomato flavoured\#dust inside will be your reward. (Bulk Food)<#>Разгрызите его, и пыль со вкусом томата станет\#вашей наградой. (Некачественная еда)
 Antique Ham<#>Антикварный окорок
 A delicious treat made from meat.\#Fully restores SP, but will nauseate.<#>Блюдо-деликатес, сделанное из мяса змеи.\#Полностью восстанавливает ОН, но вызывает тоншоту.
-More legend than actual food.\#Full party HP and SP restore.<#>Больше легедарная вещь, чем настоящая еда.\#Восстанавливает ОЗ и ОН всей группы.
 Crutch<#>Костыль
-Primitive weapon of a barbarous age.<#>Примитивное оружие первобытных времён.
 Baby Crow<#>Ворон-малыш
 This baby crow only has the brain span\#to remember what you tell it once.<#>У этого ворона-малыша хватает извилин\#запомнить только одну фразу.
 Storeroom Key<#>Ключ от хранилища
@@ -170,7 +164,6 @@ A cassette tape that contains an otherworldly song.\#Valuable to the fishmen. (B
 Baby Fishman<#>Малыш-рыболюд
 An infant fishman.\#It nows lives rent-free inside your pockets.<#>Новорожденный рыболюд.\#Поселился в ваших карманах и не платит за аренду.
 Fried Fish<#>Жареная рыба
-Gone too soon... Restores 500 HP.<#>Ушла слишком рано... Восстанавливает 500 ОЗ.
 Monkey Wrench<#>Разводной ключ
 A handy tool for any job, both constructive and\#destructive. Mechanic's best friend.<#>Полезный инструмент для любого вида работ,\#от сборки до разборки. Лучший друг механика.
 Exotic Toilet Paper<#>Экзотическая туалетная бумага
@@ -237,7 +230,6 @@ A razor-sharp fang coated with poison. Belonged to a\#species of snake that is n
 Bottle of Oil<#>Бутылка масла
 A vat of the slickest oil around. Move twice\#in one turn; just don't get burned.<#>Ёмкость самого липкого масла в округе. Двигайтесь дважды\#за один ход; только не сгорите.
 Rooty Carrot<#>Коренастая морковь
-Fresh from the sacred earth.\#Restores 50 HP and helps your eyes. (Bulk Food)<#>Свежесорванная со священной земли. Восстанавливает 50 ОЗ\#и благоприятно влияет на зрение. (Некачественная еда)
 Instant Coffee Tin<#>Банка растворимого кофе
 A can of instant coffee. If only you had\#some water to use it with...<#>Банка растворимого кофе. Если бы у вас только\#была вода...
 Bottle of Coffee<#>Бутылка кофе
@@ -254,7 +246,6 @@ A crudely made bomb filled with crude.\#Can cause burning.<#>Кустарно с
 Premium Cigar<#>Премиумная сигара
 A powerful cigar that must be treated with respect.\#Heals most ailments, but makes you winded.<#>Могущественная сигара, заслужившая уважение.\#Исцеляет большинство статусов, но добавляет вам одышку.
 Ice Pack<#>Мешок льда
-A bag of ice to sooth your aching head. Alleviates\#stun, rage, and pissed.<#>Мешок льда, чтобы приложить к больной голове.\#Справится с оглушением, яростью и раздражённостью.
 Mack Key<#>Ключ Отче
 An old silver key. Can be used to unlock\#the Mack Shack.<#>Старый серебряный ключ. Им можно\#открыть хижину Отче.
 Spray Can<#>Баллончик с краской

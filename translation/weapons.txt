@@ -6,13 +6,11 @@ Iron Ring<#>Железное кольцо
 A knuckle duster worn down to a single ring.<#>Кастет, изношенный до одного единственного кольца.
 Brass Knuckle<#>Латунный кастет
 Brutal jewelry.\#Might inflict bleeding.<#>Брутальное ювелирное изделие.\#Может вызвать кровотечение.
-Brutal jewelry.<#>Брутальное ювелирное изделие.
 Combat Knife<#>Боевой нож
 Emerald Ring<#>Изумрудное кольцо
 A meaningless piece of jewelry from a failed proposal.\#Enhances attack and defense, boosts max SP.<#>Бесполезный ювелирный предмет, отвергнутый после предложения.\#Повышает атаку и защиту, повышает макс. ОН.
 Standard-issue Rando Army combat dagger.\#Doubles TP rate for normal attacks.<#>Боевой кинжал армии Рандо стандартной модели.\#Удваивает получаемые ОТ за обычные атаки.
 Diamond Ring<#>Алмазное кольцо
-An old ring from a long-standing relationship.\#Enhances attack, max SP.<#>Старое кольцо из долгосрочных отношений.\#Увеличивает атаку и макс. ОН.
 Bloodstained Dagger<#>Кровавый кинжал
 Geen's trusty dagger. Has served him well for years.\#A bit of fresh blood resides on the tip.<#>Верный кинжал Гина. Он служил ему годами.\#На кончике осталось немного свежей крови.
 Sharpened Glass Fragment<#>Острый кусок стекла

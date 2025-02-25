@@ -11999,11 +11999,8 @@ Nothing left.<#>Ничего не осталось.
 You cannot go back.<#>Вам не вернуться.
 The door inside appears to be sealed shut.<#>Дверь внутрь крепко запечатана.
 \et[000]Everyone alright...?<#>Все в порядке...?
-\et[033]I think so...<#>Думаю...
 \et[000]Pike?<#>Пайк?
 \et[000]Where is he going?<#>Куда он?
-\et[033]No idea.<#>Не знаю.
-\et[033]Better catch up.<#>Лучше поспевать.
 <!-- Map --><#>373
 <!-- Map Name: Barry's Tunnel --><#>
 <!-- Order --><#>212

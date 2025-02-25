@@ -225,7 +225,6 @@ Exchanged ten jerseys for a Creamy Cola!<#>10 маек были обменяны
 <!-- Event Name: Salt Crab Fall --><#>
 <!-- Event Name: Minor Iris Penalty --><#>
 <!-- Event Name: Dorimere Rewards --><#>
-Exchanged ten jerseys for a Cocola Cola!<#>10 маек были обменяны на Кокола-колу!
 Use the instant coffee tin\#with your bottle of water?<#>Вылить воду из бутылки в банку растворимого\#кофе?
 Made some cold coffee!<#>Получен холодный кофе!
 <!-- Event Name: Item Counters --><#>
