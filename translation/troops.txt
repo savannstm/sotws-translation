@@ -1,26 +1,42 @@
+<!-- Event Name: Darry Sweets --><#>
 {Darry Sweets}I can play dirtier, you filth!<#>{Дэрри Сладостный}Я могу играть грязнее, мусор!
 {Darry Sweets}Don't shag my riches!<#>{Дэрри Сладостный}Не еби мои богатства!
+<!-- Event Name: Roland (Normal) --><#>
 {Augustus Estrada}I'm ashamed I ever stood up for you, Roland.<#>{Август Эстрада}Мне стыдно, что я вообще вступился за тебя, Роланд.
 {Roland Von Buckingham}Gotta get hard!<#>{Роланд фон Бакингем}Надо поднажать!
 {Roland Von Buckingham}Dagnabbit!<#>{Роланд фон Бакингем}Господи!
+<!-- Event Name: Bob Versace --><#>
 {Bob Versace}I was only doing this ironically.<#>{Боб Версаче}Я делал это лишь в шутку.
 {Bob Versace}You can take a man's bags,\.\#but you can't take his stench!<#>{Боб Версаче}Можно забрать у человека пакеты,\.\#но ты никогда не заберёшь его запах!
+<!-- Event Name: Richie Cheesedust --><#>
 {Richie Cheasedust}Damn, damn, damn it!\#Catch me Roland!<#>{Ричи Чейздаст}Чёрт, чёрт, чёрт возьми!\#Лови меня, Роланд!
 {Richie Cheasedust}You're all gonna pay for this!<#>{Ричи Чейздаст}Вы все заплатите за это!
 {Richie Cheasedust}This is for Roland! Eat shit!<#>{Ричи Чейздаст}Это за Роланда! Поешь говна!
+<!-- Event Name: Rag Maggot1 --><#>
+<!-- Event Name: Rag Maggot2 --><#>
 {Rag Maggot}Don't make me flip out!<#>{Тряпичный опарыш}Не беси меня!
 {Rag Maggot}This sucked.<#>{Тряпичный опарыш}Отстой.
+<!-- Event Name: Rag Maggot3 --><#>
+<!-- Event Name: Rag Maggot4 --><#>
+<!-- Event Name: Rag Maggot5 --><#>
+<!-- Event Name: Pedro Rodrigez --><#>
 Don't make me flip out!<#>Не беси меня!
 {Pedro Rodrigez}What you doin' with that bottle, big-hat?\#Don't you dare weaponize that technology!<#>{Педро Родригез}Что ты там делаешь с бутылкой, шляпник?\#Не смей превращать эту технологию в оружие!
 {Pedro Rodrigez}You only won because I let you!<#>{Педро Родригез}Вы победили лишь потому, что я поддался!
 {Pedro Rodrigez}Good luck dealing with that\#guilt for the rest of your lives!<#>{Педро Родригез}Удачи нести это бремя вины\#весь остаток ваших жизней!
 {Pedro Rodrigez}Cheaters! Dirty cheaters!<#>{Педро Родригез}Подлецы! Грязные подлецы!
+<!-- Event Name: Dex Muldoon --><#>
 {Pedro Rodrigez}I want outta this game!<#>{Педро Родригез}Я схожу с этого поезда!
 {Dex Muldoon}This is it, cheesebags!<#>{Декс Малдун}Вот и всё, самоуверенные ублюдки!
 {Dex Muldoon}I am taking you all out!<#>{Декс Малдун}Я убью вас всех!
+<!-- Event Name: Sean Shaun --><#>
 {Dex Muldoon}WOW, you're good!<#>{Декс Малдун}ВАУ, ты хорош!
 {Sean Shawn}Boy... you're a tough cookie...<#>{Шон Шоун}Парень... ты крепкий орешек...
+<!-- Event Name: Roland II (Normal) --><#>
 {Sean Shawn}Please, taste my flesh, you are\#the superior predator...<#>{Шон Шоун}Прошу, вкуси мою плоть, высший\#хищник...
+<!-- Event Name: Chaz --><#>
+<!-- Event Name: Rubber Projectile --><#>
+<!-- Event Name: Infinity Boys --><#>
 {Roland Von Buckingham}Cellophane embrace me.<#>{Роланд фон Бакингем}Целлофан, прими меня.
 {Vinny Ramón}It's two on three this time, Lin!<#>{Винни Рамон}В этот раз трое на двоих, Лин!
 {Lin Rhodes}That's not fair! We're outnumbered!<#>{Лин Родс}Нечестно! Мы в меньшинстве!
@@ -37,6 +53,7 @@ Don't make me flip out!<#>Не беси меня!
 {Vinny Ramón}Get ready, Lin!\. Let's hit 'em with full force!<#>{Винни Рамон}Давай, Лин!\. Бьём их в полную силу!
 {Lin Rhodes}Uhh,\. o-okay!<#>{Лин Родс}Ээ,\. л-ладно!
 {Vinny Ramón}Shit, not again!<#>{Винни Рамон}Чёрт, только не это!
+<!-- Event Name: Chet Blur --><#>
 {Lin Rhodes}Come on, man!<#>{Лин Родс}Ну же, мужик!
 {Chet Blur}No jersey, no mercy!<#>{Чет Блюр}Нет майки, нет пощады!
 {Chet Blur}Come on,\. hit me with your best shot!<#>{Чет Блюр}Ну же,\. ударь меня со всей силы!
@@ -48,39 +65,58 @@ Don't make me flip out!<#>Не беси меня!
 {Arnold Shpitz}I...<#>{Арнольд Шпиц}Я...
 {Arnold Shpitz}...really am...<#>{Арнольд Шпиц}...правда...
 {Arnold Shpitz}No one in particular.<#>{Арнольд Шпиц}Никто особенный.
+<!-- Event Name: Arnold Shpitz --><#>
+<!-- Event Name: Arnold Shpitz (Half-a-Fold) --><#>
+<!-- Event Name: Doyle Muscare --><#>
 {Arnold Shpitz}I'm no one in particular.<#>{Арнольд Шпиц}Я - никто особенный.
 {Doyle Muscare}Hop into the meat mill!<#>{Дойль Мускейр}Запрыгивай в мясорубку!
 {Doyle Muscare}I'll make mincemeat out of you!<#>{Дойль Мускейр}Я тебя в фарш нашинкую!
+<!-- Event Name: Wilbur Sin --><#>
+<!-- Event Name: Tournament Fight --><#>
 {Doyle Muscare}They'll kill you for me.<#>{Дойль Мускейр}Они убьют тебя за меня.
+<!-- Event Name: Cormack and Muffin --><#>
 {Lord Baxter Umpire}Foul!<#>{Лорд Бакстер Умпайр}Нарушение!
 {Cormack Rex}Savages, can't leave an old man in peace.<#>{Кормак Рекс}Дикари, не можете оставить старика в покое.
+<!-- Event Name: Alcohol Keeth (Close) --><#>
 {Cormack Rex}Muffin!<#>{Кормак Рекс}Маффин!
 {Alcohol Keeth}It's my first time being violent.<#>{Алкоголь Кит}Я впервые применяю жестокость.
 {Alcohol Keeth}It's time for me to live up to my family name.<#>{Алкоголь Кит}Настало время мне оправдать свою фамилию.
+<!-- Event Name: Cherry Village Rumble --><#>
 {Alcohol Keeth}But I was the underdog...<#>{Алкоголь Кит}Но я был неудачником...
 {Senyor Keister}Guess I just got...\| disenfranchised.<#>{Сеньор Кейстер}Похоже, меня только что...\|\#дефраншизировали.
 {Jessie Mack}It's all just same ol' meat.<#>{Джесси Отче}Это всё то же самое старое мясо.
+<!-- Event Name: Clyde Cyclone --><#>
 {Alejandro Babbage}You can't keep people away from infinity.<#>{Алехандро Бэббэдж}Вы не убережёте людей от бесконечности.
+<!-- Event Name: Raymund Ripe --><#>
 {Clyde Cyclone}Put me back together when you're done.<#>{Клайд Циклон}Собери меня по частям, когда я умру.
 {Raymund Ripe}You wait, you live. You fight, you die.<#>{Рэймонд Райп}Ты ждёшь, ты живёшь. Ты сражаешься, ты умираешь.
 {Raymund Ripe}You just dug your own grave.<#>{Рэймонд Райп}Ты только что выкопал себе могилу.
 {Raymund Ripe}Soft skin... Kitty Babe...<#>{Рэймонд Райп}Мягкая кожа... детка Китти...
+<!-- Event Name: Silvester de Maistre --><#>
 {Raymund Ripe}You're wonderful, Angel Eyes...<#>{Рэймонд Райп}Вы прекрасны, ангельские глаза...
 {Silvester de Maistre}You know, I used to be a warlord.\#"Balloon Pants" they called me.<#>{Сильвестр де Мейстр}Знаешь, я был военачальником.\#Меня называли "Штаны-шары".
 {Silvester de Maistre}You don't get my title by knowing just one trick.<#>{Сильвестр де Мейстр}Такой титул не получишь, зная лишь один приём.
 {Silvester de Maistre}My signature talent...<#>{Сильвестр де Мейстр}Мой фирменный талант...
 {Silvester de Maistre}...BILOCATION!<#>{Сильвестр де Мейстр}...БИЛОКАЦИЯ!
+<!-- Event Name: Avatar of Hatred --><#>
 {Silvester de Maistre}I'm done.<#>{Сильвестр де Мейстр}Я всё.
 {Avatar of Hatred}What's kicking, getting into trouble?<#>{Отражение ненависти}Как делишки? Снова проблемы?
 {Avatar of Hatred}Pop a thrill pill, cool cat.<#>{Отражение ненависти}Выпей таблетку острых ощущений, чувачок.
 {Avatar of Hatred}Check out my cover. You and me, one love.<#>{Отражение ненависти}Посмотри на меня. Ты и я, одна любовь.
 {Avatar of Hatred}You've gotta try being someone else.<#>{Отражение ненависти}Тебе стоит попробовать стать кем-то другим.
 {Avatar of Hatred}You can't keep running, I'll touch your nipple.<#>{Отражение ненависти}Ты не убежишь, я схвачу тебя за сосок.
+<!-- Event Name: Donnie and Ross --><#>
 {Avatar of Hatred}Smooth moves, keep it clicking.<#>{Отражение ненависти}Плавные движения, продолжай.
 {Ross Hillock}Here comes the meat train!<#>{Росс Хиллок}Мясной поезд прибыл!
 {Ross Hillock}Can't break my streak!<#>{Росс Хиллок}Не могу потерять серию!
+<!-- Event Name: Kirf Dinkle --><#>
 {Ross Hillock}Fifth fold... so close!<#>{Росс Хиллок}Пятая складка... так близко!
 {Kirf Dinkle}You killed no one, the franchise lives on!<#>{Кирф Динкл}Вы никого не убили, Франшиза продолжает жить!
+<!-- Event Name: Figure1 --><#>
+<!-- Event Name: Figure2 --><#>
+<!-- Event Name: Figure3 --><#>
+<!-- Event Name: Figure4 --><#>
+<!-- Event Name: Clown Car --><#>
 {Kirf Dinkle}I'm not a basket case, I'm not!<#>{Кирф Динкл}Я не псих, нет!
 {Geronimo Phantasmata}Guys, quit clowning around.\#I'll ice these chumps myself!<#>{Джеронимо Фантазмата}Ребята, кончайте клоунаду.\#Я сам замочу этих болванов!
 {Geronimo Phantasmata}Tell my brother I said hi.<#>{Джеронимо Фантазмата}Передайте привет моему брату.
@@ -90,18 +126,23 @@ Don't make me flip out!<#>Не беси меня!
 {Spanks Star}This isn't as funny as it was in my head.<#>{Спэнкс Стар}Не так весело, как я представлял.
 {The Unspoken One}Twenty-eight years in the slammer for this?<#>{Безмолвный}Двадцать восемь лет тюрьмы за это?
 {Carrot Tail}Can't believe I left my balloons at home.<#>{Кэррот Тейл}Не могу поверить, что я оставил свои шары дома.
+<!-- Event Name: Douglass Fiat --><#>
 {Geronimo Phantasmata}If this is a joke,\| I'm not laughing.<#>{Джеронимо Фантазмата}Если это шутка,\| то мне не смешно.
+<!-- Event Name: Maurice and William --><#>
 {Douglass Fiat}I'm on the edge of infinity!<#>{Дуглас Фиат}Я на грани бесконечности!
 {Maurice Falcon}Doesn't matter how big, small, weak or strong\#you are. Join and The Franchise will double size.<#>{Морис Фэлкон}Неважно, насколько ты большой, малый,\#слабый или сильный. Вступай во Франшизу, и станешь вдвое лучше.
 {Maurice Falcon}I couldn't manage it.<#>{Морис Фэлкон}Я не сумел с этим управиться.
+<!-- Event Name: Matty Mack --><#>
 {William Double J Palmer}Win some, lose some.<#>{Уильям Дабл Джей Палмер}Что-то выиграл, что-то проиграл.
 {Matty Mack}Right in time for harvestin'.<#>{Мэтти Отче}Прямо вовремя на сбор урожая.
+<!-- Event Name: Kind Fight --><#>
 {Matty Mack}What's a little meat between family?<#>{Мэтти Отче}Семье не помешает немного мяса.
 {Stefan Kindchild}In the desert\#I saw a creature, naked, bestial,<#>{Стефан Добряк}В пустыне я увидел\#создание, голое, зверское,
 {Stefan Kindchild}Who, squatting upon the ground,\#Held his heart in his hands,<#>{Стефан Добряк}Которое, сидя на полу,\#держало своё сердце в руках,
 {Stefan Kindchild}And ate of it.<#>{Стефан Добряк}и съело его.
 {Stefan Kindchild}I said, "Is it good, friend?"\#"It is bitter - bitter," he answered;<#>{Стефан Добряк}Я спросил: "Вкусное ли оно, друг?"\#"Оно горькое, горькое", - он ответил.
 {Stefan Kindchild}"But I like it\#Because it is bitter,<#>{Стефан Добряк}Но из-за горечи\#оно мне нравится,
+<!-- Event Name: The Kent and Friends --><#>
 {Stefan Kindchild}And because it is my heart."<#>{Стефан Добряк}И из-за того, что это моё сердце.
 {Tibby Dobs}It's not working! Stronger, Kent!<#>{Тибби Добс}Не выходит! Сильнее, Кент!
 {Tibby Dobs}You MISSED!\| How the hell did you miss?!<#>{Тибби Добс}Ты ПРОМАЗАЛ!\| Как ты вообще умудрился?!
@@ -124,12 +165,15 @@ Don't make me flip out!<#>Не беси меня!
 {The Kent}Death isn't even a setback.<#>{Кент}Смерть - это не неудача.
 {Derb Wesley Jr.}Yoo hoo! Don't tell me I'm too late!<#>{Дерб Уэсли Мл.}Йу-ху! Не говорите, что я опоздал!
 {Derb Wesley Jr.}All I ever wanted was to belong.<#>{Дерб Уэсли Мл.}Я лишь хотел быть нужным.
+<!-- Event Name: Russel Bats --><#>
 {Tibby Dobs}I was supposed to be invincible...<#>{Тибби Добс}Я должен был быть непобедимым...
 {Russel Bats}John Johnson is gone, son.<#>{Рассел Бэтс}Джон Джонсон тоже погиб, сынок.
 {Russel Bats}ASS!<#>{Рассел Бэтс}ЖОПА!
+<!-- Event Name: Anaconda Virtue I --><#>
 {Russel Bats}In the end, I was the one betrayed!<#>{Рассел Бэтс}В итоге, предали меня!
 {Anaconda Virtue}No hands, all bite!<#>{Анаконда Добродетель}Без рук, только зубами!
 {Anaconda Virtue}You know, I'm not even mad.<#>{Анаконда Добродетель}Знаешь, я даже не зол.
+<!-- Event Name: Anaconda Virtue II --><#>
 {Anaconda Virtue}I don't like where this is going.<#>{Анаконда Добродетель}Мне не нравится, куда всё это идёт.
 {Anaconda Virtue}All this attention is making me...<#>{Анаконда Добродетель}От всего этого внимания...
 {Anaconda Virtue}...HOT!<#>{Анаконда Добродетель}...Я ГОРЮ!
@@ -142,6 +186,7 @@ Don't make me flip out!<#>Не беси меня!
 {Anaconda Virtue}No more Mr. Nice Snake!<#>{Анаконда Добродетель}Никакой больше милой змейки!
 {Anaconda Virtue}I'll burn this whole world to the ground!<#>{Анаконда Добродетель}Я сожгу весь этот мир до основания!
 {Anaconda Virtue}Wow.<#>{Анаконда Добродетель}Вау.
+<!-- Event Name: Anaconda Virtue III --><#>
 {Anaconda Virtue}Not bad,\. gramps,\. not bad.<#>{Анаконда Добродетель}Неплохо,\. дедуля,\. неплохо.
 {Anaconda Virtue}It's for real this time.<#>{Анаконда Добродетель}На этот раз давай по-настоящему.
 {Anaconda Virtue}Also...<#>{Анаконда Добродетель}И ещё...
@@ -152,33 +197,44 @@ Don't make me flip out!<#>Не беси меня!
 {Anaconda Virtue}That's not even remotely fair!<#>{Анаконда Добродетель}Это вообще нечестно!
 {Anaconda Virtue}Can't put my flame out!<#>{Анаконда Добродетель}Ты не можешь гасить моё пламя!
 {Anaconda Virtue}Are you kidding me?\#I'm not kidding me.<#>{Анаконда Добродетель}Ты шутишь надо мной?\#Я не шучу над собой.
+<!-- Event Name: Twisty --><#>
 {Anaconda Virtue}Are you kidding you?<#>{Анаконда Добродетель}Ты шутишь над собой?
 {Wilbur Sin}Hell is real.<#>{Уилбур Грех}Ад реален.
 {Wilbur Sin}And Hell...\| is here.<#>{Уилбур Грех}И ад...\| здесь.
 {Wilbur Sin}...<#>{Уилбур Грех}...
 {Wilbur Sin}Finally...<#>{Уилбур Грех}Наконец-то...
+<!-- Event Name: Darry Sweets (Gummy) --><#>
 {Wilbur Sin}Free...\| from this cursed sin.<#>{Уилбур Грех}Свободен...\| от этого проклятого греха.
 {Darry Sweets}...You...\| you ate it...<#>{Дэрри Сладостный}...Ты...\| ты съел его...
 {Darry Sweets}...right in front of me...<#>{Дэрри Сладостный}...прямо передо мной...
 {Darry Sweets}You're gonna regret that!<#>{Дэрри Сладостный}Ты об этом пожалеешь!
 Not out yet!<#>Не упал!
 I can play dirtier, you filth!<#>Я могу играть грязнее, ты, мусор!
+<!-- Event Name: Darry Sweets (Pissed) --><#>
 {Darry Sweets}All I wanted was a taste...<#>{Дэрри Сладостный}Всё, что я хотел, это попробовать...
 {Darry Sweets}Check it!<#>{Дэрри Сладостный}Наблюдай!
 {Darry Sweets}You just don't know when to quit!<#>{Дэрри Сладостный}Ты просто не знаешь, когда остановиться!
+<!-- Event Name: Will Killjoy --><#>
 {Darry Sweets}Guess life wasn't so sweet after all...<#>{Дэрри Сладостный}Похоже, жизнь всё же не такая сладкая...
 {Will Killjoy}You don't know who you're fucking with!<#>{Уилл Безрадостный}Ты блядь не знаешь, с кем связался!
 {Will Killjoy}You're forcing my hand...<#>{Уилл Безрадостный}Ты вынуждаешь мою руку...
 {Will Killjoy}Let me show you a trick\#I learned from the big R himself.<#>{Уилл Безрадостный}Давай покажу тебе трюк, которому\#научился у самого большого Р.
 {Will Killjoy}Ah... fuck...<#>{Уилл Безрадостный}Ах... блядь...
 {Will Killjoy}...Floyd...<#>{Уилл Безрадостный}...Флойд...
+<!-- Event Name: Rando Insanity --><#>
 {Will Killjoy}...I'm so sorry.<#>{Уилл Безрадостный}Мне так жаль.
 {Foam Styro}I knew I shouldn't have\#eaten those packing peanuts.<#>{Пласт Пено}Я знал, что не стоило\#есть тот упакованный арахис.
+<!-- Event Name: Flynt Woodpecker --><#>
 {Cooper Kelp}If Heaven doesn't have Crispy\#Bitz then send me to Hell.<#>{Купер Келп}Если в раю нет Crispy Bitz,\#то отправьте меня в ад.
 {Flynt Woodpecker}I won't allow you to maul me so easily.<#>{Флинт Дятел}Я не позволю тебе так легко истязать\#меня.
 {Flynt Woodpecker}Come, my beauties!<#>{Флинт Дятел}Вперёд, мои красотки!
 {Flynt Woodpecker}Let's teach these heathens some manners!<#>{Флинт Дятел}Давайте научим этих дикарей манерам!
 {Flynt Woodpecker}You didn't kill me.\.\#You just gave me my wings.<#>{Флинт Дятел}Вы не убили меня.\.\#Вы просто раскрыли мои крылья.
+<!-- Event Name: Fishmen Showdown --><#>
+<!-- Event Name: Garbage Gull --><#>
+<!-- Event Name: Roland (Darry) --><#>
+<!-- Event Name: Roland II (Darry) --><#>
+<!-- Event Name: Super Roland --><#>
 {Flynt Woodpecker}Now I can fly away to paradise.<#>{Флинт Дятел}Теперь я могу улететь в рай.
 {Richie Cheasedust}Roland!<#>{Ричи Чейздаст}Роланд!
 {Richie Cheasedust}I'm here, Roland!<#>{Ричи Чейздаст}Я здесь, Роланд!
@@ -204,14 +260,23 @@ The Dull Pickaxe was forcibly taken...<#>Тупую кирку насильно 
 {Roland Von Buckingham}No...\. no no no...\| Augustus...!<#>{Роланд фон Бакингем}Нет...\. нет нет нет...\| Август...!
 {Richie Cheasedust}Fuck it! Catch me, Roland!<#>{Ричи Чейздаст}Блять! Лови меня, Роланд!
 {Richie Cheasedust}F-F-fuck it...!<#>{Ричи Чейздаст}Б-блять...!
+<!-- Event Name: Super Roland (Darry) --><#>
+<!-- Event Name: Roland II (Super Dead) --><#>
 {Roland Von Buckingham}I told you to go away!<#>{Роланд фон Бакингем}Я говорил тебе уйти!
 {Augustus Estrada}Roland...\|\#Why didn't you listen?<#>{Август Эстрада}Роланд...\|\#Почему ты не послушал?
 {Richie Cheasedust}C-catch...\.\.\. me...<#>{Ричи Чейздаст}Л-лови...\.\.\. меня...
+<!-- Event Name: Roland II (Super Dead + Darry) --><#>
+<!-- Event Name: Gunther Scourge --><#>
 {Gunther Scourge}I ain't gonna keel for you, sackhead!<#>{Гюнтер Бич}Я тебе не уступлю, болван!
 {Roland Von Buckingham}Gotta get harder!<#>{Роланд фон Бакингем}Пора поднажать!
 {Gunther Scourge}I ain't gonna keel for you, grease head!<#>{Гюнтер Бич}Я тебе не уступлю, чумазый!
 {Gunther Scourge}The election was rigged!<#>{Гюнтер Бич}Выборы подстроили!
+<!-- Event Name: Serpentine Figure --><#>
+<!-- Event Name: Amorphous Figure --><#>
+<!-- Event Name: Contorted Figure --><#>
+<!-- Event Name: Looming Figure --><#>
 {Gunther Scourge}Rigged,\. you son of a bitch!<#>{Гюнтер Бич}Подстроили,\. сукин ты сын!
+<!-- Event Name: Joy Boys --><#>
 {Joel Miller}H-hey! Watch where you're swingin', Lucky!<#>{Джоэл Миллер}Э-эй! Следи, куда махаешь, счастливчик!
 {Gremory Gorgonzola}This is bullshit.<#>{Гремори Горгонзола}Бред.
 {Gremory Gorgonzola}Ungh...\| Tougher than you look...<#>{Гремори Горгонзола}У-уф...\| Ты крепче, чем кажешсья...
@@ -220,9 +285,12 @@ The Dull Pickaxe was forcibly taken...<#>Тупую кирку насильно 
 {Flailing Centipede}You're gonna fuckin' pay for that!<#>{Изворачивающийся сколопендр}Вы, блядь, за это заплатите!
 {Flailing Centipede}You could've just gone back up the ladder.<#>{Изворачивающийся сколопендр}Вы просто могли подняться обратно по\#лестнице.
 {Flailing Centipede}Bitch.<#>{Изворачивающийся сколопендр}Сука.
+<!-- Event Name: La Creatura --><#>
+<!-- Event Name: Chriss Bellucci New --><#>
 {Gremory Gorgonzola}Guess it's up to me now...<#>{Гремори Горгонзола}Похоже, теперь всё зависит от меня...
 {Chriss Bellucci}I'm so pumped!<#>{Крисс Белуччи}Я так взволнован!
 {Chriss Bellucci}You don't know who you're messin' with!\.\#You have no idea!<#>{Крисс Белуччи}Ты не знаешь, с кем связался!\.\#Ты понятия не имеешь!
+<!-- Event Name: Cafeteria Brawl --><#>
 {Chriss Bellucci}I actually hate this, always did.<#>{Крисс Белуччи}На самом деле, я это ненавижу, и всегда\#ненавидел.
 {Lester Bean}I'll keep the meat flowin'!\#Just take these goons out!<#>{Лестер Бин}Я обеспечу мясо!\#Просто завалите этих тупиц!
 {Mes Tez}And so,\. the curtain has fallen...\|\#Exit...\. stage left...<#>{Мес Тез}И так,\. занавес опустился...\|\#Выход...\. слева сцены...
@@ -238,40 +306,53 @@ The Dull Pickaxe was forcibly taken...<#>Тупую кирку насильно 
 {Lester Bean}Hey, watch where you're swingin'!<#>{Лестер Бин}Эй, смотри куда бьёшь!
 {Lester Bean}Whose side are you on?<#>{Лестер Бин}На чьей вы стороне?
 {Lester Bean}Okay, that's enough!<#>{Лестер Бин}Всё, достаточно!
+<!-- Event Name: The Twister --><#>
 {Lester Bean}Some help you were!<#>{Лестер Бин}Вот какая с вас помощь!
 {Barry Twister}If I cut you open,\. will you bleed?<#>{Барри Твистер}Если я тебя порежу,\. кровь пойдёт?
 {Barry Twister}I'll gut you like a pig!<#>{Барри Твистер}Я вспорю тебя как свинью!
 {Barry Twister}Ugh... God, my head...<#>{Барри Твистер}Ух... Господи, моя голова...
+<!-- Event Name: Shattered Constitution --><#>
 {Barry Twister}This isn't worth it.\. Not anymore.<#>{Барри Твистер}Оно того не стоит.\. Больше не стоит.
 {Ron Constitution}I'll make ya wish your momma died in labor!<#>{Рон Конститушен}Ты пожалеешь, что тебя мама родила!
 {Ron Constitution}That all ya got?\. That's some pussy bullshit!<#>{Рон Конститушен}Всё, что ты умеешь?\. Какая-то бабская чушь!
 {Nicky B}No, stop!<#>{Никки Б}Нет, стой!
+<!-- Event Name: Sid Bloodheart --><#>
 {Ron Constitution}You ain't sh-\.shit!\| Come on!<#>{Рон Конститушен}Ты дерь-\.дерьмо!\| Чёрт!
 {Sid Bloodheart}Shit, you're actually kinda tough.<#>{Сид Кровавый}Чёрт, ты довольно крепкий.
+<!-- Event Name: Pope Slaughter --><#>
 {Sid Bloodheart}Ey,\. ey!\| Stop!\. Stop!<#>{Сид Кровавый}Эй,\. эй!\| Стоп!\. Стоп!
 {Pope Slaughter}Show me what you've got, boys!<#>{Поуп Убойный}Покажите мне, что умеете, ребята!
 {Pope Slaughter}Good hustle, but the oven's heating up now.<#>{Поуп Убойный}Отлично работаете, но я только разогреваюсь.
 {Pope Slaughter}Time to give this outfit\#a new shade of red!<#>{Поуп Убойный}Время подарить этому наряду\#новый оттенок красного!
 {Pope Slaughter}It's a party now! Woooo!<#>{Поуп Убойный}Веселимся! Уууу!
+<!-- Event Name: Dipper Duel --><#>
 {Pope Slaughter}Not bad, not bad at all...<#>{Поуп Убойный}Неплохо, очень даже неплохо...
 {Palisade Dipper}Think you've got what it takes?<#>{Палисейд Диппер}Думаете, вы сможете?
 {Palisade Dipper}How about now?<#>{Палисейд Диппер}А сейчас?
 {Palisade Dipper}The carnage has just begun!<#>{Палисейд Диппер}Бойня только началась!
+<!-- Event Name: Billiard Brawl --><#>
 {Palisade Dipper}I'm on the path to Armageddon!<#>{Палисейд Диппер}Я на пути к Армагеддону!
 {Billiard Esquire}Can you keep up, grandpa?<#>{Биллиард Эскуайр}Поспеваешь, дедуля?
 {Billiard Esquire}Uh...\| is it too late to say sorry?<#>{Биллиард Эскуайр}Э...\| уже поздно извиняться?
+<!-- Event Name: Extinction Event --><#>
+<!-- Event Name: Trip --><#>
+<!-- Event Name: You Rang? --><#>
 {Billiard Esquire}This is what I get for ignoring my cardio.<#>{Биллиард Эскуайр}Вот что я получил за пропуск тренировок.
 {Oliver Rang}Ah'll knock ya right between the eyes!<#>{Оливер Ранг}Я разобью тебе нос!
 {Oliver Rang}Ya'int nothin' compared to me!<#>{Оливер Ранг}Ты никто по сравнению со мной!
+<!-- Event Name: Thumbs Up --><#>
 {Oliver Rang}Goin' down undah...<#>{Оливер Ранг}Спускаюсь в подземелье...
 {Finn Gur}You can't escape the cycle.<#>{Финн Гур}Ты не можешь сбежать из цикла.
 {Finn Gur}I will make sure of that.<#>{Финн Гур}Я позабочусь об этом.
 {Finn Gur}This is the end of my spiral,\. but yours...<#>{Финн Гур}Это - конец моей спирали,\. но твоей...
+<!-- Event Name: Alcohol Keeth (Far) --><#>
 {Finn Gur}It is just the beginning.<#>{Финн Гур}Это лишь начало.
 {Alcohol Keeth}\}It's my first time being violent.<#>{Алкоголь Кит}\}Я впервые применяю насилие.
 {Alcohol Keeth}\}Ugh, hold on.<#>{Алкоголь Кит}\}Ох, погоди.
+<!-- Event Name: Jacob Mertz --><#>
 {Alcohol Keeth}There.\| Now, where were we?<#>{Алкоголь Кит}Вот.\| На чём мы остановились?
 {Jacob Mertz}How the hell am I being beaten by\#a hobo and his shitty cowboy friend?<#>{Джейкоб Мерц}Какого чёрта меня избивает бомж и его\#сраный друг-ковбой?
+<!-- Event Name: Crunchdown --><#>
 {Jacob Mertz}This makes no fucking sense.<#>{Джейкоб Мерц}Ебучий бред.
 {Kryzsztof the Cruncher}Ready for your nap, old man?<#>{Кристоф Измельчитель}Готов на покой, старик?
 {Rutherford Headstrong}Oh,\. I'm not lookin' so hot...<#>{Рузерфорд Крепкоголовый}Ох,\. мне не очень хорошо...
@@ -280,10 +361,14 @@ The Dull Pickaxe was forcibly taken...<#>Тупую кирку насильно 
 {Kryzsztof the Cruncher}I'm still in it!\. The bell hasn't rung yet!<#>{Кристоф Измельчитель}Я продолжаю!\. Колокол ещё не прозвенел!
 {Kryzsztof the Cruncher}Ungh!<#>{Кристоф Измельчитель}Уух!
 {Kryzsztof the Cruncher}I...\| I can't go on...<#>{Кристоф Измельчитель}Я...\| Я не могу продолжать...
+<!-- Event Name: Mack Attack --><#>
 {Kryzsztof the Cruncher}Victory is yours.<#>{Кристоф Измельчитель}Победа за тобой.
+<!-- Event Name: The Devil --><#>
 {Randy Mack}MACK MEAT,\. MACK MEAT!<#>{Рэнди Отче}МЯСО ОТЦА,\. МЯСО ОТЦА!
+<!-- Event Name: Egghead --><#>
 {Graeme Lucifer}Hell doesn't want me...\| I'll be back.<#>{Грэм Люцифер}Я не нужен в аду...\| Я вернусь.
 {Ed Nobb}Dag nab consarn-flabbigabbit damn it!<#>{Эд Нобб}Чёрт возьми сраный рот наоборот!
+<!-- Event Name: Jeremy Denkins --><#>
 {Ed Nobb}I hope you choke on your own beans!<#>{Эд Нобб}Надеюсь, ты подавишься своими таблетками!
 {Jeremy Denkins}Damn\.\. KIDS!<#>{Джереми Денкинс}Чёрт\.\. ДЕТИ!
 {Jeremy Denkins}Thinkin' you can just walk all over me...<#>{Джереми Денкинс}Думаете, что можете просто переступать через меня...
@@ -294,12 +379,14 @@ The Dull Pickaxe was forcibly taken...<#>Тупую кирку насильно 
 {Jeremy Denkins}They teach you early.\.\#How to take a man's life.<#>{Джереми Денкинс}Они учат рано.\.\#Как забирать чужую жизнь.
 {Jeremy Denkins}They make you love it. Need it.<#>{Джереми Денкинс}Они заставляют полюбить это. Нуждаться в этом.
 {Jeremy Denkins}We're all just tools of war in the end.<#>{Джереми Денкинс}Мы все в итоге - лишь инструменты войны.
+<!-- Event Name: Floyd Burnside --><#>
 {Jeremy Denkins}Only difference is who's pullin' the strings.<#>{Джереми Денкинс}Единственное различие в том, кто дёргает за нитки.
 {Floyd Burnside}Hmm...\| interesting.<#>{Флойд Бёрнсайд}Хмм...\| интересно.
 {Floyd Burnside}I've seen enough.<#>{Флойд Бёрнсайд}Я увидел достаточно.
 {Floyd Burnside}Look into my eyes when you die.<#>{Флойд Бёрнсайд}Взгляни в мои глаза, когда будешь умирать.
 {Floyd Burnside}Know that all hope has abandoned you.<#>{Флойд Бёрнсайд}Знай, что вся надежда покинула тебя.
 {Floyd Burnside}...<#>{Флойд Бёрнсайд}...
+<!-- Event Name: Francis and Co. --><#>
 {Floyd Burnside}How...\| peculiar.<#>{Флойд Бёрнсайд}Как...\| необычно.
 {Francis Gizmo Jr.}Show them what we're made of!<#>{Фрэнсис Гизмо мл.}Покажите им, из чего мы сделаны!
 {Francis Gizmo Jr.}Do I have to do everything myself?<#>{Фрэнсис Гизмо мл.}Мне нужно делать всё самому?
@@ -330,6 +417,7 @@ The Dull Pickaxe was forcibly taken...<#>Тупую кирку насильно 
 {Francis Gizmo Jr.}Oh, you have fucked up now!<#>{Фрэнсис Гизмо мл.}Ох, теперь вам пизда!
 {Kroger Cleveland}Wait,\. Wallaby is...?\| Can't be!<#>{Крогер Кливленд}Стоп,\. Уоллоби...?\| Невозможно!
 {Francis Gizmo Jr.}Get your ass back in gear!<#>{Фрэнсис Гизмо мл.}Возьми себя в руки!
+<!-- Event Name: Olathe Youth --><#>
 {Francis Gizmo Jr.}Earth to dumbfuck!\. Come in, dumbfuck!<#>{Фрэнсис Гизмо мл.}Земля вызывает долбоёба!\. Приём, блять!
 {Manny Kluth}Ow, ow, ow!\. This guy's a big meanie!<#>{Мэнни Клуф}Ой, ой, ой!\. Этот парень большой негодяй!
 {Tony Jones}Where are you going?! Geez!<#>{Тони Джонс}Куда ты собрался?! Боже!
@@ -341,6 +429,7 @@ The Dull Pickaxe was forcibly taken...<#>Тупую кирку насильно 
 {Manny Kluth}Tony, no!<#>{Мэнни Клуф}Тони, нет!
 {Danny DeMarco}You messed up now!\. Take this, butthead!<#>{Дэнни ДеМарко}Теперь тебе конец!\. Держи, придурок!
 {Joel Miller}Alex, STOP!<#>{Джоэл Миллер}Алекс, ОСТАНОВИСЬ!
+<!-- Event Name: Sibling Rivalry --><#>
 {Joel Miller}Everyone, STOP!<#>{Джоэл Миллер}Все, ОСТАНОВИТЕСЬ!
 {Glenn Cletus}Huck, I'm gettin' whooped!<#>{Гленн Клетус}Гек, меня бьют!
 {Huckleberry Cletus}Shush yer mouth and ya won't get hit!<#>{Гекльберри Клетус}Заткнись, и бить не будут!
@@ -353,15 +442,18 @@ The Dull Pickaxe was forcibly taken...<#>Тупую кирку насильно 
 {Huckleberry Cletus}Tell him yerself,\. lazy bastard!<#>{Гекльберри Клетус}Скажи ему сам,\. ленивый ублюдок!
 {Huckleberry Cletus}Jesus...\| Gotta do everythin' myself!<#>{Гекльберри Клетус}Господи...\| Придётся всё делать самому!
 {Huckleberry Cletus}Headin' down the trail again...<#>{Гекльберри Клетус}Снова всё скатилось...
+<!-- Event Name: Avatar of Failure --><#>
 {Glenn Cletus}Finally got what ya deserved,\. ya asshole!<#>{Гленн Клетус}Наконец-то получил по заслугам,\. придурок!
 {Avatar of Failure}Hmph, not bad.<#>{Отражение ошибки}Хм, неплохо.
 {Avatar of Failure}But allow me to show you what\#separates the student from the master.<#>{Отражение ошибки}Но позволь показать тебе, что\#отличает ученика от учителя.
 {Avatar of Failure}It seems...\| I have nothing left to teach you.<#>{Отражение ошибки}Похоже...\| Мне больше нечему тебя научить.
+<!-- Event Name: The Guttinator --><#>
 {Avatar of Failure}Well done.<#>{Отражение ошибки}Отлично сработано.
 {???}Friends! Allow me to aid you!<#>{???}Друзья! Позвольте мне вам помочь!
 {???}Stay strong and win the day!<#>{???}Оставайтесь сильными и победите!
 {The Guttinator}...?<#>{Кишконатор}...?
 {Weez Finkerton}THE MAD FINK STRIKES AGAIN!<#>{Уиз Финкертон}БЕЗУМНЫЙ ФИНК НАНОСИТ НОВЫЙ УДАР!
+<!-- Event Name: Mikhail and Goons --><#>
 {Weez Finkerton}HEY, SATAN!\. I'M COMING FOR YOU NEXT!<#>{Уиз Финкертон}ЭЙ, САТАНА!\. ТЫ СЛЕДУЮЩИЙ!
 {Mikhail "Milo" Zhnebrowski}Oh...\| Ohhhhhh!<#>{Михаил "Мило" Жнебровский}Ох...\| Оооооо!
 {Mikhail "Milo" Zhnebrowski}I see it!<#>{Михаил "Мило" Жнебровский}Я вижу!
@@ -373,17 +465,22 @@ The Dull Pickaxe was forcibly taken...<#>Тупую кирку насильно 
 {Mikhail "Milo" Zhnebrowski}I will obtain peace through any means necessary!<#>{Михаил "Мило" Жнебровский}Я достигну мира любыми способами!
 {Mikhail "Milo" Zhnebrowski}Brothers...\| pray for me!<#>{Михаил "Мило" Жнебровский}Братья...\| помолитесь за меня!
 {Mikhail "Milo" Zhnebrowski}Augh!<#>{Михаил "Мило" Жнебровский}Ох!
+<!-- Event Name: Weez Alone --><#>
+<!-- Event Name: Dwight Boyak --><#>
 {Mikhail "Milo" Zhnebrowski}It...\| it was not meant to be...<#>{Михаил "Мило" Жнебровский}Этого...\| этого не должно было...
 {Dwight Boyak}Smooth moves!<#>{Дуайт Бояк}Плавно двигаешься!
 {Dwight Boyak}But lemme show you\#what I can do!<#>{Дуайт Бояк}Но давай покажу тебе,\#на что я способен!
 {Dwight Boyak}Ain't seen nothin' yet!<#>{Дуайт Бояк}Ты ещё ничего не видел!
+<!-- Event Name: Chainman --><#>
 {Dwight Boyak}Looks like you were the spicier enchilada.<#>{Дуайт Бояк}Похоже, ты - энчилада поострее.
 {Rodrigo Chainman}Let the blood cleanse you.<#>{Родриго Чейнмэн}Позволь крови очистить тебя.
 {Rodrigo Chainman}Let the pain...\| free you.<#>{Родриго Чейнмэн}Позволь боли...\| освободить тебя.
 {Rodrigo Chainman}How sweet it tastes...<#>{Родриго Чейнмэн}Как сладок её вкус...
 {Rodrigo Chainman}Drink deep from my veins.<#>{Родриго Чейнмэн}Пей из глубин моих вен.
+<!-- Event Name: Daemon --><#>
 {Rodrigo Chainman}Don't let a drop go to waste.<#>{Родриго Чейнмэн}Не упусти ни капли.
 {Frederico Daemonico}Let me watch you bleed.<#>{Фредерико Демонико}Дай посмотрю, как ты истекаешь кровью.
+<!-- Event Name: Hank and Basto --><#>
 {Frederico Daemonico}You're just like us...<#>{Фредерико Демонико}Ты такой же, как мы...
 {Hank Abner}That all you wimps got in you?!<#>{Хэнк Эбнер}Это всё, на что вы, слабаки, способны?!
 {Hank Abner}I could do this for days!<#>{Хэнк Эбнер}Я могу так неделями!
@@ -392,11 +489,17 @@ The Dull Pickaxe was forcibly taken...<#>Тупую кирку насильно 
 {Basto Angel Jr.}Was that too much to ask?!<#>{Басто Энджел мл.}Я слишком много просил?!
 {Hank Abner}NO!\. You broke my new pet!<#>{Хэнк Эбнер}НЕТ!\. Ты сломал моего нового питомца!
 {Hank Abner}I'm gonna knock the juice outta you bozos!\|\#And then drink it!<#>{Хэнк Эбнер}Я выбью из вас все соки, придурки!\|\#И потом выпью!
+<!-- Event Name: Mother Maggot --><#>
+<!-- Event Name: Cardinal Sin --><#>
+<!-- Event Name: Scorp --><#>
+<!-- Event Name: Merry Christmas --><#>
 {Hank Abner}Like a great tree,\. I fall...\| gracefully...<#>{Хэнк Эбнер}Как великое древо,\. я падаю...\| грациозно...
 {Chris Kringle}Merry Christmas, bitch!<#>{Крис Крингл}Счастливого Рождества, сука!
 {Chris Kringle}Happy Hanukkah,\. bitch!<#>{Крис Крингл}Счастливой Хануки,\. сука!
 {Chris Kringle}Happy,\. uh,\| Kwanza...\| bitch!<#>{Крис Крингл}Счастливой,\. э,\| Кванзы...\| сука!
+<!-- Event Name: Shammi --><#>
 {Chris Kringle}Been on the naughty list for\#thirty-eight years and proud of it!<#>{Крис Крингл}Я в списке плохих детей вот уже\#тридцать восемь лет, и горжусь этим!
+<!-- Event Name: Scrawny Davy --><#>
 {Shammi}To...\| ny...\|<#>{Шэмми}То...\| ни...\|
 {Scrawny Davy}Hey, what're you pointing at?<#>{Тощий Дэви}Эй, на кого оружие направил?
 {Scrawny Davy}Is there something behind me?<#>{Тощий Дэви}Позади меня кто-то есть?
@@ -420,20 +523,24 @@ The Dull Pickaxe was forcibly taken...<#>Тупую кирку насильно 
 {Scrawny Davy}You guys better not be messing with my-\^<#>{Тощий Дэви}Ребята, вам лучше не портить мой-\^
 {Serjio Oman}In the name of the Elder, I shall cut you down!<#>{Серхио Оман}Во имя старейшины, я тебя убью!
 {Serjio Oman}I won't be felled by the likes of you!<#>{Серхио Оман}Я не позволю таким, как вы, меня сокрушить!
+<!-- Event Name: Welcoming Committee --><#>
 {Serjio Oman}Where did we go so wrong...?<#>{Серхио Оман}Где мы так ошиблись...?
 {Vasyl Jerudich}I'm like a raging bull!\. Wild and unstoppable!<#>{Василь Иерудич}Я как разъяренный бык!\. Дикий и неудержимый!
 {Sheamus Gobshite}Ye call t'at a fockin' punch?!<#>{Шеймус Гобшайт}И што это блядь по-твоему, удар?!
 {Sheamus Gobshite}Ah seen nannies 'it 'arder t'an ye!<#>{Шеймус Гобшайт}Я шнаю нянек пожёсше тебя!
 {Vasyl Jerudich}Eat me and you'll have\#the shits for a whole month.<#>{Василь Иерудич}Съешь меня, и будешь срать целый\#месяц.
+<!-- Event Name: Xerosik Courtly --><#>
 {Sheamus Gobshite}T'is t'e end of t'e rainbow fer me...<#>{Шеймус Гобшайт}Вот и шказошке конец...
 {Xerosik Courtly}I'll shock some sense into you!<#>{Херосик Кортли}Я вдолблю тебе разума!
 {Xerosik Courtly}You're gonna wish you called me ugly!<#>{Херосик Кортли}Ты будешь жалеть, что назвал меня уродом!
 {Xerosik Courtly}I'm not done with you yet!<#>{Херосик Кортли}Я с тобой ещё не закончил!
+<!-- Event Name: Aloysius Herschel --><#>
 {Xerosik Courtly}God,\. why couldn't I have just been normal?<#>{Херосик Кортли}Боже,\. почему я просто не оказался нормальным?
 {Aloysius Herschel}This flame of shame will\#bring fame to my name.<#>{Алоизий Хершель}Это пламя стыда принесёт\#славы сюда.
 {Aloysius Herschel}The sweet heat shall be your defeat.<#>{Алоизий Хершель}Этот тёплый огонь принесёт вам покой.
 {Aloysius Herschel}Hark,\. you shant silence this spark.<#>{Алоизий Хершель}Не спеши,\. тебе его не затушить.
 {Aloysius Herschel}Behold,\. my wrath untold.<#>{Алоизий Хершель}Узри мой гнев необузданный.
+<!-- Event Name: Cave Squad --><#>
 {Aloysius Herschel}My end is here.\| Oh dear.<#>{Алоизий Хершель}Конец мой здесь.\| Какая ересь.
 {Wily Knight}Shoulda got the hell out of here\#when you had the chance,\. pal.<#>{Уили Рыцарь}Тебе надо было валить отсюда,\#пока был шанс,\. приятель.
 {Wily Knight}Enough of this playground shit!<#>{Уили Рыцарь}Достаточно этих сраных игр!
@@ -456,29 +563,39 @@ The Dull Pickaxe was forcibly taken...<#>Тупую кирку насильно 
 {Wily Knight}You'll be real hard when rigor mortis sets in!<#>{Уили Рыцарь}Ты станешь ещё крепче,  когда\#твой труп окоченеет!
 {Wily Knight}...<#>{Уили Рыцарь}...
 {Wily Knight}You know,\| I think I left\#the oven on at home.<#>{Уили Рыцарь}Знаете,\| я думаю, я забыл\#выключить утюг.
+<!-- Event Name: Great Olathian Condor --><#>
+<!-- Event Name: Dex No Dynamite --><#>
 {Wily Knight}You gents have fun, now!<#>{Уили Рыцарь}Веселитесь, парни!
 {Dex Muldoon}You'll never take us down!<#>{Декс Малдун}Вы никогда нас не уничтожите!
 {Dex Muldoon}This trash is ours!<#>{Декс Малдун}Этот мусор наш!
 {Dex Muldoon}The Pedro Army will be\#bigger than Rando ever was!<#>{Декс Малдун}Армия Педро будет больше,\#чем любая армия Рандо!
+<!-- Event Name: Tibby Bad --><#>
 {Dex Muldoon}Mark my words!<#>{Декс Малдун}Запомни мои слова!
 {Tibby Dobs}It's Tibby time!<#>{Тибби Добс}Время Тибби!
 {Tibby Dobs}I can be bad!<#>{Тибби Добс}Я могу быть плохим!
 {Tibby Dobs}I'll show you just how bad I can be!<#>{Тибби Добс}Я покажу тебе, насколько!
+<!-- Event Name: Bepe Gold --><#>
 {Tibby Dobs}Ahh, no more!<#>{Тибби Добс}Охх, прекрати!
 {Bepe Stormer}Watch out! The Storm's comin' through!<#>{Бепе Штормер}Берегись! Шторм надвигается!
 {Bepe Stormer}I'm 24-karats of pure power!<#>{Бепе Штормер}24 карата чистой мощи!
+<!-- Event Name: The Kent and Friends (Bepe) --><#>
 {Bepe Stormer}I tap, I tap!<#>{Бепе Штормер}Я стукну, я стукну!
 {Bepe Stormer}We're gonna paint your face across\#the pavement,\. Angel sympathizer!<#>{Бепе Штормер}Мы размажем тебя по земле,\.\#пособник Ангелов!
 {The Kent}Let's see if the bat is stronger than the jaw!<#>{Кент}Давай посмотрим, что крепче, бита или челюсть!
 {Bepe Stormer}Uhhh...<#>{Бепе Штормер}Аххх...
 {Bepe Stormer}Come on, Kent,\. it's just a mustache.\|\#It'll grow bac-\^<#>{Бепе Штормер}Ну, Кент,\. это лишь усы.\|\#Они отрастут-\^
 {Bepe Stormer}This storm's just started!<#>{Бепе Штормер}Шторм только начался!
+<!-- Event Name: Cherry Village Danger --><#>
 {Bepe Stormer}This is all Tibby's fault.<#>{Бепе Штормер}Это всё вина Тибби.
 {Matty Mack}I'm here, Daddy Mack!<#>{Мэтти Отче}Я здесь, папочка!
 {Jessie Mack}It's all just the same ol' meat.<#>{Джесси Отче}Это всё лишь мясо.
+<!-- Event Name: Early Arnold --><#>
+<!-- Event Name: Cherry Village Bloated --><#>
 {Matty Mack}Right in time for harvestin'!<#>{Мэтти Отче}Прямо к сбору!
+<!-- Event Name: Babbage Alone --><#>
 {Jessie Mack}It's all just...\| meat...<#>{Джесси Отче}Это всё лишь...\| мясо...
 {Alejandro Babbage}You can't keep...\| urp...<#>{Алехандро Бэббэдж}Ты не можешь взять...\| ик...
+<!-- Event Name: Borislav Ragnarok --><#>
 {Alejandro Babbage}Meeaaat...<#>{Алехандро Бэббэдж}Мяяясоо...
 {Borislav Ragnarok}You are mighty foes indeed...<#>{Борислав Рагнарок}Вы действительно могучие противники...
 {Borislav Ragnarok}But I will not relent!<#>{Борислав Рагнарок}Но я не уступлю!
@@ -494,10 +611,14 @@ The Dull Pickaxe was forcibly taken...<#>Тупую кирку насильно 
 {Borislav Ragnarok}The Soviet Union will live on forever...<#>{Борислав Рагнарок}Советский Союз будет жить вечно...
 {Borislav Ragnarok}...no matter what happens.<#>{Борислав Рагнарок}...что бы ни случилось.
 {Borislav Ragnarok}Commander...\| I am sorry.<#>{Борислав Рагнарок}Командир...\| Мне жаль.
+<!-- Event Name: Lost Marauder --><#>
+<!-- Event Name: The Kent and Everyone --><#>
 {Bepe Stormer}It's you!<#>{Бепе Штормер}Это ты!
 {Bepe Stormer}We're gonna paint your face across\#the pavement, asshole!<#>{Бепе Штормер}Мы тебя по земле размажем,\#мудак!
 {Tibby Dobs}K-Kent...\|\#Let's just calm down and-\^<#>{Тибби Добс}К-кент...\|\#Давай просто успокоимся и-\^
 {Tibby Dobs}Fuck you!<#>{Тибби Добс}Пошёл ты!
+<!-- Event Name: Test --><#>
+<!-- Event Name: Alex Churchland? --><#>
 {???}I knew you had it in you.<#>{???}Я знал, что в тебе это было.
 {???}You failed.<#>{???}Ты провалился.
 {???}This is it.<#>{???}Вот и всё.
@@ -516,6 +637,8 @@ The Dull Pickaxe was forcibly taken...<#>Тупую кирку насильно 
 {???}Is there anything wrong?<#>{???}Что-то не так?
 {???}Yeah, what's up with you?<#>{???}Да, что с тобой?
 {???}He has lost his senses!\|\#HA HA!<#>{???}Он дизориентирован!\|\#ХА-ХА!
+<!-- Event Name: Crowded (3rd Folder) --><#>
+<!-- Event Name: Friends? (Joel Solo) --><#>
 {Joel Miller}Alex...?<#>{Джоэл Миллер}Алекс...?
 {Joel Miller}What are you doing?<#>{Джоэл Миллер}Что ты творишь?
 {Joel Miller}You're creeping me out...<#>{Джоэл Миллер}Ты меня пугаешь...
@@ -539,6 +662,7 @@ The Dull Pickaxe was forcibly taken...<#>Тупую кирку насильно 
 {Joel Miller}It didn't have to end like t-\^<#>{Джоэл Миллер}Всё не должно кончаться та-\^
 {Joel Miller}A-Alex...<#>{Джоэл Миллер}А-Алекс...
 {Joel Miller}G-get your hands off m-\^<#>{Джоэл Миллер}Убери от меня свои руки-\^
+<!-- Event Name: Friends? (Joel and Geen) --><#>
 {Geen Jean}He doesn't look\#very good...<#>{Гин Джин}Он не выглядит\#хорошо...
 {Geen Jean}We need to snap\#him out of it!<#>{Гин Джин}Нам надо выбить из\#него это!
 {Geen Jean}Alex,\. what's gotten into\#you all of a sudden?<#>{Гин Джин}Алекс,\. что в тебя вдруг\#вселилось?
@@ -554,6 +678,7 @@ The Dull Pickaxe was forcibly taken...<#>Тупую кирку насильно 
 {Joel Miller}How could you\#do that?!<#>{Джоэл Миллер}Как ты мог?!
 {Joel Miller}Last warning!<#>{Джоэл Миллер}Последнее предупреждение!
 {Joel Miller}Don't come any cl-\^<#>{Джоэл Миллер}Не подходи бли-\^
+<!-- Event Name: Friends? (Joel and Salt) --><#>
 {Salt Crab}Don't worry!<#>{Солевой краб}Не волнуйся!
 {Salt Crab}All he needs is a\#good slap!\. HA HA!<#>{Солевой краб}Ему лишь нужна хорошая\#оплеуха!\. ХА-ХА!
 {Salt Crab}Seems like we gotta smack\#some sense into him!<#>{Солевой краб}Похоже, нам придётся вбить\#в него разум!
@@ -562,11 +687,17 @@ The Dull Pickaxe was forcibly taken...<#>Тупую кирку насильно 
 {Joel Miller}Stay back!<#>{Джоэл Миллер}Назад!
 {Salt Crab}It's a good thing that I always\#bring my salt cart with me for\#situations like these!\.\.\.\. HA HA HA!<#>{Солевой краб}Хорошо, что я всегда ношу\#с собой мою солевую тележку\#для таких случаев!\.\.\.\. ХА-ХА-ХА!
 {Salt Crab}Come on!\.\#Hop in!<#>{Солевой краб}Давай!\.\#Запрыгивай!
+<!-- Event Name: Crowded (Normal) --><#>
+<!-- Event Name: S.Arnold Shpitz --><#>
 {Borislav Ragnarok}Do svidania.<#>{Борислав Рагнарок}До побачення.
+<!-- Event Name: Other Crowd Members --><#>
+<!-- Event Name: Benedictus Freeman --><#>
 {Benedictus Freeman}Now we're equal.<#>{Бенедикт Фриман}Теперь мы равны.
 I'm no one in particular.<#>Я - никто особенный.
+<!-- Event Name: Frisko Benson --><#>
 {Benedictus Freeman}This is fine.<#>{Бенедикт Фриман}Всё в порядке.
 {Frisko Benson}Don't you have anything\#better to do?<#>{Фриско Бенсон}Тебе больше заняться\#нечем?
+<!-- Event Name: S. Silvester de Maistre --><#>
 {Frisko Benson}God damn...<#>{Фриско Бенсон}Чёрт возьми...
 {Silvester de Maistre}Bah, this is childs' play!<#>{Сильвестр де Мейстр}Ба, это детские игры!
 {Silvester de Maistre}Let's make this more interesting!<#>{Сильвестр де Мейстр}Давай сделаем поинтереснее!
@@ -576,7 +707,9 @@ I'm no one in particular.<#>Я - никто особенный.
 {Silvester de Maistre}...<#>{Сильвестр де Мейстр}...
 {Silvester de Maistre}I should have... seen this coming.<#>{Сильвестр де Мейстр}Я должен был... предвидеть это.
 {Silvester de Maistre}But you know...<#>{Сильвестр де Мейстр}Но знаешь...
+<!-- Event Name: Hugo --><#>
 {Silvester de Maistre}Dying with regrets, doesn't seem so bad.<#>{Сильвестр де Мейстр}Умирать с сожалением - не так уж плохо.
+<!-- Event Name: Checkmate --><#>
 {Aron Richter}Checkmate!<#>{Арон Рихтер}Шах и мат!
 {Aron Richter}Again.<#>{Арон Рихтер}Снова.
 {Aron Richter}Who pulls a knife\#on a dying man?<#>{Арон Рихтер}Кто направляет нож\#на умирающего?
@@ -584,6 +717,8 @@ I'm no one in particular.<#>Я - никто особенный.
 {Aron Richter}You pulled my leg!<#>{Арон Рихтер}Ты дёрнул меня за ногу!
 {Aron Richter}What you doin' with that pistol, big-hat?\|\#Don't you dare weaponize that technology!<#>{Арон Рихтер}Что ты делаешь с этим пистолетом, шляпник?\|\#Не смей превращать эту технологию в оружие!
 {Aron Richter}I'm dead, I guess.<#>{Арон Рихтер}Похоже, мне конец.
+<!-- Event Name: Lab Creep --><#>
+<!-- Event Name: Mud Cave Massacre --><#>
 {Pete Harper}Stay behind me!<#>{Пит Харпер}За мной!
 {Mathew Harper}Please!<#>{Мэтью Харпер}Пожалуйста!
 {Mathew Harper}We haven't done anything!<#>{Мэтью Харпер}Мы ничего не сделали!
@@ -612,8 +747,10 @@ I'm no one in particular.<#>Я - никто особенный.
 {Pete Harper}Now you're gonna get it!<#>{Пит Харпер}Теперь тебе конец!
 {Mathew Harper}P-\|Pete?\|\#I...<#>{Мэтью Харпер}П-\|Пит?\|\#Я...
 {Risky Richmond}That was risky.<#>{Риски Ричмонд}Я был рисковым.
+<!-- Event Name: Liberation --><#>
 {Sholo Liberty}.\.\..\.\..<#>{Шоло Либерти}.\.\..\.\..
 {Sholo Liberty}\..\..\..\.\.Why?<#>{Шоло Либерти}\..\..\..\.\.Почему?
+<!-- Event Name: Joy Boys 2 --><#>
 {Fecal Rusher}You don't know when to quit!<#>{Фекальный бегун}Ты не знаешь, когда нужно уйти!
 {Bronson Irons}What the FUCK, man?!<#>{Бронсон Айронс}Что за ПИЗДЕЦ, мужик?!
 {Bronson Irons}We haven't done anything\#to you!<#>{Бронсон Айронс}Мы тебе даже ничего\#не сделали!
@@ -626,6 +763,7 @@ I'm no one in particular.<#>Я - никто особенный.
 {Bronson Irons}No regrets.<#>{Бронсон Айронс}Ни о чём не жалею.
 {Fecal Rusher}No!\.\.\#Bronson!\.\.\#Not you too...<#>{Фекальный бегун}Нет!\.\.\#Бронсон!\.\.\#И ты тоже...
 {Fecal Rusher}You'll pay for that!<#>{Фекальный бегун}Ты за это заплатишь!
+<!-- Event Name: Slim Hartmann --><#>
 {Slim Hartmann}Come on now!\.\.\#One at a time!<#>{Слим Хартманн}Давайте!\.\.\#По одному!
 {Slim Hartmann}Nothing personal.\.\.\#This is just business.<#>{Слим Хартманн}Ничего личного.\.\.\#Это просто бизнес.
 {Slim Hartmann}THANK GOD FOR\#THE JOY!!<#>{Слим Хартманн}СЛАВА БОГУ ЗА ДЖОЙ!!
@@ -637,12 +775,14 @@ I'm no one in particular.<#>Я - никто особенный.
 {Slim Hartmann}Ouch.<#>{Слим Хартманн}Ау.
 {Slim Hartmann}This is\..\..\..\#rather unfortunate.<#>{Слим Хартманн}Это\..\..\..\#довольно досадно.
 {Slim Hartmann}I'll see myself out.<#>{Слим Хартманн}Наслажусь последними моментами.
+<!-- Event Name: Slim Hartmann (Pissed) --><#>
 {Slim Hartmann}NO MERCY!<#>{Слим Хартманн}НИКАКОЙ ПОЩАДЫ!
 {Slim Hartmann}You are the worst.<#>{Слим Хартманн}Вы ужасны.
 {Slim Hartmann}...<#>{Слим Хартманн}...
 {Slim Hartmann}Rusher...<#>{Слим Хартманн}Бегун...
 {Slim Hartmann}Irons...<#>{Слим Хартманн}Айронс...
 {Slim Hartmann}This is for you.<#>{Слим Хартманн}Это за вас.
+<!-- Event Name: Bookworm --><#>
 {Donovan Whitehouse}I feel motivated.<#>{Донован Уайтхаус}Я чувствую мотивацию.
 {Donovan Whitehouse}What was I supposed\#to do again?<#>{Донован Уайтхаус}Что я должен был\#сделать?
 {Donovan Whitehouse}Oh yeah.<#>{Донован Уайтхаус}А, да.
@@ -658,6 +798,7 @@ I'm no one in particular.<#>Я - никто особенный.
 {Donovan Whitehouse}It was about to get interesting!<#>{Донован Уайтхаус}Мы приближаемся к самому интересному!
 {Donovan Whitehouse}So much for nourishing my brain.<#>{Донован Уайтхаус}Столько пищи для мозга.
 {Donovan Whitehouse}It's no longer functional.<#>{Донован Уайтхаус}Он больше не функционирует.
+<!-- Event Name: No Coffee? --><#>
 {Francis Peteywheat}I'm so sick of shit!<#>{Фрэнсис Питиуит}Я устал от этого дерьма!
 {Francis Peteywheat}Nothing better than a\#cup of coffee before the\#killing marathon.<#>{Фрэнсис Питиуит}Нет ничего лучше чашечки\#кофе перед убийственным марафоном.
 {Francis Peteywheat}Stop with that shit!<#>{Фрэнсис Питиуит}Кончай с этим говном!
@@ -665,17 +806,21 @@ I'm no one in particular.<#>Я - никто особенный.
 {Francis Peteywheat}No one stands between\#me and my rights!<#>{Фрэнсис Питиуит}Никто не смеет стоять между\#мной и моими правами!
 {Francis Peteywheat}Okay.<#>{Фрэнсис Питиуит}Ладно.
 {Francis Peteywheat}I think that\#calmed me down.<#>{Фрэнсис Питиуит}Я думаю, ты меня успокоил.
+<!-- Event Name: Hottest Snake --><#>
 {El Kobra}Morirás esta noche.<#>{Эль Кобра}Morirás esta noche.
 {El Kobra}Quémalo todo!<#>{Эль Кобра}Quémalo todo!
 {El Kobra}Have you seen a\#flaming snake?<#>{Эль Кобра}Видел ли ты огненную змею?
 {El Kobra}I was skinned!<#>{Эль Кобра}С меня сняли кожу!
+<!-- Event Name: Highscore --><#>
 {Clark Cunningham}Let me show you how\#we did 'em back in Kansas, son.<#>{Кларк Каннингем}Давай я покажу тебе, как мы\#задавали людям в Канзасе, сынок.
 {Clark Cunningham}Say goodbye to\#your limbs.<#>{Кларк Каннингем}Попрощайся со своими конечностями.
 {Clark Cunningham}Alright.\|\#You asked for it.<#>{Кларк Каннингем}Ладно.\|\#Ты сам напросился.
 {Clark Cunningham}You takin' me\#for a fool?<#>{Кларк Каннингем}Ты меня за дурака считаешь?
 {Clark Cunningham}If this Infinity shit's got a\#highscore then I'll be the one to beat it!<#>{Кларк Каннингем}Если это бесконечное говно собирается\#поставить рекорд, то именно я побью его!
 {Clark Cunningham}I'll be damned.<#>{Кларк Каннингем}Чёрт меня подери.
+<!-- Event Name: S. Scrawny Davy --><#>
 {Scrawny Davy}HAH!\.\. As if I would\#ever fall for that!<#>{Тощий Дэви}ХА!\.\. Никогда на это не поведусь!
+<!-- Event Name: S. Mikhail --><#>
 {Mikhail "Milo" Zhnebrowski}Alex.<#>{Михаил "Мило" Жнебровский}Алекс.
 {Mikhail "Milo" Zhnebrowski}I can see it in your eyes.<#>{Михаил "Мило" Жнебровский}Я вижу это в твоих глазах.
 {Mikhail "Milo" Zhnebrowski}I didn't believe your lies.\.\..\.\..\#You are a killing machine.<#>{Михаил "Мило" Жнебровский}Я не верю твоей лжи.\.\..\.\..\#Ты - машина для убийств.
@@ -686,6 +831,7 @@ I'm no one in particular.<#>Я - никто особенный.
 {Mikhail "Milo" Zhnebrowski}Brothers.\..\..<#>{Михаил "Мило" Жнебровский}Братья.\..\..
 {Mikhail "Milo" Zhnebrowski}Augh...<#>{Михаил "Мило" Жнебровский}Ох...
 {Mikhail "Milo" Zhnebrowski}It...\| it was never meant to be...<#>{Михаил "Мило" Жнебровский}Это...\| это не должно было...
+<!-- Event Name: S. Floyd Burnside --><#>
 {Floyd Burnside}Bring it on.<#>{Флойд Бёрнсайд}Нападай.
 {Floyd Burnside}The spirit of Infinity burns\#in my very soul!<#>{Флойд Бёрнсайд}Дух Бесконечности жжёт саму мою душу!
 {Floyd Burnside}You cannot prevent\#your fate.<#>{Флойд Бёрнсайд}Тебе не отвертеться от судьбы.
@@ -695,10 +841,12 @@ I'm no one in particular.<#>Я - никто особенный.
 {Floyd Burnside}I...<#>{Флойд Бёрнсайд}Я...
 {Floyd Burnside}...deserve this.<#>{Флойд Бёрнсайд}...заслуживаю этого.
 {Floyd Burnside}I'm coming,\| Will...<#>{Флойд Бёрнсайд}Я иду,\| Уилл...
+<!-- Event Name: S. Jeremy Denkins --><#>
 {Jeremy Denkins}You know how we do things now.<#>{Джереми Денкинс}Ты знаешь, как у нас теперь\#всё устроено.
 {Jeremy Denkins}Let's just get straight to the point.<#>{Джереми Денкинс}Давай сразу к делу.
 {Jeremy Denkins}And boy...<#>{Джереми Денкинс}И, парень...
 {Jeremy Denkins}That someone's got us all\#under control...<#>{Джереми Денкинс}Кто-то захватил всех нас\#под контроль...
+<!-- Event Name: S. Francis and Co. --><#>
 {Francis Gizmo Jr.}Let me demonstrate.<#>{Фрэнсис Гизмо мл.}Давайте продемонстрирую.
 {Wallaby Whitaker}Yeah, yeah...<#>{Уоллоби Уитекер}Да-да...
 {Francis Gizmo Jr.}Now calm down...<#>{Фрэнсис Гизмо мл.}Теперь, успокоимся...
@@ -708,6 +856,7 @@ I'm no one in particular.<#>Я - никто особенный.
 {Francis Gizmo Jr.}...and you meant the\#world to me.<#>{Фрэнсис Гизмо мл.}...и вы были для меня всем.
 {Kroger Cleveland}Motherfucker!<#>{Крогер Кливленд}Ублюдок!
 {Wallaby Whitaker}Why?\| Why??\|\#Why did this happen!?<#>{Уоллоби Уитекер}Почему?\| Почему??\|\#Почему это произошло!?
+<!-- Event Name: S. Raymund Ripe --><#>
 {Raymund Ripe}You wait, you live.\| You fig-\^<#>{Рэймонд Райп}Ты ждёшь, ты живёшь.\| Ты сраж-\^
 {Raymund Ripe}\|.\|.\|.<#>{Рэймонд Райп}\|.\|.\|.
 {Raymund Ripe}Is that how it is?<#>{Рэймонд Райп}Вот как?
@@ -715,6 +864,7 @@ I'm no one in particular.<#>Я - никто особенный.
 {Raymund Ripe}Heh...<#>{Рэймонд Райп}Хе...
 {Raymund Ripe}Let's not stop the fun now,\#shall we?<#>{Рэймонд Райп}Давай не будем останавливать\#веселье сейчас, хорошо?
 {Raymund Ripe}This felt like heaven.<#>{Рэймонд Райп}Я будто был в раю.
+<!-- Event Name: Borislav Ragnarok (3rd Folder) --><#>
 {Borislav Ragnarok}...\|Huh?<#>{Борислав Рагнарок}...\|А?
 {Borislav Ragnarok}You are a mighty foe indeed...<#>{Борислав Рагнарок}Ты могучий противник, действительно...
 {Borislav Ragnarok}But I will not capitulate!<#>{Борислав Рагнарок}Но я не сдамся!
@@ -725,15 +875,21 @@ I'm no one in particular.<#>Я - никто особенный.
 {Borislav Ragnarok}But...<#>{Борислав Рагнарок}Но...
 {Borislav Ragnarok}...can the Soviet Union really\#live forever?<#>{Борислав Рагнарок}...будет ли Советский Союз правда жить\#вечно?
 {Borislav Ragnarok}Prashai.<#>{Борислав Рагнарок}Прощавай.
+<!-- Event Name: Inf. Cormack and Muffin --><#>
 {Cormack Rex}You want my kit?\|\#Come and take it, you rascal!<#>{Кормак Рекс}Хочешь мой набор?\|\#Войди и возьми, мерзавец!
 {Cormack Rex}Savage, can't leave an old man alone.<#>{Кормак Рекс}Варвар, не можешь оставить старика в покое.
+<!-- Event Name: Homerun --><#>
 {Torque Homer}The taste is so dazing...<#>{Торк Гомер}Вкус такой ошеломляющий...
 {Torque Homer}You're asking for it!<#>{Торк Гомер}Ты напрашиваешься!
 {Torque Homer}It's a homerun!<#>{Торк Гомер}Хоумран!
 {Torque Homer}Now you've done it.<#>{Торк Гомер}Всё, ты вывел меня.
 {Torque Homer}Blood is fuel...\|\#and Hell is full.<#>{Торк Гомер}Кровь - это топливо...\|\#и ад её полон.
+<!-- Event Name: Homerun (Escaped) --><#>
+<!-- Event Name: Cave Scorps? --><#>
+<!-- Event Name: Colossal Scorp --><#>
 {Joel Miller}Uhh...<#>{Джоэл Миллер}Эээ...
 {Joel Miller}Guys...\|\#The hell is that thing\#on the wall?<#>{Джоэл Миллер}Ребята...\| Что\#это за чертовщина\#на стене?
+<!-- Event Name: Bloody Whirlwind --><#>
 {Barry Twister}You think I'm fucking around?<#>{Барри Твистер}Ты думаешь, я блять шучу?
 {Barry Twister}Chop! Chop!\|\#Here comes the gutter!<#>{Барри Твистер}Вот! Вот!\|\#Вот и моя сила!
 {Barry Twister}Need the good stuff...<#>{Барри Твистер}Нужен допинг...
@@ -742,14 +898,17 @@ I'm no one in particular.<#>Я - никто особенный.
 {Barry Twister}Ugh...<#>{Барри Твистер}Уф...
 {Barry Twister}I'll...<#>{Барри Твистер}Я...
 {Barry Twister}I'll fuck you up!<#>{Барри Твистер}Я взъебу тебя!
+<!-- Event Name: The Ragdo Army --><#>
 {Earnest}Do you like to...\| party?<#>{Искренний}Тебе нравится...\| веселиться?
 {Earnest}I like to party.<#>{Искренний}Мне нравится веселиться.
+<!-- Event Name: The Chandelier --><#>
 {Chandler Sinclair}\..\..\..FUCK THIS!<#>{Ченлдер Синклер}\..\..\..НУ НАХУЙ!
 {Chandler Sinclair}I'm sick of carrying\#this fatass around\#for hours on end!<#>{Ченлдер Синклер}Я устал носить этого\#жиробаса часами без конца!
 {Chandler Sinclair}Y'all are gonna\#fuckin' pay!<#>{Ченлдер Синклер}Вы все блять\#заплатите!
 {Stefan Kindchild}Who, squatting upon the ground,\#Held his hear-\^<#>{Стефан Добряк}Которое, сидя на полу,\#держало своё серд-\^
 {Chandler Sinclair}SHUT\| THE\| FUCK\| UP!<#>{Ченлдер Синклер}ЗАТК\|НИСЬ\| БЛЯ\|ТЬ!
 {Chandler Sinclair}God...\|\#FUCKING DAMN IT!<#>{Ченлдер Синклер}Боже...\|\#БЛЯТЬ НАХУЙ!
+<!-- Event Name: Crunchdown Pt. 2 --><#>
 {Rutherford Headstrong}No one can\#take me down!<#>{Рузерфорд Крепкоголовый}Никому не победить меня!
 {Rutherford Headstrong}I thought that\#you'd learn\#your lesson!<#>{Рузерфорд Крепкоголовый}Я думал, что\#ты усвоил урок!
 {Rutherford Headstrong}Again with this?\|\#How many times do I\#gotta kick your ass?<#>{Рузерфорд Крепкоголовый}Снова ты?\|\#Сколько ещё раз мне нужно\#выпороть тебя?
@@ -760,6 +919,8 @@ I'm no one in particular.<#>Я - никто особенный.
 {Rutherford Headstrong}But...<#>{Рузерфорд Крепкоголовый}Но...
 {Rutherford Headstrong}I thought I was\#the very best...<#>{Рузерфорд Крепкоголовый}Я думал, я был самым лучшим...
 {Rutherford Headstrong}Have I been living\#a lie all along?<#>{Рузерфорд Крепкоголовый}Я жил ложью всё это время?
+<!-- Event Name: Hugo (Test 2) --><#>
+<!-- Event Name: GIVE ME MY WATCH! --><#>
 {Georgy Hernandez}Someone's gotta teach\#you a lesson, shitheads!<#>{Джорджи Хернандез}Кому-то надо вас проучить,\#говноеды!
 {Georgy Hernandez}Ugh\..\..\..\#I need my meds...<#>{Джорджи Хернандез}Уф\..\..\..\#Мне нужны мои лекарства...
 {Georgy Hernandez}Alright, scumbags.<#>{Джорджи Хернандез}Ладно, ублюдки.
@@ -768,6 +929,7 @@ I'm no one in particular.<#>Я - никто особенный.
 {Georgy Hernandez}You fucking shitheads...<#>{Джорджи Хернандез}Вы, ебучие говноеды...
 {Georgy Hernandez}Hah!<#>{Джорджи Хернандез}Ха!
 {Georgy Hernandez}Shouldn't have\#messed with me!<#>{Джорджи Хернандез}Не надо было устраивать\#разборки со мной!
+<!-- Event Name: Hugo (Test) --><#>
 {Hugo Leopardi}.\..\..<#>{Хьюго Леопарди}.\..\..
 {Hugo Leopardi}If this is how you want\#to do things,\| then I don't mind.<#>{Хьюго Леопарди}Если ты хочешь решить всё\#так,\| я не возражаю.
 {Hugo Leopardi}Worry not...\|\#for The Doctor has arrived.<#>{Хьюго Леопарди}Не волнуйся...\|\#ведь доктор пришёл.
@@ -781,7 +943,9 @@ I'm no one in particular.<#>Я - никто особенный.
 {Hugo Leopardi}I...\|\#I can't...<#>{Хьюго Леопарди}Я...\|\#Я не могу...
 {Hugo Leopardi}J-Jason...<#>{Хьюго Леопарди}Дж-Джейсон...
 {Hugo Leopardi}...<#>{Хьюго Леопарди}...
+<!-- Event Name: Rister --><#>
 {Rister Syrup}You are an idiot.<#>{Ристер Сайроп}Ты идиот.
+<!-- Event Name: Kirk's Bizarre Adventure --><#>
 {Kirk Fuseman}Flame...\|\#Grant me strength...<#>{Кирк Фьюзман}Пламя...\|\#Дарует мне силу...
 {Kirk Fuseman}Burn my mind.\|\#I wish to think no more.<#>{Кирк Фьюзман}Сжигает мой разум.\|\#Я больше не желаю думать.
 {Kirk Fuseman}In the end,\. it was all\#devoured by the flames of Hell.<#>{Кирк Фьюзман}В конце концов,\. всё поглотило\#адское пламя.
@@ -791,11 +955,13 @@ I'm no one in particular.<#>Я - никто особенный.
 {Kirk Fuseman}Good night.<#>{Кирк Фьюзман}Спокойной ночи.
 {Kirk Fuseman}There's nothing here\#worth living for.<#>{Кирк Фьюзман}Не осталось ничего, ради чего\#стоило бы жить.
 {Kirk Fuseman}It ends here.<#>{Кирк Фьюзман}Всё кончается здесь.
+<!-- Event Name: The Star Player --><#>
 {Eli Trackstar}Should've just left\#me alone!<#>{Эли Трэкстар}Надо было просто оставить меня!
 {Eli Trackstar}Now you're being\#really annoying!<#>{Эли Трэкстар}Теперь ты раздражаешь меня!
 {Eli Trackstar}Wait, am I bothering you?<#>{Эли Трэкстар}Стой, я тебе мешаю?
 {Eli Trackstar}Perhaps I was wrong...<#>{Эли Трэкстар}Похоже, я был неправ...
 {Eli Trackstar}Seems like I was the\#annoying one all along.<#>{Эли Трэкстар}Похоже, я в итоге оказался\#раздражающим.
+<!-- Event Name: The Guillotine --><#>
 {Carlton Guiles}It's time to take things\#into my own hands!<#>{Карлтон Гилс}Время взять всё в свои руки!
 {Carlton Guiles}Literally.<#>{Карлтон Гилс}Буквально.
 {Carlton Guiles}Let's get it on.<#>{Карлтон Гилс}Начнём.
@@ -806,6 +972,7 @@ I'm no one in particular.<#>Я - никто особенный.
 {Carlton Guiles}I'll give you a\#real beating!<#>{Карлтон Гилс}Я задам тебе реальную\#взбучку!
 {Carlton Guiles}I was doing this unironically.<#>{Карлтон Гилс}Я делал это в шутку.
 {Carlton Guiles}Fuck you.<#>{Карлтон Гилс}Пошёл нахуй.
+<!-- Event Name: It's Dinner Time! --><#>
 {Krishna Ishmael}Dinner time!<#>{Кришна Ишмаэль}Время обеда!
 {Maximus Bull}Ain't gonna miss this one!<#>{Максимус Булл}Его я не пропущу!
 {Krishna Ishmael}We can't eat it raw!<#>{Кришна Ишмаэль}Мы не сможем съесть его сырым!
@@ -819,9 +986,11 @@ I'm no one in particular.<#>Я - никто особенный.
 {Maximus Bull}Sure thing.<#>{Максимус Булл}Конечно.
 {Maximus Bull}Why did I agree to\#this again?<#>{Максимус Булл}Почему я снова на это\#согласился?
 {Krishna Ishmael}The taste of death isn't\#very appetizing...<#>{Кришна Ишмаэль}Вкус смерти не очень\#аппетитны...
+<!-- Event Name: Highfold Clown Car --><#>
 {Geronimo Phantasmata}Now you're the\#punchline.<#>{Джеронимо Фантазмата}Теперь ты - шутка.
 {Geronimo Phantasmata}Time for you to\#chill out!<#>{Джеронимо Фантазмата}Время тебе расслабиться!
 {Geronimo Phantasmata}Tell my brother I said goodbye.<#>{Джеронимо Фантазмата}Передай моему брату прощание.
+<!-- Event Name: Last Prism --><#>
 {Prizmik}I can't miss\#this call.<#>{Призмик}Я не могу пропустить этот звонок.
 {Prizmik}So just don't.<#>{Призмик}Так что не надо.
 {Prizmik}Listen, Friend.\|\#I'm very busy.<#>{Призмик}Послушай, друг.\|\#Я очень занят.
@@ -837,6 +1006,7 @@ I'm no one in particular.<#>Я - никто особенный.
 {Prizmik}In the end, infinity\#always comes on top.<#>{Призмик}В итоге, бесконечности оказывается\#на вершине.
 {Prizmik}But I have more important\#matters to attend.<#>{Призмик}Но у меня есть более важные дела.
 {Prizmik}Farewell.<#>{Призмик}Прощай.
+<!-- Event Name: Industrial Genocide --><#>
 {Loyd Basilisk }Look!\|\#He's one of them!<#>{Лойд Василиск}Посмотрите!\|\#Он один из них!
 {Tok Bim }Can't be...<#>{Ток Бим}Не может быть...
 {Rusty Davidson }B-but...\|\#We already went through\#so much...<#>{Расти Дэвидсон}Н-но...\|\#Мы уже через столькое прошли...
@@ -858,8 +1028,10 @@ I'm no one in particular.<#>Я - никто особенный.
 {Gin Hanks}Oh brother!<#>{Джин Хэнкс}О, брат!
 {Jason Pike}...<#>{Джейсон Пайк}...
 {Jason Pike}I lied.<#>{Джейсон Пайк}Я соврал.
+<!-- Event Name: Tibby AND Bepe --><#>
 {Tibby Dobs}It's Tibby ti-\^<#>{Тибби Добс}Время Тиб-\^
 {Tibby Dobs}Oh, come on...<#>{Тибби Добс}Ох, ну же...
+<!-- Event Name: Hugo (3rd Fold) --><#>
 {Hugo Leopardi}You're persistent...<#>{Хьюго Леопарди}Ты настойчив...
 {Hugo Leopardi}And you killed so many\..\..\..<#>{Хьюго Леопарди}И ты стольких убил\..\..\..
 {Hugo Leopardi}It's not surprising.<#>{Хьюго Леопарди}Неудивительно.
@@ -867,7 +1039,11 @@ I'm no one in particular.<#>Я - никто особенный.
 {Hugo Leopardi}You were right.\|\#None of this matters.<#>{Хьюго Леопарди}Ты прав.\|\#Это всё бессмысленно.
 {Hugo Leopardi}I...\|\#I failed...<#>{Хьюго Леопарди}Я...\|\#Я провалился...
 {Hugo Leopardi}Goodbye,\| Jason.<#>{Хьюго Леопарди}Прощай,\| Джейсон.
+<!-- Event Name: Hugo (2nd Fold) --><#>
+<!-- Event Name: Hugo (1st Fold) --><#>
 {Hugo Leopardi}This isn't worth it.<#>{Хьюго Леопарди}Оно того не стоит.
+<!-- Event Name: Hugo (Nofold) --><#>
+<!-- Event Name: Infinity Unfolds --><#>
 {Chao Bree}Another one into the grinder.<#>{Чао Бри}Ещё один в мясорубку.
 {Chao Bree}Get him, boys!<#>{Чао Бри}За ним, парни!
 {Chao Bree}Useless... USELESS!<#>{Чао Бри}Бесполезные... БЕСПОЛЕЗНЫЕ!
@@ -876,5 +1052,7 @@ I'm no one in particular.<#>Я - никто особенный.
 {Jamie Diggins}Those archery classes ain't shit.<#>{Джейми Диггинс}Эти занятия с луком - не дерьмо.
 {Karl Siege}Spinning a huge rock is the\#best kind of exercise.<#>{Карл Сидж}Вращать огромный валун - лучший\#вид тренировок.
 {Barny Kettle}I may be a psychopath, but\..\..\..\|\#Nevermind,\| that's it.<#>{Барни Кеттл}Я, возможно, психопат, но\..\..\..\|\#Ну,\| да.
+<!-- Event Name: Elephant Man --><#>
 {El Elephante Vintchenso}...<#>{Эль Элефанте Винченсо}...
+<!-- Event Name: Turkey Wing --><#>
 {Hugo Leopardi}Enough of this.<#>{Хьюго Леопарди}Достаточно.

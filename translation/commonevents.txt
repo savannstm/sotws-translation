@@ -1,9 +1,19 @@
+<!-- Event Name: Plank --><#>
+<!-- Event Name: Tournament attack --><#>
+<!-- Event Name: Rope --><#>
+<!-- Event Name: Manual --><#>
 Garbage Insanity claims countless lives yearly.<#>Мусорное безумство ежегодно уносит бесчисленные жизни.
+<!-- Event Name: Pol Bag --><#>
+<!-- Event Name: Teen Mag --><#>
 The bright colors offend your eyes.<#>Яркие цвета режут вам глаза.
 You feel old.<#>Вы чувствуете себя старым.
 Agility decreased.<#>Ловкость понижена.
+<!-- Event Name: Add Bottle --><#>
 You got an empty bottle.<#>Вы получили пустую бутылку.
+<!-- Event Name: Crow Save --><#>
+<!-- Event Name: Dirty water --><#>
 You dumped out the dirty water.<#>Вы вылили грязную воду.
+<!-- Event Name: Rando Parcel --><#>
 A parcel given by the Rando\#Diplomat on Garbage Island.<#>Конверт, выданный дипломатом Рандо на мусорном\#острове.
 Of no use anymore.<#>Теперь бесполезен.
 There are three separate letters\#contained within the envelope.<#>В конверте лежат три разных\#письма.
@@ -44,6 +54,7 @@ Added to key items.<#>Добавлено в ключевые предметы.
 "It is your responsibility to find him and\#put an end to his reign of trash mysticism.<#>"Вас назначают ответственным за его поиск и окончание\#господства мусорного мистицизма."
 "The exact methods of this hit are up to your\#discretion. However, to prove that the deed\#has been done, the body of Larry Davis must\#be recovered and presented to an official.<#>"Вы сами вольны выбрать метод достижения этой цели. \#Однако, чтобы доказать успешность операции,\#необходимо отрезать часть тела Ларри Дэвиса\#и представить официальному лицу.
 "Be absolutely sure that the person\#you decide to kill is indeed Larry\#Davis; there can be no mistakes.<#>"Полностью убедитесь, что человек, которого\#вы собираетесь убить, на самом деле является\#Ларри Дэвисом: у нас нет права на ошибку."
+<!-- Event Name: Baby Fishman --><#>
 You checked on the Baby Fishman.<#>Вы проверили малыша-рыболюда.
 It's panting.<#>Он задыхается.
 Put the Baby Fishman in\#your Vase of Spring Water?<#>Положить малыша-рыболюда в\#вазу родниковой воды?
@@ -86,30 +97,96 @@ Some better Jerky should suffice.<#>Мясо получше должно под�
 It likes it!<#>Ему нравится!
 It really likes it!<#>Ему очень нравится!
 Learned Mucus Blast!<#>Изучен Взрыв слизи!
+<!-- Event Name: Fried Fish --><#>
+<!-- Event Name: Bob Processing --><#>
+<!-- Event Name: Aromatherapy Guide --><#>
 "Disclaimer: Results may vary.\#Contact your doctor before huffing\#any foreign gases and or substances."<#>"Предупреждение: результаты могут отличаться.\#Перед вдыханием посторонних газов и/или субстанций,\#проконсультируйтесь с вашим врачом."
+<!-- Event Name: Goat's toll --><#>
+<!-- Event Name: Twisted --><#>
+<!-- Event Name: 300 --><#>
+<!-- Event Name: Kill Transmision --><#>
+<!-- Event Name: Vase --><#>
 Your vase was emptied.<#>Ваша ваза опустела.
+<!-- Event Name: Metal Vase --><#>
 The Baby Fishman is worried.<#>Малыш-рыболюд взволнован.
 Put it in your\#Metal Vase?<#>Положить его в металлическую вазу?
 The Baby Fishman now inhabits the Metal Vase.<#>Малыш-рыболюд теперь обитает в металлической вазе.
 It feels fortified.<#>Он чувствует себя, как за каменной стеной.
+<!-- Event Name: Baby Crow Save --><#>
+<!-- Event Name: Inf Crowd Stuff --><#>
+<!-- Event Name: salt fall --><#>
+<!-- Event Name: salt cover --><#>
+<!-- Event Name: richie cover --><#>
+<!-- Event Name: sparks --><#>
+<!-- Event Name: tenderizer dazed --><#>
+<!-- Event Name: zill dazed --><#>
+<!-- Event Name: kein dazed --><#>
+<!-- Event Name: howard dazed --><#>
+<!-- Event Name: beezy dazed --><#>
+<!-- Event Name: conrad dazed --><#>
+<!-- Event Name: kindchild bottle --><#>
+<!-- Event Name: francis combo --><#>
+<!-- Event Name: geared bug fix --><#>
+<!-- Event Name: Speed Changer --><#>
 Change your walking speed?<#>Изменить скорость ходьбы?
 Select a preference:<#>Выберите желаемую:
 We need to get to a safer place.<#>Нам нужно добраться до более безопасного места.
 Contact law enforcement upon first symptoms.<#>При проявлении симптомов, свяжитесь с представителями власти.
 Joel is reading the toilet paper...<#>Джоэл читает туалетную бумагу...
+<!-- Event Name: Trick Kick --><#>
+<!-- Event Name: TRAUMA --><#>
+<!-- Event Name: Party Joyed --><#>
+<!-- Event Name: Alex Broken Bones --><#>
+<!-- Event Name: Alex Brain Damage --><#>
+<!-- Event Name: Alex Heart Attack --><#>
+<!-- Event Name: Joel Broken Bones --><#>
+<!-- Event Name: Joel Brain Damage --><#>
+<!-- Event Name: Joel Heart Attack --><#>
+<!-- Event Name: Jason Broken Bones --><#>
+<!-- Event Name: Jason Brain Damage --><#>
+<!-- Event Name: Jason Heart Attack --><#>
+<!-- Event Name: Tom Broken Bones --><#>
+<!-- Event Name: Tom Brain Damage --><#>
+<!-- Event Name: Tom Heart Attack --><#>
+<!-- Event Name: Stan Broken Bones --><#>
+<!-- Event Name: Stan Brain Damage --><#>
+<!-- Event Name: Stan Heart Attack --><#>
+<!-- Event Name: Trauma Kit --><#>
 The text has revealed a new technique!<#>Текст раскрыл ему новую технику!
+<!-- Event Name: Revive Trauma --><#>
+<!-- Event Name: Alex Rupture --><#>
+<!-- Event Name: Joel Rupture --><#>
+<!-- Event Name: Jason Rupture --><#>
+<!-- Event Name: Tom Rupture --><#>
+<!-- Event Name: Stan Rupture --><#>
+<!-- Event Name: Manual2 --><#>
 Joel learned the Cowboy Stance!<#>Джоэл изучил Ковбойскую стойку!
+<!-- Event Name: Presence --><#>
+<!-- Event Name: Darry Party --><#>
+<!-- Event Name: Crow Save (Sub-Stories) --><#>
+<!-- Event Name: Gummy Worm Eaten --><#>
+<!-- Event Name: Roland Processing --><#>
+<!-- Event Name: Remove Electrified --><#>
+<!-- Event Name: Joel Learns Cowboy Stance --><#>
 Alex is reading the scroll...<#>Алекс читает свиток...
 Alex learned the Steadfast Stance!<#>Алекс изучил Твёрдую стойку!
 "In case I forget."<#>"На случай, если забуду."
+<!-- Event Name: Alex Learns Steadfast Stance --><#>
 You examine the inflatable head next to the\#decapitated mannequin torso.<#>Вы изучаете надувную голову рядом с обезглавленным\#торсом манекена.
 The green slime from the torso's neck hole\#is awfully sticky...<#>Зелёная слизь в месте крепления головы\#до ужаса липкая...
+<!-- Event Name: Georgy Learns Shine Bright --><#>
+<!-- Event Name: Remove Geared Up + Withdrawal --><#>
+<!-- Event Name: Propaganda Poster --><#>
 Attach the head to the torso?<#>Прикрепить голову к торсу?
+<!-- Event Name: Inflatable Head + Mannequin Torso --><#>
 The head fits perfectly.<#>Голова встала идеально.
 Got a jerryrigged doll!<#>Получена самодельная кукла!
 "Book of Tactics:\#A Guide to Strategy on the Battlefield"<#>"Книга тактики:\#Руководство по стратегии на поле боя"
 The book is complete.<#>Книга восстановлена.
 Suddenly,\| Joel remembered something...<#>Внезапно,\| Джоэл что-то вспоминает...
+<!-- Event Name: Major Iris Penalty --><#>
+<!-- Event Name: Exotic Pipe Counter --><#>
+<!-- Event Name: Remove Geared --><#>
 “Never give up,\#for that is just the place and time\#that the tide will turn.”<#>"Никогда не сдавайся,\#потому что именно в этот момент,\#всё обернётся против тебя."
 Joel learned Gun Whirl!<#>Джоэл изучил Ураганный пистолет!
 View which page?<#>Какую страницу посмотреть?
@@ -139,24 +216,72 @@ This page is missing.<#>Страница отсутствует.
 All of a sudden, Joel had an epiphany!<#>Совершенно внезапно, Джоэл был благословлён!
 Gun Toss has become Gun Spin!<#>Бросок пистолета стал Вращением пистолета!
 You have no salt.<#>У вас нет соли.
+<!-- Event Name: Blade Retrieval --><#>
+<!-- Event Name: Joel Gun Toss Change --><#>
 Exchanged ten jerseys for some Horse Jerky!<#>10 маек были обменяны на лошадиное мясо!
 Exchanged ten jerseys for a Fancy Perfume!<#>10 маек были обменяны на изысканные духи!
+<!-- Event Name: Ingest --><#>
 Exchanged ten jerseys for a Creamy Cola!<#>10 маек были обменяны на кремовую колу!
+<!-- Event Name: Salt Crab Fall --><#>
+<!-- Event Name: Minor Iris Penalty --><#>
+<!-- Event Name: Dorimere Rewards --><#>
 Exchanged ten jerseys for a Cocola Cola!<#>10 маек были обменяны на Кокола-колу!
 Use the instant coffee tin\#with your bottle of water?<#>Вылить воду из бутылки в банку растворимого\#кофе?
 Made some cold coffee!<#>Получен холодный кофе!
+<!-- Event Name: Item Counters --><#>
+<!-- Event Name: Gum Counter --><#>
+<!-- Event Name: Disarmament --><#>
+<!-- Event Name: Hot Sauce Counter --><#>
+<!-- Event Name: Instant Coffee --><#>
 You got three empty bottles.<#>Вы получили три пустые бутылки.
 You felt something warm inside your heart.<#>Вы чувствуете тепло в сердце.
+<!-- Event Name: Gun Danger --><#>
+<!-- Event Name: Cooldown --><#>
+<!-- Event Name: Wine Counter --><#>
+<!-- Event Name: Party Pack --><#>
 Stats increased!<#>Характеристики повышены!
+<!-- Event Name: Jeremy Disarmament --><#>
+<!-- Event Name: Life or Death --><#>
+<!-- Event Name: Floyd Winded --><#>
+<!-- Event Name: Floyd Trauma --><#>
+<!-- Event Name: Jeremy Bellow --><#>
+<!-- Event Name: Geen Full Stretch --><#>
+<!-- Event Name: War Paint --><#>
+<!-- Event Name: Anaconda Reignition --><#>
+<!-- Event Name: Avatar Iris Penalty --><#>
+<!-- Event Name: Cat Postcard --><#>
 The cat on the postcard is incredibly cute.<#>Кошка на открытке невероятно милая.
 Joel is reading the torn page.<#>Джоэл читает вырванную страницу.
 Joel learned Scheme!<#>Джоэл изучил Планирование!
+<!-- Event Name: Gremory Reignition --><#>
+<!-- Event Name: Sprats --><#>
+<!-- Event Name: Basto Swing --><#>
+<!-- Event Name: Basto Slam --><#>
+<!-- Event Name: Wilbur's Curse --><#>
+<!-- Event Name: Foul Ball --><#>
+<!-- Event Name: Dropkick Penalty --><#>
+<!-- Event Name: Knuckle Penalty --><#>
+<!-- Event Name: Flesh Heal --><#>
+<!-- Event Name: Alex Burns --><#>
+<!-- Event Name: Joel Burns --><#>
+<!-- Event Name: Geen Burns --><#>
+<!-- Event Name: Tactics: Scheming --><#>
 Page added to the Book of Tactics.<#>Страница добавлена в книгу тактики.
 Joel learned Play Dead!<#>Джоэл изучил Притвориться мёртвым!
 Joel learned Misdirection!<#>Джоэл изучил Дезориентацию!
+<!-- Event Name: Tactics: Deception --><#>
 Authorized by the Centers for Disease\#Control and Prevention (CDC).<#>Одобрено Центром по контролю и профилактике заболеваний\#(ЦКПЗ).
+<!-- Event Name: Tactics: Misdirection --><#>
 It was sweet as honey. +500 HP!<#>Вкус сладкий, словно мёд. +500 ОЗ!
+<!-- Event Name: Manual Scrap --><#>
 It was minty fresh. You feel Cool!<#>Вкус мятной свежести. Вы чувствуете себя круто!
+<!-- Event Name: Mikhail Enlightenment --><#>
+<!-- Event Name: Davy Firebombs --><#>
+<!-- Event Name: Bench Timer --><#>
+<!-- Event Name: Ticket's Shame --><#>
+<!-- Event Name: Shaman Trauma --><#>
+<!-- Event Name: Borislav Power Up --><#>
+<!-- Event Name: Cosmonaut Food Tubes --><#>
 It was thick and savory. ATK. up!<#>Вкус вязкий и пикантный. Атака возрастает!
 It was rich and creamy. Gained 200 exp.!<#>Вкус богатый и мягкий. Получено 200 опыта!
 It was tangy, with a hint of citrus. AGI. up!<#>Вкус терпкий, с ноткой цитруса. Ловкость возрастает!
@@ -167,19 +292,65 @@ It was extremely salty... You feel nasty.<#>Чересчур солёно... В�
 It was vile... You can't even move.<#>Отвратительно... Вы не можете даже двинуться.
 {Pete Constantine}Hmph.\| Not bad.<#>{Пит Константин}Хм.\| Неплохо.
 {Pete Constantine}I'll be taking that.<#>{Пит Константин}Я это возьму.
+<!-- Event Name: Disarm Kent --><#>
+<!-- Event Name: Kent SP --><#>
+<!-- Event Name: Pete Bat Steal --><#>
 Alex is inspecting the letter...<#>Алекс изучает письмо...
 It's written in a foreign language.<#>Оно написано на неизвестном языке.
+<!-- Event Name: Remove Pretending --><#>
+<!-- Event Name: Spring Timer --><#>
+<!-- Event Name: Glass Breaker Backfire --><#>
+<!-- Event Name: Family Photos --><#>
 You somehow understand it.<#>Вы каким-то образом понимаете его.
+<!-- Event Name: Glass Shard Recoil --><#>
+<!-- Event Name: Gun Danger 2 --><#>
+<!-- Event Name: KRISHNA heal --><#>
+<!-- Event Name: Edge Penalty --><#>
+<!-- Event Name: Composite Letter Opened --><#>
 It reads:<#>Оно гласит:
 "Bobby the sex from the complex."<#>"Бобби секс населяет комплекс."
 You feel inspired.<#>Вы чувствуете вдохновение.
 This one has enough for everyone.<#>Здесь хватит всем.
 It was extremely fulfilling.\| Stats up!<#>Было безумно аппетитно.\| Характеристики повышены!
 Next Chapter<#>Следующая глава
+<!-- Event Name: torque heal 2 --><#>
+<!-- Event Name: torque heal --><#>
+<!-- Event Name: Blade Retrieval (Beezy) --><#>
+<!-- Event Name: Blade Retrieval (Geen) --><#>
+<!-- Event Name: FOR REFERENCE --><#>
+<!-- Event Name: Cocola Counter --><#>
+<!-- Event Name: pete strangles start --><#>
+<!-- Event Name: test --><#>
 Perseverance<#>Упорство
 Go Back<#>Назад
+<!-- Event Name: slim stfu --><#>
+<!-- Event Name: Borislav Power Down --><#>
+<!-- Event Name: decay descend --><#>
+<!-- Event Name: decay silken --><#>
+<!-- Event Name: decay ascend --><#>
+<!-- Event Name: decay sidekick --><#>
+<!-- Event Name: decay axekick --><#>
+<!-- Event Name: decay GOATKICK --><#>
+<!-- Event Name: decay GOAT headbutt --><#>
+<!-- Event Name: decay full thrust --><#>
+<!-- Event Name: Lead Heel Elephant --><#>
+<!-- Event Name: decay twisted --><#>
+<!-- Event Name: decay penalty --><#>
+<!-- Event Name: music stop --><#>
+<!-- Event Name: pete strangles --><#>
+<!-- Event Name: prizmik combo 2 --><#>
+<!-- Event Name: Petunia Penalty --><#>
+<!-- Event Name: prizmik combo --><#>
+<!-- Event Name: Cosmonaut Food (Borislav) --><#>
 "CHAPTER 5: PERSEVERANCE"<#>"ГЛАВА 5: УПОРСТВО"
 "There might be times when your\#opponent is not fazed by\#your gunplay."<#>"Может настать время, когда ваш оппонент\#не будет смущён вашим стволом."
+<!-- Event Name: the guillotine 2 --><#>
+<!-- Event Name: the guillotine --><#>
+<!-- Event Name: Borislav Power Down 2 --><#>
+<!-- Event Name: pete strangles 2 --><#>
+<!-- Event Name: Borislav Power Up 2 --><#>
+<!-- Event Name: apeshit --><#>
+<!-- Event Name: Book of Tactics --><#>
 "When such a scenario happens,\#the only thing you can do is to\#rely on your physical strength\#to offer resistance.<#>"Когда такое произойдёт, единственное, что\#вам остаётся - полагаться на физическую силу\#для сопротивления."
 "Take a deep breath and focus\#your inner energy.<#>"Глубоко вдохните и сконцентрируйте внутреннюю\#энергию."
 "The strongest man is the one who does\#not need to rely on others."<#>"Сильнейший - тот, кто не полагается на других."
@@ -188,8 +359,40 @@ You never see smiles like these anymore.<#>Таких улыбок больше 
 Alex is reading the note...<#>Алекс читает записку...
 "I don't know how else to say this,\#but thanks for playing my mod."<#>"Не знаю, как это сформулировать, но спасибо\#за игру в мой мод."
 "I know it's not much. I'm not very skilled at making games."<#>"Я знаю, что он небольшой. Я не очень опытен в создании игр."
+<!-- Event Name: Tactics: Perseverance --><#>
 "All I wanted to do was create a mod simply for the sake of it."<#>"Я лишь хотел создать мод просто для того, чтобы было."
+<!-- Event Name: Gum Counter 2 --><#>
+<!-- Event Name: Enter NOiP --><#>
 "Which honestly wasn't the smartest idea...\#Making something like this by yourself, even if it's small,\#is pretty tedious."<#>"Что, на самом деле, было не слишком умной идеей...\#Делать что-то такое в одиночку, даже маленькое -\#неимоверно утомительно."
+<!-- Event Name: Carnage Whirl Dizzy --><#>
+<!-- Event Name: Blood Punch Recoil --><#>
+<!-- Event Name: Testing Protocol --><#>
+<!-- Event Name: phone slam --><#>
+<!-- Event Name: phone swing --><#>
+<!-- Event Name: HEALS----------------- --><#>
+<!-- Event Name: heal tok --><#>
+<!-- Event Name: heal loyd --><#>
+<!-- Event Name: heal rusty --><#>
+<!-- Event Name: heal laser eye guy --><#>
+<!-- Event Name: heal gin --><#>
+<!-- Event Name: heal shurik --><#>
+<!-- Event Name: choke timer --><#>
+<!-- Event Name: stuns for hugo --><#>
+<!-- Event Name: Hugo AI --><#>
+<!-- Event Name: choke timer 2 --><#>
+<!-- Event Name: hugo strangles 2 --><#>
+<!-- Event Name: choke timer alt --><#>
+<!-- Event Name: goat headbutt for hugo --><#>
+<!-- Event Name: Hugo AI (2nd Fold) --><#>
+<!-- Event Name: disarm hugo --><#>
+<!-- Event Name: hugo killed you --><#>
+<!-- Event Name: rins firebomb --><#>
+<!-- Event Name: weaker blind --><#>
+<!-- Event Name: donovan disarm --><#>
+<!-- Event Name: Rock Slam --><#>
+<!-- Event Name: Fire Arnold Animation? --><#>
+<!-- Event Name: car slam --><#>
+<!-- Event Name: Heartfelt Letter --><#>
 "Nevertheless, if at least one person genuinely enjoyed this\#experience, then I'll know I have succeeded."<#>"Так или иначе, если хотя бы кому-то понравился опыт,\#мне удалось выполнить свою задачу."
 "Thanks again for trying it out\#and deciding to give it a chance."<#>"Спасибо за то, что попробовали.\#Это немного, но это честная работа."
 Now,\| go ahead.<#>Теперь,\| иди.
@@ -201,8 +404,82 @@ Trashy Recollection<#>Мусорные воспоминания
 Dusty Memoir<#>Пыльный мемуар
 Violent Remembrance<#>Жестокая память
 Ataractic Dreams<#>Атарактические мечты
+<!-- Event Name: Kick The Bucket --><#>
+<!-- Event Name: Joy Achievement --><#>
+<!-- Event Name: FOOD STUFF------------ --><#>
+<!-- Event Name: berries --><#>
+<!-- Event Name: mud pie --><#>
+<!-- Event Name: meat nugget --><#>
+<!-- Event Name: food tube --><#>
+<!-- Event Name: carrot --><#>
+<!-- Event Name: tomato packet --><#>
+<!-- Event Name: fruit --><#>
+<!-- Event Name: DIET ACHIEVEMENT--- --><#>
+<!-- Event Name: jerky --><#>
+<!-- Event Name: domestic jerky --><#>
+<!-- Event Name: horse jerky --><#>
+<!-- Event Name: diet cola --><#>
+<!-- Event Name: creamy --><#>
+<!-- Event Name: real cocola --><#>
+<!-- Event Name: sugary --><#>
+<!-- Event Name: iced coffee --><#>
+<!-- Event Name: perfume --><#>
+<!-- Event Name: fancy perfume --><#>
+<!-- Event Name: bird feed --><#>
+<!-- Event Name: bottle soup --><#>
+<!-- Event Name: bottle water --><#>
+<!-- Event Name: potato liquor --><#>
+<!-- Event Name: bile --><#>
+<!-- Event Name: ration --><#>
+<!-- Event Name: condition killer --><#>
+<!-- Event Name: gummy worm --><#>
+<!-- Event Name: ex gummy worm --><#>
+<!-- Event Name: green paste --><#>
+<!-- Event Name: lucrative tea --><#>
+<!-- Event Name: spiked soda --><#>
+<!-- Event Name: party pack --><#>
+<!-- Event Name: onion vodka --><#>
+<!-- Event Name: whiskey --><#>
+<!-- Event Name: squrrel jerky --><#>
+<!-- Event Name: stew in a bag --><#>
+<!-- Event Name: moe special --><#>
+<!-- Event Name: cotton candy --><#>
+<!-- Event Name: ham --><#>
+<!-- Event Name: meat shake --><#>
+<!-- Event Name: ripe fruit --><#>
+<!-- Event Name: crow jerky --><#>
+<!-- Event Name: fried fish --><#>
+<!-- Event Name: medicinal herb --><#>
+<!-- Event Name: half jerky --><#>
+<!-- Event Name: stank perfume --><#>
+<!-- Event Name: moldy pizza --><#>
+<!-- Event Name: healthy herb --><#>
+<!-- Event Name: dried herb --><#>
+<!-- Event Name: cactus fruit --><#>
+<!-- Event Name: cheese --><#>
+<!-- Event Name: muck rum --><#>
+<!-- Event Name: salt cake --><#>
+<!-- Event Name: minty gum --><#>
+<!-- Event Name: satan sauce --><#>
+<!-- Event Name: bottle coffee --><#>
+<!-- Event Name: crow egg --><#>
+<!-- Event Name: scrambled egg --><#>
+<!-- Event Name: blood wine --><#>
+<!-- Event Name: diet --><#>
+<!-- Event Name: sprats --><#>
+<!-- Event Name: souffle --><#>
+<!-- Event Name: salty jerky --><#>
+<!-- Event Name: downer --><#>
+<!-- Event Name: raddish --><#>
+<!-- Event Name: fishy jerky --><#>
+<!-- Event Name: melon gum --><#>
+<!-- Event Name: Traveler's Logbook --><#>
 Lavender Harvest<#>Сбор лаванды
 Meaningless Honors<#>Бессмысленные почести
 {Joel Miller}Get away from him!<#>{Джоэл Миллер}Убирайся от него!
 {Joel Miller}U-Ugh...\| Lucky!\|\#Block his stabs at the correct time!<#>{Джоэл Миллер}У-уф...\| Счастливчик!\|\#Блокируй его удары в подходящий момент!
 {Arnold Shpitz}I'm no one in particular.<#>{Арнольд Шпиц}Я - никто особенный.
+<!-- Event Name: SCALPEL PARRY --><#>
+<!-- Event Name: Stance Elephant --><#>
+<!-- Event Name: zill stun --><#>
+<!-- Event Name: tendie stun --><#>
