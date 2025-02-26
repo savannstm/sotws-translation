@@ -476,7 +476,7 @@ Ataractic Dreams<#>Атарактические мечты
 Lavender Harvest<#>Сбор лаванды
 Meaningless Honors<#>Бессмысленные почести
 {Joel Miller}Get away from him!<#>{Джоэл Миллер}Отойди от него!
-{Joel Miller}U-Ugh...\| Lucky!\|\#Block his stabs at the correct time!<#>{Джоэл Миллер}У-уф...\| Повезло!\|\#Блокируй его удары в подходящий момент!
+{Joel Miller}U-Ugh...\| Lucky!\|\#Block his stabs at the correct time!<#>{Джоэл Миллер}У-уф...\| Счастливчик!\|\#Блокируй его удары в подходящий момент!
 {Arnold Shpitz}I'm no one in particular.<#>{Арнольд Шпиц}Я - никто особенный.
 <!-- Event Name: SCALPEL PARRY --><#>
 <!-- Event Name: Stance Elephant --><#>
