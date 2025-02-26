@@ -320,7 +320,7 @@ Mysterious Key<#>Загадочный ключ
 Metal Vase<#>Металлическая ваза
 A reinforced metal vase that comes with a lid.\#Looks like it could survive a high fall.<#>Укреплённая металлическая ваза с крышкой.\#Выглядит так, будто переживёт даже высокое падение.
 Baby Fishman in M. Vase<#>Малыш-рыболюд в метал. вазе
-A protected infant fishman.\#It nows lives rent-free inside a metal vase of water.<#>Малыш-рыболюд в броне.\#Теперь он живёт в вашей металлической вазе, и не платит за аренду.
+A protected infant fishman.\#It nows lives rent-free inside a metal vase of water.<#>Малыш-рыболюд в броне.\#Теперь он живёт в вашей металлической вазе и не платит за аренду.
 Sustanence for space men. The labels are all in\#Russian, but this one looks flavorful.<#>Пища для космонавтов. Вся этикетка на украинском,\#и этот тюбик выглядит более аппетитно.
 Q. Physics For Babies<#>Квант. физика для чайников
 You can't even comprehend the contents of this book.\#Makes you feel smart just by carrying it with you.<#>Вам и в малейшей степени не осознать наполнение этой\#книги. Придаёт вам умный вид от ношения с собой.

@@ -943,7 +943,7 @@ I'm no one in particular.<#>Я - никто особенный.
 {Hugo Leopardi}J-Jason...<#>{Хьюго Леопарди}Дж-Джейсон...
 {Hugo Leopardi}...<#>{Хьюго Леопарди}...
 <!-- Event Name: Rister --><#>
-{Rister Syrup}You are an idiot.<#>{Ристер Сайроп}Ты идиот.
+{Rister Syrup}You are an idiot.<#>{Ристер Сироп}Ты идиот.
 <!-- Event Name: Kirk's Bizarre Adventure --><#>
 {Kirk Fuseman}Flame...\|\#Grant me strength...<#>{Кирк Фьюзман}Пламя...\|\#Дарует мне силу...
 {Kirk Fuseman}Burn my mind.\|\#I wish to think no more.<#>{Кирк Фьюзман}Сжигает мой разум.\|\#Я больше не желаю думать.
@@ -1050,7 +1050,7 @@ I'm no one in particular.<#>Я - никто особенный.
 {Rins Sagitarius}Bury me somewhere nice.<#>{Ринс Сагитариус}Похорони меня где-нибудь в хорошем\#месте.
 {Jamie Diggins}Those archery classes ain't shit.<#>{Джейми Диггинс}Эти занятия с луком - не дерьмо.
 {Karl Siege}Spinning a huge rock is the\#best kind of exercise.<#>{Карл Сидж}Вращать огромный валун - лучший\#вид тренировок.
-{Barny Kettle}I may be a psychopath, but\..\..\..\|\#Nevermind,\| that's it.<#>{Барни Кеттл}Я, возможно, психопат, но\..\..\..\|\#Ну,\| да.
+{Barny Kettle}I may be a psychopath, but\..\..\..\|\#Nevermind,\| that's it.<#>{Барни Котелок}Я, возможно, психопат, но\..\..\..\|\#Ну,\| да.
 <!-- Event Name: Elephant Man --><#>
 {El Elephante Vintchenso}...<#>{Эль Элефанте Винченсо}...
 <!-- Event Name: Turkey Wing --><#>

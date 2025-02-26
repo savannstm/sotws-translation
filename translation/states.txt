@@ -344,7 +344,7 @@ has a heat fever.<#>испытывает лихорадку.
 is feeling vicious...<#>чувствует жестокость...
 is in a violent trance!<#>в трансе жестокости!
 will shoot.<#>будет стрелять.
-Disoriented<#>Дизориентация
+Disoriented<#>Дезориентация
 is puzzled!<#>растерян!
 doesn't understand what's going on!<#>не понимает, что происходит!
 came to his senses.<#>пришёл в чувство.

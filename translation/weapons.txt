@@ -43,12 +43,12 @@ A worn-out scimitar with a long history that can pass\#as a dagger. Particularly
 Scorpion Stinger<#>Жало скорпиона
 The stinger of an unusually large scorpion.\#The poison on the tip might make someone vomit.<#>Жало аномально большого скорпиона.\#Яд на кончике может вызвать у кого-нибудь тошноту.
 Baking Mittens<#>Варежки для выпечки
-Soft and comfy gloves that make you feel at home.\#Grants HP regen and makes items heal more.<#>Мягкие и удобные перчатки, пропитанные чувством дома.\#Дают регенерацию ОЗ и повышают восстанавлимое предметами ОЗ.
+Soft and comfy gloves that make you feel at home.\#Grants HP regen and makes items heal more.<#>Мягкие и удобные перчатки, пропитанные чувством дома.\#Дают регенерацию ОЗ и повышают восстановление ОЗ предметами.
 Tiny Devil Gloves<#>Крошечные дьявольские перчатки
 These look distressing and extremely uncomfortable.\#Itchy to wear, tight to stare. Cripples vitality.<#>Выглядят устрашающе и очень некомфортно.\#Вызывают зуд, раздражают глаза. Ухудшают здоровье.
 Boxing Gloves<#>Боксёрские перчатки
 Wearing these makes you a certified boxer.\#If only you knew the techiques... Increases defense.<#>Ношение таких сделает вас профессиональным боксёром.\#Если бы вы только знали техники... Повышает защиту.
 Barry's Switchblade<#>Выкидной нож Барри
-Worn out from years of repeated use. Boosts DEF,\#EXP and mag gain. The blade allows TP preservation.<#>Изношенный долгими годами использования. Повышает защиту и\#получение опыта и журналов. Лезвие позволяет сохранять ОТ.
+Worn out from years of repeated use. Boosts DEF,\#EXP and mag gain. The blade allows TP preservation.<#>Изношенный долгими годами использования. Повышает защиту,\#получение опыта и журналов. Лезвие позволяет сохранять ОТ.
 Butler's Gloves<#>Перчатки дворецкого
 A pair of pristine white gloves. They're itchy.<#>Пара белых перчаток в идеальном состоянии. Колются.

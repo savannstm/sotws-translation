@@ -21,7 +21,7 @@ gets his mojo back!<#>снова обретает пыл!
 chews at your flesh!<#>жуёт вашу кожу!
 spits some funky shit on you!<#>плюёт в вас какой-то хренью!
 is squirming.<#>извивается.
-is eating maggots!<#>ест опырашей!
+is eating maggots!<#>ест опарышей!
 licks you...<#>лижет вас...
 heats you up!<#>разогревает вас!
 prepares something explosive.<#>готовит что-то взрывное.
@@ -48,7 +48,7 @@ is generating a current!<#>генерирует ток!
 bites down on your neck!<#>кусает вас за шею!
 They're watching...<#>За вами наблюдают...
 is staring ominously...<#>угрожающее наблюдает...
-cackles maniacally!<#>маникально смеётся!
+cackles maniacally!<#>маниакально смеётся!
 lashes out!<#>набрасывается!
 rams you with his pipe!<#>ударяет вас своей трубой!
 is struggling to lift his pipe...<#>пытается поднять трубу...
@@ -220,7 +220,7 @@ scratches!<#>царапает!
 blew forth exhaust!<#>выдувает выхлоп!
 rams full speed ahead!<#>таранит на полной скорости!
 is fidgeting with the controls...<#>возится с элементами управления...
-apologizes profusely!<#>приносит искренние извенения!
+apologizes profusely!<#>приносит искренние извинения!
 blew forth exhuast!<#>выдувает выхлоп!
 is begging Wally for forgiveness.<#>умоляет Валли о прощении.
 strikes a fist from above!<#>бьёт сверху!
@@ -309,9 +309,9 @@ tears you apart.<#>разрывает вас на куски.
 defend a pal.<#>защищает приятеля.
 is trying to defend his friend.<#>пытается защитить своего друга.
 lets loose a fire beam!<#>выпускает луч огня!
-is aiming with a bottle...<#>целиться бутылкой...
+is aiming with a bottle...<#>целится бутылкой...
 prepares to perforate you.<#>готовится пронзить вас.
-parties like it's 2000.<#>веселиться, будто это нулевые.
+parties like it's 2000.<#>веселится, будто это нулевые.
 prepares to cut you open.<#>готовится вскрыть вас.
 is getting yoked!<#>напрягается!
 sends you to Hell!<#>посылает вас в ад!
@@ -322,7 +322,7 @@ smacks you with his trowel!<#>бьёт вас своей лопаткой!
 blasts you with electricity!<#>посылает порыв электричества!
 fires a green beam!<#>выстреливает зелёным лучом!
 fires a red beam!<#>выстреливает красным лучом!
-flashes brightly!<#>ярко свветится!
+flashes brightly!<#>ярко светится!
 knocks you unconscious!<#>вырубает вас!
 swings his golf stick!<#>размахивает палкой для гольфа!
 stomps with devastating force!<#>пинает с сокрушительной силой!
@@ -366,9 +366,9 @@ Silken Wrist<#>Шёлковое запястье
 smacks with his wrist!<#>ударяет запястьем!
 Ascending Claw<#>Восходящий коготь
 thrusts up!<#>ударяет ввысь!
-emits an ear-piercing soundwave!<#>издаёт пронзающую волну!
+emits an ear-piercing soundwave!<#>испускает пронзающую волну!
 is gathering some energy...<#>собирается с силой...
-tears you piece by piece!<#>разрывает вас по кусочкам!
+tears you piece by piece!<#>разрывает вас на кусочки!
 Descending Claw<#>Нисходящий коготь
 thrusts down!<#>ударяет вниз!
 Side Kick<#>Удар ногой
@@ -408,12 +408,12 @@ knocks the life out of you!<#>выбивает из вас здоровье!
 blasts you skyward!<#>запускает вас в небо!
 is being boring as fuck.<#>пиздец какой скучный.
 throws Tibby like a ragdoll!<#>бросает Тибби, как куклу!
-flings fire everywhere!<#>распрострянет огонь повсюду!
+flings fire everywhere!<#>распространяет огонь повсюду!
 roasts you like a chicken!<#>жарит вас, как курицу!
 swings the flail across the room!<#>размахивает хлыстом по всей комнате!
 is retrieving his weapon!<#>возвращает своё оружие!
 sets everything ablaze!<#>поджигает всё!
-channels energy into your eyeballs!<#>напрявляет энергию в ваши глаза!
+channels energy into your eyeballs!<#>направляет энергию в ваши глаза!
 wrecks your balance!<#>расшатывает вас баланс!
 slams the car onto you!<#>въезжает в вас!
 thrashes you!<#>лупит вас!
@@ -434,7 +434,7 @@ gets ready to box.<#>готовится боксировать.
 hits them from below!<#>бьёт снизу!
 boxes.<#>боксирует.
 brings down the elbow!<#>ударяет локтем!
-grabs the car!<#>
+grabs the car!<#>хватает тачку!
 knocked them upward!<#>подбрасывает вверх!
 punches out all their blood!<#>выбивает из него всю кровь!
 's fingers ache.<#>испытывает боль в пальцах.
@@ -495,7 +495,7 @@ chugs some nightmare bile...<#>глотает кошмарную желчь...
 applies a condition killer!<#>использует убийцу недугов!
 patches him up!<#>латает его!
 is about to end you...<#>сейчас прикончит вас...
-chews on some domestic jerky!<#>жуёт домашнеее мясо!
+chews on some domestic jerky!<#>жуёт домашнее мясо!
 scarfs down an entire horse jerky!<#>целиком проглатывает лошадиное мясо!
 gets the bandages!<#>достаёт бинты!
 jumps at you and bites!<#>прыгает на вас и кусает!
@@ -510,7 +510,7 @@ crushes you with his hand!<#>бьёт вас рукой!
 is about to beat your ass!<#>сейчас надерёт вам зад!
 zaps through your chest!<#>пронзает вашу грудь!
 weakens your body!<#>ослабляет ваше тело!
-does the guillotine choke!<#>душит, как гильотиной!
+does the guillotine choke!<#>берёт в удушающий!
 breaks your wrists!<#>ломает ваши запястья!
 breaks your kneecaps!<#>ломает ваши колени!
 is buzzing...<#>жужжит...
@@ -534,7 +534,7 @@ goes apeshit!<#>обезьянничает!
 swings his machete!<#>размахивает мачете!
 chops you up!<#>рубит вас!
 prepares the meat!<#>готовит мясо!
-'s fate is sealed.<#>
+'s fate is sealed.<#>понимает, что судьба предрешена.
 pierces your vitals!<#>пронзает ваши органы!
 slits your wrists!<#>вскрывает ваши вены!
 's body is feeling strange...<#>чувствует себя странно...
@@ -566,12 +566,12 @@ nails you to the ground!<#>прибивает вас к земле!
 licks the blood off his scalpel...<#>слизывает кровь со скальпеля...
 makes a stand for Roland!<#>защищает Роланда!
 chops you with a huge-ass plank!<#>бьёт вас огромной доской!
-puts you on the guillotine!<#>ложит вас под гильотину!
+puts you on the guillotine!<#>кладёт вас под гильотину!
 twists your limbs.<#>скручивает ваши руки.
 hacks swiftly across your face!<#>быстро ударяет вас в лицо!
 coils up!<#>скручивается!
 Disarming Chop<#>Обезоруживающий удар
-chops at the wrist!<#>удярет по запястью!
+chops at the wrist!<#>ударяет по запястью!
 Dive<#>Нырок
 A classic evasive maneuver. Can still use items.\#Prevents most forms of damage, but staggers.<#>Классический манёвр уклонения. Позволяет использовать предметы.\#Защищает от большинства видов урона, но вы теряете равновесие.
 brings you down with him!<#>бросает вас на прогиб!
@@ -668,7 +668,7 @@ Bottle Juggle<#>Жонглирование бутылками
 A classic party trick. Shame that you're not very\#good at it. Hits three random enemies.<#>Классический трюк для вечеринок. Жаль, что вы не очень\#хороши в нём. Попадает по трём случайным врагам.
 juggles! Poorly.<#>жонглирует! Плохо.
 cut himself on accident!<#>случайно порезался!
-swings the huge boulder!<#>рахмахивает огромным валуном!
+swings the huge boulder!<#>размахивает огромным валуном!
 ruptures an artery!<#>вспарывает артерию!
 Wasted Rave<#>Дикий рейв
 will kill.<#>будет убивать.
@@ -725,7 +725,7 @@ Smoke Bomb<#>Дымовая бомба
 A handy way out of a sticky situation. Makes you\#hidden, but lowers your defense.<#>Надёжный выход из скользкой ситуации. Скрывает,\#но понижает защиту.
 escapes into the smoke!<#>отступает в дым!
 Painted Red<#>Красный всплеск
-A series of slashes set to mutilate\#bleeding enemies further.<#>Серия взмахов, которые вспорят истекающих\#кровью врагов.
+A series of slashes set to mutilate\#bleeding enemies further.<#>Серия взмахов, которые вспорют истекающих\#кровью врагов.
 slashes out their veins!<#>вскрывает чужие вены!
 Poison Dart<#>Ядовитый дротик
 Dip your blade in lead paint and fling at a bastard.\#High chance to poison.<#>Окуните свой клинок в свинцовую краску и метните в\#ублюдка. Высокий шанс отравить.
@@ -759,7 +759,7 @@ delivers flaming jabs!<#>бьёт огненными джебами!
 slashes recklessly!<#>безумно размахивает!
 mutilates your face!<#>уродует ваше лицо!
 Gun Whirl<#>Ураганный пистолет
-The final ancient gun technique. Use the pistol as a\#blunt weapon, give them a good smack! Shreds DEF.<#>Высшая древняя пистолетная техника. Исползуйте пистолет\#в качестве тупого оружия, и задайте врагам взбучку! Понижает защиту.
+The final ancient gun technique. Use the pistol as a\#blunt weapon, give them a good smack! Shreds DEF.<#>Высшая древняя пистолетная техника. Используйте пистолет\#в качестве тупого оружия и задайте врагам взбучку! Понижает защиту.
 pistol-whips his way through!<#>пистолирует себе дорогу!
 Deploy your impenetrable hide to protect your team!\#Redirects all damage to the user.<#>Разверните свой непробиваемый панцирь, чтобы защитить\#команду! Перенаправляет весь урон на краба.
 gives 'em a double slap!<#>даёт двойную оплеуху!
@@ -776,12 +776,12 @@ Show No Fear<#>Бесстрашие
 Show them that you won't back down. Inspires the\#rest of your team, making them brave.<#>Покажите, что вы не собираетесь отступать.\#Вдохновляет остальных членов вашей команды и даёт им смелость.
 isn't giving up yet!<#>ещё не сдаётся!
 Blessed Rain<#>Благословенный дождь
-Expel a restorative droplet onto a KO'd ally,\#bringing them back to the battle. Gets them wet.<#>Выплесните исцеляюшую каплю на нокаутированного\#союзника, возвращая его в бой. Мочит его.
-(AWAW) Supreme fist technique. Annihilate their\#face so much they cannot see. Costs 250 HP.<#>(AWAW) Высшая кулачная техника. Аннгилируйте лицо врага,\#чтобы ему нечем было больше смотреть. Стоит 250 ОЗ.
+Expel a restorative droplet onto a KO'd ally,\#bringing them back to the battle. Gets them wet.<#>Выплесните исцеляющую каплю на нокаутированного\#союзника, возвращая его в бой. Мочит его.
+(AWAW) Supreme fist technique. Annihilate their\#face so much they cannot see. Costs 250 HP.<#>(AWAW) Высшая кулачная техника. Аннигилируйте лицо врага,\#чтобы ему нечем было больше смотреть. Стоит 250 ОЗ.
 gets them back on their feet!<#>поднимает на ноги!
 cuts deep!<#>глубоко режет!
 frees himself!<#>освобождается!
-gives you an elbow!<#>ударяет локтём!
+gives you an elbow!<#>ударяет локтем!
 claws your face!<#>царапает ваше лицо!
 bashes your skull!<#>пробивает ваш череп!
 sends you across the room!<#>бросает вас через всю комнату!

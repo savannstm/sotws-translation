@@ -342,7 +342,7 @@ Go Back<#>Назад
 <!-- Event Name: prizmik combo --><#>
 <!-- Event Name: Cosmonaut Food (Borislav) --><#>
 "CHAPTER 5: PERSEVERANCE"<#>"ГЛАВА 5: УПОРСТВО"
-"There might be times when your\#opponent is not fazed by\#your gunplay."<#>"Может настать время, когда ваш оппонент\#не будет смущён вашим стволом."
+"There might be times when your\#opponent is not fazed by\#your gunplay."<#>"Может настать время, когда оппонент\#не будет смущён вашим стволом."
 <!-- Event Name: the guillotine 2 --><#>
 <!-- Event Name: the guillotine --><#>
 <!-- Event Name: Borislav Power Down 2 --><#>
@@ -350,7 +350,7 @@ Go Back<#>Назад
 <!-- Event Name: Borislav Power Up 2 --><#>
 <!-- Event Name: apeshit --><#>
 <!-- Event Name: Book of Tactics --><#>
-"When such a scenario happens,\#the only thing you can do is to\#rely on your physical strength\#to offer resistance.<#>"Когда такое произойдёт, единственное, что\#вам остаётся - полагаться на физическую силу\#для сопротивления."
+"When such a scenario happens,\#the only thing you can do is to\#rely on your physical strength\#to offer resistance.<#>"В таком случае, единственное, что\#вам остаётся - полагаться на физическую силу\#для сопротивления."
 "Take a deep breath and focus\#your inner energy.<#>"Глубоко вдохните и сконцентрируйте внутреннюю\#энергию."
 "The strongest man is the one who does\#not need to rely on others."<#>"Сильнейший - тот, кто не полагается на других."
 Joel learned Finger Gun!<#>Джоэл выучил Пальцелет!
@@ -392,10 +392,10 @@ Alex is reading the note...<#>Алекс читает записку...
 <!-- Event Name: Fire Arnold Animation? --><#>
 <!-- Event Name: car slam --><#>
 <!-- Event Name: Heartfelt Letter --><#>
-"Nevertheless, if at least one person genuinely enjoyed this\#experience, then I'll know I have succeeded."<#>"Так или иначе, если хотя бы кому-то понравился опыт,\#мне удалось выполнить свою задачу."
-"Thanks again for trying it out\#and deciding to give it a chance."<#>"Спасибо за то, что попробовали.\#Это немного, но это честная работа."
+"Nevertheless, if at least one person genuinely enjoyed this\#experience, then I'll know I have succeeded."<#>"Так или иначе, если хоть кому-то понравился опыт,\#мне удалось выполнить свою задачу."
+"Thanks again for trying it out\#and deciding to give it a chance."<#>"Спасибо, что попробовали.\#Это немного, но это честная работа."
 Now,\| go ahead.<#>Теперь,\| иди.
-Spread the carnage.<#>Разноси бойню.
+Spread the carnage.<#>Устрой бойню.
 \et[000]Meaningless piece of paper.<#>Бессмысленная бумажка.
 You crumpled the paper in your hand.<#>Вы скомкали бумажку в руке.
 Activate Spoiler-Free Achievements?<#>Активировать достижения без спойлеров?
@@ -475,8 +475,8 @@ Ataractic Dreams<#>Атарактические мечты
 <!-- Event Name: Traveler's Logbook --><#>
 Lavender Harvest<#>Сбор лаванды
 Meaningless Honors<#>Бессмысленные почести
-{Joel Miller}Get away from him!<#>{Джоэл Миллер}Убирайся от него!
-{Joel Miller}U-Ugh...\| Lucky!\|\#Block his stabs at the correct time!<#>{Джоэл Миллер}У-уф...\| Счастливчик!\|\#Блокируй его удары в подходящий момент!
+{Joel Miller}Get away from him!<#>{Джоэл Миллер}Отойди от него!
+{Joel Miller}U-Ugh...\| Lucky!\|\#Block his stabs at the correct time!<#>{Джоэл Миллер}У-уф...\| Повезло!\|\#Блокируй его удары в подходящий момент!
 {Arnold Shpitz}I'm no one in particular.<#>{Арнольд Шпиц}Я - никто особенный.
 <!-- Event Name: SCALPEL PARRY --><#>
 <!-- Event Name: Stance Elephant --><#>
