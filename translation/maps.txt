@@ -3226,7 +3226,7 @@ He handed you some "Crow Jerky."<#>Он передал вам немного "в
 \et[042]Savage!<#>Варвар!
 \et[042]You shall\#not get away\#with this villainy!<#>Ты не уйдёшь\#после такого\#злодейства!
 He is dead.<#>Он мёртв.
-It is dead.<#>Он мёртв.
+It is dead.<#>Она мертва.
 <!-- Map --><#>052Пещера под мусорным островом с банкой
 <!-- Map Name: Passage to burining ledge --><#>
 <!-- Order --><#>59
@@ -4712,7 +4712,7 @@ Sealed.<#>Запечатано.
 <!-- Map Name: Neu Crew Pass --><#>
 <!-- Order --><#>396
 Everything is better left behind.<#>Лучше оставить всё позади.
-Fossilized.<#>Окаменел.
+Fossilized.<#>Разложился.
 <!-- Map --><#>131
 <!-- Map Name: Panorama Highway --><#>
 <!-- Order --><#>397
@@ -8331,7 +8331,6 @@ He is dead.<#>Он мёртв.
 \et[015]It's a shame\#that other rat\#I had went missing.<#>Жаль, что другая крыса,\#которая у меня была,\#пропала.
 \et[015]It would've\#been a great\#treat for my\#good girl!<#>Она была бы\#прекрасным\#лакомством\#для моей девочки!
 \et[015]Don't worry,\#Clove,\. Santana\#will get you\#some grubs soon!<#>Не волнуйся,\#Клов,\. Сантана\#скоро принесёт\#тебе еды!
-\et[0015]¡La carne\#de la vida!<#>
 \et[000]Wow...<#>Вау...
 \et[000]My hatred for snakes somehow\#grew even stronger.<#>Моя ненависть к змеям как-то\#умудрилась вырасти.
 Nothing but ashes.<#>Ничего, кроме пепла.
@@ -10916,7 +10915,7 @@ It's clogged up.<#>Колонка забилась.
 <!-- Map Name: Hunter's Ridge --><#>
 <!-- Order --><#>315
 \et[009]...INTRUDERS!<#>...ВТОРЖЕНЦЫ!
-It is dead.<#>Он мёртв.
+It is dead.<#>Она мертва.
 He is dead.<#>Он мёртв.
 \et[009].\..\..\.Trespassers.<#>.\..\..\.Вторженцы.
 <!-- Map --><#>318
@@ -11021,9 +11020,9 @@ Someone's idea of a home.<#>Чьё-то представление дома.
 <!-- Map --><#>330Битва с королевой опарышей под мусорным островом
 <!-- Map Name: Maggot Den --><#>
 <!-- Order --><#>69
-They have been crushed.<#>Их раздавили.
+They have been crushed.<#>Вы раздавили их.
 \et[000]I hate\#this island.<#>Я ненавижу этот\#остров.
-It is dead.<#>Труп.
+It is dead.<#>Она мертва.
 <!-- Map --><#>331Вход в зал йоги
 <!-- Map Name: Sweet Breeze Yoga --><#>
 <!-- Order --><#>290
@@ -12038,8 +12037,8 @@ The room is no longer illuminated.<#>Комната больше не освещ
 <!-- Map Name: Neu Crew Pass (Inf.) --><#>
 <!-- Order --><#>403
 Everything is better left behind.<#>Лучше оставить всё позади.
-It is dead.<#>Мёртв.
-Fossilized.<#>Окаменел.
+It is dead.<#>Он мёртв.
+Fossilized.<#>Разложился.
 <!-- Map --><#>376
 <!-- Map Name: Arena (Inf) --><#>
 <!-- Order --><#>328
