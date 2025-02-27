@@ -278,7 +278,7 @@ The Dull Pickaxe was forcibly taken...<#>Тупую кирку насильно 
 <!-- Event Name: Joy Boys --><#>
 {Joel Miller}H-hey! Watch where you're swingin', Lucky!<#>{Джоэл Миллер}Э-эй! Следи, куда махаешь, счастливчик!
 {Gremory Gorgonzola}This is bullshit.<#>{Гремори Горгонзола}Бред.
-{Gremory Gorgonzola}Ungh...\| Tougher than you look...<#>{Гремори Горгонзола}У-уф...\| Ты крепче, чем кажешсья...
+{Gremory Gorgonzola}Ungh...\| Tougher than you look...<#>{Гремори Горгонзола}У-уф...\| Ты крепче, чем кажешься...
 {Flailing Centipede}I'll flay you motherfuckers!<#>{Изворачивающийся сколопендр}Я вас освежую, ублюдки!
 {Gremory Gorgonzola}I've got heartburn...<#>{Гремори Горгонзола}У меня изжога...
 {Flailing Centipede}You're gonna fuckin' pay for that!<#>{Изворачивающийся сколопендр}Вы, блядь, за это заплатите!
@@ -635,7 +635,7 @@ The Dull Pickaxe was forcibly taken...<#>Тупую кирку насильно 
 {???}You alright, Lucky?<#>{???}Ты в порядке, счастливчик?
 {???}Is there anything wrong?<#>{???}Что-то не так?
 {???}Yeah, what's up with you?<#>{???}Да, что с тобой?
-{???}He has lost his senses!\|\#HA HA!<#>{???}Он дизориентирован!\|\#ХА-ХА!
+{???}He has lost his senses!\|\#HA HA!<#>{???}Он дезориентирован!\|\#ХА-ХА!
 <!-- Event Name: Crowded (3rd Folder) --><#>
 <!-- Event Name: Friends? (Joel Solo) --><#>
 {Joel Miller}Alex...?<#>{Джоэл Миллер}Алекс...?
@@ -854,7 +854,7 @@ I'm no one in particular.<#>Я - никто особенный.
 {Francis Gizmo Jr.}You really were the very best...<#>{Фрэнсис Гизмо мл.}Вы правда лучшие.
 {Francis Gizmo Jr.}...and you meant the\#world to me.<#>{Фрэнсис Гизмо мл.}...и вы были для меня всем.
 {Kroger Cleveland}Motherfucker!<#>{Крогер Кливленд}Ублюдок!
-{Wallaby Whitaker}Why?\| Why??\|\#Why did this happen!?<#>{Уоллоби Уитекер}Почему?\| Почему??\|\#Почему это произошло!?
+{Wallaby Whitaker}Why?\| Why??\|\#Why did this happen!?<#>{Уоллоби Уитекер}Почему?\| Почему??\|\#Почему это произошло?!
 <!-- Event Name: S. Raymund Ripe --><#>
 {Raymund Ripe}You wait, you live.\| You fig-\^<#>{Рэймонд Райп}Ты ждёшь, ты живёшь.\| Ты сраж-\^
 {Raymund Ripe}\|.\|.\|.<#>{Рэймонд Райп}\|.\|.\|.
@@ -906,7 +906,7 @@ I'm no one in particular.<#>Я - никто особенный.
 {Chandler Sinclair}Y'all are gonna\#fuckin' pay!<#>{Ченлдер Синклер}Вы все блять\#заплатите!
 {Stefan Kindchild}Who, squatting upon the ground,\#Held his hear-\^<#>{Стефан Добряк}Которое, сидя на полу,\#держало своё серд-\^
 {Chandler Sinclair}SHUT\| THE\| FUCK\| UP!<#>{Ченлдер Синклер}ЗАТК\|НИСЬ\| БЛЯ\|ТЬ!
-{Chandler Sinclair}God...\|\#FUCKING DAMN IT!<#>{Ченлдер Синклер}Боже...\|\#БЛЯТЬ НАХУЙ!
+{Chandler Sinclair}God...\|\#FUCKING DAMN IT!<#>{Ченлдер Синклер}Боже...\|\#ПИЗДЕЦ!
 <!-- Event Name: Crunchdown Pt. 2 --><#>
 {Rutherford Headstrong}No one can\#take me down!<#>{Рузерфорд Крепкоголовый}Никому не победить меня!
 {Rutherford Headstrong}I thought that\#you'd learn\#your lesson!<#>{Рузерфорд Крепкоголовый}Я думал, что\#ты усвоил урок!
@@ -984,7 +984,7 @@ I'm no one in particular.<#>Я - никто особенный.
 {Krishna Ishmael}If you don't mind\#of course.<#>{Кришна Ишмаэль}Если ты не возражаешь.
 {Maximus Bull}Sure thing.<#>{Максимус Булл}Конечно.
 {Maximus Bull}Why did I agree to\#this again?<#>{Максимус Булл}Почему я снова на это\#согласился?
-{Krishna Ishmael}The taste of death isn't\#very appetizing...<#>{Кришна Ишмаэль}Вкус смерти не очень\#аппетитны...
+{Krishna Ishmael}The taste of death isn't\#very appetizing...<#>{Кришна Ишмаэль}Вкус смерти не очень\#аппетитный...
 <!-- Event Name: Highfold Clown Car --><#>
 {Geronimo Phantasmata}Now you're the\#punchline.<#>{Джеронимо Фантазмата}Теперь ты - шутка.
 {Geronimo Phantasmata}Time for you to\#chill out!<#>{Джеронимо Фантазмата}Время тебе расслабиться!
@@ -1002,7 +1002,7 @@ I'm no one in particular.<#>Я - никто особенный.
 {Prizmik}Time to end this.<#>{Призмик}Время это закончить.
 {Prizmik}You little...!<#>{Призмик}Ты, маленький...!
 {Prizmik}It's not worth it.<#>{Призмик}Оно того не стоит.
-{Prizmik}In the end, infinity\#always comes on top.<#>{Призмик}В итоге, бесконечности оказывается\#на вершине.
+{Prizmik}In the end, infinity\#always comes on top.<#>{Призмик}В итоге, бесконечность оказывается\#на вершине.
 {Prizmik}But I have more important\#matters to attend.<#>{Призмик}Но у меня есть более важные дела.
 {Prizmik}Farewell.<#>{Призмик}Прощай.
 <!-- Event Name: Industrial Genocide --><#>
@@ -1036,7 +1036,7 @@ I'm no one in particular.<#>Я - никто особенный.
 {Hugo Leopardi}It's not surprising.<#>{Хьюго Леопарди}Неудивительно.
 {Hugo Leopardi}But with those open wounds...\|\|\#How are you still standing?<#>{Хьюго Леопарди}Но с этими ранами...\|\|\#Как ты до сих пор стоишь?
 {Hugo Leopardi}You were right.\|\#None of this matters.<#>{Хьюго Леопарди}Ты прав.\|\#Это всё бессмысленно.
-{Hugo Leopardi}I...\|\#I failed...<#>{Хьюго Леопарди}Я...\|\#Я провалился...
+{Hugo Leopardi}I...\|\#I failed...<#>{Хьюго Леопарди}Я...\|\#Я подвёл...
 {Hugo Leopardi}Goodbye,\| Jason.<#>{Хьюго Леопарди}Прощай,\| Джейсон.
 <!-- Event Name: Hugo (2nd Fold) --><#>
 <!-- Event Name: Hugo (1st Fold) --><#>
@@ -1048,7 +1048,7 @@ I'm no one in particular.<#>Я - никто особенный.
 {Chao Bree}Useless... USELESS!<#>{Чао Бри}Бесполезные... БЕСПОЛЕЗНЫЕ!
 {Chance Sassy}Took a chance with this...\|\#And it flew right back into my face!<#>{Ченс Сэсси}Испробовал свою возможность...\|\#И она аукнулась мне в лицо!
 {Rins Sagitarius}Bury me somewhere nice.<#>{Ринс Сагитариус}Похорони меня где-нибудь в хорошем\#месте.
-{Jamie Diggins}Those archery classes ain't shit.<#>{Джейми Диггинс}Эти занятия с луком - не дерьмо.
+{Jamie Diggins}Those archery classes ain't shit.<#>{Джейми Диггинс}Занятия с луком - это вам не это.
 {Karl Siege}Spinning a huge rock is the\#best kind of exercise.<#>{Карл Сидж}Вращать огромный валун - лучший\#вид тренировок.
 {Barny Kettle}I may be a psychopath, but\..\..\..\|\#Nevermind,\| that's it.<#>{Барни Котелок}Я, возможно, психопат, но\..\..\..\|\#Ну,\| да.
 <!-- Event Name: Elephant Man --><#>
