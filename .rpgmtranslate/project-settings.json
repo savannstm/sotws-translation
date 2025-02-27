@@ -1,0 +1,7 @@
+{
+    "engineType": 1,
+    "romanize": false,
+    "translationLanguages": { "from": "en", "to": "ru" },
+    "mapsProcessingMode": 1,
+    "disableCustomProcessing": false
+}
