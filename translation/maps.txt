@@ -2075,7 +2075,7 @@ Return the tooth?<#>Вернуть зуб?
 \et[000]Yes.\. I don't really\#have a use for it otherwise.<#>Да.\. Я вряд ли смогу найти\#ему какое-то применение.
 \et[066]You're an angel.<#>Ты - ангел.
 You gave away the Gold Tooth.<#>Вы отдали золотой зуб.
-\et[066]Now I have my\#TV AND my tooth.<#>Теперь у меня есть и\#телевизор, и зуб.
+\et[066]Now I have my\#TV AND my tooth.<#>Теперь у меня есть и свой\#телевизор, *и* свой зуб.
 \et[066]Life is good.<#>Жизнь прекрасна.
 \et[066]Thanks a ton, sir.<#>Безумно благодарю, сэр.
 \et[066]Here,\. have this.<#>Вот,\. возьми.
@@ -2703,7 +2703,7 @@ Return the tooth?<#>Вернуть зуб?
 \et[000]Yes.\. I don't really\#have a use for it otherwise.<#>Да.\. Я вряд ли смогу найти\#ему какое-то применение.
 \et[025]You're an angel.<#>Ты - ангел.
 You gave away the Gold Tooth.<#>Вы отдали золотой зуб.
-\et[025]Now I have my\#TV AND my tooth.<#>Теперь у меня есть и\#телевизор, и зуб.
+\et[025]Now I have my\#TV AND my tooth.<#>Теперь у меня есть и свой\#телевизор, *и* свой зуб.
 \et[025]Life is good.<#>Жизнь прекрасна.
 \et[025]Thanks a ton, sir.<#>Безумно благодарю, сэр.
 You felt something warm inside your heart.<#>Вы чувствуете тепло в сердце.
@@ -8713,7 +8713,7 @@ He is dead.<#>Он мёртв.
 \et[007]Now even\#the lowliest\#chump can\#be a monarch.<#>Теперь даже\#самый дикий\#придурок может\#быть монархом.
 \et[007]This is\#what it means\#to be with\#The Corps.<#>Вот что\#значит\#быть с\#Корпами.
 \et[007]We are kings,\.\#and Downtown\#is our throne.<#>Мы короли,\.\#и город -\#наш трон.
-\et[007]One Franchise,\.\#infinite kings!<#>Одна Франшиза,\.\#короли бесконечности!
+\et[007]One Franchise,\.\#infinite kings!<#>Одна Франшиза,\.\#короли Бесконечности!
 \et[007]We can\#all be rulers\#of our own\#destiny!<#>Мы все\#правители\#собственной\#судьбы!
 \et[007]You won't\#get this freedom\#anywhere else.<#>Ты больше нигде\#не получишь эту\#свободу.
 \et[007]Don the\#jersey and\#embrace a\#new world!<#>Надень\#майку и\#вступи в\#новый мир!
@@ -8751,7 +8751,7 @@ He is dead.<#>Он мёртв.
 \et[004]I didn't\#climb this hill\#to get stiffed\#by a fence!<#>Я забирался на\#эту гору не для\#того, чтобы меня\#останавливал забор!
 \et[004]If this\#is his idea\#of a joke,\.\#I'm not laughing.<#>Если это\#у него такие\#шутки,\. то\#мне не смешно.
 \et[005]Shef's a\#wily one,\.\#I tell ya.<#>Шеф - хитрец,\.\#скажу тебе.
-\et[005]Took nearly\#five percent of\#our land just\#by himself.<#>Забрал примерно\#пятьдесят процентов\#земли себе.
+\et[005]Took nearly\#five percent of\#our land just\#by himself.<#>Забрал примерно\#половину земли\#себе.
 \et[005]It's every\#jersey's dream\#to get a chance\#at that fight.<#>Каждый маечник\#мечтает сразиться\#с ним.
 \et[005]Too bad\#he doesn't\#seem to share\#our sentiments.<#>Жаль, что он,\#похоже, не\#разделяет это\#желание.
 \et[005]The boy\#that takes off\#his head will be\#crowned a king.<#>Тот, кто срубит\#его голосу с\#плеч, будет\#коронован.
@@ -8771,7 +8771,7 @@ Baby Crow!<#>Ворон-малыш!
 \et[001]Don't let\#his goofy hat\#fool you.<#>Не позволь\#его дурацкой\#шляпе обмануть тебя.
 \et[001]That man\#is a monster.<#>Этот человек -\#монстр.
 \et[001]There's a\#reason he got\#that turf all\#by himself.<#>Есть причина,\#по которой он\#забрал всю\#землю себе.
-\et[001]I told them\#Shef doesn't\#play by the rules.<#>Я говорим им,\#что Шеф не\#играет по правилам.
+\et[001]I told them\#Shef doesn't\#play by the rules.<#>Я говорил им,\#что Шеф не\#играет по правилам.
 \et[001]But they\#wouldn't listen.<#>Но они не\#послушали.
 \et[001]Sooner or\#later they'll\#come to\#accept it.<#>Рано или поздно,\#они поймут\#это.
 <!-- Map --><#>249Мясная пещера
@@ -8805,7 +8805,7 @@ Cocola Cola!<#>Кокола-кола!
 \et[002]I see\#how it is.\.\#Ignore me, then.<#>Ясно, вижу.\.\#Игнорируешь\#меня.
 \et[002]The cycle\#will catch\#up with\#you, too.<#>Цикл и\#до тебя\#доберётся.
 \et[002]What we're\#planning goes\#beyond "The Game."<#>То, что мы планируем,\#выходит за грань "Игры".
-\et[002]The Dynamite\#Mafia will never\#be the same.<#>Динамитная Мафия\#больше никогда не\#будет прежней.
+\et[002]The Dynamite\#Mafia will never\#be the same.<#>Динамитная мафия\#больше никогда не\#будет прежней.
 Found an exotic knife!<#>Найден экзотический нож!
 He is dead.<#>Он мёртв.
 <!-- Map --><#>252Банда динамитных говноедов
@@ -8998,7 +8998,7 @@ It watches.<#>Он смотрит.
 \et[031]They think\#a shitty gate\#will save them\#from death.<#>Они думают,\#что сраные\#ворота спасут\#их от смерти.
 \et[031]But I can\#tell just how\#vulnerable\#we really are.<#>Но я знаю,\#насколько мы\#действительно\#уязвимы.
 \et[031]When the Franchise\#comes barging in,\.\#I'm not going\#to go down quietly.<#>Когда Франшиза\#постучит,\. я не\#собираюсь\#умирать тихо.
-\et[031]You can\#bet your\#sweet ass\#on it.<#>Ставлю свою\#жопу.
+\et[031]You can\#bet your\#sweet ass\#on it.<#>Ставлю\#свою\#жопу.
 \et[031]Not such\#an easy\#target,\. now\#was I?<#>Не такой\#лёгкой\#целью я\#оказался,\. а?
 \et[031]Dumbass\#jerseyheads.<#>Маечные\#придурки.
 \et[031]This is\#a starting\#pistol by\#the way.<#>Это, кстати,\#стартовый\#пистолет.
@@ -9319,7 +9319,7 @@ The door is locked.<#>Дверь закрыта.
 \et[006]It's locked\#up tighter\#than Fort Knox.<#>Он заперт лучше,\#чем Форт-Нокс.
 \et[006]And I swallowed\#the key, so...<#>И я проглотил\#ключ, так что...
 \et[006]Gonna be at least\#a couple hours before\#anyone gets inside.<#>Как минимум\#несколько часов\#никто не сможет войти.
-\et[006]Now that I\#think about it,\.\#I hope Otto\#takes his time.<#>Теперь, когда я\#обдумываю это,\.\#я надеюсь что Отто\#не будет спешить.
+\et[006]Now that I\#think about it,\.\#I hope Otto\#takes his time.<#>Теперь, когда я\#обдумываю это,\.\#я надеюсь, что Отто\#не будет спешить.
 He is dead.<#>Он мёртв.
 \et[006]Eh?<#>А?
 \et[006]Was that sound\#I heard behind me\#the sound of Otto's\#office being infiltrated?<#>Не звук ли это\#вламывания в\#офис Отто я\#услышал за спиной?
@@ -12651,7 +12651,7 @@ Return the tooth?<#>Вернуть зуб?
 \et[000]Yes.\. I don't really\#have a use for it otherwise.<#>Да.\. Я вряд ли смогу найти\#ему какое-то применение.
 \et[015]You're an angel.<#>Ты - ангел.
 You gave away the Gold Tooth.<#>Вы отдали золотой зуб.
-\et[015]Now I have my\#TV AND my tooth.<#>Теперь у меня есть свой\#телевизор И свой зуб.
+\et[015]Now I have my\#TV AND my tooth.<#>Теперь у меня есть и свой\#телевизор, *и* свой зуб.
 \et[015]Life is good.<#>Жизнь прекрасна.
 \et[015]Thanks a ton, sir.<#>Безумно благодарю, сэр.
 You felt something warm inside your heart.<#>Вы чувствуете тепло в сердце.
