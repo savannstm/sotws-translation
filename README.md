@@ -1,5 +1,9 @@
 # Русская локализация LISA: The Pointless Scholar of the Wilbur Sin
 
+## Infinity Unfolds
+
+Для перевода Infinity Unfolds, откройте бренч [infinity-unfolds](https://github.com/savannstm/sotws-translation/tree/infinity-unfolds)
+
 ## Как скомпилировать в `.rvdata2` файлы игры?
 
 Воспользуйтесь [инструментом для командной строки](https://github.com/savannstm/rvpacker-txt-rs), либо [графическим интерфейсом](https://github.com/savannstm/rpgmtranslate).
