@@ -20,7 +20,7 @@ gets his mojo back!<#>снова обретает пыл!
 chews at your flesh!<#>жуёт вашу кожу!
 spits some funky shit on you!<#>плюёт в вас какой-то хренью!
 is squirming.<#>извивается.
-is eating maggots!<#>ест опырашей!
+is eating maggots!<#>ест опарышей!
 licks you...<#>лижет вас...
 chomps away!<#>грызётся!
 unleashes a foul odor!<#>испускает ужасную вонь!
@@ -45,7 +45,7 @@ is generating a current!<#>генерирует ток!
 bites down on your neck!<#>кусает вас за шею!
 They're watching...<#>За вами наблюдают...
 is staring ominously...<#>угрожающее наблюдает...
-cackles maniacally!<#>маникально смеётся!
+cackles maniacally!<#>маниакально смеётся!
 lashes out!<#>набрасывается!
 rams you with his pipe!<#>ударяет вас своей трубой!
 is struggling to lift his pipe...<#>пытается поднять трубу...
@@ -219,7 +219,7 @@ rams full speed ahead!<#>таранит на полной скорости!
 loses control of the bulldozer!<#>теряет контроль над бульдозером!
 stalls his bulldozer!<#>останавливает свой бульдозер!
 is fidgeting with the controls...<#>возится с элементами управления...
-apologizes profusely!<#>приносит искренние извенения!
+apologizes profusely!<#>приносит искренние извинения!
 blew forth exhuast!<#>выдувает выхлоп!
 is begging Wally for forgiveness.<#>умоляет Валли о прощении.
 hides behind a bush.<#>прячется за кустом.
@@ -370,7 +370,7 @@ brings down the elbow!<#>ударяет локтем!
 knocked them upward!<#>подбрасывает вверх!
 punches out all their blood!<#>выбивает из него всю кровь!
 's fingers ache.<#>испытывает боль в пальцах.
-creates some distance.<#>держится на дистанции.
+creates some distance.<#>держится на расстоянии.
 unleashes a whirlwind of pain!<#>обрушивает водоворот боли!
 crushed their skull.<#>разбивает череп.
 spat blood in their face!<#>плюёт кровью в лицо!
@@ -407,7 +407,7 @@ Twisted Stance<#>Закрученная стойка
 Can your joints handle it? Recovers 70 SP.\#Costs 150 HP, or 50 HP if already twisted.<#>Выдержат ли ваши суставы? Восстанавливает 70 ОН.\#Стоит 150 ОЗ, или 50 ОЗ, если вы уже закручены.
 coils up!<#>скручивается!
 Disarming Chop<#>Обезоруживающий удар
-chops at the wrist!<#>удярет по запястью!
+chops at the wrist!<#>ударяет по запястью!
 Dive<#>Нырок
 A classic evasive maneuver. Can still use items.\#Prevents most forms of damage, but staggers.<#>Классический манёвр уклонения. Позволяет использовать предметы.\#Защищает от большинства видов урона, но вы теряете равновесие.
 got outta there!<#>убирается подальше!
@@ -552,7 +552,7 @@ Smoke Bomb<#>Дымовая бомба
 A handy way out of a sticky situation. Makes you\#hidden, but lowers your defense.<#>Надёжный выход из скользкой ситуации. Скрывает,\#но понижает защиту.
 escapes into the smoke!<#>отступает в дым!
 Painted Red<#>Красный всплеск
-A series of slashes set to mutilate\#bleeding enemies further.<#>Серия взмахов, которые вспорят истекающих\#кровью врагов.
+A series of slashes set to mutilate\#bleeding enemies further.<#>Серия взмахов, которые вспорют истекающих\#кровью врагов.
 slashes out their veins!<#>вскрывает чужие вены!
 Poison Dart<#>Ядовитый дротик
 Dip your blade in lead paint and fling at a bastard.\#High chance to poison.<#>Окуните свой клинок в свинцовую краску и метните в\#ублюдка. Высокий шанс отравить.
@@ -585,7 +585,7 @@ Show No Fear<#>Бесстрашие
 Show them that you won't back down. Inspires the\#rest of your team, making them brave.<#>Покажите, что вы не собираетесь отступать.\#Вдохновляет остальных членов вашей команды и даёт им смелость.
 isn't giving up yet!<#>ещё не сдаётся!
 Blessed Rain<#>Благословенный дождь
-Expel a restorative droplet onto a KO'd ally,\#bringing them back to the battle. Gets them wet.<#>Выплесните исцеляюшую каплю на нокаутированного\#союзника, возвращая его в бой. Мочит его.
+Expel a restorative droplet onto a KO'd ally,\#bringing them back to the battle. Gets them wet.<#>Выплесните исцеляющую каплю на нокаутированного\#союзника, возвращая его в бой. Мочит его.
 gets them back on their feet!<#>поднимает на ноги!
 scarfs down some salt!<#>съедает немного соли!
 Pocket Salt<#>Карманная соль

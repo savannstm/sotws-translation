@@ -21,7 +21,7 @@ A pair of hands plagued by callouses and arthritis.\#They make for a decent weap
 Charred Ring<#>Обугленное кольцо
 Scorched metal. Helps protect against fire.<#>Обожжённый метал. Защищает от огня.
 Wretched Leather Glove<#>Скверная кожаная перчатка
-Accursed piece of handwear. Majorly boosts attack,\#but reduces HP and defenses to nothing.<#>Проклятая перчатка. Сильно повышает атаку,\#но нисводит ОЗ и защиту в ноль.
+Accursed piece of handwear. Majorly boosts attack,\#but reduces HP and defenses to nothing.<#>Проклятая перчатка. Сильно повышает атаку,\#но низводит ОЗ и защиту в ноль.
 Exotic Shiv<#>Экзотическая заточка
 A finely crafted piece of cutlery. Gives knife\#attacks a chance to inflict bleeding.<#>Тонко обработанное лезвие. Даёт ножевым\#атакам шанс вызвать кровотечение.
 Doctor's Gloves<#>Перчатки врача

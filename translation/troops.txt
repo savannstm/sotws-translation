@@ -60,7 +60,7 @@ Don't make me flip out!<#>Не беси меня!
 {Chet Blur}Too rough, dude!<#>{Чет Блюр}Слишком жёстко, чувак!
 {Chet Blur}What did I just say?<#>{Чет Блюр}Что я только что сказал?
 <!-- Event Name: Arnold Shpitz --><#>
-{Arnold Shpitz}I'm no one in particular.<#>{Арнольд Шпиц}Никто особенный.
+{Arnold Shpitz}I'm no one in particular.<#>{Арнольд Шпиц}Я - никто особенный.
 <!-- Event Name: Doyle Muscare --><#>
 {Doyle Muscare}I'll make mincemeat out of you!<#>{Дойль Мускейр}Я тебя в фарш нашинкую!
 {Doyle Muscare}They'll kill you for me.<#>{Дойль Мускейр}Они убьют тебя за меня.
@@ -240,7 +240,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 <!-- Event Name: Roland II (Super Dead) --><#>
 <!-- Event Name: Roland II (Super Dead + Darry) --><#>
 <!-- Event Name: Gunther Scourge --><#>
-{Gunther Scourge}I ain't gonna keel for you, grease head!<#>{Гюнтер Бич}Я тебе не уступлю, жирная голова!
+{Gunther Scourge}I ain't gonna keel for you, grease head!<#>{Гюнтер Бич}Я тебе не уступлю, чумазый!
 {Gunther Scourge}The election was rigged!<#>{Гюнтер Бич}Выборы подстроили!
 {Gunther Scourge}Rigged,\. you son of a bitch!<#>{Гюнтер Бич}Подстроили,\. сукин ты сын!
 <!-- Event Name: Serpentine Figure --><#>
@@ -250,7 +250,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Joel Miller}H-hey! Watch where you're swingin', Lucky!<#>{Джоэл Миллер}Э-эй! Следи, куда махаешь, счастливчик!
 <!-- Event Name: Joy Boys --><#>
 {Gremory Gorgonzola}This is bullshit.<#>{Гремори Горгонзола}Бред.
-{Gremory Gorgonzola}Ungh...\| Tougher than you look...<#>{Гремори Горгонзола}У-уф...\| Ты крепче, чем кажешсья...
+{Gremory Gorgonzola}Ungh...\| Tougher than you look...<#>{Гремори Горгонзола}У-уф...\| Ты крепче, чем кажешься...
 {Flailing Centipede}I'll flay you motherfuckers!<#>{Изворачивающийся сколопендр}Я вас освежую, ублюдки!
 {Gremory Gorgonzola}I've got heartburn...<#>{Гремори Горгонзола}У меня изжога...
 {Flailing Centipede}You're gonna fuckin' pay for that!<#>{Изворачивающийся сколопендр}Вы, блядь, за это заплатите!
@@ -490,7 +490,7 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Scrawny Davy}Hey, what's going on back there?!<#>{Тощий Дэви}Эй, что там происходит?!
 {Scrawny Davy}You guys better not be messing with my-\^<#>{Тощий Дэви}Ребята, вам лучше не портить мой-\^
 <!-- Event Name: Lost Marauder --><#>
-{Serjio Oman}In the name of the Elder, I shall cut you down!<#>{Серхио Оман}Во имя Старейшины, я тебя убью!
+{Serjio Oman}In the name of the Elder, I shall cut you down!<#>{Серхио Оман}Во имя старейшины, я тебя убью!
 {Serjio Oman}I won't be felled by the likes of you!<#>{Серхио Оман}Я не позволю таким, как вы, меня сокрушить!
 {Serjio Oman}Where did we go so wrong...?<#>{Серхио Оман}Где мы так ошиблись...?
 <!-- Event Name: Welcoming Committee --><#>

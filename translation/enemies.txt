@@ -43,7 +43,7 @@ Spence Mack<#>Спенс Отче
 Spanks Star<#>Спэнкс Стар
 The Unspoken One<#>Безмолвный
 Geronimo Phantasmata<#>Джеронимо Фантазмата
-Carrot Tail<#>Кэррот Тэйл
+Carrot Tail<#>Кэррот Тейл
 Douglass Fiat<#>Дуглас Фиат
 Maurice Falcon<#>Морис Фэлкон
 William Double J Palmer<#>Уильям Дабл Джей Палмер
@@ -128,7 +128,7 @@ Zill Rachmanov<#>Зилл Рахманов
 Li'l Beezy Dreams<#>Лил Бизи Дримс
 Conrad Windthorn<#>Конрад Вайндторн
 Birch Obsidian<#>Бёрч Обсидиан
-Quincy and Quebec Earheart<#>Куинси и Квебек Ёрхарт
+Quincy and Quebec Earheart<#>Куинси и Квебек Эрхарт
 Benedictus Freeman<#>Бенедикт Фриман
 Frisko Benson<#>Фриско Бенсон
 Hugo Leopardi<#>Хьюго Леопарди

@@ -275,7 +275,7 @@ You never see smiles like these anymore.<#>Таких улыбок больше 
 <!-- Event Name: Gun Danger 2 --><#>
 <!-- Event Name: Edge Penalty --><#>
 <!-- Event Name: Enter NOiP --><#>
-{Arnold Shpitz}I'm no one in particular.<#>{Арнольд Шпиц}Никто особенный.
+{Arnold Shpitz}I'm no one in particular.<#>{Арнольд Шпиц}Я - никто особенный.
 <!-- Event Name: Carnage Whirl Dizzy --><#>
 <!-- Event Name: Blood Punch Recoil --><#>
 <!-- Event Name: Testing Protocol --><#>
