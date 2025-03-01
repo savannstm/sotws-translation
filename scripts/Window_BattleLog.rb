@@ -240,12 +240,26 @@ class Window_BattleLog < Window_Selectable
         wait
       end
     end
+
     #--------------------------------------------------------------------------
     # * Display Skill/Item Use
     #--------------------------------------------------------------------------
     def display_use_item(subject, item)
       if item.is_a?(RPG::Skill)
-        add_text(subject.name + item.message1)
+        text = if item.message1.start_with?('\'s fate')
+            name = if subject.name.start_with?("Сол")
+                        'Солевого'
+                    else
+                        "#{subject.name}а"
+                    end
+
+                    "Судьба #{name} предрешена."
+                else
+                    subject.name + item.message1
+                end
+
+        add_text(text)
+
         unless item.message2.empty?
           wait
           add_text(item.message2)

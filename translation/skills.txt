@@ -534,7 +534,8 @@ goes apeshit!<#>обезьянничает!
 swings his machete!<#>размахивает мачете!
 chops you up!<#>рубит вас!
 prepares the meat!<#>готовит мясо!
-'s fate is sealed.<#>понимает, что судьба предрешена.
+<!-- Эта линия изменена через скрипт Window_BattleLog.rb -->
+'s fate is sealed.<#>
 pierces your vitals!<#>пронзает ваши органы!
 slits your wrists!<#>вскрывает ваши вены!
 's body is feeling strange...<#>чувствует себя странно...
