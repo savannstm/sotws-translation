@@ -174,8 +174,8 @@ An office worker's basic necessity. Juices you up and\#restores SP but reduces a
 Obsessed Bag<#>Одержимый пакет
 It brings back memories. Resists weird, flustered,\#and nasty. Defense down, agility down, luck down.<#>Навевает воспоминания. Даёт сопротивление к странности,\#возбуждению и омерзению. Понижает защиту, ловкость, удачу.
 Lucky Coin<#>Счастливая монета
-Worthless piece of metal coated with "golden" paint.\#Clinging onto it may bring fortune... but likely not.<#>Бесполезный кусок металла, покрытый "золотой" краской.\#Его ношение может привлечь удачу... но вряд-ли это случится.
-Patch of cloth from a Rando soldier uniform.\#Slight boost in experience gain. Stats down.<#>Нашивка с униформы солдата Рандо. Немного повышает\#получемый опыт. Понижает характеристики.
+Worthless piece of metal coated with "golden" paint.\#Clinging onto it may bring fortune... but likely not.<#>Бесполезный кусок металла, покрытый "золотой" краской.\#Его ношение может привлечь удачу... но вряд ли это случится.
+Patch of cloth from a Rando soldier uniform.\#Slight boost in experience gain. Stats down.<#>Нашивка с униформы солдата Рандо. Немного повышает\#получаемый опыт. Понижает характеристики.
 One Franchise, infinite kings.<#>Одна Франшиза - короли бесконечности.
 Rando Mask<#>Маска Рандо
 It stinks of sweat and regret. Increased resistance\#to physical damage, decreased agility.<#>Она воняет потом и сожалением. Повышает\#сопротивление физическому урону, понижает ловкость.
