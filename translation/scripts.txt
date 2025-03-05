@@ -93,7 +93,7 @@ MAX LEVEL<#>МАКС. УРОВЕНЬ
 "To the victor goes the spoils."<#>"Добыча достаётся победителю."
 "The enemies dropped something!"<#>"Враги что-то обронили!"
 "Hey, what\'s this?"<#>"О, что это?"
- NOW<#>ТЕПЕРЬ
+ NOW<#>->
 Options/Quit<#>Настройки/Выход
 OFF<#>ВЫКЛ
 ON<#>ВКЛ

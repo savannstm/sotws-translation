@@ -409,6 +409,10 @@ Can your joints handle it? Recovers 70 SP.\#Costs 150 HP, or 50 HP if already tw
 coils up!<#>скручивается!
 Disarming Chop<#>Обезоруживающий удар
 chops at the wrist!<#>ударяет по запястью!
+Vicious Combo<#>Кровавое комбо
+Burst Palm<#>Рывок ладонью
+Rising Punch<#>Удар вверх
+Gut Kick<#>Удар в живот
 Dive<#>Нырок
 A classic evasive maneuver. Can still use items.\#Prevents most forms of damage, but staggers.<#>Классический манёвр уклонения. Позволяет использовать предметы.\#Защищает от большинства видов урона, но вы теряете равновесие.
 got outta there!<#>убирается подальше!
@@ -597,7 +601,7 @@ Careen through a crowd on a chariot of iron.\#Hits all enemies to inflict off ba
 comes crashing through!<#>пробивается напролом!
 cuts himself up!<#>случайно режется!
 Threatening Edge<#>Угрожающий клинок
-Display your blade in a last-ditch attempt to\#frighten the enemy. Results may vary.<#>Покажите свой клинок в качестве последней\#попытки запугать врага. Результат может быть разным.
+Display your blade in a last-ditch attempt to\#frighten the enemy. Results may vary.<#>Покажите своё лезвие в качестве последней\#попытки запугать врага. Результат может быть разным.
 attempts to be threatening.<#>пытается угрожать.
 bland, straightforward brutality!<#>безвкусная, прямолинейная жестокость!
 smacks with his palm!<#>бьёт ладонью!
