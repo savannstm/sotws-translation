@@ -576,10 +576,10 @@ Disarming Chop<#>Обезоруживающий удар
 chops at the wrist!<#>ударяет по запястью!
 Vicious Combo<#>Кровавое комбо
 Burst Palm<#>Рывок ладонью
-Dive<#>Нырок
 Rising Punch<#>Удар вверх
-A classic evasive maneuver. Can still use items.\#Prevents most forms of damage, but staggers.<#>Классический манёвр уклонения. Позволяет использовать предметы.\#Защищает от большинства видов урона, но вы теряете равновесие.
 Gut Kick<#>Удар в живот
+Dive<#>Нырок
+A classic evasive maneuver. Can still use items.\#Prevents most forms of damage, but staggers.<#>Классический манёвр уклонения. Позволяет использовать предметы.\#Защищает от большинства видов урона, но вы теряете равновесие.
 brings you down with him!<#>бросает вас на прогиб!
 does his Buster Punches!<#>использует разрушительные удары!
 got outta there!<#>убирается подальше!
