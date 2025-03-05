@@ -188,7 +188,7 @@ This page is missing.<#>Страница отсутствует.
 "You may be surprised to learn just how\#far a small sleight of hand can carry you."<#>"Вы невероятно удивитесь, как небольшая ловкость рук\#может выручить вас."
 <!-- Event Name: Blade Retrieval --><#>
 <!-- Event Name: Joel Gun Toss Change --><#>
-All of a sudden, Joel had an epiphany!<#>Совершенно внезапно, Джоэл был благословлён!
+All of a sudden, Joel had an epiphany!<#>Совершенно внезапно, Джоэлу пришло озарение!
 Gun Toss has become Gun Spin!<#>Бросок пистолета стал Вращением пистолета!
 <!-- Event Name: Ingest --><#>
 You have no salt.<#>У вас нет соли.
