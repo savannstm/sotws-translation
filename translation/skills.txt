@@ -202,6 +202,7 @@ grabs at your weapon!<#>хватает ваше оружие!
 stole your bat!<#>крадёт вашу биту!
 couldn't break your grip!<#>не может вырваться из вашей хватки!
 throws bottles everywhere!<#>бросает повсюду бутылки!
+A lover's forbidden touch... Can make enemies feel\#nasty, flustered, and occasionally nauseated.<#>Запретное касание любовника... Может вызвать у врагов\#омерзение, возбуждение, и иногда тошноту.
 copulates fiercely!<#>яростно совокупляется!
 spews out a fireball!<#>извергает огненный шар!
 performs a Tiger Suplex!<#>выполняет тигровый суплес!
