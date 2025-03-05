@@ -573,8 +573,8 @@ twists your limbs.<#>скручивает ваши руки.
 hacks swiftly across your face!<#>быстро ударяет вас в лицо!
 coils up!<#>скручивается!
 Disarming Chop<#>Обезоруживающий удар
-Vicious Combo<#>Кровавое комбо
 chops at the wrist!<#>ударяет по запястью!
+Vicious Combo<#>Кровавое комбо
 Burst Palm<#>Рывок ладонью
 Dive<#>Нырок
 Rising Punch<#>Удар вверх
@@ -804,7 +804,7 @@ Careen through a crowd on a chariot of iron.\#Hits all enemies to inflict off ba
 comes crashing through!<#>пробивается напролом!
 cuts himself up!<#>случайно режется!
 Threatening Edge<#>Угрожающий клинок
-Display your blade in a last-ditch attempt to\#frighten the enemy. Results may vary.<#>Покажите свой клинок в качестве последней\#попытки запугать врага. Результат может быть разным.
+Display your blade in a last-ditch attempt to\#frighten the enemy. Results may vary.<#>Покажите своё лезвие в качестве последней\#попытки запугать врага. Результат может быть разным.
 attempts to be threatening.<#>пытается угрожать.
 bland, straightforward brutality!<#>безвкусная, прямолинейная жестокость!
 smacks with his palm!<#>бьёт ладонью!
