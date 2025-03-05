@@ -213,7 +213,7 @@ This page is missing.<#>Страница отсутствует.
 "As such, one of the most invaluable\#scenarios you can encounter in war\#is a situation where your enemy's\#concentration is directed somewhere else.<#>"Поэтому, одним из самых ценных исходов войны\#считается тот, в котором внимание врага\#перенаправлено на другие проблемы."
 "A convenient way to force this\#circumstance is to fool your enemy\#into thinking that you are not their only foe.<#>"Такого удобнее всего достичь, заставив\#врага поверить, что вы - не единственный\#его противник."
 "You may be surprised to learn just how\#far a small sleight of hand can carry you."<#>"Вы невероятно удивитесь, как небольшая ловкость рук\#может выручить вас."
-All of a sudden, Joel had an epiphany!<#>Совершенно внезапно, Джоэл был благословлён!
+All of a sudden, Joel had an epiphany!<#>Совершенно внезапно, Джоэлу пришло озарение!
 Gun Toss has become Gun Spin!<#>Бросок пистолета стал Вращением пистолета!
 You have no salt.<#>У вас нет соли.
 <!-- Event Name: Blade Retrieval --><#>
