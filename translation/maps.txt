@@ -5588,7 +5588,7 @@ Nothing left.<#>Ничего не осталось.
 \et[011]The thieving\#rats have come\#back to their den.<#>Вороватые\#крысы вернулись\#в своё логово.
 \et[011]It was you\#rag men who\#took my secret\#stash,\. wasn't it?<#>Это были вы,\#оборванцы, кто\#растащил мой\#схрон,\. не так ли?
 \et[000]We didn't know\#it was yours.<#>Мы не знали, что\#он твой.
-\et[011]That doesn't matter.\|\#What matters is that you\#took what was mine.<#>Это неважно.\|\#Важно то, что вы забрали\#то, что принадлежит мне.
+\et[011]That doesn't matter.\|\#What matters is that you\#took what was mine.<#>Это неважно.\|\#Важно то, что вы забрали\#вещи, принадлежащие мне.
 \et[011]I thought\#I told you\#roaches to stay\#out of our hair.<#>Я думал, что\#говорил вам,\#блохам, не путаться\#в волосах.
 \et[011]We're not\#just some\#common gang\#fucking around.<#>Мы не просто\#какая-то банда,\#творящая хуйню.
 \et[011]We are the\#God damn Rando Army,\.\#and that means we're\#above trashmen like you.<#>Мы чёртова армия\#Рандо,\. и это значит,\#что мы выше бомжей,\#типа вас.
@@ -10188,7 +10188,7 @@ Learned the Major Iris.<#>Изучен большой Ирис.
 \et[005]I'm exactly\#who you\#think I am.<#>Я тот, о\#ком ты\#подумал.
 \et[000]It's been\#a long time.<#>Давно не\#виделись.
 \et[005]The past\#is irrelevant.<#>Прошлое\#неважно.
-\et[005]All that\#matters is\#your present.<#>Всё что имеет\#значение - твоё\#настоящее.
+\et[005]All that\#matters is\#your present.<#>Всё, что имеет\#значение - твоё\#настоящее.
 \et[005]Now, come.<#>Теперь, давай.
 \et[005]Face me,\. Alex.<#>Столкнись со мной,\.\#Алекс.
 \et[002]Fantastic work, Alex.<#>Фантастическая работа,\#Алекс.

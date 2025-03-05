@@ -1034,9 +1034,9 @@ I'm no one in particular.<#>Я - никто особенный.
 {Hugo Leopardi}You're persistent...<#>{Хьюго Леопарди}Ты настойчив...
 {Hugo Leopardi}And you killed so many\..\..\..<#>{Хьюго Леопарди}И ты стольких убил\..\..\..
 {Hugo Leopardi}It's not surprising.<#>{Хьюго Леопарди}Неудивительно.
-{Hugo Leopardi}But with those open wounds...\|\|\#How are you still standing?<#>{Хьюго Леопарди}Но с этими ранами...\|\|\#Как ты до сих пор стоишь?
+{Hugo Leopardi}But with those open wounds...\|\|\#How are you still standing?<#>{Хьюго Леопарди}Но с этими порезами...\|\|\#Как ты до сих пор стоишь?
 {Hugo Leopardi}You were right.\|\#None of this matters.<#>{Хьюго Леопарди}Ты прав.\|\#Это всё бессмысленно.
-{Hugo Leopardi}I...\|\#I failed...<#>{Хьюго Леопарди}Я...\|\#Я подвёл...
+{Hugo Leopardi}I...\|\#I failed...<#>{Хьюго Леопарди}Я...\|\#Я провалился...
 {Hugo Leopardi}Goodbye,\| Jason.<#>{Хьюго Леопарди}Прощай,\| Джейсон.
 <!-- Event Name: Hugo (2nd Fold) --><#>
 <!-- Event Name: Hugo (1st Fold) --><#>
@@ -1048,9 +1048,9 @@ I'm no one in particular.<#>Я - никто особенный.
 {Chao Bree}Useless... USELESS!<#>{Чао Бри}Бесполезные... БЕСПОЛЕЗНЫЕ!
 {Chance Sassy}Took a chance with this...\|\#And it flew right back into my face!<#>{Ченс Сэсси}Испробовал свою возможность...\|\#И она аукнулась мне в лицо!
 {Rins Sagitarius}Bury me somewhere nice.<#>{Ринс Сагитариус}Похорони меня где-нибудь в хорошем\#месте.
-{Jamie Diggins}Those archery classes ain't shit.<#>{Джейми Диггинс}Занятия с луком - это вам не это.
+{Jamie Diggins}Those archery classes ain't shit.<#>{Джейми Диггинс}Занятия с луком нихера не помогли.
 {Karl Siege}Spinning a huge rock is the\#best kind of exercise.<#>{Карл Сидж}Вращать огромный валун - лучший\#вид тренировок.
-{Barny Kettle}I may be a psychopath, but\..\..\..\|\#Nevermind,\| that's it.<#>{Барни Котелок}Я, возможно, психопат, но\..\..\..\|\#Ну,\| да.
+{Barny Kettle}I may be a psychopath, but\..\..\..\|\#Nevermind,\| that's it.<#>{Барни Чайник}Я, возможно, психопат, но\..\..\..\|\#Ну,\| да.
 <!-- Event Name: Elephant Man --><#>
 {El Elephante Vintchenso}...<#>{Эль Элефанте Винченсо}...
 <!-- Event Name: Turkey Wing --><#>

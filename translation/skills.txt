@@ -572,9 +572,13 @@ twists your limbs.<#>скручивает ваши руки.
 hacks swiftly across your face!<#>быстро ударяет вас в лицо!
 coils up!<#>скручивается!
 Disarming Chop<#>Обезоруживающий удар
+Vicious Combo<#>Кровавое комбо
 chops at the wrist!<#>ударяет по запястью!
+Burst Palm<#>Рывок ладонью
 Dive<#>Нырок
+Rising Punch<#>Удар вверх
 A classic evasive maneuver. Can still use items.\#Prevents most forms of damage, but staggers.<#>Классический манёвр уклонения. Позволяет использовать предметы.\#Защищает от большинства видов урона, но вы теряете равновесие.
+Gut Kick<#>Удар в живот
 brings you down with him!<#>бросает вас на прогиб!
 does his Buster Punches!<#>использует разрушительные удары!
 got outta there!<#>убирается подальше!
@@ -709,7 +713,7 @@ gets in a good stretch!<#>хорошенько растягивается!
 White Streak<#>Белая полоса
 A slap of paint that's sure to disorient. Sets foes\#off balance and can even make them cry.<#>Красочный мазок, который точно дезориентирует врагов.\#Выбивает их из равновесия и заставляет плакать.
 slaps with his paintbrush!<#>проводит своей кистью!
-sounds the horn!<#>жмёт на гудок!
+sounds the horn!<#>сигналит!
 White Splash<#>Белый всплеск
 Dispense the whole bucket's worth onto their face.\#Gets them wet. Small chance to piss them off.<#>Выплесните всё ведро краски на лицо оппонента. Мочит врагов.\#Имеет маленький шанс взбесить.
 chucks a bucketload of paint!<#>выливает ведро краски!

@@ -214,7 +214,7 @@ Laser Eye Guy<#>Лазерноглазый парень
 Jason Pike<#>Джейсон Пайк
 The Doctor<#>Доктор
 Aron Richter<#>Арон Рихтер
-Barny Kettle<#>Барни Котелок
+Barny Kettle<#>Барни Чайник
 Karl Siege<#>Карл Сидж
 Chance Sassy<#>Ченс Сэсси
 Chao Bree<#>Чао Бри
