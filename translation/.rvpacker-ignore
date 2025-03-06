@@ -1,0 +1,2354 @@
+<!-- File: map65535 -->
+<!-- File: map1 -->
+<!-- File: map2 -->
+<!-- File: map3 -->
+<!-- File: map4 -->
+<!-- File: map5 -->
+<!-- File: map6 -->
+<!-- File: map7 -->
+<!-- File: map8 -->
+<!-- File: map9 -->
+<!-- File: map10 -->
+<!-- File: map11 -->
+<!-- File: map12 -->
+<!-- File: map13 -->
+<!-- File: map14 -->
+<!-- File: map15 -->
+<!-- File: map16 -->
+<!-- File: map17 -->
+<!-- File: map18 -->
+<!-- File: map19 -->
+<!-- File: map20 -->
+<!-- File: map21 -->
+<!-- File: map22 -->
+<!-- File: map23 -->
+<!-- File: map24 -->
+<!-- File: map25 -->
+<!-- File: map26 -->
+<!-- File: map27 -->
+<!-- File: map28 -->
+<!-- File: map29 -->
+<!-- File: map30 -->
+<!-- File: map31 -->
+<!-- File: map32 -->
+<!-- File: map33 -->
+<!-- File: map34 -->
+<!-- File: map35 -->
+<!-- File: map36 -->
+<!-- File: map37 -->
+<!-- File: map38 -->
+<!-- File: map39 -->
+<!-- File: map40 -->
+<!-- File: map41 -->
+<!-- File: map42 -->
+<!-- File: map43 -->
+<!-- File: map44 -->
+<!-- File: map45 -->
+<!-- File: map46 -->
+<!-- File: map47 -->
+<!-- File: map48 -->
+<!-- File: map49 -->
+<!-- File: map50 -->
+<!-- File: map51 -->
+<!-- File: map52 -->
+<!-- File: map53 -->
+<!-- File: map54 -->
+<!-- File: map55 -->
+<!-- File: map56 -->
+<!-- File: map57 -->
+<!-- File: map58 -->
+<!-- File: map59 -->
+<!-- File: map60 -->
+<!-- File: map61 -->
+<!-- File: map62 -->
+<!-- File: map63 -->
+<!-- File: map64 -->
+<!-- File: map65 -->
+<!-- File: map66 -->
+<!-- File: map67 -->
+<!-- File: map68 -->
+<!-- File: map69 -->
+<!-- File: map70 -->
+<!-- File: map71 -->
+<!-- File: map72 -->
+<!-- File: map73 -->
+<!-- File: map74 -->
+<!-- File: map75 -->
+<!-- File: map76 -->
+<!-- File: map77 -->
+<!-- File: map78 -->
+<!-- File: map79 -->
+<!-- File: map80 -->
+<!-- File: map81 -->
+<!-- File: map82 -->
+<!-- File: map83 -->
+<!-- File: map84 -->
+<!-- File: map85 -->
+<!-- File: map86 -->
+<!-- File: map87 -->
+<!-- File: map88 -->
+<!-- File: map89 -->
+<!-- File: map90 -->
+<!-- File: map91 -->
+<!-- File: map92 -->
+<!-- File: map93 -->
+<!-- File: map94 -->
+<!-- File: map95 -->
+<!-- File: map96 -->
+<!-- File: map97 -->
+<!-- File: map98 -->
+<!-- File: map99 -->
+<!-- File: map100 -->
+<!-- File: map101 -->
+<!-- File: map102 -->
+<!-- File: map103 -->
+<!-- File: map104 -->
+<!-- File: map105 -->
+<!-- File: map106 -->
+<!-- File: map107 -->
+<!-- File: map108 -->
+<!-- File: map109 -->
+<!-- File: map110 -->
+<!-- File: map111 -->
+<!-- File: map112 -->
+<!-- File: map113 -->
+<!-- File: map114 -->
+<!-- File: map115 -->
+<!-- File: map116 -->
+<!-- File: map117 -->
+<!-- File: map118 -->
+<!-- File: map119 -->
+<!-- File: map120 -->
+<!-- File: map121 -->
+<!-- File: map122 -->
+<!-- File: map123 -->
+<!-- File: map124 -->
+<!-- File: map125 -->
+<!-- File: map126 -->
+<!-- File: map127 -->
+<!-- File: map128 -->
+<!-- File: map129 -->
+<!-- File: map130 -->
+<!-- File: map131 -->
+<!-- File: map132 -->
+<!-- File: map133 -->
+<!-- File: map134 -->
+<!-- File: map135 -->
+<!-- File: map136 -->
+<!-- File: map137 -->
+<!-- File: map138 -->
+<!-- File: map139 -->
+<!-- File: map140 -->
+<!-- File: map141 -->
+<!-- File: map142 -->
+<!-- File: map143 -->
+<!-- File: map144 -->
+<!-- File: map145 -->
+<!-- File: map146 -->
+<!-- File: map147 -->
+<!-- File: map148 -->
+<!-- File: map149 -->
+<!-- File: map150 -->
+<!-- File: map151 -->
+<!-- File: map152 -->
+<!-- File: map153 -->
+<!-- File: map154 -->
+<!-- File: map155 -->
+<!-- File: map156 -->
+<!-- File: map157 -->
+<!-- File: map158 -->
+<!-- File: map159 -->
+<!-- File: map160 -->
+<!-- File: map161 -->
+<!-- File: map162 -->
+<!-- File: map163 -->
+<!-- File: map164 -->
+<!-- File: map165 -->
+<!-- File: map166 -->
+<!-- File: map167 -->
+<!-- File: map168 -->
+<!-- File: map169 -->
+<!-- File: map170 -->
+<!-- File: map171 -->
+<!-- File: map172 -->
+<!-- File: map173 -->
+<!-- File: map174 -->
+<!-- File: map175 -->
+<!-- File: map176 -->
+<!-- File: map177 -->
+<!-- File: map178 -->
+<!-- File: map179 -->
+<!-- File: map180 -->
+<!-- File: map181 -->
+<!-- File: map182 -->
+<!-- File: map183 -->
+<!-- File: map184 -->
+<!-- File: map185 -->
+<!-- File: map186 -->
+<!-- File: map187 -->
+<!-- File: map188 -->
+<!-- File: map189 -->
+<!-- File: map190 -->
+<!-- File: map191 -->
+<!-- File: map192 -->
+<!-- File: map193 -->
+<!-- File: map194 -->
+<!-- File: map195 -->
+<!-- File: map196 -->
+<!-- File: map197 -->
+<!-- File: map198 -->
+<!-- File: map199 -->
+<!-- File: map200 -->
+<!-- File: map201 -->
+<!-- File: map202 -->
+<!-- File: map203 -->
+<!-- File: map204 -->
+<!-- File: map205 -->
+<!-- File: map206 -->
+<!-- File: map207 -->
+<!-- File: map208 -->
+<!-- File: map209 -->
+<!-- File: map210 -->
+<!-- File: map211 -->
+<!-- File: map212 -->
+<!-- File: map213 -->
+<!-- File: map214 -->
+<!-- File: map215 -->
+<!-- File: map216 -->
+<!-- File: map217 -->
+<!-- File: map218 -->
+<!-- File: map219 -->
+<!-- File: map220 -->
+<!-- File: map221 -->
+<!-- File: map222 -->
+<!-- File: map223 -->
+<!-- File: map224 -->
+<!-- File: map225 -->
+<!-- File: map226 -->
+<!-- File: map227 -->
+<!-- File: map228 -->
+<!-- File: map229 -->
+<!-- File: map230 -->
+<!-- File: map231 -->
+<!-- File: map232 -->
+<!-- File: map233 -->
+<!-- File: map234 -->
+<!-- File: map235 -->
+<!-- File: map236 -->
+<!-- File: map237 -->
+<!-- File: map238 -->
+<!-- File: map239 -->
+<!-- File: map240 -->
+<!-- File: map241 -->
+<!-- File: map242 -->
+<!-- File: map243 -->
+<!-- File: map244 -->
+<!-- File: map245 -->
+<!-- File: map246 -->
+<!-- File: map247 -->
+<!-- File: map248 -->
+<!-- File: map249 -->
+<!-- File: map250 -->
+<!-- File: map251 -->
+<!-- File: map252 -->
+<!-- File: map253 -->
+<!-- File: map254 -->
+<!-- File: map255 -->
+<!-- File: map256 -->
+<!-- File: map257 -->
+<!-- File: map258 -->
+<!-- File: map259 -->
+<!-- File: map260 -->
+<!-- File: map261 -->
+<!-- File: map262 -->
+<!-- File: map263 -->
+<!-- File: map264 -->
+<!-- File: map265 -->
+<!-- File: map266 -->
+<!-- File: map267 -->
+<!-- File: map268 -->
+<!-- File: map269 -->
+<!-- File: map270 -->
+<!-- File: map271 -->
+<!-- File: map272 -->
+<!-- File: map273 -->
+<!-- File: map274 -->
+<!-- File: map275 -->
+<!-- File: map276 -->
+<!-- File: map277 -->
+<!-- File: map278 -->
+<!-- File: map279 -->
+<!-- File: map280 -->
+<!-- File: map281 -->
+<!-- File: map282 -->
+<!-- File: map283 -->
+<!-- File: map284 -->
+<!-- File: map285 -->
+<!-- File: map286 -->
+<!-- File: map287 -->
+<!-- File: map288 -->
+<!-- File: map289 -->
+<!-- File: map290 -->
+<!-- File: map291 -->
+<!-- File: map292 -->
+<!-- File: map293 -->
+<!-- File: map294 -->
+<!-- File: map295 -->
+<!-- File: map296 -->
+<!-- File: map297 -->
+<!-- File: map298 -->
+<!-- File: map299 -->
+<!-- File: map300 -->
+<!-- File: map301 -->
+<!-- File: map302 -->
+<!-- File: map303 -->
+<!-- File: map304 -->
+<!-- File: map305 -->
+<!-- File: map306 -->
+<!-- File: map307 -->
+<!-- File: map308 -->
+<!-- File: map309 -->
+<!-- File: map310 -->
+<!-- File: map311 -->
+<!-- File: map312 -->
+<!-- File: map313 -->
+<!-- File: map314 -->
+<!-- File: map315 -->
+<!-- File: map316 -->
+<!-- File: map317 -->
+<!-- File: map318 -->
+<!-- File: map319 -->
+<!-- File: map320 -->
+<!-- File: map321 -->
+<!-- File: map322 -->
+<!-- File: map323 -->
+<!-- File: map324 -->
+<!-- File: map325 -->
+<!-- File: map326 -->
+<!-- File: map327 -->
+<!-- File: map328 -->
+<!-- File: map329 -->
+<!-- File: map330 -->
+<!-- File: map331 -->
+<!-- File: map332 -->
+<!-- File: map333 -->
+<!-- File: map334 -->
+<!-- File: map335 -->
+<!-- File: map336 -->
+<!-- File: map337 -->
+<!-- File: map338 -->
+<!-- File: map339 -->
+<!-- File: map340 -->
+<!-- File: map341 -->
+<!-- File: map342 -->
+<!-- File: map343 -->
+<!-- File: map344 -->
+<!-- File: map345 -->
+<!-- File: map346 -->
+<!-- File: map347 -->
+<!-- File: map348 -->
+<!-- File: map349 -->
+<!-- File: map350 -->
+<!-- File: map351 -->
+<!-- File: map352 -->
+<!-- File: map353 -->
+<!-- File: map354 -->
+<!-- File: map355 -->
+<!-- File: map356 -->
+<!-- File: map357 -->
+<!-- File: map358 -->
+<!-- File: map359 -->
+<!-- File: map360 -->
+<!-- File: map361 -->
+<!-- File: map362 -->
+<!-- File: map363 -->
+<!-- File: map364 -->
+<!-- File: map365 -->
+<!-- File: map366 -->
+<!-- File: map367 -->
+<!-- File: map368 -->
+<!-- File: map369 -->
+<!-- File: map370 -->
+<!-- File: map371 -->
+<!-- File: map372 -->
+<!-- File: map373 -->
+<!-- File: map374 -->
+<!-- File: map375 -->
+<!-- File: map376 -->
+<!-- File: map389 -->
+<!-- File: map390 -->
+<!-- File: map391 -->
+<!-- File: map392 -->
+<!-- File: map393 -->
+<!-- File: map394 -->
+<!-- File: map395 -->
+<!-- File: map396 -->
+<!-- File: map398 -->
+<!-- File: map399 -->
+<!-- File: map400 -->
+<!-- File: map401 -->
+<!-- File: map402 -->
+<!-- File: map403 -->
+<!-- File: map404 -->
+<!-- File: map405 -->
+<!-- File: map406 -->
+<!-- File: map407 -->
+<!-- File: map408 -->
+<!-- File: map409 -->
+<!-- File: map410 -->
+<!-- File: map411 -->
+<!-- File: map412 -->
+<!-- File: map413 -->
+<!-- File: map414 -->
+<!-- File: map415 -->
+<!-- File: map416 -->
+<!-- File: actors -->
+<state face: 1 Joel1 0>\#<state face: 76 Joel1 0>\#<state face: 41 Joel1 0>\#<state face: 6 Joel1 0>\#<state face: 93 Joel1 0>\#<state face: 2 Joel1 1>\#<state face: 40 Joel1 1>\#<state face: 27 Joel1 1>\#<state face: 80 Joel1 1>\#<state face: 29 Joel1 2>\#<state face: 32 Joel1 3>\#<state face: 26 Joel1 4>\#<state face: 12 Joel1 5>\#<state face: 36 Joel1 5>\#<state face: 38 Joel1 6>\#<state face: 8 Joel1 6>\#<state face: 30 Joel1 6>\#<state face: 47 Joel1 7>\#<state face: 34 Joel1 7>\#<state face: 39 Joel2 0>\#<state face: 7 Joel2 1>\#<state face: 21 Joel2 1>\#<state face: 31 Joel2 2>\#<state face: 28 Joel2 2>\#<state face: 60 Joel2 2>\#<state face: 58 Joel2 2>\#<state face: 66 Joel2 3>\#<state face: 25 Joel2 3>\#<state face: 56 Joel2 4>\#<state face: 73 Joel2 5>\#<state face: 63 Joel2 6>\#<state face: 86 Joel2 7>\#<state face: 75 Joel3 0>\#<state face: 79 Joel3 1>\#<state face: 78 Joel3 2>\#<state face: 83 Joel3 3>\#<state face: 62 Joel3 4>\#<state face: 42 Joel3 5>\#<state face: 43 Joel3 5>\#<state face: 59 Joel3 7>\#<state face: 15 Joel4 0>\#<state face: 14 Joel4 1>\#<state face: 20 Joel4 2>\#<state face: 91 Joel1 4>\#<state face: 52 Joel4 3>\#<state face: 97 Joel4 4>\#<state face: 108 Joel4 5>\#<state face: 110 Joel3 6>\#<state face: 128 Joel4 7>\#<state face: 140 Joel2 4>\#<win quotes>\#\elb I never miss!\#[new quote]\#\elb You twitched.\#[new quote]\#\elb This is what you do with freedom?\#[new quote]\#\elb I am a kind man, pow pow...\#</win quotes>\#<level quotes>\#\elb I'm the greatest marksman!\#[new quote]\#\elb Always on target.\#[new quote]\#\elb I feel like a new man.\#</level quotes>\#<drops quotes>\#\elb A little extra don't hurt.\#[new quote]\#\elb Thought I quit the salvage game.\#[new quote]\#\elb Won't say no to this.\#</drops quotes>
+<state face: 1 Salt1 0>\#<state face: 76 Salt1 0>\#<state face: 41 Salt1 0>\#<state face: 6 Salt1 0>\#<state face: 2 Salt1 1>\#<state face: 40 Salt1 1>\#<state face: 27 Salt1 1>\#<state face: 80 Salt1 1>\#<state face: 29 Salt1 2>\#<state face: 32 Salt1 3>\#<state face: 12 Salt1 4>\#<state face: 36 Salt1 4>\#<state face: 47 Salt1 6>\#<state face: 34 Salt1 6>\#<state face: 39 Salt1 7>\#<state face: 7 Salt2 0>\#<state face: 21 Salt2 0>\#<state face: 31 Salt2 1>\#<state face: 28 Salt2 1>\#<state face: 60 Salt2 1>\#<state face: 58 Salt2 1>\#<state face: 66 Salt2 2>\#<state face: 25 Salt2 2>\#<state face: 62 Salt3 0>\#<state face: 56 Salt3 1>\#<state face: 42 Salt3 2>\#<state face: 43 Salt3 2>\#<state face: 59 Salt3 3>\#<state face: 15 Salt3 4>\#<state face: 14 Salt3 5>\#<state face: 20 Salt3 6>\#<state face: 97 Salt3 7>\#<state face: 110 Salt1 5>\#<state face: 139 Salt3 1>\#<win quotes>\#\elb Crushed 'em, HA HA!\#[new quote]\#\elb Crystallized, HA HA!\#[new quote]\#\elb That's gonna sting, HA HA!\#</win quotes>\#<level quotes>\#\elb I am unsinkable, HA HA!\#[new quote]\#\elb My power grows, HA HA!\#[new quote]\#\elb This is more like it, HA HA!\#</level quotes>\#<drops quotes>\#\elb We'll be taking that, HA HA!\#[new quote]\#\elb Ours now, HA HA!\#[new quote]\#\elb Thoroughly pilfered, HA HA!\#</drops quotes>
+<!-- File: armors -->
+<!-- File: classes -->
+<state face: 1 Alex1 0>\#<state face: 76 Alex1 0>\#<state face: 41 Alex1 0>\#<state face: 6 Alex1 0>\#<state face: 2 Alex1 1>\#<state face: 40 Alex1 1>\#<state face: 27 Alex1 1>\#<state face: 80 Alex1 1>\#<state face: 29 Alex1 2>\#<state face: 32 Alex1 3>\#<state face: 26 Alex1 4>\#<state face: 12 Alex1 5>\#<state face: 36 Alex1 5>\#<state face: 38 Alex1 6>\#<state face: 8 Alex1 6>\#<state face: 30 Alex1 6>\#<state face: 47 Alex1 7>\#<state face: 34 Alex1 7>\#<state face: 39 Alex2 0>\#<state face: 7 Alex2 1>\#<state face: 21 Alex2 1>\#<state face: 31 Alex2 2>\#<state face: 28 Alex2 2>\#<state face: 60 Alex2 2>\#<state face: 58 Alex2 2>\#<state face: 66 Alex2 3>\#<state face: 25 Alex2 3>\#<state face: 56 Alex2 4>\#<state face: 73 Alex2 5>\#<state face: 77 Alex22 6>\#<state face: 72 Alex2 7>\#<state face: 92 Alex2 7>\#<state face: 75 Alex3 0>\#<state face: 85 Alex3 1>\#<state face: 78 Alex3 2>\#<state face: 83 Alex3 3>\#<state face: 62 Alex3 4>\#<state face: 42 Alex3 5>\#<state face: 43 Alex3 5>\#<state face: 65 Alex3 6>\#<state face: 59 Alex3 7>\#<state face: 15 Alex4 0>\#<state face: 14 Alex4 1>\#<state face: 20 Alex4 2>\#<state face: 100 Alex4 4>\#<state face: 91 Alex1 4>\#<state face: 52 Alex4 5>\#<state face: 33 Alex2 2>\#<state face: 97 Alex4 6>\#<state face: 108 Alex4 7>\#<state face: 110 Alex0 1>\#<state face: 141 Alex2 4>\#<state face: 137 Alex3 0>\#<win quotes>\#\elb Smooth as velvet.\#[new quote]\#\elb ...\#[new quote]\#\elb I did my best.\#</win quotes>\#<level quotes>\#\elb It's all coming back to me.\#[new quote]\#\elb I remember this.\#[new quote]\#\elb Feels good to get better.\#</level quotes>\#<drops quotes>\#\elb Take it and let's keep moving.\#[new quote]\#\elb Maybe there's something we can use?\#[new quote]\#\elb This should come in handy.\#</drops quotes>\#<command list>\#<command name: skill 767>\#skill list\#defend\#items\#</command list>
+<state face: 1 Alex1 0>\#<state face: 76 Alex1 0>\#<state face: 41 Alex1 0>\#<state face: 6 Alex1 0>\#<state face: 2 Alex1 1>\#<state face: 40 Alex1 1>\#<state face: 27 Alex1 1>\#<state face: 80 Alex1 1>\#<state face: 29 Alex1 2>\#<state face: 32 Alex1 3>\#<state face: 26 Alex1 4>\#<state face: 12 Alex1 5>\#<state face: 36 Alex1 5>\#<state face: 38 Alex1 6>\#<state face: 8 Alex1 6>\#<state face: 30 Alex1 6>\#<state face: 47 Alex1 7>\#<state face: 34 Alex1 7>\#<state face: 39 Alex2 0>\#<state face: 7 Alex2 1>\#<state face: 21 Alex2 1>\#<state face: 31 Alex2 2>\#<state face: 28 Alex2 2>\#<state face: 60 Alex2 2>\#<state face: 58 Alex2 2>\#<state face: 66 Alex2 3>\#<state face: 25 Alex2 3>\#<state face: 56 Alex2 4>\#<state face: 73 Alex2 5>\#<state face: 77 Alex2 6>\#<state face: 72 Alex2 7>\#<state face: 92 Alex2 7>\#<state face: 75 Alex3 0>\#<state face: 85 Alex3 1>\#<state face: 78 Alex3 2>\#<state face: 83 Alex3 3>\#<state face: 62 Alex3 4>\#<state face: 42 Alex3 5>\#<state face: 43 Alex3 5>\#<state face: 65 Alex3 6>\#<state face: 59 Alex3 7>\#<state face: 15 Alex4 0>\#<state face: 14 Alex4 1>\#<state face: 20 Alex4 2>\#<state face: 100 Alex4 4>\#<state face: 91 Alex1 4>\#<state face: 52 Alex4 5>\#<state face: 33 Alex2 2>\#<state face: 97 Alex4 6>\#<state face: 108 Alex4 7>\#<state face: 110 Alex0 1>\#<state face: 141 Alex2 4>\#<state face: 137 Alex3 0>\#<state face: 185 Alex2 4>\#<win quotes>\#\elb Smooth as velvet.\#[new quote]\#\elb ...\#[new quote]\#\elb I did my best.\#</win quotes>\#<level quotes>\#\elb It's all coming back to me.\#[new quote]\#\elb I remember this.\#[new quote]\#\elb Feels good to get better.\#</level quotes>\#<drops quotes>\#\elb Take it and let's keep moving.\#[new quote]\#\elb Maybe there's something we can use?\#[new quote]\#\elb This should come in handy.\#</drops quotes>\#<command list>\#<command name: skill 813>\#skill list\#defend\#items\#</command list>
+<command list>\#<command name: skill 886>\#skill list\#defend\#items\#</command list>
+<command list>\#<command name: skill 898>\#skill list\#defend\#items\#</command list>
+<command list>\#<command name: skill 833>\#skill list\#defend\#items\#</command list>
+<command list>\#<command name: skill 850>\#skill list\#defend\#</command list>
+<command list>\#skill list\#defend\#items\#</command list>
+<command list>\#<command name: skill 863>\#skill list\#defend\#items\#</command list>
+<state face: 1 InfAlex 0>\#<state face: 76 InfAlex 0>\#<state face: 41 InfAlex 0>\#<state face: 6 InfAlex 0>\#<state face: 32 InfAlex 1>\#<state face: 8 InfAlex 2>\#<state face: 30 InfAlex 2>\#<state face: 31 InfAlex 3>\#<state face: 60 InfAlex 3>\#<state face: 28 InfAlex 3>\#<state face: 58 InfAlex 3>\#<state face: 62 InfAlex 4>\#<state face: 20 InfAlex 5>\#<state face: 110 InfAlex 6>\#<win quotes>\#\elb Done.\#[new quote]\#\elb ...\#[new quote]\#\elb Another one.\#</win quotes>\#<level quotes>\#\elb ...\#</level quotes>\#<drops quotes>\#\elb Junk.\#[new quote]\#\elb ...\#</drops quotes>\#<command list>\#<command name: skill 931>\#skill list\#items\#</command list>
+<!-- File: commonevents -->
+<!-- File: enemies -->
+Moe's Special Blend
+Fire Prop
+Dried Herb
+Kein Felton Prop
+Prop 2
+Placeholder
+Iced Coffee
+Strangle Prop
+<!-- File: items -->
+test
+<!-- File: skills -->
+Plank Slash (Krishna)
+Fruit Throw (Darry)
+Windpipe Crusher
+Wild Strike!
+Francis Combo 2
+A uniquely avian technique
+Devastating Chomp
+Apologizes
+Lost in thought
+Twin Fireballs (NOIP Boss)
+Combo breaker!
+Don't hurt him...
+Rando Stab (Floyd)
+Red Lick (Hugo)
+Softener Hook (Petey)
+Revive animation.
+This thing's a little heavy...
+Talon Rush (Conrad)
+TV Beam (Red)
+Prizmik Combo 2
+Psycho Chop
+Paralyzing Bite
+Talon Rush
+(SSA) The ol' one-two-three.
+boxer stance but sideways
+Steady Aim (Joel Shadow)
+A swift arrow
+shanks
+Damages enemy
+Triple Bottle (Earheart)
+Slice (Chop)
+kicks the bucket.
+A fearsome slam!
+Kill Signal
+Hugo Taunt
+Migraine Maker
+Dirty Bottle Throw (Joel)
+Launch Tibby like a missile at one opponent.\#High chance to stun. Also stuns and damages Tibby.
+Dispense the contents of your stomach on their face.
+strikes with his stunner!
+Didn't your mother tell you not to play with knives?
+Shove (Geen Start)
+Realize you're in a fight.
+Lick
+Spray
+Cord Lash
+Shoots at you!
+Electric Claw
+Party mode activate
+Mikhail Boost (MDF)
+Shag (Enemy)
+Lash
+Bring down the wrath of the gods on their bitch asses.
+Firearchy
+Double Eye Beam
+Pick weapon up (Earheart)
+Stomp (Petey)
+Pissed Curse
+Windpipe Crusher (Jeremy)
+Double Bite (Torque)
+Pulverize their flesh.
+Give your team some much needed motivation.
+Kick
+Scorpion Pinch (Alt)
+Firebomb Prepare
+Chopper Slash (S. Floyd)
+Spit
+Charge (Weaker)
+Inspect
+Finger Beam 2 (Georgy 1)
+Danger Special
+Deadly Prepare (Pope)
+Joel Strangle
+Green Splash
+Nom nom nom.
+Smile
+Dwight Prepare
+Executioner Slam (Carlton)
+Bone Break
+Someone's got a leak.
+Glass Shard Recoil
+Goat Headbutt Ex.
+Talk mad trash.
+Wait (Friends)
+Slam into the enemy.
+Boomerang Toss
+Talon Rush (Krishna)
+Hugo Block
+See no future
+Steel Chair (Wily)
++50
+Horse Jerky (Enemy)
+Peck
+Rock Slam
+Leaves an Alex-shaped hole in the ground.
+Team Play
+Taste Blood (Homer)
+Bear Claw (NOIP)
+Slice (Apeshit 2)
+Swoop
+Joy (Slim)
+Club Strike
+Advancing Stance (Enemy)
+Double Bite (Creep)
+Eat (Wily)
+Sniffs
+Fire Beam (Laser Eye)
+Restores HP to one ally.
+Big Swing
+Anaconda Prepare
+Tackle (Georgy)
+Claw Attack (Creep)
+Pipe Joust (Clark)
+Pummel (Richie)
+Gather power for a devastating blast.
+Psycho Kick
+Back Rub
+Hits an enemy twice!
+poison shanks
+Guillotine Choke (Gin)
+Big slice
+Deadly Prepare (Hugo)
+Builds up for a devastating assault.
+Paint Streak
+Knife Hand (Borislav)
+Tenderize (You know who)
+Softener Hook (Hugo 2)
+Yell (Alt)
+Lash Legs(Cunningham)
+Dirty Bottle Throw (Clown)
+Yoke up
+Space case.
+Whales on you!
+Smile (Rag)
+Club Joust (Homer)
+Trowel Ravage (Enemy)
+Demon Eye
+Wilbur's Curse
+Channel Power (1 Sat)
+Solid Punch (Nofold)
+Beast Claw
+Making sure everything is in order.
+performs his Hollywood Hustle!
+Feed (Lester)
+Joyous Fist
+Friendly Fire Stomp
+Hydraulic Foot
+That's what you get for playing with broken glass.
+Blow some exhaust in your enemies\#face, it can be painful to the eyes.
+Scared
+A concentration of energy blasted from the eye.
+Perforate (Hugo 2)
+Salt in the Eyes
+Enemy cries
+Pick Whirl (Richie)
+Softener Hook
+cuts you open!
+Francis Combo 1
+Drop Kick (Raymund)
+Davy Prepare
+Firecracker
+Slice 'n' Dice (Slim2)
+The ultimate disrespect made\#even more disrespectful.
+Aikido Stance
+Tackle
+Hit yourself and go nuts!
+Preparation for devastation.
+Double Sweep (Hugo)
+Boxer's Rushdown (NOIP)
+No one likes being pointed at.
+Grab (Hugo)
+Full Thrust (Petey)
+Laugh
+Anaconda Assault
+End his life.
+Power Fist (Tenderizer)
+Blood Whirpool (Hugo)
+Choke To Death (Pete)
+triple bottle
+Tackle (Pete)
+Perfume (Grammar)
+Total Mutilation
+Deer Horn Ex.
+Glassing Attack (Darry)
+Realization
+You're in trouble now.
+Spread the wildfire.
+Everyone is fired!
+Car Noise
+Tiger Suplex (Gin)
+Snip snip!
+Winded Curse
+Enter NOiP
+The Punch (Borislav)
+Crack the whip on a poor fool.
+Feed
+Scorpion Sting
+Horrified
+Triple Bottle (Kobra)
+Catapult Christening (Pete)
+Ram (Salt Cart)
+Davy Meteor Shower
+Magic Stab (Prizmik)
+Buster Punches
+Eat (Fecal)
+An assault on the ears.
+Knife Hand (Slim)
+Breath of Life (2)
+BASH (Cunningham)
+Double Thumb Jab
+Infinite Hypnosis
+Vision of Violance
+Scorpion Sting 2
+Poison Bite (Borislav)
+Blood Spit
+Tiger Suplex
+Piledriver
+Takedown (Salt)
+Gainer (Petey)
+Solid Punch
+Swat Ex.
+Get them pumped up!
+Mongolian Chop
+Full Thrust (Enemy)
+Observe
+Rando Bomb
+Puts all enemies to sleep.
+Special Hide 2
+Spit Poison
+Hiss
+Gas Blast (Single Target)
+Bully (Gin)
+A strong attack against one enemy.
+A fearful belly to back slam!
+Reform
+Trash Throw
+Heal Chord
+Basto Slam Damage
+Joel's coming in like a cannonball!
+Knife Intimidate (Beezy)
+A demotivating song.
+Space case
+flesh heal (torque)
+Power Fist (NOIP)
+performs his Atlanta Slam!
+Trash (Swing)
+An extended kick.
+a lame looking slap type thing.
+Infinite Deathmaker (Borislav)
+Fire Spit
+Seriously?
+Heal Rusty
+One gash for every member!
+Car Slam start
+Double Finger Beam
+Someone's hungry.
+A simple yet decisive display of carnage.
+The final supreme technique.\#Fucks you up.
+Spark Spit (Weaker)
+Reason
+Ingest (Salt)
+Slice
+Tune Violin
+Head Twist
+(ADAS) An illegal move in boxing, but all is fair\#in the Franchise. Disarms Armed opponents.
+Bark
+Chopper Crush
+An extended gut kick.
+Eat 2(Arnold)
+Slice (No crit)
+Solid Punch (Arnold)
+Executioner Slam
+Slice 'n' Dice (Unspoken)
+threatens you with his blade!
+Itty bitty bites from itty bitty mouths.
+Debuff Chord
+A modern martial art.
+Tell these dipshits what to do!
+Spew (Salt)
+Infinite Deathmaker
+A lightning fast slash guaranteed to go first.
+Bludgeon (Donovan)
+Charge Up 2 (Borislav)
+Tastes like cherry soda.
+'s fate is sealed.
+Wriggle wriggle.
+A sucker punch maneuver to take back their weapon.
+Stomp a mudhole in your ass.
+Single Out (Joel)
+Roost
+Spit (Rag)
+Run away
+Nightmare Bile (Conrad)
+Their bodies are still, but their voices are ceaseless.
+Deep Stab (Hugo)
+Revenge.
+Calamity Claw
+Quad Fireball
+Pick Throw
+Breath of Life Heal
+A breath of fresh air to get them back in order.
+Choirboy's Screach
+Plead
+Party Pack (Enemy)
+smacks you with his cane!
+Catapult Christening (Birch)
+Get juiced before tearing them apart.
+Ironbody
+A vicious series of talon slashes.
+Perfume
+Pick Swing
+Double Finger Beam (Howard)
+A fearful chair slam!
+Unnerving Laugh (Slim)
+Slits your throat!
+Richie Grab
+Absorbs enemy's HP.
+uuuuuuh
+Crowd Slash
+Refuse to surrender. End their life.
+flesh heal 2(torque)
+Bleed Chord
+Carnage Whirl
+A one and a two!
+Purple Flair
+Meat Signal
+Aim For the Eyes
+An Australian classic.
+Bottle Throw (Joel)
+Stomp
+Open wide.
+Claws for everyone!
+Dirt Kick
+Catapult Christening
+'Round and 'round it goes...
+Taste Blood
+Breathe In
+Gas 'er up!
+Defend yourself
+This is the end.
+Reignite (Arnold)
+See no hope
+<one animation>.\#<Motion Action = 5>
+Will be hard to breathe after this one.
+Inf Heal
+Blade Retrieval (Beezy)
+Glare (Borislav)
+At this point, it's already over.
+A loving back massage...
+Graveyard Bomb
+Bully
+Solid Punch (Ruth)
+Watch out watch out WATCH OUT!
+Shock Strike (Borislav)
+Chop his head off.
+Heals.
+Jab Combo (NOIP)
+dead
+Richie's second signature.
+Goat Headbutt (Ruth)
+A big smile.
+Cart Eject (Salt)
+Reignite
+Finisher
+Meat Chant
+Double Sweep
+Makes you feel like you're cool,\#but you're really not.
+A huge swing to destroy the opposition.
+Tsunami Driver
+Star Stab (Hugo)
+Eat Maggots
+Heaven's Fist
+Heal Tok
+Pulverizer Fist
+(ADDS) Destructive cranial collision.\#May stun, but mediocre damage against good def.
+Wake-Up Call
+Chopper Slash
+150
+Ouch.
+Gun.
+Beak Stab
+The ultimate headache.\#No one has ever survived this technique.
+Chop (Krishna)
+Chriss's signature move. You won't get up after\#this one.
+Fills hearts with lust for murder.
+Club Swing (Homer)
+Davy Fireball 2
+Corps Crasher
+Joel Throw
+Sword Slash
+Reignite (Kobra)
+Triple Attack
+Grin
+Confused?
+Charge Up (Borislav)
+Backwards thrust.
+Cough up blood
+Power Fist (Borislav)
+One whiff of this, and it's game over...
+Deadly Combo (Hugo)
+Augustus sprays
+Glare
+Rando Bomb (Will)
+TV Flash
+Salt Shield
+Loose Sparks (Borislav)
+Single Out Ex.
+Shriek
+Joel Shield
+Silken Wrist (Thrust)
+Artery Pop (Hugo)
+splashes
+Club Strike (Clark)
+200
+Receive the scent
+Pick it back up!
+G. Petunia
+Hide
+Scorpion Grab (Alt)
+Wallaby Fireball
+Sleep Breath
+Dirty Bottle Throw
+The Punch
+Crackle slash!
+Does nothing.
+Punch
+Knuckle Breaker
+You know what happens next...
+An Australian classic
+Recovers user's HP.
+SP Drain
+Rage build!
+Limb Twist
+A stiff push
+Thunderstorm
+Anaconda's pulling out all the stops!
+Foresee their demise in your eyes...
+Leg Clamp
+Debuff Curse
+(SSDA) Hit them so hard their blood comes out.\#Deals a small amount of recoil damage.
+Fire Spit (Kirk)
+Mikhail Boost (MP)
+Jump Bite
+Cheers!
+Double Jump Kick
+Peer
+Purple Flair (Prizmik)
+Charge Up
+Shotty Jam
+A quick kick with a chance to make you fall.
+250
+X Slice (Scorpion)
+Slice 'n' Dice (Slim)
+Big slice (Scorpion)
+Boomerang Combo
+Iced Coffee (Enemy)
+Solid Guard
+Alex Escape
+Rest but for birds.
+Enemy pleads
+SPECIAL HIDE FOR USE IN CROWD FIGHT
+Finger Beam
+Oil Shower
+Pick that shit up!
+Blood Punch
+Denier Fist
+Side Kick (Goat Kick)
+Double Scratch
+Send him to Hell!
+Anaconda Assault 2
+Gearing Up for Chomp
+ENEMY ATTACKS!!!!
+Solid Punch (Hugo)
+Kick The Bucket
+Double Bite (Max)
+Demon Eye (Shurik)
+Fried Skin
+Slurrrrrrrp.
+Oops...
+Takedown (Clark)
+Flame Burst (Prizmik)
+Everyone's getting nicked by this.
+Finger Beam (Prizmik)
+A piercing blow with a thumb.
+Jaw Grinder (Creep)
+Boxer's Rushdown
+Demon Eye (Laser)
+Wilbur Feed
+Gun?
+A fearful X chop
+Divebomb
+Calamity Claw (Weaker)
+Floyd Prepare
+A violent toss of the opponent's helpless form.
+Gasoline Spit
+Meat toss.
+Jab Combo
+Thumb Stab
+Take a deep breath to relieve some tension.
+Stretch that bod, get limber!
+Elbow Hit (Nofold)
+Magic Geyser
+Better watch out.
+Smell the sweet scent of life.
+Crystal Spew
+A raining fist from above.
+Foul Ball Fail
+Sparkler Slash
+Eat
+Rearm
+Keep that moron safe!
+Parry Failed (Hugo)
+Buff Chord
+Confidence in the face of danger can be one\#of the most unnerving things.
+Petroleum Firebomb
+*Gremory* gets his flame on.
+Cane Smack
+A big hand clamp
+Pray (Rag)
+Unleash your foul odor unto the world.
+Yell
+Paralysis Curse
+Gainer
+Boxer's Stance (Birch)
+Back Off
+Noxious Breath
+KABOOM
+Feed Friend
+Shock 'em black!
+Power Clothsline (Homer)
+Softener Hook (Hugo 3)
+Let's do this!
+Double Joust (Cunningham)
+50
+You feel weird just watching this.
+Watch it all transpire.
+Receive the signal and become divine.
+Carnage Whirl (Cool)
+Knife Hand
+Encourage 2
+No one is anything more or less than meat.
+Mikhail Boost (AGI)
+In the face of hopelessness there is always...
+Gear Up
+Party Stance
+Buffalo Charge!
+Hair slick
+Cosmic Chop
+Frown
+Five-fingered demise.
+Solid Curse
+A double chop to the neck
+Pray 2(Rag)
+Eat (Joel)
+Bottle Throw (No crit)
+its a minecart
+Visceral Bathe
+bludgeons you!
+Watery Whap
+Psycho Chop (Laser
+Spanks Laugh
+Pick weapon up (No Anim)
+Shock Strike
+Aim
+Power Fist (Earheart)
+Speak the lanuage of flames.
+Slice 'n' Dice
+Reignite (Gremory)
+Get that throat!
+Drink 'em up.
+Trash (Slam)
+Eeeeeeewwwwwwwwwwww.
+Rage build! (Richie)
+Phone Swing
+Meditate
+Swat (Enemy)
+Aim Down
+Double Bite (Kobra)
+Pistol Ready (Joel)
+Hock a bloody loogie in their eyes to inflict\#blindness. They can't hit what they can't see.
+Jerky (Enemy)
+Patch Up (Jason)
+Left Slash (Hugo)
+Punish the enemy.
+Your face was in the way.
+Shank (Hugo)
+Heat Fever
+Psycho Kick (Laser)
+Load and Aim
+Scalpel Draw (Hugo)
+Anaconda's Inferno
+Rando Buster
+Locked on.
+shatters your posture!
+Poison Bite
+A blast from the corneas to your ass.
+Rage build! (Scorp)
+Hit yourself, let it hurt the more.
+What goes around comes around!
+Makes you hard to grasp!
+Stefan Throw
+Three slashes, hot and ready!
+Silken Wrist (Axe Kick)
+Power Fist (Petey)
+Launching Uppercut
+A blast of fire that burns everyone.
+Spit highly flammable liquid all over your\#opponent.
+Deals fire damage to all enemies.
+Water Splash (Enemy)
+Blood Heal
+Deals fire damage to one enemy.
+Get under cover, 'cause it's about to rain.
+Lash Arms(Cunningham)
+Bludgeon (Homer)
+Boxer's Stance
+Blood Punch Penalty
+Slice (Krishna)
+Violin Bow
+Drop Kick (Kein)
+Eye Beam
+Phone Slam
+Brandish
+Do you joy?
+Bellucci Buster
+Prizmik Combo 1
+Fire Beam
+Tire Swing
+Serjio chad
+An unhealing song.
+Hook Kick
+Heaven's Fist (Birch)
+Stomp (Pete)
+Prepare for true brutality.\#Grants use of Migraine Maker. Removes Solid.
+Give him your power.
+Softener Hook (Hugo)
+Arnold Regen
+Symphonic Bliss
+Triple Bottle
+car slam
+Familiar Song
+Picks a victim.
+This one cuts deep.
+Pistol FIRE
+Glass Breaker Backfire
+A big chomp
+Power Fist (Kein)
+TV Noise
+A healing song.
+Stomp (Carlton)
+Snap out of it, dumbass!
+Damages the enemy.
+Bottle Throw
+Rock Swing
+Smart Tackle
+The weight of a tank pressing down on you.
+salty day
+Brain Chop
+ENEMY ATTACKS
+Super Spray
+Hollywood Hustle
+Jaw Grinder
+Raymund Taste
+Davy Fireball
+Skill #2 will be used when you select\#the Guard command.
+Grab (pete)
+Joel Throw Off
+Eats jerks
+Heart Squeeze
+Basto Swing Damage
+Joel's gun would never do this.
+Inf Heal 2
+Painted Red (Slim)
+The ultimate disrespect.
+Psycho Laugh
+Super Charge
+The Punch (NOIP)
+Flail
+Mmmmm.
+Clip Dump
+Power Fist (Danger)
+No one is safe.
+a tackle
+Sniff
+Cinderblock
+Heal Curse
+Dual Attack
+A little too close for comfort.
+An attack that looks like a malfunction.
+Trash (Swing 2)
+(ASDD) Send them to the clouds. Launches the\#target into the air, but misses often.
+Quick Draw
+Watch me shank bruv!
+Wizard Poke
+Basto Slam
+Pick Swing (Richie)
+Friendly Fire Club Strike
+Pawnch.
+Rage build! (Kent)
+Conrad Claw
+Howling Gyser
+Mikhail Prepare
+Eyes Amongst Us
+Poison Dart (Daemon)
+Choke (Pete)
+Preach of liberation in violance!
+Lobotomy After (Hugo)
+70 Bleed
+Jab Combo (Birch)
+No style. Only pure violence.
+Helicopter Kick
+Aim for the eyes!
+A weak punch. Builds 10 TP.
+Noxious Fireball
+<one animation>.\#<Motion Action = 4>
+Brandish (Slim)
+Twin Fireballs
+Yell (Creep)
+Unnerving Laugh (Kein)
+Grab (Warning)
+Accept
+Aim (Jamie)
+Command
+Nom nom nom
+Show them how pissed you are.
+Do Nothing
+Two muthafuckin lasers!
+Taste
+Salt in the eyes
+Stabs at your heart.
+Grope the enemy
+Drilled
+No Hope
+Energy Beams
+A burst of bullets
+Pick Swings (Richie)
+Paddle
+Single Out (Rag)
+Gainer (Kein)
+Power Bomb
+Stuns all enemies.
+Core Fireball
+Weaken (Prizmik)
+Skin (Hugo)
+Jeremy Gun Slam
+Bring Down the Thunder
+Return to Earth
+Breath of Life (1)
+Total Mutilation 2
+Power Fist
+Refuel
+Ascending Claw (Headbutt)
+Mind game chain
+Steady Aim (Joel Cutscene)
+Ready to wreck your world.
+Harass a particular foe.\#Stresses them out and might make them blind.
+Pray
+Cross Chop
+Stall
+Perforate (Hugo)
+Prevents easy knockouts!
+Shoot
+Double Bite (Krishna)
+Right Slash (Hugo)
+Cool Pose
+Power Fist (Prizmik)
+The wolfs blast
+Decapitate (Krishna)
+Encourage
+Power Down
+Blow some exhuast in your enemies\#face, it can be painful to the eyes.
+Tenchi Nage
+Burn, baby, burn.
+Steel Chair
+Magnifying Glass Burn
+Uppercut
+Borislav Prepare
+Cart Eject (Joel)
+Self-Flagellation
+Ouch...
+Basto Swing
+Pick weapon up
+X Slice
+Launching Uppercut (Ruth)
+Vampire
+Blade Retrieval
+Defend yourself. Grants Solid temporarily, reducing\#all damage taken for one turn.
+slams
+Inf Heal 3
+Double Attack
+Defend Friend
+Joel Stroke
+Enemy action. Causes enemy to flee from battle.
+Petroleum Firebomb (Certain)
+Goat Kick (Enemy)
+Arnold Prepare
+Dirty Bottle Throw (Kind)
+Pick Throw 2
+Meat Hose
+Bite (Borislav)
+Chest Burst
+Helicopter Kick (Zill)
+<anti fail>.\#<Motion Action = 4>
+Exhaust
+Jamie Restock
+Double Eye Beam (Borislav)
+Protects user and reduces damage taken.\#Restores some SP.
+Only a real looney could cackle like this.
+Power Fist (Beezy)
+richie shield
+Practiced wrist fling.
+Guillotine Choke
+Two devastating smacks to the cheek.
+Eat (Arnold)
+Power Fist (Kirk)
+Mikhail Boost (ATK)
+Slice (Apeshit)
+Attacks two random enemies.
+Scorpion Pinch
+Take a deep, painful breath. Restores much HP,\#but makes you Winded.
+Hair whip
+B-Ball Bash
+Slice 'n' Dice (Lester)
+Mikhail Boost (DEF)
+Bear Claw (Homer)
+Deep Exhale
+Brust Fire
+120
+A fearful slam!
+Throws an enemy
+Slice and dice!
+Shotgun Load
+A crying shame...
+Send them to the clouds.
+KABOOM (Start)
+Poison Shank
+Adjust Glasses(Kein)
+Rag Maggot Bite
+Phone Swing (Start)
+A boring attack.
+Finger Beam (Georgy 1)
+Elephant Gun
+Struggle (Floyd)
+does not kill all conditions
+Power Fist (Howard)
+Tibby Toss
+Limber Curse
+Get those strings in order.
+Solid Punch (No crit)
+Power Clothesline
+Heals all who hear the sound.
+You feel bad just watching this.
+Super Finger Beam
+Feels like getting slapped by a fish.
+Drop Kick
+We're not done yet.
+Phone Slam (Start)
+Jab Combo (Carlton)
+A poke at your vitals.
+Reforms.
+Sweep
+Chopper Crush (S. Floyd)
+Cranium Crusher
+An empowering song.
+Rage build! 2
+Calamity Claw (Borislav)
+Neck Bite
+Carnage Whirl (Max)
+A concentration of energy blasted from the finger.
+Attacks three random enemies.
+Richie's signature.
+Anaconda gets his flame on.
+Liquor Swig
+Fire Spit (Borislav)
+Ends lives
+Twist those heels on their head.
+Kick (Georgy)
+Trash Talk
+Packing heat in the most literal way.
+Thunderstorm (Weaker
+Grab 2(Hugo)
+Davy Intimidate
+Heal
+Unnerving Laugh
+Intimidation
+Boxer's Stance (NOIP)
+Claw Attack
+A real sight for sore eyes.
+Power Clothesline (Max)
+Break a bottle for a nifty sharp weapon!
+Flame Burst
+Slice with a chance of burning!
+Damages the enemy, twice.
+Stretch those calves good. Recovers TP and relieves\#tension. If tension is removed, TP is fully restored.
+Grab
+Wait
+Floyd Prepare (S. Floyd)
+Bite
+Lobotomy (Hugo)
+Focused thrust.
+Full Charge 2
+Knockout Roulette
+Gas Blast
+Burn, baby, BURN!
+A totally kickass song.
+Pipe Joust
+Gasoline Spew
+HOT!!
+Choke Rush
+Double Eye Beam (Shurik)
+Bludgeon (Max)
+Rub meat into your friend.
+300
+Mikhail Boost (MAT)
+Pete Prepare
+Rupturing Stab (Pope)
+Deep Poison Bite
+Behold, the power of Hell.
+A double foot press to the chest!
+Pistol Ready
+Channel Power (3 Sat)
+Chop
+Grasp
+Neck Bite (Rag)
+Heal Shurik
+Hugo Stab Series
+Deadly Stab
+Hand Slash
+done.
+Ramble
+In the face of hopelessness there is always nothing.
+Rupturing Stab
+Launching Uppercut (NOIP)
+Political Bore
+A flaming fist to the face!
+Wilbur's Inferno
+You'll find this one quite shocking.
+This is your last chance. Show them you are still\#standing. Grants use of Denier Fist.
+Not your everyday tire swing.
+Fireball
+Club Joust
+A blow from down under.
+Steady Aim (Joel)
+Pump Up
+A series of wild strikes.
+Prepare
+Crowd Lash
+Party Stance (Rag)
+Poison Mist
+Leg Stretches Ex.
+Triple Arrow
+Maggot Spit
+What goes up...
+Moment of truth.
+Atlanta Slam
+Spark Spit
+Blood Whirpool (Hugo 2)
+Scratch
+Shove (Joel)
+When in doubt, punch it out.\#Has a chance to restore a small amount of SP.
+Gun Slam
+A glare
+A strong swing sure to knock your\#opponent out of the park... if it hits.
+X Chop
+Wake-Up Call (Salt)
+<anti fail>.\#<Motion Action = 5>
+Loose Sparks
+An evasive maneuver. Applies Dodged and gains\#50 TP. Can only be used while Solid.
+Rando Stab (Will)
+Blood for blood!
+A straight shot with the palm.
+Triple Fireball
+performs his Holiday Slam!
+Super Eye Beam
+GUN!
+Arrow
+Jeremy Gun Smack
+Stefan Prepare
+visual
+Brandish (Beezy)
+(SDDS) The unholy matrimony of a tornado and\#bloody fists. Applies Off-Balance to the user.
+Painted Red (Geen Shadow)
+Full Charge
+Gator Clamp
+(DASA) No one is safe. Can inflict\#Off-Balance and Fallen.
+Grope
+Grope (Raymund)
+Rupturing Stab (Combo)
+Slam those heels on their throat.
+Pistol Aim
+Bite (creep)
+brain chop
+Kick (No crit)
+Charge Claws
+Spear Slash
+Ram
+Double Joust
+Enemy realizes he's outnumbered.
+Scalpel Iris
+Wilbur Prepare
+smoke bomb
+Hand Slam (Benedictus)
+RealizationII
+Deep Stab (Daemon)
+Pick weapon up (Joel)
+Condition Killer (Zill)
+Stiff Arm
+Slice (Swing)
+Fire Everywhere (Wallaby)
+Blade Retrieval (Geen)
+Bear Claw (Nofold)
+Hydraulic Foot (Weaker)
+Club Strike (Homer)
+Prevents easy knockouts.\#Increased defense and TP gain.
+Squirm
+Wide Slash
+Electric Claw (Borislav)
+Fire Punch
+Patch Up (Jason Gear)
+Dreaming about it
+Protects user and reduces damage taken.
+Tackle (Rag)
+Solid Punch (Carlton)
+Choke To Death (Hugo)
+Heal Loyd
+Fire Beam (Clown)
+Feel The Hurt
+Super Brain Chop
+Maggot Bites
+Need a little juice...
+Rip them apart.
+Reignite (Kirk)
+Strike one, strike two! They're out!
+D. Jerky (Enemy)
+Pure of Flesh
+Arnold gets his flame on.
+Channel Power (2 Sat)
+Stare into the spiral... embrace the cycle.
+Shove
+Struggle
+To see better
+Car Slam
+TV Beam (Green)
+Stretch
+Chomp down on some tasty salt.
+Eye Gouge
+Special Hide
+Cut (Hugo)
+X Slice (Slim)
+Double Bite
+Jeremy Prepare
+Power Fist (Zill)
+Gear Up for Bone Snap
+Eerie Stare
+Think
+Heal Gin
+A precarious shank aimed for the vitals.
+Sweep (Geen Shadow)
+Pulverizer Fist (Weaker)
+Stops the opponent midair!
+Outta gas...
+Flame Sweep
+Shotty Blast
+Violin Strike (Ygor)
+Scythe Slash
+Club Strike (but epic)
+Solid Punch (Alex)
+Heal Laser
+Ingest 2
+Eat (Francis)
+Crystal Spear
+Lash (Cunningham)
+Decapitate
+The hair whips at you!
+Power Fist (Slim)
+Spray Water
+Flail (No crit)
+Block
+Screams of the Past
+Deer Horn
+T. Edge Penalty
+Cry
+Holiday Slam
+Psycho Stomp
+Tenderize
+Buff Curse
+kick dirt in the eyes of the enemy
+The Major Iris (Enemy)
+Break Bottle
+Blood cough
+Charge
+Force Gear
+<!-- File: states -->
+Hidden Prio 2
+Geen warfare scimitar
+resist rage
+francis gang buff
+Lead heel
+geen shiv
+Secondary Threshold
+davy resist
+shurik needs heal
+Joel Solo Buff lesser
+resist fluster
+bite
+S. Coat Shadow Buff
+helmet counter
+he cannot crit
+Hidden Hit Rate
+joel davy glasses
+tibs buff 2
+Comfy
+No rng
+resist fallen alex
+geen scorp stinger
+Geen Rainbow Painter
+Rearm Lock
+kirk dangerous
+salt devil gloves
+coffee chad
+State #1 will be automatically added when\#HP reaches 0.\#\#<popup hide add>\#<popup hide rem>\#<popup hide dur>
+Geen nerf
+Bellow Threshold 2
+knuckle
+Geen goth painter
+alive mud
+Slow asf
+Churchland fight
+liquor shit
+Cart Down
+beezy buff
+Hidden Deprio 2
+dies
+Geen Combat Knife
+Core Buff
+Hidden Prio
+Folds Buff
+Joel Fight with S. Coat
+Grabbed (Penalty)
+Bellow Threshold 3
+loyd needs heal
+KO'ed fake
+donovan aggro
+Bellow Threshold 4
+Tertiary Threshold
+laser needs heal
+Joel Fez
+Joel Solo Buff
+bleeded
+Bellow Threshold
+Friends Phase 1 Buff
+Alive
+atk buff
+Armed Nerf
+Arnold Stun
+Grabbed
+Speed Buff
+killjoy full party
+advancing stance
+petunia
+salt wretched glove
+Eaten
+kick the bucket
+tibs buff
+gin needs heal
+Elbow Penalty
+joel topper
+Adrenaline
+resist fallen
+Resist scared
+mud charm counter
+Armed buff hidden
+joel raincoat
+Hidden Prio 3
+tok needs heal
+Dropkick
+rusty needs heal
+Geen buff no rainbow
+Joel Slight nerf
+Friends Phase 3 DeBuff
+Hidden DePrio
+Churchland fight (Jersey)
+chad water
+Swelter
+<!-- File: troops -->
+<!-- File: weapons -->
+<!-- File: system -->
+Robes
+Animal
+Killer Moves
+Songs
+Headbutt 2
+Airborne
+Advisory
+Heavy Armor
+Dance
+Crystals
+Pierce
+Jerseys
+Electric
+Hat
+Fire
+Crushing
+Bloodletting
+Physical
+Rough
+Basic
+Unknown
+Dozing
+Pants
+Seduction
+Punjabi Poke
+Jewelry
+Rags
+Coat
+Horseplay
+Critters
+Stretch
+Bullet
+Holy
+Blades
+Draw
+Kat
+Bite
+Nude
+Desperation
+Neckwear
+Stretch 2
+Gentle
+Absorb
+Wraps
+Slice
+Loving
+Dark
+Slash
+Batting
+Headbutt
+Censer
+Ponchos
+Materials
+Peckings
+Neu Style
+<!-- File: scripts -->
+ォ
+て
+Courier
+ウ
+user32
+В
+ŷ
+せ
+決定
+Ы
+b
+Salt must have at least 2 characters.
+Ｈ
+Л
++%s
+サ
+ATTACK
+$KENT Kent Walk Bat
+\eC[7]
+ぃ
+f
+YEA-CoreEngine
+Skill3
+lcmScriptToggle
+$KENT Tibby Walk
+MessageBox
+ヒ
+Й
+バ
+ご
+DEFAULT
+grass
+-%s 
+Ё
+ｖ
+shopkeeper
+Ｐ
+Ō
+$KENT Kent Jump Ka
+down
+ｒ
+alex quiet
+ゎ
+も
+ｊ
+Ｓ
+い
+ラ
+Т
+ミ
+Ú
+ろ
+alex inf.
+F
+д
+alex inf. crawling
+PoisonSwamp
+Þ
+け
+ｃ
+ｅ
+ V
+ｐ
+ふ
+わ
+ß
+V [%04d-%04d]
+ъ
+D
+ A
+ADDSTATE
+YEA-CastAnimations
+EQUIP
+L
+keep skills
+text
+Ｙ
+め
+ツ
+ハ
+Š
+W
+む
+YEA-InputComboSkills
+ú
+YSE - Basic Module
+Â
+Q
+щ
+じ
+Ü
+Ē
+ぽ
+ノ
+Ｉ
+Э
+ぅ
+＜
+ž
+H
+す
+lcm outfit for situation is 
+Ñ
+く
+Water1
+Impact
+c
+ほ
+YEA-ClassSystem
+$Alex Inf. Drop
+Desert
+buff
+ぱ
+ゃ
+コ
+$Alex Inf. Drop 2
+シ
+а
+を
+ホ
+ん
+þ
+$Alex in rags head down
+alex endless
+\eI[%d]
+x
+Я
+ム
+ｍ
+dirt echo
+п
+ぶ
+ぴ
+ отравлено!
+abcdefghjkmnpqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ0123456789
+$BOB Bob Walk
+ド
+で
+ロ
+ヨ
+Common event calls exceeded the limit.
+Ｏ
+ÿ
+Ю
+　
+í
+w
+プ
+ W
+ō
+ｇ
+$Alex Inf.
+the kent bat
+CRITICAL
+に
+ｚ
+$BOB Bob Fall
+Help description used for custom variable 1.
+л
+ず
+テ
+Damage3
+и
+NOTEXT
+ покрыта грязью!
+Y
+alex and joel
+À
+ダ
+ュ
+ｉ
+YEA-AdjustLimits
+NEGATIVE
+ O
+Ĳ
+ä
+Skill2
+u
+б
+Player's starting position is not set.
+ J
+Ч
+ａ
+メ
+end phase
+DoubleX RMVXA Percentage Addon to YEA-EnemyHPBars
+Ｎ
+misslisa
+A
+up
+С
+ｆ
+グ
+Earth5
+Ｒ
+フ
+Ь
+う
+ヮ
+З
+ょ
+が
+м
+g
+Ý
+れ
+ア
+ケ
+tibby dobs
+Е
+ｌ
+Ｇ
+S [%04d-%04d]
+É
+ャ
+ M
+e
+Ｅ
+â
+ū
+×%s
+å
+Ç
+Щ
+Ｕ
+ G
+び
+ギ
+Г
+ピ
+ H
+の
+\e
+Ж
+ザ
+à
+Ð
+＋
+æ
+%s
+%1.2f%%
+Unique phrase must have at least 1 character.
+\eATSMOSE\[#{num}\]
+ち
+Ｘ
+ì
+Сол
+ま
+ゥ
+☆
+セ
+オ
+ビ
+Ï
+q
+ò
+Ê
+Ö
+へ
+ワ
+ь
+ベ
+ мокрое!
+\e}
+lcmEventMovementToggle
+DEFEND
+ｓ
+у
+l
+ヂ
+き
+ペ
+critical
+Help description used for custom switch 2.
+ L
+Ã
+t
+YEA-AntiFailMessage
+O
+Ｍ
+#{subject.name}а
+ī
+bob normal
+#{sym}=
+$Joel Miller5
+え
+с
+る
+ぺ
+А
+œ
+Ｂ
+ば
+タ
+Help description used for custom switch 1.
+ｕ
+ぐ
+ガ
+\eANIMATION\[#{$1.upcase == 
+o
+マ
+ф
+š
+た
+Ž
+イ
+М
+$BOB Bob Jump
+ゔ
+R
+Grassland
+r
+Lava
+Page
+は
+Ｆ
+モ
+YEA-VictoryAftermath
+ね
+ï
+か
+Conrad huh
+ユ
+英数
+ｎ
+Судьба #{name} предрешена.
+bottle echo
+ĳ
+ゲ
+ отравлены!
+ョ
+ñ
+ジ
+lcmSeparateDashingToggle
+ покрыты грязью!
+Œ
+つ
+vgasys
+ц
+Ò
+ヌ
+リ
+ N
+レ
+ отравлена!
+Custom Text
+ē
+お
+P
+ｏ
+ｙ
+MK-WindowOpacity
+Б
+ゼ
+ぇ
+alex inf. dying
+こ
+ズ
+$Alex in rags jumps
+$Alex in rags
+Ｌ
+U
+z
+ø
+SUBCLASS LIST
+$KENT Tibby Jump
+ покрыто грязью!
+Ô
+э
+squeak
+О
+n
+è
+YEA-AceMenuEngine
+Í
+Ù
+ C
+Ｊ
+i
+ш
+ô
+し
+ク
+パ
+＄
+VCR OSD Mono
+YEA-EnemyHPBars
+エ
+ý
+Ш
+＞
+ひ
+YEA-SystemOptions
+я
+ было вспорото!
+й
+Î
+ヲ
+YEA-JPManager
+Ŷ
+ B
+B
+ら
+デ
+ネ
+bottle
+ü
+ｗ
+Å
+\e{
+ソ
+キ
+ル
+ç
+づ
+っ
+resistant
+E
+Decision2
+YSE-PatchSystem
+SKILL LIST
+Forest1
+$KENT Kent Fall Bat
+カナ
+Clouds
+Ｗ
+ T
+ぎ
+h
+П
+$Alex and Joel jump
+Ф
+õ
+ eventID- 
+change to dash
+YEA-CombatLogDisplay
+DirtField
+C
+ё
+ Z
+さ
+ス
+PX
+Ъ
+rope echo
+ナ
+Custom Switch 2
+ｑ
+YEA-CommandParty
+keep skill
+the kent ka
+Lava1
+ィ
+ P
+ч
+é
+ā
+Ó
+ó
+ぜ
+\'s fate
+È
+z8x8273ac
+REMSTATE
+\eC[17]\eC[0] 
+V
+Fadeout Screen
+PLAYSOUND
+Snowfield
+Custom Variable 2
+т
+そ
+ぞ
+ヤ
+absorbed
+J
+Cancel2
+$KENT Kent Fall Ka
+YEA-TargetManager
+е
+:%s
+Ī
+K
+ヅ
+ R
+Ｃ
+Custom Variable 1
+ S
+べ
+$Joel Miller1
+S
+Ａ
+YEA-BattleCommandList
+YSE-BasicModule
+ê
+Balloon
+ｈ
+alex default
+｜
+$KENT Kent Walk Ka
+よ
+ была вспорота!
+Custom Switch 1
+#{dir}/#{filename}.#{ext}
+immune
+Cliff
+none
+ATSMOSE
+ Q
+Р
+о
+り
+Ｔ
+mapID- 
+Dirt
+weakness
+Ｖ
+や
+s class to class 10 while preserving the actor
+Ｋ
+р
+Ì
+ぢ
+Hammer
+Ŵ
+ были отравлены!
+ヘ
+lcmPlatformEventsToggle
+Rustle
+YEA-BattleEngine
+alex inf. quiet
+î
+Û
+ŵ
+$Alex Inf. Jump 2
+j
+ю
+げ
+cl
+T
+û
+Arial
+v
+Z
+в
+ж
+squish step
+г
+M
+ОК
+$KENT Tibby Fall
+かな
+X
+Ship
+Ÿ
+ぉ
+ X
+ぷ
+ｔ
+Á
+s
+Ë
+state
+wood echo
+な
+ U
+と
+ぁ
+＾
+$Alex Inf. 3
+カ
+$Alex in rags jump head down
+y
+Ц
+ボ
+Custom Name
+$Alex Inf. Jump
+slosh
+N
+ゅ
+ニ
+YEA-LunaticObjects
+YEA-MessageSystem
+チ
+н
+Bow
+ブ
+OK
+Ä
+ｄ
+Liam-LisaCoreMove
+DURSTATE
+ð
+Chime1
+ E
+Ｄ
+К
+Н
+Ā
+ｂ
+Help description used for custom variable 2.
+Ū
+ I
+Book1
+ы
+á
+Lava2
+Õ
+だ
+Shadow
+$KENT Kent Jump Bat
+Verdana
+ã
+Ｚ
+YEA-PartySystem
+ざ
+Æ
+ мокрые!
+Д
+ン
+Ø
+～
+ヴ
+lcmFollowerToggle
+YEA-BattleSystem-FTB
+YEA-CommandEquip
+ゆ
+\e>\eC[6]%s\eC[0]\e<\elb
+bleep
+k
+ù
++%s 
+Солевого
+Ｑ
+POSITIVE
+ITEMS
+$Alex Inf. 4
+G
+み
+ F
+a
+ポ
+ァ
+$Alex and Joel walk
+m
+ど
+YEA-CommandAutobattle
+squish echo
+change to walk
+#{key}=
+Chime2
+YEA-AreaofEffect
+ト
+ェ
+И
+ぼ
+ D
+Х
+ë
+$Alex in rags drop
+ｋ
+-%s
+к
+Wasteland
+ K
+ Y
+У
+p
+ ? 0 : 1},#{$2},#{$3}\]
+ゴ
+I
+あ
+ мокрая!
+ッ
+ö
+х
+з
+ぬ
+ゾ
+no zoom
+Knock
