@@ -605,7 +605,7 @@ Single Out<#>Пистолетик
 Harass a particular foe.\#Weirds them out and may make them worry.<#>Запугайте врага. Заставляет противника чувствовать себя странно\#и может взволновать его.
 is being intimidating!<#>запугивает!
 Passionate Threat<#>Убедительная угроза
-Declares for all to hear, that "you'll do it".\#May scare or worry all enemies.<#>Объявляет всем вслух о том, что "вы сделаете это".\#Может напугать или взволновать всех врагов.
+Declares for all to hear, that "you'll do it".\#May scare or worry all enemies.<#>Объявите всем вслух о том, что "вы сделаете это".\#Может напугать или взволновать всех врагов.
 sounds really dangerous!<#>звучит очень страшно!
 Steady Aim<#>Точное прицеливание
 Aligns the "cannon" with the vitals of your\#opponent. May scare them blind.<#>Выравнивает "пушку" с органами вашего оппонента.\#Может чертовски напугать.

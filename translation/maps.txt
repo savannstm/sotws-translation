@@ -1364,8 +1364,8 @@ It is dead.<#>Он мёртв.
 \et[03]Richie...\|\#Where have\#you gone.\..\..\.?<#>Ричи...\|\#тебе не стоило\#приходить\#сюда.
 \et[015]Gah,\. about\#damn time!<#>Ох,\. чёрт возьми\#вовремя!
 \et[015]Help me\#talk some\#sense into\#this bozo!<#>Помогите мне\#вбить здравомыслие\#в голову этого\#поехавшего!
-\et[03]Oh.\.\.\#It's you.<#>О.\.\.\#Это ты.
-\et[03]I don't get\#it. Why're you\#doing this?<#>Не понимаю.\#Почему ты это\#делаешь?
+\et[03]Oh.\.\.\#It's you.<#>О.\.\.\#Это вы.
+\et[03]I don't get\#it. Why're you\#doing this?<#>Не понимаю.\#Почему вы это\#делаете?
 *listen to others*<#>*послушать других*
 I'm done talking.<#>Я закончил говорить.
 \et[00]I'm done\#talking.<#>Я закончил\#говорить.
@@ -1381,7 +1381,7 @@ I'm done talking.<#>Я закончил говорить.
 \et[03]Darry...\.\.\#you too?<#>Дэрри...\.\.\#и ты тоже?
 \et[086]They gave me\#a gummy worm,\. Roland.<#>Они дали мне желейного\#червяка,\. Роланд.
 \et[086]I'd do\#anything to\#help them out.<#>Я сделаю всё,\#чтобы выручить\#их.
-\et[03]You just won't\#listen to reason...<#>Ты просто не\#понимаешь причину...
+\et[03]You just won't\#listen to reason...<#>Вы просто не\#понимаете причину...
 \et[000]You are done,\#we are going.<#>Прекращай.\#Мы уходим.
 \et[03]I won't let\#you play mind\#games with me.<#>Я не позволю тебе\#играть в свои игры\#разума со мной.
 \et[000]This is enough.\.\#Stop it.<#>Достаточно.\.\#Остановись.
@@ -3811,7 +3811,7 @@ You have exchanged the cassette tape\#for some toilet paper!<#>Вы обменя
 \et[048]Good choice.\. Quality\#TP like that is hard to\#come by these days.<#>Хороший выбор.\.\#Качественную ТБшку\#сейчас тяжело найти.
 \et[049]If this isn't\#played at my funeral,\.\#my ghost will\#be disappointed.<#>Если её не проиграют\#на моих похоронах,\.\#мой призрак будет\#недоволен.
 You have exchanged the cassette tape\#for an archaic scroll!<#>Вы обменяли кассету на\#архаичный свиток!
-\et[048]Nice.\| Maybe you'll\#find someone who\#can read that one day.<#>Круто.\| Можешь, ты\#найдёшь кого-нибудь,\#кто сможет его прочитать.
+\et[048]Nice.\| Maybe you'll\#find someone who\#can read that one day.<#>Круто.\| Может, ты\#найдёшь кого-нибудь,\#кто сможет его прочитать.
 \et[049]If this isn't\#played at my funeral,\.\#my ghost will be disappointed.<#>Если её не проиграют\#на моих похоронах,\.\#мой призрак будет\#недоволен.
 \et[000]Let me\#think about it.<#>Дай мне\#подумать.
 \et[000]What do you\#make of this bust?<#>Что думаешь об этом\#бюсте?
