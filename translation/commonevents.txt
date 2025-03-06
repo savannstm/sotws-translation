@@ -130,9 +130,9 @@ It feels fortified.<#>Он чувствует себя, как за каменн
 <!-- Event Name: Speed Changer --><#>
 Change your walking speed?<#>Изменить скорость ходьбы?
 Select a preference:<#>Выберите желаемую:
-We need to get to a safer place.<#>Нам нужно добраться до более безопасного места.
-Contact law enforcement upon first symptoms.<#>При проявлении симптомов, свяжитесь с представителями власти.
-Joel is reading the toilet paper...<#>Джоэл читает туалетную бумагу...
+<!-- Event Name: Ingest --><#>
+<!-- Event Name: Blade Retrieval --><#>
+<!-- Event Name: Item Counters --><#>
 <!-- Event Name: Trick Kick --><#>
 <!-- Event Name: TRAUMA --><#>
 <!-- Event Name: Party Joyed --><#>
@@ -152,7 +152,7 @@ Joel is reading the toilet paper...<#>Джоэл читает туалетную
 <!-- Event Name: Stan Brain Damage --><#>
 <!-- Event Name: Stan Heart Attack --><#>
 <!-- Event Name: Trauma Kit --><#>
-The text has revealed a new technique!<#>Текст раскрыл ему новую технику!
+We need to get to a safer place.<#>Нам нужно добраться до более безопасного места.
 <!-- Event Name: Revive Trauma --><#>
 <!-- Event Name: Alex Rupture --><#>
 <!-- Event Name: Joel Rupture --><#>
@@ -160,7 +160,7 @@ The text has revealed a new technique!<#>Текст раскрыл ему нов
 <!-- Event Name: Tom Rupture --><#>
 <!-- Event Name: Stan Rupture --><#>
 <!-- Event Name: Manual2 --><#>
-Joel learned the Cowboy Stance!<#>Джоэл изучил Ковбойскую стойку!
+Contact law enforcement upon first symptoms.<#>При проявлении симптомов, свяжитесь с представителями власти.
 <!-- Event Name: Presence --><#>
 <!-- Event Name: Darry Party --><#>
 <!-- Event Name: Crow Save (Sub-Stories) --><#>
@@ -168,25 +168,29 @@ Joel learned the Cowboy Stance!<#>Джоэл изучил Ковбойскую �
 <!-- Event Name: Roland Processing --><#>
 <!-- Event Name: Remove Electrified --><#>
 <!-- Event Name: Joel Learns Cowboy Stance --><#>
+Joel is reading the toilet paper...<#>Джоэл читает туалетную бумагу...
+The text has revealed a new technique!<#>Текст раскрыл ему новую технику!
+Joel learned the Cowboy Stance!<#>Джоэл изучил Ковбойскую стойку!
+<!-- Event Name: Alex Learns Steadfast Stance --><#>
 Alex is reading the scroll...<#>Алекс читает свиток...
 Alex learned the Steadfast Stance!<#>Алекс изучил Твёрдую стойку!
-"In case I forget."<#>"На случай, если забуду."
-<!-- Event Name: Alex Learns Steadfast Stance --><#>
-You examine the inflatable head next to the\#decapitated mannequin torso.<#>Вы изучаете надувную голову рядом с обезглавленным\#торсом манекена.
-The green slime from the torso's neck hole\#is awfully sticky...<#>Зелёная слизь в месте крепления головы\#до ужаса липкая...
 <!-- Event Name: Georgy Learns Shine Bright --><#>
 <!-- Event Name: Remove Geared Up + Withdrawal --><#>
 <!-- Event Name: Propaganda Poster --><#>
-Attach the head to the torso?<#>Прикрепить голову к торсу?
+"In case I forget."<#>"На случай, если забуду."
 <!-- Event Name: Inflatable Head + Mannequin Torso --><#>
+You examine the inflatable head next to the\#decapitated mannequin torso.<#>Вы изучаете надувную голову рядом с обезглавленным\#торсом манекена.
+The green slime from the torso's neck hole\#is awfully sticky...<#>Зелёная слизь в месте крепления головы\#до ужаса липкая...
+Attach the head to the torso?<#>Прикрепить голову к торсу?
 The head fits perfectly.<#>Голова встала идеально.
 Got a jerryrigged doll!<#>Получена самодельная кукла!
-"Book of Tactics:\#A Guide to Strategy on the Battlefield"<#>"Книга тактики:\#Руководство по стратегии на поле боя"
-The book is complete.<#>Книга восстановлена.
-Suddenly,\| Joel remembered something...<#>Внезапно,\| Джоэл что-то вспоминает...
 <!-- Event Name: Major Iris Penalty --><#>
 <!-- Event Name: Exotic Pipe Counter --><#>
 <!-- Event Name: Remove Geared --><#>
+<!-- Event Name: Salt Crab Fall --><#>
+"Book of Tactics:\#A Guide to Strategy on the Battlefield"<#>"Книга тактики:\#Руководство по стратегии на поле боя"
+The book is complete.<#>Книга восстановлена.
+Suddenly,\| Joel remembered something...<#>Внезапно,\| Джоэл что-то вспоминает...
 “Never give up,\#for that is just the place and time\#that the tide will turn.”<#>"Никогда не сдавайся,\#потому что именно в этот момент,\#всё обернётся против тебя."
 Joel learned Gun Whirl!<#>Джоэл изучил Ураганный пистолет!
 View which page?<#>Какую страницу посмотреть?
@@ -213,34 +217,30 @@ This page is missing.<#>Страница отсутствует.
 "As such, one of the most invaluable\#scenarios you can encounter in war\#is a situation where your enemy's\#concentration is directed somewhere else.<#>"Поэтому, одним из самых ценных исходов войны\#считается тот, в котором внимание врага\#перенаправлено на другие проблемы."
 "A convenient way to force this\#circumstance is to fool your enemy\#into thinking that you are not their only foe.<#>"Такого удобнее всего достичь, заставив\#врага поверить, что вы - не единственный\#его противник."
 "You may be surprised to learn just how\#far a small sleight of hand can carry you."<#>"Вы невероятно удивитесь, как небольшая ловкость рук\#может выручить вас."
+<!-- Event Name: Joel Gun Toss Change --><#>
+<!-- Event Name: Cooldown --><#>
 All of a sudden, Joel had an epiphany!<#>Совершенно внезапно, Джоэлу пришло озарение!
 Gun Toss has become Gun Spin!<#>Бросок пистолета стал Вращением пистолета!
+<!-- Event Name: Gum Counter --><#>
 You have no salt.<#>У вас нет соли.
-<!-- Event Name: Blade Retrieval --><#>
-<!-- Event Name: Joel Gun Toss Change --><#>
-Exchanged ten jerseys for some Horse Jerky!<#>10 маек были обменяны на лошадиное мясо!
-Exchanged ten jerseys for a Fancy Perfume!<#>10 маек были обменяны на изысканные духи!
-<!-- Event Name: Ingest --><#>
-Exchanged ten jerseys for a Creamy Cola!<#>10 маек были обменяны на кремовую колу!
-<!-- Event Name: Salt Crab Fall --><#>
 <!-- Event Name: Minor Iris Penalty --><#>
 <!-- Event Name: Dorimere Rewards --><#>
-Use the instant coffee tin\#with your bottle of water?<#>Вылить воду из бутылки в банку растворимого\#кофе?
-Made some cold coffee!<#>Получен холодный кофе!
-<!-- Event Name: Item Counters --><#>
-<!-- Event Name: Gum Counter --><#>
+<!-- Event Name: Gun Danger --><#>
+Exchanged ten jerseys for some Horse Jerky!<#>10 маек были обменяны на лошадиное мясо!
+Exchanged ten jerseys for a Fancy Perfume!<#>10 маек были обменяны на изысканные духи!
+Exchanged ten jerseys for a Creamy Cola!<#>10 маек были обменяны на кремовую колу!
 <!-- Event Name: Disarmament --><#>
 <!-- Event Name: Hot Sauce Counter --><#>
 <!-- Event Name: Instant Coffee --><#>
-You got three empty bottles.<#>Вы получили три пустые бутылки.
-You felt something warm inside your heart.<#>Вы чувствуете тепло в сердце.
-<!-- Event Name: Gun Danger --><#>
-<!-- Event Name: Cooldown --><#>
+<!-- Event Name: Life or Death --><#>
+<!-- Event Name: Gremory Reignition --><#>
+Use the instant coffee tin\#with your bottle of water?<#>Вылить воду из бутылки в банку растворимого\#кофе?
+Made some cold coffee!<#>Получен холодный кофе!
 <!-- Event Name: Wine Counter --><#>
 <!-- Event Name: Party Pack --><#>
-Stats increased!<#>Характеристики повышены!
+<!-- Event Name: Sprats --><#>
 <!-- Event Name: Jeremy Disarmament --><#>
-<!-- Event Name: Life or Death --><#>
+You got three empty bottles.<#>Вы получили три пустые бутылки.
 <!-- Event Name: Floyd Winded --><#>
 <!-- Event Name: Floyd Trauma --><#>
 <!-- Event Name: Jeremy Bellow --><#>
@@ -249,11 +249,11 @@ Stats increased!<#>Характеристики повышены!
 <!-- Event Name: Anaconda Reignition --><#>
 <!-- Event Name: Avatar Iris Penalty --><#>
 <!-- Event Name: Cat Postcard --><#>
+<!-- Event Name: Tactics: Deception --><#>
+<!-- Event Name: Glass Breaker Backfire --><#>
 The cat on the postcard is incredibly cute.<#>Кошка на открытке невероятно милая.
-Joel is reading the torn page.<#>Джоэл читает вырванную страницу.
-Joel learned Scheme!<#>Джоэл изучил Планирование!
-<!-- Event Name: Gremory Reignition --><#>
-<!-- Event Name: Sprats --><#>
+You felt something warm inside your heart.<#>Вы чувствуете тепло в сердце.
+Stats increased!<#>Характеристики повышены!
 <!-- Event Name: Basto Swing --><#>
 <!-- Event Name: Basto Slam --><#>
 <!-- Event Name: Wilbur's Curse --><#>
@@ -265,22 +265,27 @@ Joel learned Scheme!<#>Джоэл изучил Планирование!
 <!-- Event Name: Joel Burns --><#>
 <!-- Event Name: Geen Burns --><#>
 <!-- Event Name: Tactics: Scheming --><#>
-Page added to the Book of Tactics.<#>Страница добавлена в книгу тактики.
-Joel learned Play Dead!<#>Джоэл изучил Притвориться мёртвым!
-Joel learned Misdirection!<#>Джоэл изучил Дезориентацию!
-<!-- Event Name: Tactics: Deception --><#>
-Authorized by the Centers for Disease\#Control and Prevention (CDC).<#>Одобрено Центром по контролю и профилактике заболеваний\#(ЦКПЗ).
-<!-- Event Name: Tactics: Misdirection --><#>
-It was sweet as honey. +500 HP!<#>Вкус сладкий, словно мёд. +500 ОЗ!
-<!-- Event Name: Manual Scrap --><#>
-It was minty fresh. You feel Cool!<#>Вкус мятной свежести. Вы чувствуете себя круто!
-<!-- Event Name: Mikhail Enlightenment --><#>
 <!-- Event Name: Davy Firebombs --><#>
+<!-- Event Name: Spring Timer --><#>
+Joel is reading the torn page.<#>Джоэл читает вырванную страницу.
+Joel learned Scheme!<#>Джоэл изучил Планирование!
+Page added to the Book of Tactics.<#>Страница добавлена в книгу тактики.
+<!-- Event Name: Tactics: Misdirection --><#>
+Joel learned Play Dead!<#>Джоэл изучил Притвориться мёртвым!
+<!-- Event Name: Manual Scrap --><#>
+Joel learned Misdirection!<#>Джоэл изучил Дезориентацию!
+<!-- Event Name: Mikhail Enlightenment --><#>
+Authorized by the Centers for Disease\#Control and Prevention (CDC).<#>Одобрено Центром по контролю и профилактике заболеваний\#(ЦКПЗ).
 <!-- Event Name: Bench Timer --><#>
 <!-- Event Name: Ticket's Shame --><#>
 <!-- Event Name: Shaman Trauma --><#>
 <!-- Event Name: Borislav Power Up --><#>
 <!-- Event Name: Cosmonaut Food Tubes --><#>
+<!-- Event Name: Disarm Kent --><#>
+<!-- Event Name: Kent SP --><#>
+<!-- Event Name: Pete Bat Steal --><#>
+It was sweet as honey. +500 HP!<#>Вкус сладкий, словно мёд. +500 ОЗ!
+It was minty fresh. You feel Cool!<#>Вкус мятной свежести. Вы чувствуете себя круто!
 It was thick and savory. ATK. up!<#>Вкус вязкий и пикантный. Атака возрастает!
 It was rich and creamy. Gained 200 exp.!<#>Вкус богатый и мягкий. Получено 200 опыта!
 It was tangy, with a hint of citrus. AGI. up!<#>Вкус терпкий, с ноткой цитруса. Ловкость возрастает!
@@ -289,39 +294,34 @@ It was rotten... You are nauseated.<#>Тухлятина... Вас тошнит.
 It was aggressively sour... You are paralyzed.<#>Чересчур кисло... Вы парализованы.
 It was extremely salty... You feel nasty.<#>Чересчур солёно... Вы чувствуете себя мерзко.
 It was vile... You can't even move.<#>Отвратительно... Вы не можете даже двинуться.
+<!-- Event Name: the guillotine 2 --><#>
+<!-- Event Name: the guillotine --><#>
+<!-- Event Name: Remove Pretending --><#>
 {Pete Constantine}Hmph.\| Not bad.<#>{Пит Константин}Хм.\| Неплохо.
 {Pete Constantine}I'll be taking that.<#>{Пит Константин}Я это возьму.
-<!-- Event Name: Disarm Kent --><#>
-<!-- Event Name: Kent SP --><#>
-<!-- Event Name: Pete Bat Steal --><#>
-Alex is inspecting the letter...<#>Алекс изучает письмо...
-It's written in a foreign language.<#>Оно написано на неизвестном языке.
-<!-- Event Name: Remove Pretending --><#>
-<!-- Event Name: Spring Timer --><#>
-<!-- Event Name: Glass Breaker Backfire --><#>
 <!-- Event Name: Family Photos --><#>
-You somehow understand it.<#>Вы каким-то образом понимаете его.
+<!-- Event Name: Carnage Whirl Dizzy --><#>
 <!-- Event Name: Glass Shard Recoil --><#>
 <!-- Event Name: Gun Danger 2 --><#>
-<!-- Event Name: KRISHNA heal --><#>
+You never see smiles like these anymore.<#>Таких улыбок больше не увидишь.
 <!-- Event Name: Edge Penalty --><#>
 <!-- Event Name: Composite Letter Opened --><#>
-It reads:<#>Оно гласит:
-"Bobby the sex from the complex."<#>"Бобби секс населяет комплекс."
-You feel inspired.<#>Вы чувствуете вдохновение.
-This one has enough for everyone.<#>Здесь хватит всем.
-It was extremely fulfilling.\| Stats up!<#>Было безумно аппетитно.\| Характеристики повышены!
-Next Chapter<#>Следующая глава
 <!-- Event Name: torque heal 2 --><#>
 <!-- Event Name: torque heal --><#>
 <!-- Event Name: Blade Retrieval (Beezy) --><#>
+Alex is inspecting the letter...<#>Алекс изучает письмо...
+It's written in a foreign language.<#>Оно написано на неизвестном языке.
+You somehow understand it.<#>Вы каким-то образом понимаете его.
+It reads:<#>Оно гласит:
+"Bobby the sex from the complex."<#>"Бобби секс населяет комплекс."
+You feel inspired.<#>Вы чувствуете вдохновение.
 <!-- Event Name: Blade Retrieval (Geen) --><#>
 <!-- Event Name: FOR REFERENCE --><#>
 <!-- Event Name: Cocola Counter --><#>
 <!-- Event Name: pete strangles start --><#>
 <!-- Event Name: test --><#>
-Perseverance<#>Упорство
-Go Back<#>Назад
+<!-- Event Name: Tactics: Perseverance --><#>
+<!-- Event Name: Gum Counter 2 --><#>
 <!-- Event Name: slim stfu --><#>
 <!-- Event Name: Borislav Power Down --><#>
 <!-- Event Name: decay descend --><#>
@@ -341,29 +341,29 @@ Go Back<#>Назад
 <!-- Event Name: Petunia Penalty --><#>
 <!-- Event Name: prizmik combo --><#>
 <!-- Event Name: Cosmonaut Food (Borislav) --><#>
-"CHAPTER 5: PERSEVERANCE"<#>"ГЛАВА 5: УПОРСТВО"
-"There might be times when your\#opponent is not fazed by\#your gunplay."<#>"Может настать время, когда оппонент\#не будет смущён вашим стволом."
-<!-- Event Name: the guillotine 2 --><#>
-<!-- Event Name: the guillotine --><#>
+<!-- Event Name: KRISHNA heal --><#>
+{Joel Miller}Get away from him!<#>{Джоэл Миллер}Отойди от него!
+This one has enough for everyone.<#>Здесь хватит всем.
+It was extremely fulfilling.\| Stats up!<#>Было безумно аппетитно.\| Характеристики повышены!
 <!-- Event Name: Borislav Power Down 2 --><#>
 <!-- Event Name: pete strangles 2 --><#>
 <!-- Event Name: Borislav Power Up 2 --><#>
 <!-- Event Name: apeshit --><#>
 <!-- Event Name: Book of Tactics --><#>
+{Joel Miller}U-Ugh...\| Lucky!\|\#Block his stabs at the correct time!<#>{Джоэл Миллер}У-уф...\| Счастливчик!\|\#Блокируй его удары в подходящий момент!
+Next Chapter<#>Следующая глава
+Perseverance<#>Упорство
+Go Back<#>Назад
+"CHAPTER 5: PERSEVERANCE"<#>"ГЛАВА 5: УПОРСТВО"
+"There might be times when your\#opponent is not fazed by\#your gunplay."<#>"Может настать время, когда оппонент\#не будет смущён вашим стволом."
 "When such a scenario happens,\#the only thing you can do is to\#rely on your physical strength\#to offer resistance.<#>"В таком случае, единственное, что\#вам остаётся - полагаться на физическую силу\#для сопротивления."
 "Take a deep breath and focus\#your inner energy.<#>"Глубоко вдохните и сконцентрируйте внутреннюю\#энергию."
 "The strongest man is the one who does\#not need to rely on others."<#>"Сильнейший - тот, кто не полагается на других."
+<!-- Event Name: SCALPEL PARRY --><#>
 Joel learned Finger Gun!<#>Джоэл выучил Пальцелет!
-You never see smiles like these anymore.<#>Таких улыбок больше не увидишь.
-Alex is reading the note...<#>Алекс читает записку...
-"I don't know how else to say this,\#but thanks for playing my mod."<#>"Не знаю, как это сформулировать, но спасибо\#за игру в мой мод."
-"I know it's not much. I'm not very skilled at making games."<#>"Я знаю, что он небольшой. Я не очень опытен в создании игр."
-<!-- Event Name: Tactics: Perseverance --><#>
-"All I wanted to do was create a mod simply for the sake of it."<#>"Я лишь хотел создать мод просто для того, чтобы было."
-<!-- Event Name: Gum Counter 2 --><#>
 <!-- Event Name: Enter NOiP --><#>
-"Which honestly wasn't the smartest idea...\#Making something like this by yourself, even if it's small,\#is pretty tedious."<#>"Что, на самом деле, было не слишком умной идеей...\#Делать что-то такое в одиночку, даже маленькое -\#неимоверно утомительно."
-<!-- Event Name: Carnage Whirl Dizzy --><#>
+<!-- Event Name: Kick The Bucket --><#>
+{Arnold Shpitz}I'm no one in particular.<#>{Арнольд Шпиц}Я - никто особенный.
 <!-- Event Name: Blood Punch Recoil --><#>
 <!-- Event Name: Testing Protocol --><#>
 <!-- Event Name: phone slam --><#>
@@ -392,18 +392,18 @@ Alex is reading the note...<#>Алекс читает записку...
 <!-- Event Name: Fire Arnold Animation? --><#>
 <!-- Event Name: car slam --><#>
 <!-- Event Name: Heartfelt Letter --><#>
+<!-- Event Name: zill stun --><#>
+Alex is reading the note...<#>Алекс читает записку...
+"I don't know how else to say this,\#but thanks for playing my mod."<#>"Не знаю, как это сформулировать, но спасибо\#за игру в мой мод."
+"I know it's not much. I'm not very skilled at making games."<#>"Я знаю, что он небольшой. Я не очень опытен в создании игр."
+"All I wanted to do was create a mod simply for the sake of it."<#>"Я лишь хотел создать мод просто для того, чтобы было."
+"Which honestly wasn't the smartest idea...\#Making something like this by yourself, even if it's small,\#is pretty tedious."<#>"Что, на самом деле, было не слишком умной идеей...\#Делать что-то такое в одиночку, даже маленькое -\#неимоверно утомительно."
 "Nevertheless, if at least one person genuinely enjoyed this\#experience, then I'll know I have succeeded."<#>"Так или иначе, если хоть кому-то понравился опыт,\#мне удалось выполнить свою задачу."
 "Thanks again for trying it out\#and deciding to give it a chance."<#>"Спасибо, что попробовали.\#Это немного, но это честная работа."
 Now,\| go ahead.<#>Теперь,\| иди.
 Spread the carnage.<#>Устрой бойню.
 \et[000]Meaningless piece of paper.<#>Бессмысленная бумажка.
 You crumpled the paper in your hand.<#>Вы скомкали бумажку в руке.
-Activate Spoiler-Free Achievements?<#>Активировать достижения без спойлеров?
-Trashy Recollection<#>Мусорные воспоминания
-Dusty Memoir<#>Пыльный мемуар
-Violent Remembrance<#>Жестокая память
-Ataractic Dreams<#>Атарактические мечты
-<!-- Event Name: Kick The Bucket --><#>
 <!-- Event Name: Joy Achievement --><#>
 <!-- Event Name: FOOD STUFF------------ --><#>
 <!-- Event Name: berries --><#>
@@ -473,12 +473,12 @@ Ataractic Dreams<#>Атарактические мечты
 <!-- Event Name: fishy jerky --><#>
 <!-- Event Name: melon gum --><#>
 <!-- Event Name: Traveler's Logbook --><#>
+<!-- Event Name: Stance Elephant --><#>
+Activate Spoiler-Free Achievements?<#>Активировать достижения без спойлеров?
+Trashy Recollection<#>Мусорные воспоминания
+Dusty Memoir<#>Пыльный мемуар
+Violent Remembrance<#>Жестокая память
+Ataractic Dreams<#>Атарактические мечты
 Lavender Harvest<#>Сбор лаванды
 Meaningless Honors<#>Бессмысленные почести
-{Joel Miller}Get away from him!<#>{Джоэл Миллер}Отойди от него!
-{Joel Miller}U-Ugh...\| Lucky!\|\#Block his stabs at the correct time!<#>{Джоэл Миллер}У-уф...\| Счастливчик!\|\#Блокируй его удары в подходящий момент!
-{Arnold Shpitz}I'm no one in particular.<#>{Арнольд Шпиц}Я - никто особенный.
-<!-- Event Name: SCALPEL PARRY --><#>
-<!-- Event Name: Stance Elephant --><#>
-<!-- Event Name: zill stun --><#>
 <!-- Event Name: tendie stun --><#>

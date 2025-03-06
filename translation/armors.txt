@@ -66,20 +66,20 @@ Bad Boy Hair Gel<#>Гель для волос "Плохиш"
 Hair gel for troublemakers, now with 40%\#more grease. Makes you burn easily.<#>Гель для волос для плохишей, теперь с 40% жира в составе.\#Легко воспламеняется.
 Sapphire Coat<#>Сапфировое пальто
 A truly stylish coat. Allows wearer to move twice\#in one turn, but cuts HP and SP in half.<#>Воистину стильное пальто. Позволяет владельцу двигаться\#дважды за ход, но снижает ОЗ и ОН наполовину.
-The signature undershirt of the Bad Angels.\#Lowers defense and HP, but boosts attack.<#>Отличительная безрукавка Плохих ангелов.\#Понижает защиту и ОЗ, но повышает атаку.
 Bad Beater<#>Плохиш-боец
+The signature undershirt of the Bad Angels.\#Lowers defense and HP, but boosts attack.<#>Отличительная безрукавка Плохих ангелов.\#Понижает защиту и ОЗ, но повышает атаку.
 Businessy Fedora<#>Деловая федора
-A professional never leaves home without one.\#Reduces cost of skills by 15% and increases SP.<#>Профессионал никогда не выходит из дома без запасного.\#Понижает стоимость навыков на 15% и повышает ОН.
 You can practically feel the stock market pulsing\#within this hat. Increases maximum SP.<#>Вы практически чувствуете пульсацию биржевого рынка в\#этой шляпе. Повышает максимальное число ОН.
 Spare Tie<#>Запасной галстук
+A professional never leaves home without one.\#Reduces cost of skills by 15% and increases SP.<#>Профессионал никогда не выходит из дома без запасного.\#Понижает стоимость навыков на 15% и повышает ОН.
 Leather Pants<#>Кожаные штаны
 Tight pants that highlight your best features.\#Boosts all stats, but inflicts a permanent taunt.<#>Узкие брюки, подчёркивающие ваши лучшие черты.\#Повышают все характеристики, но накладывают постоянную провокацию.
-The abandoned coat of a medical practioner.\#Increases maximum health and provides slight regen.<#>Забытый халат медика-практиканта.\#Повышает максимальное здоровье и даёт небольшую регенерацию.
 Skin Wraps<#>Кожаные повязки
-A precious heirloom of the Gizmo family.\#Provides exceptional accuracy and increases SP.<#>Драгоценная реликвия семьи Гизмо.\#Обеспечивают исключительную точность и повышают ОН.
 Patch your wounds with another man's skin.\#Provides poison resistance, but makes you nasty.<#>Залатайте раны чужой кожей.\#Дают сопротивление к яду, но делают вас мерзким.
 Doctor's Coat<#>Халат доктора
+The abandoned coat of a medical practioner.\#Increases maximum health and provides slight regen.<#>Забытый халат медика-практиканта.\#Повышает максимальное здоровье и даёт небольшую регенерацию.
 Gizmo's Glasses<#>Очки Гизмо
+A precious heirloom of the Gizmo family.\#Provides exceptional accuracy and increases SP.<#>Драгоценная реликвия семьи Гизмо.\#Обеспечивают исключительную точность и повышают ОН.
 Neon Painter's Gear<#>Неоновые инструменты художника
 Neon green paint designed to irritate the eyes.\#Boosts max HP, but increases target rate.<#>Неоновая зелёная краска, созданная быть вырвиглазной.\#Повышает макс. ОЗ, но также и шанс быть атакованным.
 Rando Rags<#>Тряпьё Рандо
@@ -100,12 +100,12 @@ Infinity Jersey<#>Майка бесконечности
 It speaks to you. Warmly.\#SP increases minorly over time.<#>Она говорит с вами. С теплотой.\#Слегка восстанавливает ОН с течением времени.
 Blood of Sin<#>Кровь греха
 Sanguine drop from the Ninth Circle.\#Provides exceptional resistance to fire.<#>Багровая капля из девятого круга.\#Даёт исключительное сопротивление огню.
-Mask depicting a black demon. Increases offense\#and speed substantially, but cuts defense and HP.<#>Маска, изображающая чёрного демона. Существенно\#повышает атаку и скорость, но снижает защиту и ОЗ.
 Mask of the Angel<#>Маска ангела
 Mask depicting a white angel. Provides substantial\#HP and SP bonuses, but cuts offense and speed.<#>Маска, изображающая белого ангела. Существенно повышает\#ОЗ и ОН, но снижает атаку и скорость.
 Mask of the Man<#>Маска человека
 Mask depicting a gray human. Increases defense\#substantially, but cuts HP and SP.<#>Маска, изображающая серого человека. Существенно\#повышает защиту, но снижает ОЗ и ОН.
 Mask of the Demon<#>Маска демона
+Mask depicting a black demon. Increases offense\#and speed substantially, but cuts defense and HP.<#>Маска, изображающая чёрного демона. Существенно\#повышает атаку и скорость, но снижает защиту и ОЗ.
 Skull Necklace<#>Ожерелье с черепами
 Crow skulls strung in a line. Protects the wearer\#from severe trauma, but makes your bones brittle.<#>Вороньи черепа, нанизанные на нить. Защищают владельца\#от тяжёлых травм, но ослабляют кости.
 Medal of Honor<#>Медаль за отвагу
@@ -133,6 +133,12 @@ A well-kept incense burner. Its smoke supposedly\#has healing properties. May be
 Polyethylene Cravat<#>Полиэтиленовый шарф
 Plastic bags stylishly refurbished into neckwear.\#Increases speed.<#>Пластиковые пакеты, стильно переработанные в\#шарф. Повышает скорость.
 Rando Patch<#>Нашивка Рандо
+Patch of cloth from a Rando soldier uniform.\#Slight boost in experience gain. Stats down.<#>Нашивка с униформы солдата Рандо. Немного повышает\#получаемый опыт. Понижает характеристики.
+One Franchise, infinite kings.<#>Одна Франшиза - короли бесконечности.
+Rando Mask<#>Маска Рандо
+It stinks of sweat and regret. Increased resistance\#to physical damage, decreased agility.<#>Она воняет потом и сожалением. Повышает\#сопротивление физическому урону, понижает ловкость.
+Cruel Sack<#>Жестокий пакет
+The prized trashbag of Bob Versace. Applies Stink.\#You feel disgusting - defense down, agility down.<#>Ценный мусорный пакет Боба Версаче. Накладывает вонь.\#Вы чувствуете себя отвратительно - защита и ловкость снижаются.
 Stylish Coat<#>Стильное пальто
 A dark, fashionable coat that's sure to give its\#wearer a feeling of superiority.<#>Тёмное, модное пальто, которое наверняка даст\#владельцу чувство превосходства.
 Cellophane Bag<#>Целлофановый пакет
@@ -175,9 +181,3 @@ Obsessed Bag<#>Одержимый пакет
 It brings back memories. Resists weird, flustered,\#and nasty. Defense down, agility down, luck down.<#>Навевает воспоминания. Даёт сопротивление к странности,\#возбуждению и омерзению. Понижает защиту, ловкость, удачу.
 Lucky Coin<#>Счастливая монета
 Worthless piece of metal coated with "golden" paint.\#Clinging onto it may bring fortune... but likely not.<#>Бесполезный кусок металла, покрытый "золотой" краской.\#Его ношение может привлечь удачу... но вряд ли это случится.
-Patch of cloth from a Rando soldier uniform.\#Slight boost in experience gain. Stats down.<#>Нашивка с униформы солдата Рандо. Немного повышает\#получаемый опыт. Понижает характеристики.
-One Franchise, infinite kings.<#>Одна Франшиза - короли бесконечности.
-Rando Mask<#>Маска Рандо
-It stinks of sweat and regret. Increased resistance\#to physical damage, decreased agility.<#>Она воняет потом и сожалением. Повышает\#сопротивление физическому урону, понижает ловкость.
-Cruel Sack<#>Жестокий пакет
-The prized trashbag of Bob Versace. Applies Stink.\#You feel disgusting - defense down, agility down.<#>Ценный мусорный пакет Боба Версаче. Накладывает вонь.\#Вы чувствуете себя отвратительно - защита и ловкость снижаются.
