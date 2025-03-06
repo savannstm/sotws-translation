@@ -192,6 +192,7 @@ Don't make me flip out!<#>Не беси меня!
 {Anaconda Virtue}Are you kidding me?\#I'm not kidding me.<#>{Анаконда Добродетель}Ты шутишь надо мной?\#Я не шучу над собой.
 {Anaconda Virtue}Are you kidding you?<#>{Анаконда Добродетель}Ты шутишь над собой?
 <!-- Event Name: Twisty --><#>
+<!-- Event Name: Cardinal Sin --><#>
 {Wilbur Sin}Hell is real.<#>{Уилбур Грех}Ад реален.
 {Wilbur Sin}And Hell...\| is here.<#>{Уилбур Грех}И ад...\| здесь.
 {Wilbur Sin}...<#>{Уилбур Грех}...
@@ -459,7 +460,6 @@ I can play dirtier, you filth!<#>Я могу играть грязнее, ты, 
 {Hank Abner}I'm gonna knock the juice outta you bozos!\|\#And then drink it!<#>{Хэнк Эбнер}Я выбью из вас все соки, придурки!\|\#И потом выпью!
 {Hank Abner}Like a great tree,\. I fall...\| gracefully...<#>{Хэнк Эбнер}Как великое древо,\. я падаю...\| грациозно...
 <!-- Event Name: Mother Maggot --><#>
-<!-- Event Name: Cardinal Sin --><#>
 <!-- Event Name: Scorp --><#>
 <!-- Event Name: Cave Scorps --><#>
 <!-- Event Name: Merry Christmas --><#>

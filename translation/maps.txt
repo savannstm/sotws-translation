@@ -7997,7 +7997,6 @@ He is dead.<#>Он мёртв.
 \et[015]It's a shame\#that other rat\#I had went missing.<#>Жаль, что другая крыса,\#которая у меня была,\#пропала.
 \et[015]It would've\#been a great\#treat for my\#good girl!<#>Она была бы\#прекрасным\#лакомством\#для моей девочки!
 \et[015]Don't worry,\#Clove,\. Santana\#will get you\#some grubs soon!<#>Не волнуйся,\#Клов,\. Сантана\#скоро принесёт\#тебе еды!
-\et[0015]¡La carne\#de la vida!<#>
 \et[0015]Once you\#taste the flesh\#of man,\. you\#cannot resist!<#>Когда ты попробуешь\#вкус человека,\. не\#сможешь сопротивляться!
 \et[0015]The serpent\#devours all!<#>Змей пожирает\#всё!
 Thankfully, it seems docile.<#>К счастью, она выглядит мирной.
@@ -9941,12 +9940,12 @@ Crashed chopper.<#>Разбившийся вертолет.
 <!-- Order --><#>293
 <!-- Map --><#>304
 <!-- Map Name: Abandoned Gift Shop --><#>
+<!-- Order --><#>294
 "2"<#>2
+Buried gnome.<#>Закопанный гном.
 "4"<#>4
 "3"<#>3
 "1"<#>1
-<!-- Order --><#>294
-Buried gnome.<#>Закопанный гном.
 It's been locked.<#>Закрыто.
 Failed garden.<#>Испорченный сад.
 Skeleton.<#>Скелет.

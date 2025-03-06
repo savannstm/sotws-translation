@@ -213,6 +213,7 @@ stomps you out!<#>пинает вас!
 kicks!<#>пинается!
 does a Gator Clamp!<#>выполняет зажим аллигатора!
 chops!<#>рубит!
+Smoke Bomb<#>Дымовая бомба
 is shrouded in smoke!<#>окутан дымом!
 scratches!<#>царапает!
 blew forth exhaust!<#>выдувает выхлоп!
@@ -245,10 +246,10 @@ gives a stiff arm!<#>машет сильнее!
 unloads into you!<#>решетит вас!
 flashes a disingenuous smile...<#>неискренне улыбается...
 backhands you!<#>бьёт слева!
-gets a party started!<#>начинает вечеринку!
 Woo!<#>Уу!
-is lost...<#>потерян...
+gets a party started!<#>начинает вечеринку!
 Wooooooo!!!<#>Ууууууу!!!
+is lost...<#>потерян...
 is astounded by your stupidity.<#>ошеломлён вашей тупостью.
 is thinking...<#>думает...
 performs a Piledriver!<#>бросает на прогиб!
@@ -287,6 +288,7 @@ punched with an iron fist!<#>ударяет железным кулаком!
 burns you down.<#>сжигает вас.
 gathers energy...<#>набирает энергию...
 looks over his gun...<#>смотрит через прицел...
+Single Out<#>Пистолетик
 pierces your soul!<#>стреляет вам в душу!
 is lining up his shot...<#>готовит свой удар...
 loads his cannon...!<#>заряжает свою пушку...!
@@ -409,10 +411,6 @@ Can your joints handle it? Recovers 70 SP.\#Costs 150 HP, or 50 HP if already tw
 coils up!<#>скручивается!
 Disarming Chop<#>Обезоруживающий удар
 chops at the wrist!<#>ударяет по запястью!
-Vicious Combo<#>Кровавое комбо
-Burst Palm<#>Рывок ладонью
-Rising Punch<#>Удар вверх
-Gut Kick<#>Удар в живот
 Dive<#>Нырок
 A classic evasive maneuver. Can still use items.\#Prevents most forms of damage, but staggers.<#>Классический манёвр уклонения. Позволяет использовать предметы.\#Защищает от большинства видов урона, но вы теряете равновесие.
 got outta there!<#>убирается подальше!
@@ -434,7 +432,6 @@ claims victory!<#>заявляет о победе!
 Load It In<#>Зарядить
 Reassures the enemies that the gun is in fact\#loaded. Restores around 70 SP.<#>Убедите врагов в том, что оружие, на самом деле,\#заряжено. Восстанавливает примерно 70 ОН.
 is reestablished as a threat!<#>вновь представляет угрозу!
-Single Out<#>Пистолетик
 Harass a particular foe.\#Weirds them out and may make them worry.<#>Запугайте врага. Заставляет противника чувствовать себя странно\#и может взволновать его.
 is being intimidating!<#>запугивает!
 Passionate Threat<#>Убедительная угроза
@@ -553,7 +550,6 @@ falls with the force of a meteor!<#>падает с силой метеора!
 Throat Slit<#>Разрезание горла
 A devastating finisher. Does great damage against\#foes who are scared, stunned, or paralyzed.<#>Смертельное добивание. Наносит огромный урон\#напуганным, оглушённым и парализованным врагам.
 slices open a fool!<#>вскрывает придурку шею!
-Smoke Bomb<#>Дымовая бомба
 A handy way out of a sticky situation. Makes you\#hidden, but lowers your defense.<#>Надёжный выход из скользкой ситуации. Скрывает,\#но понижает защиту.
 escapes into the smoke!<#>отступает в дым!
 Painted Red<#>Красный всплеск
@@ -603,9 +599,13 @@ cuts himself up!<#>случайно режется!
 Threatening Edge<#>Угрожающий клинок
 Display your blade in a last-ditch attempt to\#frighten the enemy. Results may vary.<#>Покажите своё лезвие в качестве последней\#попытки запугать врага. Результат может быть разным.
 attempts to be threatening.<#>пытается угрожать.
+Vicious Combo<#>Кровавое комбо
 bland, straightforward brutality!<#>безвкусная, прямолинейная жестокость!
+Burst Palm<#>Рывок ладонью
 smacks with his palm!<#>бьёт ладонью!
+Rising Punch<#>Удар вверх
 uppercuts up!<#>делает апперкот!
+Gut Kick<#>Удар в живот
 performs a gut kick!<#>ударяет в живот!
 Flying Dropkick<#>Удар в полёте
 (WWD) Go flying with both of your feet forward.\#Has a chance to fell the enemy. Costs 50 HP.<#>(WWD) Летите, вытянув обе ноги вперед.\#Есть шанс сбить врага с ног. Стоит 50 ОЗ.
@@ -634,15 +634,15 @@ Death Glare<#>Смертельный взгляд
 The meanest stink eye imaginable.\#Inflicts tension, can scare spooked opponents.<#>Самый яростный и отвратительный взгляд, который только\#можно представить. Напрягает и может напугать оппонентов.
 Dissipation<#>Рассеивание
 Disappear into the mist. Puts Shurik into hiding.\#Has a chance to spook all enemies.<#>Рассейтесь в тумане. Укрывает Шурика.\#Имеет шанс напугать всех врагов.
+is too old.<#>слишком стар для этого.
 crushed your skull.<#>раздавливает ваш череп.
 sprays perfume!<#>распыляет духи!
 smells a sweet scent!<#>чувствует сладкий аромат!
+feels the bite of age.<#>ощущает вкус старости.
+overexerts himself.<#>перенапрягается.
+is tearing flesh.<#>разрывает плоть.
 is breaking his body.<#>ломает своё тело.
 Fluid Stance<#>Жидкостная стойка
 adopts a Fluid stance!<#>встаёт в жидкостную стойку!
 pulls a power play!<#>проводит силовую игру!
 performs a throw!<#>делает бросок!
-is too old.<#>слишком стар для этого.
-feels the bite of age.<#>ощущает вкус старости.
-overexerts himself.<#>перенапрягается.
-is tearing flesh.<#>разрывает плоть.
