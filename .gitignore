@@ -4,3 +4,6 @@
 /img/original
 /img/translation/**/*.png
 /original
+/node_modules
+/package.json
+/bun.lock
