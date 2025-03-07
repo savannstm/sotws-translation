@@ -351,7 +351,8 @@ came to his senses.<#>пришёл в чувство.
 falls down.<#>падает.
 is armed!<#>вооружён!
 has the party spirit!<#>- душа компании!
-was caught!<#>был пойман!
+Grabbed<#>Схвачен
+was caught!<#>был схвачен!
 is struggling to escape.<#>борется, чтобы освободиться.
 freed himself from its grasp!<#>освобождается из хватки!
 Energized<#>Ток
