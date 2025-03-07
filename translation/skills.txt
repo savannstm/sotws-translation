@@ -418,7 +418,7 @@ gathers power...<#>собирается с силой...
 brings them back!<#>возвращает к жизни!
 loads his cannon and aims!<#>заряжает пушку и целится!
 takes you down!<#>бросает вас!
-Deer Horn Ex.<#>Сильный олений рог
+Deer Horn Ex.<#>Олений рог+
 disrupts your nerves!<#>нарушает работу нервов!
 is frowning...<#>хмурится...
 reels back and heats everything!<#>отпрыгивает и разогревает ситуацию!
@@ -777,10 +777,10 @@ bashes you in the face!<#>бьёт вас в лицо!
 Threatening Edge<#>Угрожающий клинок
 Display your blade in a last-ditch attempt to\#frighten the enemy. Results may vary.<#>Покажите своё лезвие в качестве последней\#попытки запугать врага. Результат может быть разным.
 attempts to be threatening.<#>пытается угрожать.
-Goat Headbutt Ex.<#>Сильный козий удар
+Goat Headbutt Ex.<#>Удар козьей головы+
 (ADDS) Destructive cranial collision.\#May stun, but mediocre damage against good def.<#>(ADDS) Уничтожительный удар головой.\#Может оглушить, но наносит средний урон против хорошей защиты.
 crashes his head!<#>обрушивает свою голову!
-Single Out Ex.<#>Сильный пистолетик
+Single Out Ex.<#>Пистолетик+
 Harass a particular foe.\#Stresses them out and might make them blind.<#>Запугайте врага. Взволновывает противника и может\#ослепить его.
 is being frightening!<#>запугивает!
 isn't going down!<#>не собирается умирать!
@@ -796,10 +796,10 @@ Gun Whirl<#>Ураганный пистолет
 The final ancient gun technique. Use the pistol as a\#blunt weapon, give them a good smack! Shreds DEF.<#>Высшая древняя пистолетная техника. Используйте пистолет\#в качестве тупого оружия и задайте врагам взбучку! Понижает защиту.
 pistol-whips his way through!<#>пистолирует себе дорогу!
 boxes!<#>боксирует!
-Swat Ex.<#>Сильный шлепок
+Swat Ex.<#>Шлепок+
 Two devastating smacks to the cheek.<#>Два разрушительных шлепка по щеке.
 gives 'em a double slap!<#>даёт двойную оплеуху!
-Leg Stretches Ex.<#>Сильная растяжка ног
+Leg Stretches Ex.<#>Растяжка ног+
 Stretch those calves good. Recovers TP and relieves\#tension. If tension is removed, TP is fully restored.<#>Хорошенько растяните свои икры. Восстанавливает ОТ и убирает напряжение.\#Если убирает напряжение, полностью восстанавливает ОТ.
 gets in a perfect stretch!<#>идеально растягивается!
 Vicious Combo<#>Кровавое комбо
