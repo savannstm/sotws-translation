@@ -80,6 +80,8 @@ async function moveData() {
             await copyFile(join("./data-sotws", entry), join("./original", entry));
         }
     }
+
+    return branch;
 }
 
 async function copyChangeList() {
@@ -91,12 +93,12 @@ async function copyChangeList() {
     }
 }
 
-await moveData();
+const branch = await moveData();
 await moveEdited();
 spawnSync("rvpacker-txt-rs", ["write"]);
 
 await exportPNG();
 
 const version = await copyChangeList();
-
-await zipDirectory("./output", `./output/${version}.zip`);
+const archiveName = branch === "infinity-unfolds" ? `${branch}-${version}` : version;
+await zipDirectory("./output", `./output/${archiveName}.zip`);
