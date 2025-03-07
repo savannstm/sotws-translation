@@ -617,7 +617,7 @@ Knuckle Cracker<#>Костолом
 (AWW) A solid slug to the enemy's head. Can stun.\#Costs 70 HP and begins bleeding.<#>(AWW) Сильный рывок в сторону вражеской головы.\#Может оглушить. Стоит 70 ОЗ и накладывает кровотечение.
 delivers a wrist-shattering blow!<#>наносит сокрушительный удар!
 Gouged Petunia<#>Вырванная петуния
-(AWAW) Supreme fist technique. Annihilate their\#face so much they cannot see. Costs 300 HP.<#>(AWAW) Высшая кулачная техника. Аннгилируйте лицо врага,\#чтобы ему нечем было больше смотреть. Стоит 300 ОЗ.
+(AWAW) Supreme fist technique. Annihilate their\#face so much they cannot see. Costs 300 HP.<#>(AWAW) Высшая кулачная техника. Аннгилируйте лицо врага,\#чтобы ему нечем было смотреть. Стоит 300 ОЗ.
 An engaging stance that helps regain focus.\#Recovers a lot of SP.<#>Стойка вступления в бой, способствующая концентрации.\#Восстанавливает много ОН.
 gets uncomfortably close!<#>подходит некомфортно близко!
 boxes!<#>боксирует!
