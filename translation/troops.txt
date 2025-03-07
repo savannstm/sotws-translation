@@ -975,7 +975,7 @@ I'm no one in particular.<#>Я - никто особенный.
 <!-- Event Name: It's Dinner Time! --><#>
 {Krishna Ishmael}Dinner time!<#>{Кришна Ишмаэль}Время обеда!
 {Maximus Bull}Ain't gonna miss this one!<#>{Максимус Булл}Его я не пропущу!
-{Krishna Ishmael}We can't eat it raw!<#>{Кришна Ишмаэль}Мы не сможем съесть его сырым!
+{Krishna Ishmael}We can't eat it raw!<#>{Кришна Ишмаэль}Мы не сможем съесть их сырыми!
 {Krishna Ishmael}It's all sorts\#of wrong!<#>{Кришна Ишмаэль}Это совсем неправильно!
 {Maximus Bull}Kris!\|\#You fuckin' idiot!<#>{Максимус Булл}Крис!\|\#Ебучий идиот!
 {Maximus Bull}Help me out!<#>{Максимус Булл}Выручай меня!

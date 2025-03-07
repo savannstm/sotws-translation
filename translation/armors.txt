@@ -165,7 +165,7 @@ Kindchild's weighty TV. Now nonfunctional.\#A small amount of power resides with
 Raincoat<#>Дождевик
 Protects againsts liquids, water just slides right off!\#Makes you extremely slippery to the touch.<#>Защищает от промокания, вода просто отскакивает!\#Делает вас безумно скользким.
 Goth Painter's Gear<#>Готические инструменты художника
-Be careful not to cut yourself on that edge.\#Lets you move twice but shatters your stats.<#>Осторожнее, не порежьтесь об этот кончик.\#Позволяет двигаться дважды, но разбивает характеристики.
+Be careful not to cut yourself on that edge.\#Lets you move twice but shatters your stats.<#>Осторожнее, не порежьтесь об острые концы.\#Позволяют двигаться дважды, но уничтожают характеристики.
 Topper<#>Цилиндр
 Only the most skilled magicians are able to withstand\#the majesty of this cylindrical headwear. Boosts EVA.<#>Лишь опытнейшие маги способны выдержать величество\#этого цилиндрического головного убора. Повышает ловкость.
 Classic Cotton Cravat<#>Классический шёлковый шарф
