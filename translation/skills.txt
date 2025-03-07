@@ -35,6 +35,7 @@ unleashes a foul odor!<#>испускает ужасную вонь!
 opens wide.<#>широко раскрывается.
 cuts like a knife!<#>режет, словно нож!
 punches, and retrieves his blade!<#>атакует и возвращает своё оружие!
+threatens you with his blade!<#>угрожает вам клинком!
 hurled his pickaxe!<#>швыряет свою кирку!
 causes an abominable regeneration!<#>начинает ужасающую регенерацию!
 gives an encouraging cry!<#>произносит воодушевляющий клич!
