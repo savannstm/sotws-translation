@@ -403,1940 +403,1945 @@
 <!-- File: map415 -->
 <!-- File: map416 -->
 <!-- File: actors -->
-<state face: 1 Joel1 0>\#<state face: 76 Joel1 0>\#<state face: 41 Joel1 0>\#<state face: 6 Joel1 0>\#<state face: 93 Joel1 0>\#<state face: 2 Joel1 1>\#<state face: 40 Joel1 1>\#<state face: 27 Joel1 1>\#<state face: 80 Joel1 1>\#<state face: 29 Joel1 2>\#<state face: 32 Joel1 3>\#<state face: 26 Joel1 4>\#<state face: 12 Joel1 5>\#<state face: 36 Joel1 5>\#<state face: 38 Joel1 6>\#<state face: 8 Joel1 6>\#<state face: 30 Joel1 6>\#<state face: 47 Joel1 7>\#<state face: 34 Joel1 7>\#<state face: 39 Joel2 0>\#<state face: 7 Joel2 1>\#<state face: 21 Joel2 1>\#<state face: 31 Joel2 2>\#<state face: 28 Joel2 2>\#<state face: 60 Joel2 2>\#<state face: 58 Joel2 2>\#<state face: 66 Joel2 3>\#<state face: 25 Joel2 3>\#<state face: 56 Joel2 4>\#<state face: 73 Joel2 5>\#<state face: 63 Joel2 6>\#<state face: 86 Joel2 7>\#<state face: 75 Joel3 0>\#<state face: 79 Joel3 1>\#<state face: 78 Joel3 2>\#<state face: 83 Joel3 3>\#<state face: 62 Joel3 4>\#<state face: 42 Joel3 5>\#<state face: 43 Joel3 5>\#<state face: 59 Joel3 7>\#<state face: 15 Joel4 0>\#<state face: 14 Joel4 1>\#<state face: 20 Joel4 2>\#<state face: 91 Joel1 4>\#<state face: 52 Joel4 3>\#<state face: 97 Joel4 4>\#<state face: 108 Joel4 5>\#<state face: 110 Joel3 6>\#<state face: 128 Joel4 7>\#<state face: 140 Joel2 4>\#<win quotes>\#\elb I never miss!\#[new quote]\#\elb You twitched.\#[new quote]\#\elb This is what you do with freedom?\#[new quote]\#\elb I am a kind man, pow pow...\#</win quotes>\#<level quotes>\#\elb I'm the greatest marksman!\#[new quote]\#\elb Always on target.\#[new quote]\#\elb I feel like a new man.\#</level quotes>\#<drops quotes>\#\elb A little extra don't hurt.\#[new quote]\#\elb Thought I quit the salvage game.\#[new quote]\#\elb Won't say no to this.\#</drops quotes>
 <state face: 1 Salt1 0>\#<state face: 76 Salt1 0>\#<state face: 41 Salt1 0>\#<state face: 6 Salt1 0>\#<state face: 2 Salt1 1>\#<state face: 40 Salt1 1>\#<state face: 27 Salt1 1>\#<state face: 80 Salt1 1>\#<state face: 29 Salt1 2>\#<state face: 32 Salt1 3>\#<state face: 12 Salt1 4>\#<state face: 36 Salt1 4>\#<state face: 47 Salt1 6>\#<state face: 34 Salt1 6>\#<state face: 39 Salt1 7>\#<state face: 7 Salt2 0>\#<state face: 21 Salt2 0>\#<state face: 31 Salt2 1>\#<state face: 28 Salt2 1>\#<state face: 60 Salt2 1>\#<state face: 58 Salt2 1>\#<state face: 66 Salt2 2>\#<state face: 25 Salt2 2>\#<state face: 62 Salt3 0>\#<state face: 56 Salt3 1>\#<state face: 42 Salt3 2>\#<state face: 43 Salt3 2>\#<state face: 59 Salt3 3>\#<state face: 15 Salt3 4>\#<state face: 14 Salt3 5>\#<state face: 20 Salt3 6>\#<state face: 97 Salt3 7>\#<state face: 110 Salt1 5>\#<state face: 139 Salt3 1>\#<win quotes>\#\elb Crushed 'em, HA HA!\#[new quote]\#\elb Crystallized, HA HA!\#[new quote]\#\elb That's gonna sting, HA HA!\#</win quotes>\#<level quotes>\#\elb I am unsinkable, HA HA!\#[new quote]\#\elb My power grows, HA HA!\#[new quote]\#\elb This is more like it, HA HA!\#</level quotes>\#<drops quotes>\#\elb We'll be taking that, HA HA!\#[new quote]\#\elb Ours now, HA HA!\#[new quote]\#\elb Thoroughly pilfered, HA HA!\#</drops quotes>
+<state face: 1 Joel1 0>\#<state face: 76 Joel1 0>\#<state face: 41 Joel1 0>\#<state face: 6 Joel1 0>\#<state face: 93 Joel1 0>\#<state face: 2 Joel1 1>\#<state face: 40 Joel1 1>\#<state face: 27 Joel1 1>\#<state face: 80 Joel1 1>\#<state face: 29 Joel1 2>\#<state face: 32 Joel1 3>\#<state face: 26 Joel1 4>\#<state face: 12 Joel1 5>\#<state face: 36 Joel1 5>\#<state face: 38 Joel1 6>\#<state face: 8 Joel1 6>\#<state face: 30 Joel1 6>\#<state face: 47 Joel1 7>\#<state face: 34 Joel1 7>\#<state face: 39 Joel2 0>\#<state face: 7 Joel2 1>\#<state face: 21 Joel2 1>\#<state face: 31 Joel2 2>\#<state face: 28 Joel2 2>\#<state face: 60 Joel2 2>\#<state face: 58 Joel2 2>\#<state face: 66 Joel2 3>\#<state face: 25 Joel2 3>\#<state face: 56 Joel2 4>\#<state face: 73 Joel2 5>\#<state face: 63 Joel2 6>\#<state face: 86 Joel2 7>\#<state face: 75 Joel3 0>\#<state face: 79 Joel3 1>\#<state face: 78 Joel3 2>\#<state face: 83 Joel3 3>\#<state face: 62 Joel3 4>\#<state face: 42 Joel3 5>\#<state face: 43 Joel3 5>\#<state face: 59 Joel3 7>\#<state face: 15 Joel4 0>\#<state face: 14 Joel4 1>\#<state face: 20 Joel4 2>\#<state face: 91 Joel1 4>\#<state face: 52 Joel4 3>\#<state face: 97 Joel4 4>\#<state face: 108 Joel4 5>\#<state face: 110 Joel3 6>\#<state face: 128 Joel4 7>\#<state face: 140 Joel2 4>\#<win quotes>\#\elb I never miss!\#[new quote]\#\elb You twitched.\#[new quote]\#\elb This is what you do with freedom?\#[new quote]\#\elb I am a kind man, pow pow...\#</win quotes>\#<level quotes>\#\elb I'm the greatest marksman!\#[new quote]\#\elb Always on target.\#[new quote]\#\elb I feel like a new man.\#</level quotes>\#<drops quotes>\#\elb A little extra don't hurt.\#[new quote]\#\elb Thought I quit the salvage game.\#[new quote]\#\elb Won't say no to this.\#</drops quotes>
 <!-- File: armors -->
 <!-- File: classes -->
-<state face: 1 Alex1 0>\#<state face: 76 Alex1 0>\#<state face: 41 Alex1 0>\#<state face: 6 Alex1 0>\#<state face: 2 Alex1 1>\#<state face: 40 Alex1 1>\#<state face: 27 Alex1 1>\#<state face: 80 Alex1 1>\#<state face: 29 Alex1 2>\#<state face: 32 Alex1 3>\#<state face: 26 Alex1 4>\#<state face: 12 Alex1 5>\#<state face: 36 Alex1 5>\#<state face: 38 Alex1 6>\#<state face: 8 Alex1 6>\#<state face: 30 Alex1 6>\#<state face: 47 Alex1 7>\#<state face: 34 Alex1 7>\#<state face: 39 Alex2 0>\#<state face: 7 Alex2 1>\#<state face: 21 Alex2 1>\#<state face: 31 Alex2 2>\#<state face: 28 Alex2 2>\#<state face: 60 Alex2 2>\#<state face: 58 Alex2 2>\#<state face: 66 Alex2 3>\#<state face: 25 Alex2 3>\#<state face: 56 Alex2 4>\#<state face: 73 Alex2 5>\#<state face: 77 Alex22 6>\#<state face: 72 Alex2 7>\#<state face: 92 Alex2 7>\#<state face: 75 Alex3 0>\#<state face: 85 Alex3 1>\#<state face: 78 Alex3 2>\#<state face: 83 Alex3 3>\#<state face: 62 Alex3 4>\#<state face: 42 Alex3 5>\#<state face: 43 Alex3 5>\#<state face: 65 Alex3 6>\#<state face: 59 Alex3 7>\#<state face: 15 Alex4 0>\#<state face: 14 Alex4 1>\#<state face: 20 Alex4 2>\#<state face: 100 Alex4 4>\#<state face: 91 Alex1 4>\#<state face: 52 Alex4 5>\#<state face: 33 Alex2 2>\#<state face: 97 Alex4 6>\#<state face: 108 Alex4 7>\#<state face: 110 Alex0 1>\#<state face: 141 Alex2 4>\#<state face: 137 Alex3 0>\#<win quotes>\#\elb Smooth as velvet.\#[new quote]\#\elb ...\#[new quote]\#\elb I did my best.\#</win quotes>\#<level quotes>\#\elb It's all coming back to me.\#[new quote]\#\elb I remember this.\#[new quote]\#\elb Feels good to get better.\#</level quotes>\#<drops quotes>\#\elb Take it and let's keep moving.\#[new quote]\#\elb Maybe there's something we can use?\#[new quote]\#\elb This should come in handy.\#</drops quotes>\#<command list>\#<command name: skill 767>\#skill list\#defend\#items\#</command list>
 <state face: 1 Alex1 0>\#<state face: 76 Alex1 0>\#<state face: 41 Alex1 0>\#<state face: 6 Alex1 0>\#<state face: 2 Alex1 1>\#<state face: 40 Alex1 1>\#<state face: 27 Alex1 1>\#<state face: 80 Alex1 1>\#<state face: 29 Alex1 2>\#<state face: 32 Alex1 3>\#<state face: 26 Alex1 4>\#<state face: 12 Alex1 5>\#<state face: 36 Alex1 5>\#<state face: 38 Alex1 6>\#<state face: 8 Alex1 6>\#<state face: 30 Alex1 6>\#<state face: 47 Alex1 7>\#<state face: 34 Alex1 7>\#<state face: 39 Alex2 0>\#<state face: 7 Alex2 1>\#<state face: 21 Alex2 1>\#<state face: 31 Alex2 2>\#<state face: 28 Alex2 2>\#<state face: 60 Alex2 2>\#<state face: 58 Alex2 2>\#<state face: 66 Alex2 3>\#<state face: 25 Alex2 3>\#<state face: 56 Alex2 4>\#<state face: 73 Alex2 5>\#<state face: 77 Alex2 6>\#<state face: 72 Alex2 7>\#<state face: 92 Alex2 7>\#<state face: 75 Alex3 0>\#<state face: 85 Alex3 1>\#<state face: 78 Alex3 2>\#<state face: 83 Alex3 3>\#<state face: 62 Alex3 4>\#<state face: 42 Alex3 5>\#<state face: 43 Alex3 5>\#<state face: 65 Alex3 6>\#<state face: 59 Alex3 7>\#<state face: 15 Alex4 0>\#<state face: 14 Alex4 1>\#<state face: 20 Alex4 2>\#<state face: 100 Alex4 4>\#<state face: 91 Alex1 4>\#<state face: 52 Alex4 5>\#<state face: 33 Alex2 2>\#<state face: 97 Alex4 6>\#<state face: 108 Alex4 7>\#<state face: 110 Alex0 1>\#<state face: 141 Alex2 4>\#<state face: 137 Alex3 0>\#<state face: 185 Alex2 4>\#<win quotes>\#\elb Smooth as velvet.\#[new quote]\#\elb ...\#[new quote]\#\elb I did my best.\#</win quotes>\#<level quotes>\#\elb It's all coming back to me.\#[new quote]\#\elb I remember this.\#[new quote]\#\elb Feels good to get better.\#</level quotes>\#<drops quotes>\#\elb Take it and let's keep moving.\#[new quote]\#\elb Maybe there's something we can use?\#[new quote]\#\elb This should come in handy.\#</drops quotes>\#<command list>\#<command name: skill 813>\#skill list\#defend\#items\#</command list>
-<command list>\#<command name: skill 886>\#skill list\#defend\#items\#</command list>
-<command list>\#<command name: skill 898>\#skill list\#defend\#items\#</command list>
 <command list>\#<command name: skill 833>\#skill list\#defend\#items\#</command list>
 <command list>\#<command name: skill 850>\#skill list\#defend\#</command list>
-<command list>\#skill list\#defend\#items\#</command list>
-<command list>\#<command name: skill 863>\#skill list\#defend\#items\#</command list>
+<command list>\#<command name: skill 898>\#skill list\#defend\#items\#</command list>
 <state face: 1 InfAlex 0>\#<state face: 76 InfAlex 0>\#<state face: 41 InfAlex 0>\#<state face: 6 InfAlex 0>\#<state face: 32 InfAlex 1>\#<state face: 8 InfAlex 2>\#<state face: 30 InfAlex 2>\#<state face: 31 InfAlex 3>\#<state face: 60 InfAlex 3>\#<state face: 28 InfAlex 3>\#<state face: 58 InfAlex 3>\#<state face: 62 InfAlex 4>\#<state face: 20 InfAlex 5>\#<state face: 110 InfAlex 6>\#<win quotes>\#\elb Done.\#[new quote]\#\elb ...\#[new quote]\#\elb Another one.\#</win quotes>\#<level quotes>\#\elb ...\#</level quotes>\#<drops quotes>\#\elb Junk.\#[new quote]\#\elb ...\#</drops quotes>\#<command list>\#<command name: skill 931>\#skill list\#items\#</command list>
+<state face: 1 Alex1 0>\#<state face: 76 Alex1 0>\#<state face: 41 Alex1 0>\#<state face: 6 Alex1 0>\#<state face: 2 Alex1 1>\#<state face: 40 Alex1 1>\#<state face: 27 Alex1 1>\#<state face: 80 Alex1 1>\#<state face: 29 Alex1 2>\#<state face: 32 Alex1 3>\#<state face: 26 Alex1 4>\#<state face: 12 Alex1 5>\#<state face: 36 Alex1 5>\#<state face: 38 Alex1 6>\#<state face: 8 Alex1 6>\#<state face: 30 Alex1 6>\#<state face: 47 Alex1 7>\#<state face: 34 Alex1 7>\#<state face: 39 Alex2 0>\#<state face: 7 Alex2 1>\#<state face: 21 Alex2 1>\#<state face: 31 Alex2 2>\#<state face: 28 Alex2 2>\#<state face: 60 Alex2 2>\#<state face: 58 Alex2 2>\#<state face: 66 Alex2 3>\#<state face: 25 Alex2 3>\#<state face: 56 Alex2 4>\#<state face: 73 Alex2 5>\#<state face: 77 Alex22 6>\#<state face: 72 Alex2 7>\#<state face: 92 Alex2 7>\#<state face: 75 Alex3 0>\#<state face: 85 Alex3 1>\#<state face: 78 Alex3 2>\#<state face: 83 Alex3 3>\#<state face: 62 Alex3 4>\#<state face: 42 Alex3 5>\#<state face: 43 Alex3 5>\#<state face: 65 Alex3 6>\#<state face: 59 Alex3 7>\#<state face: 15 Alex4 0>\#<state face: 14 Alex4 1>\#<state face: 20 Alex4 2>\#<state face: 100 Alex4 4>\#<state face: 91 Alex1 4>\#<state face: 52 Alex4 5>\#<state face: 33 Alex2 2>\#<state face: 97 Alex4 6>\#<state face: 108 Alex4 7>\#<state face: 110 Alex0 1>\#<state face: 141 Alex2 4>\#<state face: 137 Alex3 0>\#<win quotes>\#\elb Smooth as velvet.\#[new quote]\#\elb ...\#[new quote]\#\elb I did my best.\#</win quotes>\#<level quotes>\#\elb It's all coming back to me.\#[new quote]\#\elb I remember this.\#[new quote]\#\elb Feels good to get better.\#</level quotes>\#<drops quotes>\#\elb Take it and let's keep moving.\#[new quote]\#\elb Maybe there's something we can use?\#[new quote]\#\elb This should come in handy.\#</drops quotes>\#<command list>\#<command name: skill 767>\#skill list\#defend\#items\#</command list>
+<command list>\#skill list\#defend\#items\#</command list>
+<command list>\#<command name: skill 886>\#skill list\#defend\#items\#</command list>
+<command list>\#<command name: skill 863>\#skill list\#defend\#items\#</command list>
 <!-- File: commonevents -->
+x4
+x1
+x2
+yes
+no
 <!-- File: enemies -->
-Moe's Special Blend
 Fire Prop
-Dried Herb
+Moe's Special Blend
+Iced Coffee
 Kein Felton Prop
 Prop 2
-Placeholder
-Iced Coffee
 Strangle Prop
+Dried Herb
+Placeholder
 <!-- File: items -->
 test
 <!-- File: skills -->
-Plank Slash (Krishna)
-Fruit Throw (Darry)
-Windpipe Crusher
-Wild Strike!
-Francis Combo 2
-A uniquely avian technique
-Devastating Chomp
-Apologizes
-Lost in thought
-Twin Fireballs (NOIP Boss)
-Combo breaker!
-Don't hurt him...
-Rando Stab (Floyd)
-Red Lick (Hugo)
-Softener Hook (Petey)
-Revive animation.
-This thing's a little heavy...
-Talon Rush (Conrad)
-TV Beam (Red)
-Prizmik Combo 2
-Psycho Chop
-Paralyzing Bite
-Talon Rush
-(SSA) The ol' one-two-three.
-boxer stance but sideways
-Steady Aim (Joel Shadow)
-A swift arrow
-shanks
-Damages enemy
-Triple Bottle (Earheart)
-Slice (Chop)
-kicks the bucket.
-A fearsome slam!
-Kill Signal
-Hugo Taunt
-Migraine Maker
-Dirty Bottle Throw (Joel)
-Launch Tibby like a missile at one opponent.\#High chance to stun. Also stuns and damages Tibby.
-Dispense the contents of your stomach on their face.
-strikes with his stunner!
-Didn't your mother tell you not to play with knives?
-Shove (Geen Start)
-Realize you're in a fight.
-Lick
-Spray
-Cord Lash
-Shoots at you!
-Electric Claw
-Party mode activate
-Mikhail Boost (MDF)
-Shag (Enemy)
-Lash
-Bring down the wrath of the gods on their bitch asses.
-Firearchy
-Double Eye Beam
-Pick weapon up (Earheart)
-Stomp (Petey)
-Pissed Curse
-Windpipe Crusher (Jeremy)
-Double Bite (Torque)
-Pulverize their flesh.
-Give your team some much needed motivation.
-Kick
-Scorpion Pinch (Alt)
-Firebomb Prepare
-Chopper Slash (S. Floyd)
-Spit
-Charge (Weaker)
-Inspect
-Finger Beam 2 (Georgy 1)
-Danger Special
-Deadly Prepare (Pope)
-Joel Strangle
-Green Splash
-Nom nom nom.
-Smile
-Dwight Prepare
-Executioner Slam (Carlton)
-Bone Break
-Someone's got a leak.
-Glass Shard Recoil
-Talk mad trash.
-Wait (Friends)
-Slam into the enemy.
-Boomerang Toss
-Talon Rush (Krishna)
-Hugo Block
-See no future
-Steel Chair (Wily)
-+50
-Horse Jerky (Enemy)
-Peck
-Rock Slam
-Leaves an Alex-shaped hole in the ground.
-Team Play
-Taste Blood (Homer)
-Bear Claw (NOIP)
-Slice (Apeshit 2)
-Swoop
-Joy (Slim)
-Club Strike
-Advancing Stance (Enemy)
-Double Bite (Creep)
-Eat (Wily)
-Sniffs
-Fire Beam (Laser Eye)
-Restores HP to one ally.
-Big Swing
-Anaconda Prepare
-Tackle (Georgy)
-Claw Attack (Creep)
-Pipe Joust (Clark)
-Pummel (Richie)
-Gather power for a devastating blast.
-Psycho Kick
-Back Rub
-Hits an enemy twice!
-poison shanks
-Guillotine Choke (Gin)
-Big slice
-Deadly Prepare (Hugo)
-Builds up for a devastating assault.
-Paint Streak
-Knife Hand (Borislav)
-Tenderize (You know who)
-Softener Hook (Hugo 2)
-Yell (Alt)
-Lash Legs(Cunningham)
-Dirty Bottle Throw (Clown)
-Yoke up
-Space case.
-Whales on you!
-Smile (Rag)
-Club Joust (Homer)
-Trowel Ravage (Enemy)
-Demon Eye
-Wilbur's Curse
-Channel Power (1 Sat)
-Solid Punch (Nofold)
-Beast Claw
-Making sure everything is in order.
-performs his Hollywood Hustle!
-Feed (Lester)
-Joyous Fist
-Friendly Fire Stomp
-Hydraulic Foot
-That's what you get for playing with broken glass.
-Blow some exhaust in your enemies\#face, it can be painful to the eyes.
-Scared
-A concentration of energy blasted from the eye.
-Perforate (Hugo 2)
-Salt in the Eyes
-Enemy cries
-Pick Whirl (Richie)
-Softener Hook
-cuts you open!
-Francis Combo 1
-Drop Kick (Raymund)
-Davy Prepare
-Firecracker
-Slice 'n' Dice (Slim2)
-The ultimate disrespect made\#even more disrespectful.
-Aikido Stance
-Tackle
-Hit yourself and go nuts!
-Preparation for devastation.
-Double Sweep (Hugo)
-Boxer's Rushdown (NOIP)
-No one likes being pointed at.
-Grab (Hugo)
-Full Thrust (Petey)
-Laugh
-Anaconda Assault
-End his life.
-Power Fist (Tenderizer)
-Blood Whirpool (Hugo)
-Choke To Death (Pete)
-triple bottle
-Tackle (Pete)
-Perfume (Grammar)
-Total Mutilation
-Glassing Attack (Darry)
-Realization
-You're in trouble now.
-Spread the wildfire.
-Everyone is fired!
-Car Noise
-Tiger Suplex (Gin)
-Snip snip!
-Winded Curse
-Enter NOiP
-The Punch (Borislav)
-Crack the whip on a poor fool.
-Feed
-Scorpion Sting
-Horrified
-Triple Bottle (Kobra)
-Catapult Christening (Pete)
-Ram (Salt Cart)
-Davy Meteor Shower
-Magic Stab (Prizmik)
-Buster Punches
-Eat (Fecal)
-An assault on the ears.
-Knife Hand (Slim)
-Breath of Life (2)
-BASH (Cunningham)
-Double Thumb Jab
-Infinite Hypnosis
-Vision of Violance
-Scorpion Sting 2
-Poison Bite (Borislav)
-Blood Spit
-Tiger Suplex
-Piledriver
-Takedown (Salt)
-Gainer (Petey)
-Solid Punch
-Get them pumped up!
-Mongolian Chop
-Full Thrust (Enemy)
-Observe
-Rando Bomb
-Puts all enemies to sleep.
-Special Hide 2
-Spit Poison
-Hiss
-Gas Blast (Single Target)
-Bully (Gin)
-A strong attack against one enemy.
-A fearful belly to back slam!
-Reform
-Trash Throw
-Heal Chord
-Basto Slam Damage
-Joel's coming in like a cannonball!
-Knife Intimidate (Beezy)
-A demotivating song.
-Space case
-flesh heal (torque)
-Power Fist (NOIP)
-performs his Atlanta Slam!
-Trash (Swing)
-An extended kick.
-a lame looking slap type thing.
-Infinite Deathmaker (Borislav)
-Fire Spit
-Seriously?
-Heal Rusty
-One gash for every member!
-Car Slam start
-Double Finger Beam
-Someone's hungry.
-A simple yet decisive display of carnage.
-The final supreme technique.\#Fucks you up.
-Spark Spit (Weaker)
-Reason
-Ingest (Salt)
-Slice
-Tune Violin
-Head Twist
-(ADAS) An illegal move in boxing, but all is fair\#in the Franchise. Disarms Armed opponents.
-Bark
-Chopper Crush
-An extended gut kick.
-Eat 2(Arnold)
-Slice (No crit)
-Solid Punch (Arnold)
-Executioner Slam
-Slice 'n' Dice (Unspoken)
-Itty bitty bites from itty bitty mouths.
-Debuff Chord
-A modern martial art.
-Tell these dipshits what to do!
-Spew (Salt)
-Infinite Deathmaker
-A lightning fast slash guaranteed to go first.
-Bludgeon (Donovan)
-Charge Up 2 (Borislav)
-Tastes like cherry soda.
-'s fate is sealed.
-Wriggle wriggle.
-A sucker punch maneuver to take back their weapon.
-Stomp a mudhole in your ass.
-Single Out (Joel)
-Roost
-Spit (Rag)
-Run away
-Nightmare Bile (Conrad)
-Their bodies are still, but their voices are ceaseless.
-Deep Stab (Hugo)
-Revenge.
-Calamity Claw
-Quad Fireball
-Pick Throw
-Breath of Life Heal
-A breath of fresh air to get them back in order.
-Choirboy's Screach
-Plead
-Party Pack (Enemy)
-smacks you with his cane!
-Catapult Christening (Birch)
-Get juiced before tearing them apart.
-Ironbody
-A vicious series of talon slashes.
-Perfume
-Pick Swing
-Double Finger Beam (Howard)
-A fearful chair slam!
-Unnerving Laugh (Slim)
-Slits your throat!
-Richie Grab
-Absorbs enemy's HP.
-uuuuuuh
-Crowd Slash
-Refuse to surrender. End their life.
-flesh heal 2(torque)
-Bleed Chord
-Carnage Whirl
-A one and a two!
-Purple Flair
-Meat Signal
-Aim For the Eyes
-An Australian classic.
-Bottle Throw (Joel)
-Stomp
-Open wide.
-Claws for everyone!
-Dirt Kick
-Catapult Christening
-'Round and 'round it goes...
-Taste Blood
-Breathe In
-Gas 'er up!
-Defend yourself
-This is the end.
-Reignite (Arnold)
-See no hope
-<one animation>.\#<Motion Action = 5>
-Will be hard to breathe after this one.
-Inf Heal
-Blade Retrieval (Beezy)
-Glare (Borislav)
-At this point, it's already over.
-A loving back massage...
-Graveyard Bomb
-Bully
-Solid Punch (Ruth)
-Watch out watch out WATCH OUT!
-Shock Strike (Borislav)
-Chop his head off.
-Heals.
-Jab Combo (NOIP)
-dead
-Richie's second signature.
-Goat Headbutt (Ruth)
-A big smile.
-Cart Eject (Salt)
-Reignite
-Finisher
-Meat Chant
-Double Sweep
-Makes you feel like you're cool,\#but you're really not.
-A huge swing to destroy the opposition.
-Tsunami Driver
-Star Stab (Hugo)
-Eat Maggots
-Heaven's Fist
-Heal Tok
-Pulverizer Fist
-Wake-Up Call
-Chopper Slash
-150
-Ouch.
-Gun.
-Beak Stab
-The ultimate headache.\#No one has ever survived this technique.
-Chop (Krishna)
-Chriss's signature move. You won't get up after\#this one.
-Fills hearts with lust for murder.
-Club Swing (Homer)
-Davy Fireball 2
-Corps Crasher
-Joel Throw
-Sword Slash
-Reignite (Kobra)
-Triple Attack
-Grin
-Confused?
-Charge Up (Borislav)
-Backwards thrust.
-Cough up blood
-Power Fist (Borislav)
-One whiff of this, and it's game over...
-Deadly Combo (Hugo)
-Augustus sprays
-Glare
-Rando Bomb (Will)
-TV Flash
-Salt Shield
-Loose Sparks (Borislav)
-Shriek
-Joel Shield
-Silken Wrist (Thrust)
-Artery Pop (Hugo)
-splashes
-Club Strike (Clark)
-200
-Receive the scent
-Pick it back up!
-G. Petunia
-Hide
-Scorpion Grab (Alt)
-Wallaby Fireball
-Sleep Breath
-Dirty Bottle Throw
-The Punch
-Crackle slash!
-Does nothing.
-Punch
-Knuckle Breaker
-You know what happens next...
-An Australian classic
-Recovers user's HP.
-SP Drain
-Rage build!
-Limb Twist
-A stiff push
-Thunderstorm
-Anaconda's pulling out all the stops!
-Foresee their demise in your eyes...
-Leg Clamp
-Debuff Curse
-(SSDA) Hit them so hard their blood comes out.\#Deals a small amount of recoil damage.
-Fire Spit (Kirk)
-Mikhail Boost (MP)
-Jump Bite
-Cheers!
-Double Jump Kick
-Peer
-Purple Flair (Prizmik)
-Charge Up
-Shotty Jam
-A quick kick with a chance to make you fall.
-250
-X Slice (Scorpion)
-Slice 'n' Dice (Slim)
-Big slice (Scorpion)
-Boomerang Combo
-Iced Coffee (Enemy)
-Solid Guard
-Alex Escape
-Rest but for birds.
-Enemy pleads
-SPECIAL HIDE FOR USE IN CROWD FIGHT
-Finger Beam
-Oil Shower
-Pick that shit up!
-Blood Punch
-Denier Fist
-Side Kick (Goat Kick)
-Double Scratch
-Send him to Hell!
-Anaconda Assault 2
-Gearing Up for Chomp
-ENEMY ATTACKS!!!!
-Solid Punch (Hugo)
-Kick The Bucket
-Double Bite (Max)
-Demon Eye (Shurik)
-Fried Skin
-Slurrrrrrrp.
-Oops...
-Takedown (Clark)
-Flame Burst (Prizmik)
-Everyone's getting nicked by this.
-Finger Beam (Prizmik)
-A piercing blow with a thumb.
-Jaw Grinder (Creep)
-Boxer's Rushdown
-Demon Eye (Laser)
-Wilbur Feed
-Gun?
-A fearful X chop
-Divebomb
-Calamity Claw (Weaker)
-Floyd Prepare
-A violent toss of the opponent's helpless form.
-Gasoline Spit
-Meat toss.
-Jab Combo
-Thumb Stab
-Take a deep breath to relieve some tension.
-Stretch that bod, get limber!
-Elbow Hit (Nofold)
-Magic Geyser
-Better watch out.
-Smell the sweet scent of life.
-Crystal Spew
-A raining fist from above.
-Foul Ball Fail
-Sparkler Slash
-Eat
-Rearm
-Keep that moron safe!
-Parry Failed (Hugo)
-Buff Chord
-Confidence in the face of danger can be one\#of the most unnerving things.
-Petroleum Firebomb
-*Gremory* gets his flame on.
-Cane Smack
-A big hand clamp
-Pray (Rag)
-Unleash your foul odor unto the world.
-Yell
-Paralysis Curse
-Gainer
-Boxer's Stance (Birch)
-Back Off
-Noxious Breath
-KABOOM
-Feed Friend
-Shock 'em black!
-Power Clothsline (Homer)
-Softener Hook (Hugo 3)
-Let's do this!
-Double Joust (Cunningham)
-50
-You feel weird just watching this.
-Watch it all transpire.
-Receive the signal and become divine.
-Carnage Whirl (Cool)
-Knife Hand
-Encourage 2
-No one is anything more or less than meat.
-Mikhail Boost (AGI)
-In the face of hopelessness there is always...
-Gear Up
-Party Stance
-Buffalo Charge!
-Hair slick
-Cosmic Chop
-Frown
-Five-fingered demise.
-Solid Curse
-A double chop to the neck
-Pray 2(Rag)
-Eat (Joel)
-Bottle Throw (No crit)
-its a minecart
-Visceral Bathe
-bludgeons you!
-Watery Whap
-Psycho Chop (Laser
-Spanks Laugh
-Pick weapon up (No Anim)
-Shock Strike
-Aim
-Power Fist (Earheart)
-Speak the lanuage of flames.
-Slice 'n' Dice
-Reignite (Gremory)
-Get that throat!
-Drink 'em up.
-Trash (Slam)
-Eeeeeeewwwwwwwwwwww.
-Rage build! (Richie)
-Phone Swing
-Meditate
-Swat (Enemy)
-Aim Down
-Double Bite (Kobra)
-Pistol Ready (Joel)
-Hock a bloody loogie in their eyes to inflict\#blindness. They can't hit what they can't see.
-Jerky (Enemy)
-Patch Up (Jason)
-Left Slash (Hugo)
-Punish the enemy.
-Your face was in the way.
-Shank (Hugo)
-Heat Fever
-Psycho Kick (Laser)
-Load and Aim
-Scalpel Draw (Hugo)
-Anaconda's Inferno
-Rando Buster
-Locked on.
-shatters your posture!
-Poison Bite
-A blast from the corneas to your ass.
-Rage build! (Scorp)
-Hit yourself, let it hurt the more.
-What goes around comes around!
-Makes you hard to grasp!
-Stefan Throw
-Three slashes, hot and ready!
-Silken Wrist (Axe Kick)
-Power Fist (Petey)
-Launching Uppercut
-A blast of fire that burns everyone.
-Spit highly flammable liquid all over your\#opponent.
-Deals fire damage to all enemies.
-Water Splash (Enemy)
-Blood Heal
-Deals fire damage to one enemy.
-Get under cover, 'cause it's about to rain.
-Lash Arms(Cunningham)
-Bludgeon (Homer)
-Boxer's Stance
-Blood Punch Penalty
-Slice (Krishna)
-Violin Bow
-Drop Kick (Kein)
-Eye Beam
-Phone Slam
-Brandish
-Do you joy?
-Bellucci Buster
-Prizmik Combo 1
-Fire Beam
-Tire Swing
-Serjio chad
-An unhealing song.
-Hook Kick
-Heaven's Fist (Birch)
-Stomp (Pete)
-Prepare for true brutality.\#Grants use of Migraine Maker. Removes Solid.
-Give him your power.
-Softener Hook (Hugo)
-Arnold Regen
-Symphonic Bliss
-Triple Bottle
-car slam
-Familiar Song
-Picks a victim.
-This one cuts deep.
-Pistol FIRE
-Glass Breaker Backfire
-A big chomp
-Power Fist (Kein)
-TV Noise
-A healing song.
-Stomp (Carlton)
-Snap out of it, dumbass!
-Damages the enemy.
-Bottle Throw
-Rock Swing
-Smart Tackle
-The weight of a tank pressing down on you.
-salty day
-Brain Chop
-ENEMY ATTACKS
-Super Spray
-Hollywood Hustle
-Jaw Grinder
-Raymund Taste
-Davy Fireball
-Skill #2 will be used when you select\#the Guard command.
-Grab (pete)
-Joel Throw Off
-Eats jerks
-Heart Squeeze
-Basto Swing Damage
-Joel's gun would never do this.
-Inf Heal 2
-Painted Red (Slim)
-The ultimate disrespect.
-Psycho Laugh
-Super Charge
-The Punch (NOIP)
-Flail
-Mmmmm.
-Clip Dump
-Power Fist (Danger)
-No one is safe.
-a tackle
-Sniff
-Cinderblock
-Heal Curse
-Dual Attack
-A little too close for comfort.
-An attack that looks like a malfunction.
-Trash (Swing 2)
-(ASDD) Send them to the clouds. Launches the\#target into the air, but misses often.
-Quick Draw
-Watch me shank bruv!
-Wizard Poke
-Basto Slam
-Pick Swing (Richie)
-Friendly Fire Club Strike
-Pawnch.
-Rage build! (Kent)
-Conrad Claw
-Howling Gyser
-Mikhail Prepare
-Eyes Amongst Us
-Poison Dart (Daemon)
-Choke (Pete)
-Preach of liberation in violance!
-Lobotomy After (Hugo)
-70 Bleed
-Jab Combo (Birch)
-No style. Only pure violence.
-Helicopter Kick
-Aim for the eyes!
-A weak punch. Builds 10 TP.
-Noxious Fireball
-<one animation>.\#<Motion Action = 4>
-Brandish (Slim)
-Twin Fireballs
-Yell (Creep)
-Unnerving Laugh (Kein)
-Grab (Warning)
-Accept
-Aim (Jamie)
-Command
-Nom nom nom
-Show them how pissed you are.
-Do Nothing
-Two muthafuckin lasers!
-Taste
-Salt in the eyes
-Stabs at your heart.
-Grope the enemy
-Drilled
-No Hope
-Energy Beams
-A burst of bullets
-Pick Swings (Richie)
-Paddle
-Single Out (Rag)
-Gainer (Kein)
-Power Bomb
-Stuns all enemies.
-Core Fireball
-Weaken (Prizmik)
-Skin (Hugo)
-Jeremy Gun Slam
-Bring Down the Thunder
-Return to Earth
-Breath of Life (1)
-Total Mutilation 2
-Power Fist
-Refuel
-Ascending Claw (Headbutt)
-Mind game chain
-Steady Aim (Joel Cutscene)
-Ready to wreck your world.
-Pray
-Cross Chop
-Stall
-Perforate (Hugo)
-Prevents easy knockouts!
-Shoot
-Double Bite (Krishna)
-Right Slash (Hugo)
-Cool Pose
-Power Fist (Prizmik)
-The wolfs blast
-Decapitate (Krishna)
-Encourage
-Power Down
-Blow some exhuast in your enemies\#face, it can be painful to the eyes.
-Tenchi Nage
-Burn, baby, burn.
-Steel Chair
-Magnifying Glass Burn
-Uppercut
-Borislav Prepare
-Cart Eject (Joel)
-Self-Flagellation
-Ouch...
-Basto Swing
-Pick weapon up
-X Slice
-Launching Uppercut (Ruth)
-Vampire
-Blade Retrieval
-Defend yourself. Grants Solid temporarily, reducing\#all damage taken for one turn.
-slams
-Inf Heal 3
-Double Attack
-Defend Friend
-Joel Stroke
-Enemy action. Causes enemy to flee from battle.
-Petroleum Firebomb (Certain)
-Goat Kick (Enemy)
-Arnold Prepare
-Dirty Bottle Throw (Kind)
-Pick Throw 2
-Meat Hose
-Bite (Borislav)
-Chest Burst
-Helicopter Kick (Zill)
-<anti fail>.\#<Motion Action = 4>
-Exhaust
-Jamie Restock
-Double Eye Beam (Borislav)
-Protects user and reduces damage taken.\#Restores some SP.
-Only a real looney could cackle like this.
-Power Fist (Beezy)
-richie shield
-Practiced wrist fling.
-Guillotine Choke
-Eat (Arnold)
-Power Fist (Kirk)
-Mikhail Boost (ATK)
-Slice (Apeshit)
-Attacks two random enemies.
-Scorpion Pinch
-Take a deep, painful breath. Restores much HP,\#but makes you Winded.
-Hair whip
-B-Ball Bash
-Slice 'n' Dice (Lester)
-Mikhail Boost (DEF)
-Bear Claw (Homer)
-Deep Exhale
-Brust Fire
-120
-A fearful slam!
-Throws an enemy
-Slice and dice!
-Shotgun Load
-A crying shame...
-Send them to the clouds.
-KABOOM (Start)
-Poison Shank
-Adjust Glasses(Kein)
-Rag Maggot Bite
-Phone Swing (Start)
-A boring attack.
-Finger Beam (Georgy 1)
-Elephant Gun
-Struggle (Floyd)
-does not kill all conditions
-Power Fist (Howard)
-Tibby Toss
-Limber Curse
-Get those strings in order.
-Solid Punch (No crit)
-Power Clothesline
-Heals all who hear the sound.
-You feel bad just watching this.
-Super Finger Beam
-Feels like getting slapped by a fish.
-Drop Kick
-We're not done yet.
-Phone Slam (Start)
-Jab Combo (Carlton)
-Reforms.
-Sweep
-Chopper Crush (S. Floyd)
-Cranium Crusher
-An empowering song.
-Rage build! 2
-Calamity Claw (Borislav)
-Neck Bite
-Carnage Whirl (Max)
-A concentration of energy blasted from the finger.
-Attacks three random enemies.
-Richie's signature.
-Anaconda gets his flame on.
-Liquor Swig
-Fire Spit (Borislav)
-Ends lives
-Twist those heels on their head.
-Kick (Georgy)
-Trash Talk
-Packing heat in the most literal way.
-Thunderstorm (Weaker
-Grab 2(Hugo)
-Davy Intimidate
-Heal
-Unnerving Laugh
-Intimidation
-Boxer's Stance (NOIP)
-Claw Attack
-A real sight for sore eyes.
-Power Clothesline (Max)
-Break a bottle for a nifty sharp weapon!
-Flame Burst
-Slice with a chance of burning!
-Damages the enemy, twice.
-Grab
-Wait
-Floyd Prepare (S. Floyd)
-Bite
-Lobotomy (Hugo)
-Focused thrust.
-Full Charge 2
-Knockout Roulette
-Gas Blast
-Burn, baby, BURN!
-A totally kickass song.
-Pipe Joust
-Gasoline Spew
-HOT!!
-Choke Rush
-Double Eye Beam (Shurik)
-Bludgeon (Max)
-Rub meat into your friend.
-300
-Mikhail Boost (MAT)
-Pete Prepare
-Rupturing Stab (Pope)
-Deep Poison Bite
-Behold, the power of Hell.
-A double foot press to the chest!
-Pistol Ready
-Channel Power (3 Sat)
-Chop
-Grasp
-Neck Bite (Rag)
-Heal Shurik
-Hugo Stab Series
-Deadly Stab
-Hand Slash
-done.
-Ramble
-In the face of hopelessness there is always nothing.
-Rupturing Stab
-Launching Uppercut (NOIP)
-Political Bore
-A flaming fist to the face!
-Wilbur's Inferno
-You'll find this one quite shocking.
-This is your last chance. Show them you are still\#standing. Grants use of Denier Fist.
-Not your everyday tire swing.
-Fireball
-Club Joust
-A blow from down under.
-Steady Aim (Joel)
-Pump Up
-A series of wild strikes.
-Prepare
-Crowd Lash
-Party Stance (Rag)
-Poison Mist
-Triple Arrow
-Maggot Spit
-What goes up...
-Moment of truth.
-Atlanta Slam
-Spark Spit
-Blood Whirpool (Hugo 2)
-Scratch
-Shove (Joel)
-When in doubt, punch it out.\#Has a chance to restore a small amount of SP.
-Gun Slam
-A glare
-A strong swing sure to knock your\#opponent out of the park... if it hits.
-X Chop
-Wake-Up Call (Salt)
-<anti fail>.\#<Motion Action = 5>
-Loose Sparks
-An evasive maneuver. Applies Dodged and gains\#50 TP. Can only be used while Solid.
-Rando Stab (Will)
-Blood for blood!
-A straight shot with the palm.
-Triple Fireball
-performs his Holiday Slam!
-Super Eye Beam
-GUN!
-Arrow
-Jeremy Gun Smack
-Stefan Prepare
-visual
-Brandish (Beezy)
-(SDDS) The unholy matrimony of a tornado and\#bloody fists. Applies Off-Balance to the user.
-Painted Red (Geen Shadow)
-Full Charge
-Gator Clamp
-(DASA) No one is safe. Can inflict\#Off-Balance and Fallen.
-Grope
-Grope (Raymund)
-Rupturing Stab (Combo)
-Slam those heels on their throat.
-Pistol Aim
-Bite (creep)
-brain chop
-Kick (No crit)
-Charge Claws
-Spear Slash
-Ram
-Double Joust
-Enemy realizes he's outnumbered.
-Scalpel Iris
-Wilbur Prepare
-smoke bomb
-Hand Slam (Benedictus)
-RealizationII
-Deep Stab (Daemon)
-Pick weapon up (Joel)
-Condition Killer (Zill)
-Stiff Arm
-Slice (Swing)
-Fire Everywhere (Wallaby)
-Blade Retrieval (Geen)
-Bear Claw (Nofold)
-Hydraulic Foot (Weaker)
-Club Strike (Homer)
-Prevents easy knockouts.\#Increased defense and TP gain.
-Squirm
-Wide Slash
-Electric Claw (Borislav)
-Fire Punch
-Patch Up (Jason Gear)
-Dreaming about it
-Protects user and reduces damage taken.
-Tackle (Rag)
-Solid Punch (Carlton)
-Choke To Death (Hugo)
-Heal Loyd
-Fire Beam (Clown)
-Feel The Hurt
-Super Brain Chop
-Maggot Bites
-Need a little juice...
-Rip them apart.
-Reignite (Kirk)
-Strike one, strike two! They're out!
-D. Jerky (Enemy)
-Pure of Flesh
-Arnold gets his flame on.
-Channel Power (2 Sat)
-Stare into the spiral... embrace the cycle.
-Shove
 Struggle
-To see better
-Car Slam
-TV Beam (Green)
-Stretch
-Chomp down on some tasty salt.
-Eye Gouge
-Special Hide
-Cut (Hugo)
-X Slice (Slim)
-Double Bite
-Jeremy Prepare
-Power Fist (Zill)
-Gear Up for Bone Snap
-Eerie Stare
-Think
-Heal Gin
-A precarious shank aimed for the vitals.
-Sweep (Geen Shadow)
-Pulverizer Fist (Weaker)
-Stops the opponent midair!
-Outta gas...
+Jab Combo (Birch)
+Let's do this!
+Spit
+Reignite (Kobra)
+Pick Whirl (Richie)
+Cool Pose
+Slice with a chance of burning!
+Thunderstorm
+Phone Slam
+Stomp a mudhole in your ass.
+Rage build!
+Arrow
+Grab (Warning)
+Gator Clamp
+Twist those heels on their head.
+smoke bomb
+Perfume (Grammar)
+Drilled
+Fire Everywhere (Wallaby)
+Kick The Bucket
+Slice 'n' Dice (Unspoken)
+When in doubt, punch it out.\#Has a chance to restore a small amount of SP.
+Revive animation.
+Heaven's Fist
+Jaw Grinder
+Vision of Violance
+Tiger Suplex (Gin)
+Steel Chair (Wily)
+Enemy realizes he's outnumbered.
+Psycho Chop (Laser
+Davy Prepare
+Elbow Hit (Nofold)
+Limber Curse
+<one animation>.\#<Motion Action = 4>
+Boomerang Toss
+Davy Meteor Shower
+An extended gut kick.
+Steel Chair
+Deadly Prepare (Hugo)
+Launching Uppercut (Ruth)
+Pick weapon up (Joel)
+Weaken (Prizmik)
+This one cuts deep.
+Full Thrust (Petey)
+Paralyzing Bite
+Smile
+Blade Retrieval
 Flame Sweep
-Shotty Blast
-Violin Strike (Ygor)
+Limb Twist
+Unnerving Laugh (Kein)
+Grab 2(Hugo)
+Double Bite (Creep)
+Pure of Flesh
+Meat Signal
+Dirty Bottle Throw
+Helicopter Kick
+A demotivating song.
+50
+Shank (Hugo)
+Double Eye Beam
+Guillotine Choke
+Ends lives
+Loose Sparks
+Finger Beam (Prizmik)
+Eat
+Reason
+Aim
+Not your everyday tire swing.
+Sniff
+Rip them apart.
+Dreaming about it
+Get them pumped up!
+Salt Shield
+Bottle Throw (No crit)
+The Punch (NOIP)
+Scalpel Iris
+Rock Slam
+Better watch out.
 Scythe Slash
-Club Strike (but epic)
-Solid Punch (Alex)
-Heal Laser
-Ingest 2
-Eat (Francis)
-Crystal Spear
-Lash (Cunningham)
-Decapitate
-The hair whips at you!
-Power Fist (Slim)
-Spray Water
-Flail (No crit)
-Block
-Screams of the Past
-Deer Horn
-T. Edge Penalty
-Cry
-Holiday Slam
-Psycho Stomp
-Tenderize
-Buff Curse
+Nom nom nom
+Taste
+Meat toss.
+Preparation for devastation.
+Party mode activate
+Deals fire damage to one enemy.
+Hydraulic Foot (Weaker)
+Eat (Joel)
+A crying shame...
+Trash (Swing)
+Glass Breaker Backfire
+Softener Hook
+We're not done yet.
+Tibby Toss
+A big chomp
+A weak punch. Builds 10 TP.
+Cranium Crusher
+Prevents easy knockouts.\#Increased defense and TP gain.
+Observe
++50
+Stretch
 kick dirt in the eyes of the enemy
-The Major Iris (Enemy)
-Break Bottle
+Fire Spit (Kirk)
+Inspect
+The weight of a tank pressing down on you.
+Francis Combo 1
+Pick weapon up (Earheart)
+Steady Aim (Joel Shadow)
+Wilbur's Curse
+Boxer's Stance (Birch)
+Inf Heal 2
+Jab Combo (NOIP)
+Hair slick
+Choirboy's Screach
+Shotty Jam
+(DASA) No one is safe. Can inflict\#Off-Balance and Fallen.
+Glare
+Pawnch.
+250
+Slits your throat!
+triple bottle
+Slice (Krishna)
+Silken Wrist (Axe Kick)
+Power Fist (Beezy)
+Carnage Whirl (Max)
+Bear Claw (Nofold)
+Back Off
+Brandish
+Executioner Slam (Carlton)
+Bear Claw (NOIP)
+Salt in the eyes
+Plank Slash (Krishna)
+Blood Whirpool (Hugo 2)
+Jaw Grinder (Creep)
+Gas Blast
+Stomp
+A vicious series of talon slashes.
+Grab (pete)
+Perforate (Hugo)
+A big hand clamp
+Claws for everyone!
+Bring down the wrath of the gods on their bitch asses.
+Your face was in the way.
+Heals all who hear the sound.
+Blood Punch Penalty
+Petroleum Firebomb
+BASH (Cunningham)
+Political Bore
+Infinite Deathmaker (Borislav)
+Club Strike
+Pissed Curse
+Total Mutilation
+Rage build! (Kent)
+Uppercut
+poison shanks
+The wolfs blast
+Bite
+Encourage 2
+Anaconda's pulling out all the stops!
+Blow some exhaust in your enemies\#face, it can be painful to the eyes.
+Three slashes, hot and ready!
+A loving back massage...
+Aim for the eyes!
+Aim (Jamie)
+Violin Bow
+This is your last chance. Show them you are still\#standing. Grants use of Denier Fist.
+Atlanta Slam
+Think
+Bludgeon (Homer)
+Hock a bloody loogie in their eyes to inflict\#blindness. They can't hit what they can't see.
+Cart Eject (Joel)
+Punish the enemy.
+Tenchi Nage
+Making sure everything is in order.
+Double Sweep
+A sucker punch maneuver to take back their weapon.
+Firearchy
+Trash Throw
+Pick it back up!
+A piercing blow with a thumb.
+Keep that moron safe!
+Calamity Claw (Weaker)
+Basto Swing
+Only a real looney could cackle like this.
+Perforate (Hugo 2)
+Patch Up (Jason Gear)
+(SSDA) Hit them so hard their blood comes out.\#Deals a small amount of recoil damage.
+smacks you with his cane!
+Paddle
+Demon Eye
+'s fate is sealed.
+Cart Eject (Salt)
+Paralysis Curse
+Shoot
+Deep Exhale
+Parry Failed (Hugo)
+<anti fail>.\#<Motion Action = 5>
+Mikhail Prepare
+Howling Gyser
+Realization
+Demon Eye (Shurik)
+Total Mutilation 2
+A blast of fire that burns everyone.
+Ramble
+Kick (No crit)
+Party Stance
+Chop
+Tackle (Georgy)
+Open wide.
+Joel's coming in like a cannonball!
+Double Bite (Torque)
+Twin Fireballs
+Hand Slam (Benedictus)
 Blood cough
+Whales on you!
+Heal Tok
+Migraine Maker
+Send him to Hell!
+Jamie Restock
+Wriggle wriggle.
+Head Twist
+Symphonic Bliss
+Single Out (Rag)
+Wake-Up Call (Salt)
+RealizationII
+Breath of Life (1)
+Davy Fireball 2
+Richie's signature.
+Makes you hard to grasp!
+Talon Rush (Conrad)
+Combo breaker!
+Dirty Bottle Throw (Clown)
+Joy (Slim)
+Gasoline Spit
+performs his Holiday Slam!
+Crystal Spear
+Pump Up
+Petroleum Firebomb (Certain)
+Basto Swing Damage
+A raining fist from above.
+Unnerving Laugh
+You know what happens next...
+Tsunami Driver
+Bone Break
+Bite (creep)
+Slice (Apeshit)
+Wide Slash
+Anaconda Prepare
+A blow from down under.
+Augustus sprays
+The Punch
+Defend Friend
+Ingest 2
+The Major Iris (Enemy)
+Double Thumb Jab
+Enemy cries
+Hide
+Solid Guard
+TV Beam (Red)
+Unnerving Laugh (Slim)
+'Round and 'round it goes...
+done.
+Denier Fist
+Pummel (Richie)
+Phone Swing (Start)
+The final supreme technique.\#Fucks you up.
+Maggot Bites
+Wait
+Enemy pleads
+Softener Hook (Hugo)
+Club Strike (but epic)
+Triple Fireball
+Deer Horn
+Revenge.
+Pray
+Rag Maggot Bite
+Friendly Fire Club Strike
+Finger Beam 2 (Georgy 1)
+Rupturing Stab (Combo)
+SPECIAL HIDE FOR USE IN CROWD FIGHT
+The Punch (Borislav)
+Debuff Chord
+You feel weird just watching this.
+Magnifying Glass Burn
+A strong swing sure to knock your\#opponent out of the park... if it hits.
+Solid Punch (Nofold)
+Ready to wreck your world.
+Calamity Claw (Borislav)
+Trash (Slam)
+Snip snip!
+Jeremy Prepare
+Bludgeon (Donovan)
+(ASDD) Send them to the clouds. Launches the\#target into the air, but misses often.
+Choke (Pete)
+Smart Tackle
+Tire Swing
+Blow some exhuast in your enemies\#face, it can be painful to the eyes.
+Jump Bite
+Stall
+A concentration of energy blasted from the eye.
+Roost
+This is the end.
+Prepare for true brutality.\#Grants use of Migraine Maker. Removes Solid.
+Launching Uppercut
+Familiar Song
+Flail
+Intimidation
+Refuel
+Hugo Stab Series
+Fire Punch
+Break Bottle
+Steady Aim (Joel Cutscene)
+Trash (Swing 2)
+Psycho Laugh
+Gainer (Petey)
+Knife Intimidate (Beezy)
+Enter NOiP
+Aim Down
+Mikhail Boost (DEF)
+Knockout Roulette
+A fearful slam!
+No one likes being pointed at.
+HOT!!
+Spear Slash
+A strong attack against one enemy.
+Psycho Stomp
 Charge
+Tastes like cherry soda.
+Catapult Christening
+Bottle Throw
+Super Spray
+Sniffs
+A blast from the corneas to your ass.
+A little too close for comfort.
+Shock Strike
+Pick Swing (Richie)
+Jab Combo (Carlton)
+Laugh
+Nom nom nom.
+Feed Friend
+150
+Davy Fireball
+Shove (Joel)
+Special Hide
+Boomerang Combo
+Eye Beam
+Choke To Death (Pete)
+Rage build! (Richie)
+Tackle
+Protects user and reduces damage taken.\#Restores some SP.
+Paint Streak
+Feed (Lester)
+Protects user and reduces damage taken.
+Brandish (Beezy)
+Spray Water
+Trash Talk
+Strike one, strike two! They're out!
+Aim For the Eyes
+Nightmare Bile (Conrad)
+Beak Stab
+Graveyard Bomb
+Triple Attack
+Slice 'n' Dice
+A flaming fist to the face!
+Damages the enemy.
+Power Fist (Kirk)
+Gasoline Spew
+Green Splash
+Tiger Suplex
+Heal Gin
+Serjio chad
+A series of wild strikes.
+Lash
+Quad Fireball
+Power Fist (Earheart)
+Left Slash (Hugo)
+Take a deep breath to relieve some tension.
+Triple Bottle
+Power Bomb
+Scorpion Grab (Alt)
+Stops the opponent midair!
+Tackle (Pete)
+Super Finger Beam
+Watery Whap
+Yell
+Scorpion Pinch (Alt)
+Noxious Fireball
+Arnold Regen
+Deep Stab (Hugo)
+Lick
+Club Joust (Homer)
+Locked on.
+uuuuuuh
+Mongolian Chop
+Didn't your mother tell you not to play with knives?
+A big smile.
+Talk mad trash.
+Phone Slam (Start)
+Stiff Arm
+Wallaby Fireball
+Cinderblock
+Reignite (Kirk)
+Yell (Creep)
+Sword Slash
+Double Finger Beam (Howard)
+Makes you feel like you're cool,\#but you're really not.
+Picks a victim.
+Chriss's signature move. You won't get up after\#this one.
+X Slice
+Richie's second signature.
+Big slice (Scorpion)
+Punch
+Power Fist (Petey)
+<anti fail>.\#<Motion Action = 4>
+Shag (Enemy)
+Elephant Gun
+Floyd Prepare (S. Floyd)
+An Australian classic.
+D. Jerky (Enemy)
+Kick
+Leaves an Alex-shaped hole in the ground.
+Jeremy Gun Smack
+Swat (Enemy)
+Grope
+Silken Wrist (Thrust)
+Cough up blood
+Eat (Wily)
+Heal Chord
+Executioner Slam
+An empowering song.
+Slice and dice!
+Pulverizer Fist
+flesh heal 2(torque)
+Slice (No crit)
+Firecracker
+Solid Punch (Hugo)
+Stomp (Carlton)
+Party Stance (Rag)
+Inf Heal
+Receive the signal and become divine.
+No one is anything more or less than meat.
+Scratch
+Give him your power.
+Solid Punch (Alex)
+A fearful X chop
+Floyd Prepare
+Party Pack (Enemy)
+Stomp (Pete)
+Mind game chain
+A modern martial art.
+Anaconda gets his flame on.
+Grab
+kicks the bucket.
+Taste Blood (Homer)
+Pick that shit up!
+Spanks Laugh
+Davy Intimidate
+Chopper Slash (S. Floyd)
+Sparkler Slash
+Struggle (Floyd)
+Super Eye Beam
+Grin
+Slice (Chop)
+Ascending Claw (Headbutt)
+Decapitate
+Double Bite (Max)
+Swoop
+Painted Red (Geen Shadow)
+Hand Slash
+Cheers!
+Phone Swing
+A one and a two!
+Chomp down on some tasty salt.
+Double Scratch
+Plead
+ENEMY ATTACKS
+Heal Loyd
+One gash for every member!
+Energy Beams
+Arnold Prepare
+Joel Shield
+Steady Aim (Joel)
+Charge (Weaker)
+Slam into the enemy.
+Frown
+Club Strike (Homer)
+A quick kick with a chance to make you fall.
+Eerie Stare
+Heals.
+Catapult Christening (Birch)
+Breath of Life (2)
+Breath of Life Heal
+Divebomb
+Shove
+Joel's gun would never do this.
+Double Eye Beam (Shurik)
+Slice (Apeshit 2)
+Tenderize (You know who)
+Exhaust
+Hiss
+X Slice (Scorpion)
+120
+Scorpion Pinch
+Finger Beam
+Magic Stab (Prizmik)
+Five-fingered demise.
+Solid Punch
+<one animation>.\#<Motion Action = 5>
+Breathe In
+Pick weapon up (No Anim)
+Solid Punch (Carlton)
+Devastating Chomp
+Encourage
+Rando Stab (Floyd)
+Boxer's Stance
+Liquor Swig
+brain chop
+Club Joust
+Peck
+Shotty Blast
+salty day
+Slice 'n' Dice (Slim2)
+Command
+Pick Swings (Richie)
+Holiday Slam
+Bully
+Reignite (Gremory)
+Bark
+bludgeons you!
+Heaven's Fist (Birch)
+Scared
+Their bodies are still, but their voices are ceaseless.
+Drop Kick (Kein)
+Yoke up
+Trowel Ravage (Enemy)
+An assault on the ears.
+Water Splash (Enemy)
+Attacks two random enemies.
+Ram
+See no future
+Behold, the power of Hell.
+Condition Killer (Zill)
+Beast Claw
+Unleash your foul odor unto the world.
+slams
+An unhealing song.
+visual
+Debuff Curse
+Double Bite (Krishna)
+Flail (No crit)
+Poison Shank
+200
+Chopper Crush (S. Floyd)
+Flame Burst
+Tenderize
+Glass Shard Recoil
+Red Lick (Hugo)
+Watch me shank bruv!
+You feel bad just watching this.
+Tackle (Rag)
+Drink 'em up.
+Attacks three random enemies.
+Spit highly flammable liquid all over your\#opponent.
+Clip Dump
+Foresee their demise in your eyes...
+Softener Hook (Petey)
+A uniquely avian technique
+Pistol Ready
+Brandish (Slim)
+Dirty Bottle Throw (Kind)
+Someone's got a leak.
+Deep Poison Bite
+Rearm
+Adjust Glasses(Kein)
+Feels like getting slapped by a fish.
+Wizard Poke
+Maggot Spit
+Rub meat into your friend.
+Pulverizer Fist (Weaker)
+Club Swing (Homer)
+Crack the whip on a poor fool.
+Watch out watch out WATCH OUT!
+Boxer's Rushdown (NOIP)
+A violent toss of the opponent's helpless form.
+Poison Bite
+Rage build! (Scorp)
+Tell these dipshits what to do!
+Slice 'n' Dice (Slim)
+Corps Crasher
+Squirm
+Advancing Stance (Enemy)
+Chest Burst
+Carnage Whirl (Cool)
+boxer stance but sideways
+Channel Power (1 Sat)
+Confused?
+Get that throat!
+Prepare
+Lobotomy After (Hugo)
+Jeremy Gun Slam
+Poison Mist
+Ram (Salt Cart)
+Skin (Hugo)
+Grasp
+Decapitate (Krishna)
+Reforms.
+You'll find this one quite shocking.
+Electric Claw (Borislav)
+Claw Attack (Creep)
+Shove (Geen Start)
+Fireball
+Joel Throw
+Accept
+Windpipe Crusher (Jeremy)
+Talon Rush
+Double Bite (Kobra)
+Shotgun Load
+A real sight for sore eyes.
+Infinite Deathmaker
+Electric Claw
+Someone's hungry.
+Wilbur Feed
+Block
+Gearing Up for Chomp
+Power Fist (Tenderizer)
+Crowd Slash
+Rest but for birds.
+Triple Bottle (Kobra)
+Cosmic Chop
+Shoots at you!
+Magic Geyser
+Sweep (Geen Shadow)
+A fearsome slam!
+flesh heal (torque)
+Moment of truth.
+A swift arrow
+Guillotine Choke (Gin)
+Neck Bite
+Ouch.
+70 Bleed
+A double chop to the neck
+Sweep
+Screams of the Past
+Meat Chant
+Taste Blood
+Does nothing.
+Double Attack
+Glare (Borislav)
+Loose Sparks (Borislav)
+shatters your posture!
+X Chop
+Crystal Spew
+Eyes Amongst Us
+Double Joust
+Lash Arms(Cunningham)
+Give your team some much needed motivation.
+*Gremory* gets his flame on.
+Lobotomy (Hugo)
+Grope (Raymund)
+Aikido Stance
+Prevents easy knockouts!
+Mikhail Boost (MP)
+Charge Up 2 (Borislav)
+Joel Throw Off
+Fire Beam (Laser Eye)
+Buster Punches
+Heart Squeeze
+Everyone's getting nicked by this.
+300
+Power Clothesline
+Throws an enemy
+Refuse to surrender. End their life.
+Power Clothesline (Max)
+Eat (Fecal)
+Wake-Up Call
+Spray
+Dirt Kick
+Goat Kick (Enemy)
+Big slice
+Richie Grab
+Eat 2(Arnold)
+Launch Tibby like a missile at one opponent.\#High chance to stun. Also stuns and damages Tibby.
+Brain Chop
+does not kill all conditions
+performs his Atlanta Slam!
+ENEMY ATTACKS!!!!
+Car Noise
+Deep Stab (Daemon)
+Boxer's Stance (NOIP)
+Cord Lash
+A simple yet decisive display of carnage.
+Puts all enemies to sleep.
+A lightning fast slash guaranteed to go first.
+Goat Headbutt (Ruth)
+Everyone is fired!
+An extended kick.
+Choke Rush
+An evasive maneuver. Applies Dodged and gains\#50 TP. Can only be used while Solid.
+Pray (Rag)
+Get under cover, 'cause it's about to rain.
+Blood for blood!
+A fearful belly to back slam!
+Solid Punch (Arnold)
+Buff Chord
+KABOOM
+Watch it all transpire.
+Gun.
+Recovers user's HP.
+Power Fist (Danger)
+Double Sweep (Hugo)
+Bludgeon (Max)
+T. Edge Penalty
+Psycho Kick
+Blood Heal
+Stefan Prepare
+Solid Curse
+Crowd Lash
+Lash (Cunningham)
+End his life.
+See no hope
+Blood Whirpool (Hugo)
+A stiff push
+Core Fireball
+Damages enemy
+Blade Retrieval (Beezy)
+Skill #2 will be used when you select\#the Guard command.
+Pray 2(Rag)
+Builds up for a devastating assault.
+Mmmmm.
+Cry
+Hugo Taunt
+Ironbody
+Triple Bottle (Earheart)
+Damages the enemy, twice.
+Wait (Friends)
+Will be hard to breathe after this one.
+No Hope
+Chop his head off.
+Do Nothing
+Smell the sweet scent of life.
+Prizmik Combo 2
+Take a deep, painful breath. Restores much HP,\#but makes you Winded.
+Slice (Swing)
+Sleep Breath
+Snap out of it, dumbass!
+Eats jerks
+Drop Kick (Raymund)
+Gun Slam
+Channel Power (3 Sat)
+Pick Swing
+Perfume
+strikes with his stunner!
+Cross Chop
+A straight shot with the palm.
+Twin Fireballs (NOIP Boss)
+Carnage Whirl
+A huge swing to destroy the opposition.
+SP Drain
+No one is safe.
+Power Fist (Prizmik)
+Heal Laser
+Bear Claw (Homer)
+Purple Flair (Prizmik)
+Buffalo Charge!
+Glassing Attack (Darry)
+Boxer's Rushdown
+Power Fist (Howard)
+Stuns all enemies.
+Team Play
+Charge Up (Borislav)
+Demon Eye (Laser)
+Chopper Slash
+Bring Down the Thunder
+Chop (Krishna)
+Fills hearts with lust for murder.
+Rando Buster
+Joel Stroke
+That's what you get for playing with broken glass.
+Gas Blast (Single Target)
+Spread the wildfire.
+Hair whip
+a lame looking slap type thing.
+Power Fist (Zill)
+Oil Shower
+Cane Smack
+Quick Draw
+Back Rub
+You're in trouble now.
+Eeeeeeewwwwwwwwwwww.
+Two muthafuckin lasers!
+The hair whips at you!
+Dispense the contents of your stomach on their face.
+Slice
+Takedown (Clark)
+Rando Bomb (Will)
+Meditate
+Francis Combo 2
+Heal
+Mikhail Boost (ATK)
+Restores HP to one ally.
+Iced Coffee (Enemy)
+Double Joust (Cunningham)
+Fire Beam
+Dirty Bottle Throw (Joel)
+cuts you open!
+Tune Violin
+(SDDS) The unholy matrimony of a tornado and\#bloody fists. Applies Off-Balance to the user.
+Blood Spit
+Dual Attack
+Spit Poison
+Drop Kick
+Gear Up for Bone Snap
+Focused thrust.
+G. Petunia
+Hugo Block
+(ADAS) An illegal move in boxing, but all is fair\#in the Franchise. Disarms Armed opponents.
+Super Charge
+Full Charge
+Scalpel Draw (Hugo)
+Wild Strike!
+Power Clothsline (Homer)
+Winded Curse
+Anaconda Assault
+Fried Skin
+Foul Ball Fail
+Space case.
+One whiff of this, and it's game over...
+Pistol Aim
+Jab Combo
+Pistol Ready (Joel)
+Channel Power (2 Sat)
+Alex Escape
+Defend yourself
+Pipe Joust
+Neck Bite (Rag)
+X Slice (Slim)
+Stare into the spiral... embrace the cycle.
+Conrad Claw
+Noxious Breath
+A boring attack.
+Single Out (Joel)
+Knife Hand (Slim)
+Hook Kick
+Preach of liberation in violance!
+What goes up...
+car slam
+A glare
+In the face of hopelessness there is always...
+Hit yourself, let it hurt the more.
+Prizmik Combo 1
+Absorbs enemy's HP.
+The ultimate headache.\#No one has ever survived this technique.
+Purple Flair
+Eat (Arnold)
+Hits an enemy twice!
+Charge Up
+Deadly Combo (Hugo)
+Receive the scent
+Softener Hook (Hugo 3)
+performs his Hollywood Hustle!
+Lost in thought
+Enemy action. Causes enemy to flee from battle.
+Double Bite
+Gainer
+Jerky (Enemy)
+Thunderstorm (Weaker
+Anaconda Assault 2
+Send them to the clouds.
+Mikhail Boost (MAT)
+Deadly Prepare (Pope)
+Hydraulic Foot
+Solid Punch (Ruth)
+Stefan Throw
+A fearful chair slam!
+dead
+Calamity Claw
+Rupturing Stab (Pope)
+Slam those heels on their throat.
+Finisher
+Gear Up
+Run away
+Knuckle Breaker
+Flame Burst (Prizmik)
+Feel The Hurt
+Cut (Hugo)
+Apologizes
+Heal Curse
+Raymund Taste
+Pick Throw
+Special Hide 2
+Grab (Hugo)
+Takedown (Salt)
+Charge Claws
+(SSA) The ol' one-two-three.
+Pick weapon up
+Wilbur Prepare
+Leg Clamp
+Car Slam
+KABOOM (Start)
+Eat Maggots
+Ouch...
+Deals fire damage to all enemies.
+Inf Heal 3
+Spark Spit
+Choke To Death (Hugo)
+Burn, baby, burn.
+Meat Hose
+Poison Dart (Daemon)
+Painted Red (Slim)
+Mikhail Boost (AGI)
+Pulverize their flesh.
+Brust Fire
+Spark Spit (Weaker)
+Finger Beam (Georgy 1)
+Rando Stab (Will)
+Reignite
+Outta gas...
+Get juiced before tearing them apart.
+Gainer (Kein)
+Pick Throw 2
+Peer
+Violin Strike (Ygor)
+TV Flash
+Kill Signal
+Speak the lanuage of flames.
+In the face of hopelessness there is always nothing.
+Space case
+An attack that looks like a malfunction.
+Blade Retrieval (Geen)
+Full Thrust (Enemy)
+Full Charge 2
+Slice 'n' Dice (Lester)
+Triple Arrow
+Pistol FIRE
+Club Strike (Clark)
+Bully (Gin)
+Claw Attack
+Deadly Stab
+Patch Up (Jason)
+Yell (Alt)
+Don't hurt him...
+Bottle Throw (Joel)
+Lash Legs(Cunningham)
+Reform
+Blood Punch
+Fire Spit
+Horse Jerky (Enemy)
+Shock Strike (Borislav)
+Artery Pop (Hugo)
+Smile (Rag)
+Talon Rush (Krishna)
 Force Gear
+Big Swing
+Load and Aim
+Horrified
+A totally kickass song.
+Heat Fever
+Fruit Throw (Darry)
+Need a little juice...
+Itty bitty bites from itty bitty mouths.
+B-Ball Bash
+Bleed Chord
+A burst of bullets
+Vampire
+Power Fist (Kein)
+Pipe Joust (Clark)
+Anaconda's Inferno
+What goes around comes around!
+Knife Hand
+Psycho Chop
+Right Slash (Hugo)
+richie shield
+This thing's a little heavy...
+Burn, baby, BURN!
+Launching Uppercut (NOIP)
+Joyous Fist
+Super Brain Chop
+Power Fist (Slim)
+Helicopter Kick (Zill)
+Double Eye Beam (Borislav)
+No style. Only pure violence.
+Do you joy?
+Confidence in the face of danger can be one\#of the most unnerving things.
+Danger Special
+Feed
+Piledriver
+Basto Slam Damage
+Rock Swing
+Heal Shurik
+Wilbur's Inferno
+Eye Gouge
+Power Fist (NOIP)
+Power Fist (Borislav)
+Dwight Prepare
+Double Jump Kick
+A healing song.
+Visceral Bathe
+Side Kick (Goat Kick)
+Basto Slam
+Stabs at your heart.
+Poison Bite (Borislav)
+Solid Punch (No crit)
+GUN!
+A breath of fresh air to get them back in order.
+Return to Earth
+Firebomb Prepare
+Salt in the Eyes
+Spew (Salt)
+Joel Strangle
+Packing heat in the most literal way.
+Spit (Rag)
+Seriously?
+Arnold gets his flame on.
+Realize you're in a fight.
+Friendly Fire Stomp
+Stomp (Petey)
+Borislav Prepare
+Break a bottle for a nifty sharp weapon!
+Buff Curse
+Scorpion Sting 2
+Backwards thrust.
+Self-Flagellation
+shanks
+The ultimate disrespect.
+Gun?
+Power Fist
+Chopper Crush
+A concentration of energy blasted from the finger.
+A precarious shank aimed for the vitals.
+Oops...
+Stretch that bod, get limber!
+Double Finger Beam
+Rando Bomb
+Car Slam start
+Rupturing Stab
+The ultimate disrespect made\#even more disrespectful.
+Bellucci Buster
+Shock 'em black!
+Shriek
+Grope the enemy
+Fire Beam (Clown)
+Eat (Francis)
+Windpipe Crusher
+Star Stab (Hugo)
+Softener Hook (Hugo 2)
+Show them how pissed you are.
+Bite (Borislav)
+Get those strings in order.
+To see better
+Gas 'er up!
+An Australian classic
+Kick (Georgy)
+Practiced wrist fling.
+At this point, it's already over.
+A double foot press to the chest!
+Psycho Kick (Laser)
+TV Beam (Green)
+Slurrrrrrrp.
+Reignite (Arnold)
+Hollywood Hustle
+TV Noise
+Knife Hand (Borislav)
+Infinite Hypnosis
+Crackle slash!
+Heal Rusty
+Ingest (Salt)
+a tackle
+Fire Spit (Borislav)
+its a minecart
+Hit yourself and go nuts!
+Defend yourself. Grants Solid temporarily, reducing\#all damage taken for one turn.
+Power Down
+Mikhail Boost (MDF)
+Thumb Stab
+Rage build! 2
+Pete Prepare
+Scorpion Sting
+Gather power for a devastating blast.
+splashes
+Catapult Christening (Pete)
 <!-- File: states -->
-Hidden Prio 2
-Geen warfare scimitar
-resist rage
-francis gang buff
-Lead heel
-geen shiv
-Secondary Threshold
-davy resist
-shurik needs heal
-Joel Solo Buff lesser
-resist fluster
-bite
-S. Coat Shadow Buff
-helmet counter
-he cannot crit
-Hidden Hit Rate
-joel davy glasses
-tibs buff 2
-Comfy
-No rng
-resist fallen alex
-geen scorp stinger
-Geen Rainbow Painter
-Rearm Lock
-kirk dangerous
-salt devil gloves
-coffee chad
-State #1 will be automatically added when\#HP reaches 0.\#\#<popup hide add>\#<popup hide rem>\#<popup hide dur>
-Geen nerf
-Bellow Threshold 2
-knuckle
-Geen goth painter
-alive mud
-Slow asf
-Churchland fight
-liquor shit
-Cart Down
-beezy buff
-Hidden Deprio 2
-dies
-Geen Combat Knife
 Core Buff
-Hidden Prio
-Folds Buff
-Joel Fight with S. Coat
-Grabbed (Penalty)
-Bellow Threshold 3
-loyd needs heal
-KO'ed fake
-donovan aggro
-Bellow Threshold 4
-Tertiary Threshold
-laser needs heal
-Joel Fez
-Joel Solo Buff
-bleeded
+resist rage
 Bellow Threshold
+Bellow Threshold 4
+alive mud
+Joel Solo Buff lesser
+Joel Slight nerf
+Joel Fez
+Churchland fight (Jersey)
+Joel Fight with S. Coat
+Geen warfare scimitar
+bite
+Geen goth painter
+tibs buff 2
+salt devil gloves
+Geen Combat Knife
+Grabbed (Penalty)
 Friends Phase 1 Buff
-Alive
-atk buff
-Armed Nerf
-Arnold Stun
+Geen nerf
+beezy buff
+Dropkick
 Speed Buff
+Resist scared
+Hidden DePrio
+resist fluster
+State #1 will be automatically added when\#HP reaches 0.\#\#<popup hide add>\#<popup hide rem>\#<popup hide dur>
+Slow asf
+liquor shit
+Hidden Prio
+Lead heel
+Geen buff no rainbow
+atk buff
+resist fallen alex
+he cannot crit
+dies
 killjoy full party
-advancing stance
-petunia
-salt wretched glove
-Eaten
-kick the bucket
-tibs buff
 gin needs heal
-Elbow Penalty
-joel topper
+tok needs heal
+Eaten
+KO'ed fake
+Alive
 Adrenaline
 resist fallen
-Resist scared
-mud charm counter
-Armed buff hidden
-joel raincoat
-Hidden Prio 3
-tok needs heal
-Dropkick
+Hidden Deprio 2
+Bellow Threshold 3
 rusty needs heal
-Geen buff no rainbow
-Joel Slight nerf
-Friends Phase 3 DeBuff
-Hidden DePrio
-Churchland fight (Jersey)
-chad water
+No rng
+laser needs heal
+Geen Rainbow Painter
+bleeded
+Arnold Stun
 Swelter
+helmet counter
+Bellow Threshold 2
+S. Coat Shadow Buff
+geen scorp stinger
+Folds Buff
+Joel Solo Buff
+salt wretched glove
+joel davy glasses
+geen shiv
+mud charm counter
+Rearm Lock
+davy resist
+kick the bucket
+donovan aggro
+kirk dangerous
+Tertiary Threshold
+loyd needs heal
+Elbow Penalty
+Armed Nerf
+Churchland fight
+Hidden Hit Rate
+petunia
+joel raincoat
+Cart Down
+Friends Phase 3 DeBuff
+francis gang buff
+Hidden Prio 3
+chad water
+advancing stance
+Comfy
+Hidden Prio 2
+tibs buff
+coffee chad
+joel topper
+Armed buff hidden
+shurik needs heal
+Secondary Threshold
+knuckle
 <!-- File: troops -->
 <!-- File: weapons -->
 <!-- File: system -->
+Holy
+Draw
+Slash
+Unknown
 Robes
 Animal
-Killer Moves
-Songs
-Headbutt 2
+Physical
+Rags
+Stretch
+Crushing
+Bite
+Dark
+Neu Style
+Batting
+Coat
+Pierce
+Bullet
+Kat
 Airborne
 Advisory
-Heavy Armor
-Dance
-Crystals
-Pierce
-Jerseys
-Electric
-Hat
-Fire
-Crushing
-Bloodletting
-Physical
-Rough
-Basic
-Unknown
-Dozing
-Pants
-Seduction
-Punjabi Poke
 Jewelry
-Rags
-Coat
+Dance
+Killer Moves
+Headbutt 2
+Hat
+Bloodletting
 Horseplay
-Critters
-Stretch
-Bullet
-Holy
-Blades
-Draw
-Kat
-Bite
-Nude
 Desperation
-Neckwear
-Stretch 2
 Gentle
 Absorb
-Wraps
-Slice
 Loving
-Dark
-Slash
-Batting
-Headbutt
+Peckings
+Wraps
+Rough
+Pants
 Censer
+Blades
+Critters
+Stretch 2
+Slice
+Punjabi Poke
+Heavy Armor
+Basic
+Electric
+Crystals
+Songs
+Seduction
+Jerseys
+Nude
+Neckwear
+Fire
+Dozing
+Headbutt
 Ponchos
 Materials
-Peckings
-Neu Style
 <!-- File: scripts -->
-ォ
-て
-Courier
-ウ
-user32
-В
-ŷ
-せ
-決定
-Ы
-b
-Salt must have at least 2 characters.
-Ｈ
-Л
-+%s
-サ
-ATTACK
-$KENT Kent Walk Bat
-\eC[7]
-ぃ
-f
-YEA-CoreEngine
-Skill3
-lcmScriptToggle
-$KENT Tibby Walk
-MessageBox
-ヒ
-Й
-バ
-ご
 DEFAULT
-grass
--%s 
-Ё
-ｖ
-shopkeeper
-Ｐ
-Ō
-$KENT Kent Jump Ka
-down
-ｒ
-alex quiet
-ゎ
-も
-ｊ
-Ｓ
-い
-ラ
-Т
-ミ
-Ú
-ろ
-alex inf.
-F
-д
-alex inf. crawling
-PoisonSwamp
-Þ
-け
-ｃ
-ｅ
- V
-ｐ
-ふ
-わ
-ß
-V [%04d-%04d]
-ъ
-D
- A
-ADDSTATE
-YEA-CastAnimations
-EQUIP
-L
-keep skills
-text
-Ｙ
-め
-ツ
-ハ
-Š
-W
-む
-YEA-InputComboSkills
-ú
-YSE - Basic Module
-Â
-Q
-щ
-じ
-Ü
-Ē
-ぽ
-ノ
-Ｉ
-Э
-ぅ
-＜
-ž
-H
-す
-lcm outfit for situation is 
-Ñ
-く
-Water1
-Impact
-c
-ほ
-YEA-ClassSystem
-$Alex Inf. Drop
-Desert
-buff
-ぱ
-ゃ
-コ
-$Alex Inf. Drop 2
-シ
-а
-を
-ホ
-ん
-þ
-$Alex in rags head down
-alex endless
-\eI[%d]
-x
-Я
-ム
-ｍ
-dirt echo
-п
-ぶ
-ぴ
- отравлено!
-abcdefghjkmnpqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ0123456789
-$BOB Bob Walk
-ド
-で
-ロ
-ヨ
-Common event calls exceeded the limit.
-Ｏ
-ÿ
-Ю
-　
-í
-w
-プ
- W
-ō
-ｇ
-$Alex Inf.
-the kent bat
-CRITICAL
-に
-ｚ
-$BOB Bob Fall
-Help description used for custom variable 1.
-л
-ず
-テ
-Damage3
-и
-NOTEXT
- покрыта грязью!
-Y
-alex and joel
-À
 ダ
-ュ
-ｉ
-YEA-AdjustLimits
-NEGATIVE
- O
-Ĳ
-ä
+Chime1
+Shadow
++%s 
+ D
+～
+þ
+ж
+そ
+ゔ
 Skill2
-u
-б
-Player's starting position is not set.
- J
-Ч
-ａ
-メ
-end phase
-DoubleX RMVXA Percentage Addon to YEA-EnemyHPBars
-Ｎ
-misslisa
-A
-up
-С
-ｆ
-グ
-Earth5
-Ｒ
-フ
-Ь
-う
-ヮ
-З
-ょ
-が
-м
-g
-Ý
-れ
-ア
-ケ
-tibby dobs
-Е
-ｌ
-Ｇ
-S [%04d-%04d]
-É
-ャ
- M
-e
-Ｅ
-â
-ū
-×%s
-å
-Ç
-Щ
-Ｕ
- G
-び
-ギ
-Г
-ピ
- H
-の
-\e
-Ж
-ザ
-à
-Ð
-＋
-æ
-%s
-%1.2f%%
-Unique phrase must have at least 1 character.
-\eATSMOSE\[#{num}\]
-ち
-Ｘ
-ì
-Сол
-ま
-ゥ
-☆
-セ
-オ
-ビ
-Ï
-q
-ò
-Ê
-Ö
-へ
-ワ
-ь
-ベ
- мокрое!
-\e}
-lcmEventMovementToggle
-DEFEND
-ｓ
-у
-l
-ヂ
-き
-ペ
-critical
-Help description used for custom switch 2.
- L
-Ã
-t
-YEA-AntiFailMessage
-O
-Ｍ
-#{subject.name}а
-ī
+ž
+プ
+Balloon
 bob normal
-#{sym}=
-$Joel Miller5
-え
-с
-る
-ぺ
+ы
+В
+я
+C
+ｗ
+Š
+YEA-AceMenuEngine
+$Alex in rags jump head down
+Ｄ
+YEA-PartySystem
+Verdana
+Ж
+Ｈ
+ç
++%s
+Earth5
+ま
+squish step
+み
+buff
+в
+ぇ
+к
+Ｖ
+×%s
+YEA-CoreEngine
+YEA-SystemOptions
+ヲ
+È
+Rustle
+ý
+ï
+ADDSTATE
+ｍ
+alex and joel
+Сол
+P
+ê
+Ship
+い
+び
+ｏ
+N
+S [%04d-%04d]
+Ú
+YEA-ClassSystem
+Â
+　
 А
-œ
-Ｂ
+お
+ぶ
+Grassland
+a
+ V
+Page
+Ф
+ス
+B
+ゅ
+F
+$Joel Miller1
+mapID- 
+Ｚ
+ F
+Ｙ
+$Alex Inf.
+ケ
+user32
+Ч
+ぎ
+れ
+ぞ
+Õ
+ мокрая!
+ц
+$Alex Inf. Drop
+Щ
+cl
+v
+な
+の
+Ｌ
+$Alex Inf. 4
+Ò
+alex endless
+Skill3
+Water1
+ぃ
+$KENT Kent Jump Ka
+YEA-InputComboSkills
+で
+wood echo
+ぱ
+は
+l
+NEGATIVE
+\eATSMOSE\[#{num}\]
+ヒ
+\eANIMATION\[#{$1.upcase == 
+ｑ
+alex inf. quiet
+ッ
+Ё
+x
+ｓ
+パ
+Clouds
+ P
+Ë
+レ
+ C
+ぼ
+\e{
+ょ
+lcmScriptToggle
+ŵ
+に
+オ
+Ŷ
+Custom Variable 1
+$Alex in rags head down
+Player's starting position is not set.
+e
+#{subject.name}а
+Lava
+ニ
+あ
+ヂ
+Knock
+VCR OSD Mono
+せ
+u
+Ш
+$Alex and Joel jump
+Ｑ
+х
+à
+Ｗ
+Ц
+lcmFollowerToggle
+Ç
+う
+$KENT Kent Fall Bat
+ÿ
+ь
+э
+Ｐ
+\e>\eC[6]%s\eC[0]\e<\elb
+Ｏ
+Å
+POSITIVE
+squish echo
+I
+bottle
+dirt echo
+ O
+immune
+ ? 0 : 1},#{$2},#{$3}\]
+YEA-AntiFailMessage
+NOTEXT
+Ì
+ノ
+Ñ
+ю
+ず
+ズ
+O
+misslisa
+f
+MessageBox
+Ｆ
+き
+DEFEND
+ゎ
+DirtField
+ナ
+ U
+ò
+セ
+а
+U
+Y
+ŷ
+Ы
+Ō
+ｇ
+エ
+て
+ぜ
+Damage3
+ E
+m
+keep skill
+t
 ば
 タ
-Help description used for custom switch 1.
-ｕ
-ぐ
-ガ
-\eANIMATION\[#{$1.upcase == 
-o
-マ
-ф
-š
-た
-Ž
-イ
-М
-$BOB Bob Jump
-ゔ
-R
-Grassland
-r
-Lava
-Page
-は
-Ｆ
-モ
-YEA-VictoryAftermath
-ね
-ï
-か
-Conrad huh
-ユ
-英数
-ｎ
-Судьба #{name} предрешена.
-bottle echo
-ĳ
-ゲ
- отравлены!
-ョ
-ñ
-ジ
-lcmSeparateDashingToggle
- покрыты грязью!
-Œ
-つ
-vgasys
-ц
-Ò
-ヌ
-リ
- N
-レ
- отравлена!
-Custom Text
-ē
-お
-P
-ｏ
-ｙ
-MK-WindowOpacity
-Б
-ゼ
-ぇ
-alex inf. dying
-こ
-ズ
-$Alex in rags jumps
-$Alex in rags
-Ｌ
-U
-z
-ø
-SUBCLASS LIST
-$KENT Tibby Jump
- покрыто грязью!
-Ô
-э
-squeak
-О
-n
-è
-YEA-AceMenuEngine
-Í
-Ù
- C
-Ｊ
-i
-ш
-ô
-し
-ク
-パ
-＄
-VCR OSD Mono
-YEA-EnemyHPBars
-エ
-ý
-Ш
-＞
-ひ
-YEA-SystemOptions
-я
- было вспорото!
-й
-Î
-ヲ
-YEA-JPManager
-Ŷ
- B
-B
-ら
-デ
-ネ
-bottle
-ü
-ｗ
-Å
-\e{
-ソ
-キ
-ル
-ç
-づ
-っ
-resistant
-E
-Decision2
-YSE-PatchSystem
-SKILL LIST
-Forest1
-$KENT Kent Fall Bat
-カナ
-Clouds
-Ｗ
- T
-ぎ
-h
-П
-$Alex and Joel jump
-Ф
-õ
- eventID- 
-change to dash
-YEA-CombatLogDisplay
-DirtField
-C
-ё
- Z
-さ
-ス
-PX
-Ъ
-rope echo
-ナ
-Custom Switch 2
-ｑ
-YEA-CommandParty
-keep skill
-the kent ka
-Lava1
-ィ
- P
-ч
-é
-ā
-Ó
-ó
-ぜ
-\'s fate
-È
-z8x8273ac
-REMSTATE
-\eC[17]\eC[0] 
 V
-Fadeout Screen
-PLAYSOUND
-Snowfield
-Custom Variable 2
-т
-そ
-ぞ
-ヤ
-absorbed
-J
-Cancel2
-$KENT Kent Fall Ka
-YEA-TargetManager
-е
-:%s
-Ī
-K
-ヅ
- R
-Ｃ
-Custom Variable 1
  S
-べ
-$Joel Miller1
-S
-Ａ
-YEA-BattleCommandList
-YSE-BasicModule
-ê
-Balloon
-ｈ
-alex default
-｜
-$KENT Kent Walk Ka
-よ
- была вспорота!
-Custom Switch 1
-#{dir}/#{filename}.#{ext}
-immune
-Cliff
-none
-ATSMOSE
- Q
-Р
-о
-り
-Ｔ
-mapID- 
-Dirt
-weakness
-Ｖ
-や
-s class to class 10 while preserving the actor
-Ｋ
-р
-Ì
-ぢ
-Hammer
-Ŵ
- были отравлены!
-ヘ
-lcmPlatformEventsToggle
-Rustle
-YEA-BattleEngine
-alex inf. quiet
-î
-Û
-ŵ
-$Alex Inf. Jump 2
-j
-ю
-げ
-cl
-T
-û
-Arial
-v
-Z
-в
-ж
-squish step
-г
-M
-ОК
-$KENT Tibby Fall
-かな
-X
-Ship
-Ÿ
-ぉ
- X
-ぷ
-ｔ
-Á
-s
-Ë
-state
-wood echo
-な
- U
-と
-ぁ
-＾
-$Alex Inf. 3
-カ
-$Alex in rags jump head down
-y
-Ц
-ボ
-Custom Name
-$Alex Inf. Jump
-slosh
-N
-ゅ
-ニ
-YEA-LunaticObjects
-YEA-MessageSystem
-チ
-н
-Bow
-ブ
-OK
-Ä
-ｄ
-Liam-LisaCoreMove
-DURSTATE
-ð
-Chime1
- E
-Ｄ
-К
-Н
-Ā
-ｂ
-Help description used for custom variable 2.
-Ū
- I
-Book1
-ы
-á
-Lava2
-Õ
-だ
-Shadow
-$KENT Kent Jump Bat
-Verdana
+w
+Lava1
 ã
-Ｚ
-YEA-PartySystem
-ざ
-Æ
- мокрые!
-Д
-ン
-Ø
-～
+ī
+Б
+YEA-CommandParty
+ヨ
+し
 ヴ
-lcmFollowerToggle
-YEA-BattleSystem-FTB
-YEA-CommandEquip
-ゆ
-\e>\eC[6]%s\eC[0]\e<\elb
-bleep
-k
-ù
-+%s 
-Солевого
-Ｑ
-POSITIVE
-ITEMS
-$Alex Inf. 4
-G
-み
- F
-a
+く
+õ
+カ
+alex default
+ブ
+Ｋ
+$Alex Inf. Drop 2
+サ
+＋
+$Joel Miller5
+ мокрые!
+n
+Ъ
 ポ
-ァ
-$Alex and Joel walk
-m
-ど
+ä
+и
+the kent ka
+E
+ゆ
+｜
+ふ
+tibby dobs
+り
+YEA-CommandEquip
+up
+п
+ отравлено!
+バ
+í
+YEA-CombatLogDisplay
+ш
+р
+alex inf.
+メ
+Arial
+ハ
+Ý
+へ
+Ö
+k
+Е
+Ð
+Common event calls exceeded the limit.
+ゲ
+さ
+ョ
+Help description used for custom variable 2.
+Salt must have at least 2 characters.
+YEA-JPManager
+д
+を
+м
+\e
+Unique phrase must have at least 1 character.
+ル
+weakness
+L
+ボ
+Hammer
+$Alex Inf. Jump
+$BOB Bob Fall
+É
+Custom Variable 2
+べ
+lcmPlatformEventsToggle
+û
+$Alex Inf. Jump 2
+ч
+resistant
+Ï
+b
+ｊ
+ペ
+é
+ゼ
+ヘ
+す
+alex quiet
+コ
+ eventID- 
+Z
+え
+YEA-LunaticObjects
+ø
+lcmSeparateDashingToggle
+vgasys
+Help description used for custom switch 2.
+む
+Ū
+Lava2
+alex inf. dying
 YEA-CommandAutobattle
-squish echo
-change to walk
-#{key}=
-Chime2
-YEA-AreaofEffect
-ト
-ェ
-И
-ぼ
- D
-Х
-ë
-$Alex in rags drop
-ｋ
--%s
-к
-Wasteland
- K
- Y
-У
-p
- ? 0 : 1},#{$2},#{$3}\]
-ゴ
-I
-あ
- мокрая!
-ッ
-ö
-х
-з
-ぬ
 ゾ
+ゴ
+Custom Switch 2
+ャ
+SKILL LIST
+h
+ゥ
+REMSTATE
+:%s
+デ
+DURSTATE
+ぬ
+Ô
+ｔ
+ были отравлены!
+CRITICAL
+Ｎ
+#{sym}=
+Ē
+z
+Ａ
+ú
+С
+Ä
+Chime2
+ Q
+ぽ
+з
+Солевого
+$KENT Kent Fall Ka
+R
+る
+YEA-BattleCommandList
+ね
+ô
+й
+かな
+ザ
+š
+ATSMOSE
+end phase
+Ｉ
+ｕ
+つ
+や
+T
+Ｓ
+Î
+＜
+ｆ
+ĳ
+チ
+ひ
+Snowfield
+s
+ｂ
+W
+ Z
+text
+ B
+Н
+Судьба #{name} предрешена.
+-%s 
+Impact
+EQUIP
+ было вспорото!
+Ÿ
+Ü
+$KENT Kent Walk Ka
+ù
+ покрыта грязью!
+ラ
+ロ
+ｎ
+о
+$KENT Tibby Fall
+ト
+У
+Custom Name
 no zoom
-Knock
+state
+Ь
+squeak
+lcmEventMovementToggle
+$KENT Kent Walk Bat
+с
+\eC[17]\eC[0] 
+change to walk
+DoubleX RMVXA Percentage Addon to YEA-EnemyHPBars
+ゃ
+\eC[7]
+П
+â
+ン
+Desert
+ユ
+$KENT Tibby Walk
+ñ
+ G
+Ｃ
+ツ
+＞
+ I
+ほ
+Ｒ
+shopkeeper
+Ｍ
+Ž
+$KENT Tibby Jump
+down
+Д
+ A
+ム
+け
+ L
+ē
+ATTACK
+YSE - Basic Module
+Л
+G
+わ
+＄
+ウ
+ネ
+YEA-BattleEngine
+Ø
+И
+Cliff
+が
+ M
+j
+Ю
+ｅ
+q
+ら
+\'s fate
+%s
+М
+y
+OK
+ざ
+V [%04d-%04d]
+$Alex in rags drop
+ｃ
+-%s
+Wasteland
+ W
+î
+Decision2
+ё
+YEA-BattleSystem-FTB
+К
+づ
+ｉ
+Courier
+ヅ
+critical
+ покрыты грязью!
+З
+у
+ュ
+カナ
+ITEMS
+Book1
+œ
+Ã
+bleep
+こ
+ R
+ご
+ん
+lcm outfit for situation is 
+#{dir}/#{filename}.#{ext}
+M
+Bow
+ｒ
+ J
+alex inf. crawling
+ｙ
+ク
+MK-WindowOpacity
+ア
+ū
+H
+＾
+z8x8273ac
+Ｇ
+Ó
+s class to class 10 while preserving the actor
+よ
+Т
+keep skills
+å
+ü
+Ā
+none
+Ê
+ピ
+б
+げ
+á
+ガ
+モ
+$BOB Bob Jump
+J
+ N
+英数
+ā
+slosh
+$BOB Bob Walk
+ミ
+#{key}=
+イ
+決定
+PoisonSwamp
+щ
+た
+Á
+ぅ
+ぐ
+ろ
+О
+Х
+YEA-EnemyHPBars
+Help description used for custom switch 1.
+ë
+ｋ
+マ
+フ
+K
+г
+ъ
+ì
+е
+ОК
+л
+と
+ド
+r
+☆
+ヮ
+PLAYSOUND
+ぴ
+%1.2f%%
+だ
+ Y
+YEA-AreaofEffect
+Þ
+A
+ホ
+ａ
+グ
+ß
+bottle echo
+Ù
+ぉ
+p
+ヤ
+À
+absorbed
+Ｊ
+change to dash
+か
+ó
+ｐ
+Conrad huh
+$Alex in rags
+$Alex and Joel walk
+Custom Switch 1
+D
+ァ
+$KENT Kent Jump Bat
+YEA-TargetManager
+the kent bat
+ T
+じ
+Ｘ
+PX
+ｄ
+Æ
+ソ
+Cancel2
+YEA-CastAnimations
+ォ
+シ
+\eI[%d]
+ｚ
+ｈ
+SUBCLASS LIST
+ど
+Э
+X
+abcdefghjkmnpqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ0123456789
+ェ
+ мокрое!
+YEA-AdjustLimits
+g
+ち
+ отравлены!
+ビ
+ジ
+ィ
+ぢ
+т
+Ｔ
+Help description used for custom variable 1.
+Custom Text
+っ
+Ｅ
+め
+Í
+Й
+rope echo
+ヌ
+ покрыто грязью!
+н
+Dirt
+S
+YEA-MessageSystem
+Û
+Liam-LisaCoreMove
+ぷ
+Г
+Forest1
+ベ
+Fadeout Screen
+も
+ф
+ K
+YSE-BasicModule
+$Alex Inf. 3
+\e}
+ H
+キ
+Ŵ
+c
+Я
+リ
+Q
+i
+YEA-VictoryAftermath
+YSE-PatchSystem
+ была вспорота!
+Р
+ぁ
+Œ
+Ĳ
+ō
+テ
+ö
+Ｂ
+o
+è
+ X
+ð
+ отравлена!
+grass
+ギ
+ぺ
+ワ
+$Alex in rags jumps
+Ｕ
+ｖ
+ｌ
+Ī
+æ
